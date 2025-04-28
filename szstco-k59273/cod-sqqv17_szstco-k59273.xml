@@ -1,0 +1,2119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 9</title>
+            <author ref="#FranciscoSuarez">Francisco Suarez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 9</title>
+               <date when="2025-04-27">April 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-sqqv17">Paris 1860, v. 17</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-04-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="656"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="szstco-k59273">
+            <head xml:id="szstco-k59273-Hd1e96">Quaestio 9</head>
+            <div xml:id="szstco-k59273-Dd1e98"><!--sua-p3-q9prae-->
+               <head xml:id="szstco-k59273-Hd1e101">Praeambulum</head>
+               <p xml:id="szstco-k59273-d1e103">
+                  <lb ed="#P" n="17" type="fixed=655"/>Post tractatum de gratia, aggreditur D.
+<lb ed="#P" n="18"/>Thomas tractatum de scientia anima Christi,
+<lb ed="#P" n="19"/>quem ab hac usque ad quaestionem 12 
+prose<lb break="no" ed="#P" n="20"/>quitur, et in hae quaestione agere proponit
+<lb ed="#P" n="21"/>in communi de hac scientia ; tamen in 
+discur<lb break="no" ed="#P" n="22"/>su ejus tractat quaestionem, an est, de 
+hujus<lb break="no" ed="#P" n="23"/>modi scientia tam in communi, quam in 
+par<lb break="no" ed="#P" n="24"/>ticulari ; in sequentibus vero quaestionibus de
+<lb ed="#P" n="25"/>singularum scientiarum perfectione disputat.
+</p>
+            </div>
+            <div xml:id="szstco-k59273-Dd1e126"><!--sua-p3-q9a1-->
+               <head xml:id="szstco-k59273-Hd1e129">Articulus 1</head>
+               <p xml:id="szstco-k59273-d1e131">
+                  <lb ed="#P" n="38" type="fixed=656"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k59273-d1e136">
+                  <lb ed="#P" n="39"/>Divus Thomas nomen scientiae pro nomine
+<lb ed="#P" n="40"/>cognitionis usurpat, ut ipse in articulo 
+expo<lb break="no" ed="#P" n="41"/>nit, et generatim agit de cognitione, ut actum
+<lb ed="#P" n="42"/>primum et secundum comprehendit ; unde,
+<lb ed="#P" n="43"/>cum respondet in Christo esse scientiam
+<lb ed="#P" n="44"/>creatam, utrumque affirmat, scilicet, esse in
+<lb ed="#P" n="45"/>illo cognitionem creatam, et principia ad 
+il<lb break="no" ed="#P" n="46"/>lam necessaria. Et ita ex tribus rationibus
+<lb ed="#P" n="47"/>quas affert, prima, qua fundatur in 
+perfec<lb break="no" ed="#P" n="48"/>tione anima Christi, generalis est, et 
+uterum<lb break="no" ed="#P" n="49"/>que probat, scilicettam actum quam habitum
+<lb ed="#P" n="50"/>seu facultatem intelhgendi. Secunda vero
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="51"/>tantum procedit de operatione, et 
+consequen<lb break="no" ed="#P" n="52"/>ter de facullate ad illam necessaria. Tertia
+<lb ed="#P" n="53"/>autem, qua in hoc fundatur, quod habitus
+<lb ed="#P" n="54"/>principiorum est homini naturalis, non tam
+<lb ed="#P" n="55"/>de actu vel habitu proprie dicto, quam de 
+ip<lb break="no" ed="#P" n="56"/>so naturali lumine intellectus concludit, et
+<lb ed="#P" n="57"/>ita est tota littera perspicua. Solutiones vero
+<lb ed="#P" n="58"/>argumentorum faciles sunt; verum difficultas,
+<lb ed="#P" n="59"/>que tangitur in solutione ad primum, in 
+se<lb break="no" ed="#P" n="60"/>quenti disputatione tractanda est. De 
+opi<lb break="no" ed="#P" n="61"/>nione vero quae ponebat in Christo specialem
+<lb ed="#P" n="62"/>scientiam unionis, quam D. Thomas tangit
+<lb ed="#P" n="63"/>in solutione ad 3, dicemus commodius disp.
+<lb ed="#P" n="64"/>96, super q. 10 D. Thoma.
+</p>
+            </div>
+            <div xml:id="szstco-k59273-Dd1e198"><!--sua-p3-q9a1-24-->
+               <head xml:id="szstco-k59273-Hd1e201">Disputatio 24</head>
+               <head xml:id="szstco-k59273-Hd1e203" type="question-title">
+      De intellectu creato animae Christi 
+      et eius actibus
+    </head>
+               <p xml:id="szstco-k59273-d1e206">
+                  <lb ed="#P" n="65" type="fixed=656"/>DISPUTATIO XXIV,
+<lb ed="#P" n="66"/>in quatuor sectiones distributa.
+<lb ed="#P" n="67"/>DE INTELLECTU CREATO ANIMAE CHRISTI, ET EJUS
+<lb ed="#P" n="68"/>ACTIBUS.
+</p>
+               <p xml:id="szstco-k59273-d1e217">
+                  <lb ed="#P" n="69"/>De tribus occurrit hoc loco disputatio, 
+scili<lb break="no" ed="#P" n="70"/>cet de intellectiva potentia anime Christi, et
+<lb ed="#P" n="71"/>de actibus ejus, et habitibus in communi ;
+<lb ed="#P" n="72"/>omnia enim haec D. Thomas in hoc articulo
+<lb ed="#P" n="73"/>atügit; et supra, q. 5, art. 4, quesivit an
+<lb ed="#P" n="74"/>Verbum  assumpserit intellectum ; quam
+<lb ed="#P" n="75"/>quastionem ibi diximus pertinere ad hunc 
+lo<lb break="no" ed="#P" n="76"/>cum, prout intellectus significat ipsam 
+poten<lb break="no" ed="#P" n="77"/>tiam intelligendi.
+</p>
+               <div xml:id="szstco-k59273-Dd1e239">
+                  <head xml:id="szstco-k59273-Hd1e241">Sectio 1</head>
+                  <head xml:id="szstco-k59273-Hd1e243" type="question-title">
+  An in anima Christi sit intellectus creatus, et 
+  quantae perfectionis sit
+</head>
+                  <p xml:id="szstco-k59273-d1e246">
+                     <lb ed="#P" n="78" type="fixed=656"/>SECTIO I.
+<lb ed="#P" n="79"/>An in anima Christi sit intellectus creatus, et 
+quan<lb break="no" ed="#P" n="80"/>tae perfectionis sit.
+</p>
+                  <p xml:id="szstco-k59273-d1e255">
+                     <lb ed="#P" n="81"/>1. In anima Christi intellectus creatus. —
+<lb ed="#P" n="82"/>Praeter errorem Apollinaris et Arii, et 
+alio<lb break="no" ed="#P" n="83"/>rum qui negarunt esse in Christo;animam 
+ra<lb break="no" ed="#P" n="84"/>tionalem , non invenio aliquem posuisse in
+<lb ed="#P" n="85"/>Christo substantiam anima rationalis , et
+<lb ed="#P" n="86"/>negasse potentiam  intellectivam , 
+quan<lb break="no" ed="#P" n="87"/>quam aliqui voluntatem creatam negasse 
+vi<lb break="no" ed="#P" n="88"/>deantur, de qua eadem fere est ratio. Sed de
+<lb ed="#P" n="89"/>eorum sensu et errore infra, q. 18, dicemus.
+<lb ed="#P" n="90"/>Dico ergo, de fide certum esse habere 
+ani<lb break="no" ed="#P" n="91"/>mam Christi intellectum creatum. Probatur
+<lb ed="#P" n="92"/>primo ex Scripture testimoniis , et 
+Concilio<lb break="no" ed="#P" n="93"/>rum definitionibus , quibus supra probatum
+<lb ed="#P" n="94"/>est, assumpsisse Verbum mentem seu 
+ani<lb break="no" ed="#P" n="95"/>mam rationalem ; quanquam enim subtilitate
+<lb ed="#P" n="96"/>metaphysica anima rationalis distingui possit,
+<lb ed="#P" n="97"/>et praescindi ab intelligendi facultate, tamen,
+<lb ed="#P" n="98"/>communi loquendi modo, prout loquuntur
+<lb ed="#P" n="99"/>Scripture, Concilia et Sancti, anima 
+rationa<lb break="no" ed="#P" n="100"/>lis vocatur illa, qua proxime est apta ad ra-
+<pb ed="#P" n="657"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>tiocinandum, atque adeo qua facultatem 
+ha<lb break="no" ed="#P" n="2"/>bet intelligendi. Secundo probatur ex 
+gene<lb break="no" ed="#P" n="3"/>ralibus definitionibus Conciliorum, que, licet
+<lb ed="#P" n="4"/>in particulari non loquantur de intellectu, 
+ta<lb break="no" ed="#P" n="5"/>men in generali definitione illum 
+comprehen<lb break="no" ed="#P" n="6"/>dunt; dicit enim Agatho Pap., in epist. 
+Sy<lb break="no" ed="#P" n="7"/>nod. (qua: VI Synod., act. 4, refertur, et in 8
+<lb ed="#P" n="8"/>suscipitur) : Confitemur in. Christo omnia 
+du<lb break="no" ed="#P" n="9"/>plicio, quae ad naturas pertinent, duas. 
+natu<lb break="no" ed="#P" n="10"/>TGS ejus praedicamus , e£ unamquamque 
+pro<lb break="no" ed="#P" n="11"/>prietates naturales habere confitemur : 
+divi<lb break="no" ed="#P" n="12"/>4Qm, omniam, quae divina, humanam. omnia,
+<lb ed="#P" n="13"/>que hwunana sunt, absque wilo peccato. Et
+<lb ed="#P" n="14"/>idem inferius repetit, et refert in eamdem
+<lb ed="#P" n="15"/>senteniiam Concilium Chalcedonense, act. 5,
+<lb ed="#P" n="16"/>dicens Christum , rationalem animam 
+perfec<lb break="no" ed="#P" n="17"/>lam assumpsisse, saloa omni ejus proprietate ,
+<lb ed="#P" n="18"/>et per omnia nobis similem, absque peccato ; et
+<lb ed="#P" n="19"/>V Synod., collat. 8, can. 7, ubi eodem modo
+<lb ed="#P" n="20"/>loquitur. Idem Sophronius, in epist. quae 
+re<lb break="no" ed="#P" n="21"/>fertur eadem VI Synodo, act. 11, ubi expresse
+<lb ed="#P" n="22"/>videtur loqui de intellectu; dicit enim, a$
+ssu<lb break="no" ed="#P" n="23"/>psisse Verbum animam rationalem. animabus
+<lb ed="#P" n="24"/>nostris coniribulem , et dentem nostre menti
+<lb ed="#P" n="25"/>comparem ; et ideo D. Thomas, hic, dixit in VI
+<lb ed="#P" n="26"/>Synodo damnatam esse positionem 
+negan<lb break="no" ed="#P" n="27"/>tium in Christo duas scientias , vel duas 
+sa<lb break="no" ed="#P" n="28"/>pientias. Similis denique definitio habetur in
+<lb ed="#P" n="29"/>Concilio Lateranens., sub Mart. I, can. 9, ubi
+<lb ed="#P" n="30"/>dicitur, /wisse proprietates  hwmanitatis in
+<lb ed="#P" n="31"/>Christo indiminute , et sine deminoratione.
+<lb ed="#P" n="32"/>Tertio, omnia, quibus statim probabimus in
+<lb ed="#P" n="33"/>Christo fuisse actum intelligendi, hoc a fortiori
+<lb ed="#P" n="34"/>convincunt, nam actus praesertim vitalis 
+sup<lb break="no" ed="#P" n="35"/>ponit potentiam. Idem etiam convincitur illis 
+<lb ed="#P" n="36"/>testimoniis , quibus infra probaturi sumus in
+<lb ed="#P" n="37"/>Christo fuisse liberum arbitrium , quo 
+argu<lb break="no" ed="#P" n="38"/>mento utitur Damasc., lib. 3 de Fid., c. 14:
+<lb ed="#P" n="39"/>Quoniam, 6£xno: , inquit, appetitio est. cum 
+va<lb break="no" ed="#P" n="40"/>Lione conjuncta ; et Theologi definiunt liberum
+<lb ed="#P" n="41"/>arbitrium esse facultatem voluntatis et 
+ratio<lb break="no" ed="#P" n="42"/>Ais, ut constat ex 1. 2, q. 4, art. 1. Ultima
+<lb ed="#P" n="43"/>ratio est, quia est evidens verum hominem
+<lb ed="#P" n="44"/>necessario habere intellectum, seu proximam
+<lb ed="#P" n="45"/>intelligendi facultatem, quc: cum substantia
+<lb ed="#P" n="46"/>anime rationalis necessario conjuncta est.
+<lb ed="#P" n="47"/>9. Objectio. — Responsio. — Dices : non est
+<lb ed="#P" n="48"/>tamen evidens, non posse separari de 
+poten<lb break="no" ed="#P" n="49"/>tia absoluta. Respondetur tamen: ex dictis
+<lb ed="#P" n="50"/>est certum non fuisse separatum, imo et 
+evi<lb break="no" ed="#P" n="51"/>dens fere est, quia assumere animam sine 
+po<lb break="no" ed="#P" n="52"/>tentia intellectiva, nec dignitatem Verbi Dei
+<lb ed="#P" n="53"/>decebat, quia illo posito non esset capax in
+<lb ed="#P" n="54"/>humanitate assumpta visionis divina, nec 
+ra<lb break="no" ed="#P" n="55"/>lionalis cognitionis, sed esset quasi brutum;
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>unde contra finem incarnationis hoc fuisset,
+<lb ed="#P" n="57"/>quia tunc nec mereri, nec satisfacere 
+po<lb break="no" ed="#P" n="58"/>tuisset.
+</p>
+                  <p xml:id="szstco-k59273-d1e433">
+                     <lb ed="#P" n="59"/>9. Dubium. — Responsio. — Perfectio 
+natu<lb break="no" ed="#P" n="60"/>ralis intellectus Christi quanta. — Intellectus
+<lb ed="#P" n="61"/>Ade inter hwmanos perfectissimus, excepto 
+in<lb break="no" ed="#P" n="62"/>Lellectu Christi. — Sed queres quante 
+perfec<lb break="no" ed="#P" n="63"/>tonis naturalis fuerit hic Christi intellectus.
+<lb ed="#P" n="64"/>Respondetur, si cum intelleetibus angelicis
+<lb ed="#P" n="65"/>conferatur, non dubium est quin fuerit 
+infe<lb break="no" ed="#P" n="66"/>rior illis in naturali perfectione, quia 
+intellec<lb break="no" ed="#P" n="67"/>tus Christi in naturali perfectione non 
+trau<lb break="no" ed="#P" n="68"/>scendit speciem humani intellectus , ut 
+pro<lb break="no" ed="#P" n="69"/>bant fere omnia quae in confirmationem 
+po<lb break="no" ed="#P" n="70"/>sitae assertionis adducta sunt; intellectus 
+au<lb break="no" ed="#P" n="71"/>tem humanus essentialiter est minus 
+perfec<lb break="no" ed="#P" n="72"/>tus quam angelicus; si autem intellectibus
+<lb ed="#P" n="73"/>aliorum hominum comparetur, pendet 
+com<lb break="no" ed="#P" n="74"/>paratio ex quaestione physica, an unus 
+intel<lb break="no" ed="#P" n="75"/>lectus sit perfectior alio secundum se, quam
+<lb ed="#P" n="76"/>ego nunc neque tractare, neque definire 
+in<lb break="no" ed="#P" n="77"/>tendo. $i tamen cum Cajetano et aliis id 
+affir<lb break="no" ed="#P" n="78"/>metur, sine ullo dubio est consequenter 
+di<lb break="no" ed="#P" n="79"/>cendum , intellectum Christi esse 
+perfectissi<lb break="no" ed="#P" n="80"/>mum inter omnes creatos in hominibus, 
+at<lb break="no" ed="#P" n="81"/>que adeo superare etiam intellectum Ade,
+<lb ed="#P" n="82"/>quem credibile est inter alios homines 
+opti<lb break="no" ed="#P" n="83"/>mam animam fuisse sortitum, eo quod fuerit
+<lb ed="#P" n="84"/>lotius natur: parens ab ipso Deo solo 
+imme<lb break="no" ed="#P" n="85"/>diate productus. Quod vero Christus illum 
+su<lb break="no" ed="#P" n="86"/>peraverit, suaderi potest, tum ex dignitate
+<lb ed="#P" n="87"/>persone, tum ex fine altiori, ad quem anima
+<lb ed="#P" n="88"/>Christi cereabatur et assumebatur. Dico autem
+<lb ed="#P" n="89"/>inter intellectus creatos, quia si comparatio
+<lb ed="#P" n="90"/>fiat eum omnibus intellectibus humanis, qui
+<lb ed="#P" n="91"/>creari possunt, non est necesse ut intellectus
+<lb ed="#P" n="92"/>Christi sit omnium possibilium perfectissimus,
+<lb ed="#P" n="93"/>quia, juxta hanc praesertim sententiam, sicut
+<lb ed="#P" n="94"/>una anima, vel unus intellectus est in sua
+<lb ed="#P" n="95"/>entitate individua perfectior alio, ita in hac
+<lb ed="#P" n="96"/>perfectionis inzqualitate seu varietate potest
+<lb ed="#P" n="97"/>in infinitum procedi ; et ita semper Deus 
+po<lb break="no" ed="#P" n="98"/>test facere in hae specie perfectiorem 
+intel<lb break="no" ed="#P" n="99"/>lectum; in hoc enim nulla potest assiguari 
+re<lb break="no" ed="#P" n="100"/>pugnantia, supposita illa sententia, et est
+<lb ed="#P" n="101"/>maxime consentaneum divine omnipotentia,
+<lb ed="#P" n="102"/>ut constare potest ex his qua 1 p., q. 25, de
+<lb ed="#P" n="103"/>hae materia tractantur. Si autem quis 
+con<lb break="no" ed="#P" n="104"/>tendat unum intellectum humanum non esse
+<lb ed="#P" n="105"/>perfectiorem alio seeundum se, cessat hac
+<lb ed="#P" n="106"/>questio; non est tamen negandum, eo modo
+<lb ed="#P" n="107"/>quo experimur unum hominem excedere 
+al<lb break="no" ed="#P" n="108"/>terum in facultate intelligendi, sive id 
+pro<lb break="no" ed="#P" n="109"/>veniat ex ipsis animabus, sive ex sola 
+corpo<lb break="no" ed="#P" n="110"/>ris dispositione, hoc (inquam) modo Christum
+<pb ed="#P" n="658"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>superasse reliquos homines, propter rationes
+<lb ed="#P" n="2"/>easdem supra tactas, et quia (ut infra 
+osten<lb break="no" ed="#P" n="3"/>demus) corpus Christi fuit optime dispositum
+<lb ed="#P" n="4"/>ad rationalem animam suscipiendam.
+</p>
+               </div>
+               <div xml:id="szstco-k59273-Dd1e563">
+                  <head xml:id="szstco-k59273-Hd1e565">Sectio 2</head>
+                  <head xml:id="szstco-k59273-Hd1e567" type="question-title">
+  Utrum fuerit in Christo homine actus intelligendi
+  creatus, et ex quo tempore
+</head>
+                  <p xml:id="szstco-k59273-d1e570">
+                     <lb ed="#P" n="5" type="fixed=658"/>SECTIO II.
+<lb ed="#P" n="6"/>Utrum fuerit in Christo homine actus intelligendi
+<lb ed="#P" n="7"/>creatus, et ex quo tempore.
+</p>
+                  <p xml:id="szstco-k59273-d1e579">
+                     <lb ed="#P" n="8"/>1. Constat, 1n Christo esse scientiam 
+in<lb break="no" ed="#P" n="9"/>creatam, est enim verus et perfectus Deus,
+<lb ed="#P" n="10"/>unde fit, per communicationem idiomatum
+<lb ed="#P" n="11"/>vere dici, hunc hominem omnia scire per 
+in<lb break="no" ed="#P" n="12"/>creatam scientiam, ut bene exponit D. 
+Tho<lb break="no" ed="#P" n="13"/>mas quaestione sequenti, art. 1, ad 3; nune
+<lb ed="#P" n="14"/>vero inquirimus an in humanitate, et anima,
+<lb ed="#P" n="15"/>et intellectu creato, habuerit actualem 
+scien<lb break="no" ed="#P" n="16"/>tiam, et quae illa fuerit.
+</p>
+                  <p xml:id="szstco-k59273-d1e601">
+                     <lb ed="#P" n="17"/>2. In quo primus error esse potest negans,
+<lb ed="#P" n="18"/>Christum per humanitatem aliquid actu 
+co<lb break="no" ed="#P" n="19"/>enovisse, et hujusmodi existimant aliqui fuisse
+<lb ed="#P" n="20"/>Monothelitarum errorem, qui unam tantum
+<lb ed="#P" n="21"/>dicebant esse in Christo operationem, 
+eam<lb break="no" ed="#P" n="22"/>que esse divinam; quod praecipue 
+intellige<lb break="no" ed="#P" n="23"/>bant de operatione interna voluntatis, atque
+<lb ed="#P" n="24"/>adeo intellectus. Sed de hac heresi infra, q.
+<lb ed="#P" n="25"/>19, dicendum est.
+</p>
+                  <p xml:id="szstco-k59273-d1e624">
+                     <lb ed="#P" n="26"/>3. Secunda sententia affirmat, Christum
+<lb ed="#P" n="27"/>per animam suam actu intellexisse, non 
+ta<lb break="no" ed="#P" n="28"/>men actu creato , sed ipsa scientia increata
+<lb ed="#P" n="29"/>unita intellectui creato Christi ratione actus
+<lb ed="#P" n="30"/>intelligendi. Hanc sententiam ex parte tenet
+<lb ed="#P" n="31"/>Hugo de Sanct. Vict., opuse. de Anima Christi
+<lb ed="#P" n="32"/>et ejus scientia, etlib. 2 de Sacerament., p. 6,
+<lb ed="#P" n="33"/>c. 15 dico autem ex parte, quia hic auctor,
+<lb ed="#P" n="34"/>quamvis affirmet animam Christi cognovisse
+<lb ed="#P" n="35"/>per scientiam inereatam, non tamen expresse
+<lb ed="#P" n="36"/>negat esse in illa anima aliquem actum 
+crea<lb break="no" ed="#P" n="37"/>tum ; et in eamdem sententiam citat hic 
+Ca<lb break="no" ed="#P" n="38"/>jetanus Joan. de Ripa, et Capreol., in 3,
+<lb ed="#P" n="39"/>dist. 14, q. 1, art. 2, argumentis contra 92
+<lb ed="#P" n="40"/>concl., et Gregorius, in 2, d. 7, q. 9, refert
+<lb ed="#P" n="41"/>aliquos ita sensisse de omnibus beatis. 
+Fun<lb break="no" ed="#P" n="42"/>damentum in praesenti esse potest, quia hoc
+<lb ed="#P" n="43"/>non implicat coniradictionem, et pertinet ad
+<lb ed="#P" n="44"/>maximam Christi perfectionem; ergo non est
+<lb ed="#P" n="45"/>illi negandum, praesertim cum Paulus, 4 ad
+<lb ed="#P" n="46"/>Colos. 9, dieat in Christo esse omnes 
+tLhesau<lb break="no" ed="#P" n="47"/>vos sapientie et scientiae Dei. Major probatur,
+<lb ed="#P" n="48"/>quia essentia divina tam vere ae'formaliter est
+<lb ed="#P" n="49"/>actus intelligendi, sicut est objectum actu 
+in<lb break="no" ed="#P" n="50"/>telligibile; ergo, sicut per seipsam uniri 
+po<lb break="no" ed="#P" n="51"/>test in ratione objecti, seu speciei 
+intelligibi<lb break="no" ed="#P" n="52"/>lis, ita et in vatione actus. Idem argumentum
+<lb ed="#P" n="53"/>et difficilius sumitur ex ratione subsistentic,
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>quia, sicut anima formaliter intelligit per 
+ac<lb break="no" ed="#P" n="55"/>tum intelligendi, ita subsistitper actum 
+subsis<lb break="no" ed="#P" n="56"/>lendi; at Verbum, quia est formalis 
+subsisten<lb break="no" ed="#P" n="57"/>lia, potest per se ipsum uniri, et supplere
+<lb ed="#P" n="58"/>vicem subsistentie creat: ; ergo similiter, etc.
+</p>
+                  <p xml:id="szstco-k59273-d1e700">
+                     <lb ed="#P" n="59"/>4. Dico primo: certum de fide est, 
+Chri<lb break="no" ed="#P" n="60"/>stum ut hominem, per intellectum creatum
+<lb ed="#P" n="61"/>habuisse actualem scientiam, seu 
+cognitio<lb break="no" ed="#P" n="62"/>nem. Probatur primo ex Scriptura, Joan. 8:
+<lb ed="#P" n="63"/>Scio unde veni; et infra: S'eio eum, et 
+sermo<lb break="no" ed="#P" n="64"/>^em ejus seroo ; sicut ergo observat mandata
+<lb ed="#P" n="65"/>in quantum homo, iia et sciebat in quantum
+<lb ed="#P" n="66"/>homo. Simile est illud Joan. 13 : Sciens Jesus
+<lb ed="#P" n="67"/>quia venit hora, ejus ; Matth. 92: Cognita J'
+e<lb break="no" ed="#P" n="68"/>eus nequitia eorum, et similia, quae passim 
+ha<lb break="no" ed="#P" n="69"/>bentur in Evangelio. Secundo, in Scriptura
+<lb ed="#P" n="70"/>tribuuntur Christo oratio, meritum, et similes
+<lb ed="#P" n="71"/>actiones, qua vel sunt actus intellectus, vel
+<lb ed="#P" n="72"/>voluntatis, qua supponit actum intellectus
+<lb ed="#P" n="73"/>ejusdem anims, cujus est voluntas, quia non
+<lb ed="#P" n="74"/>excitatur anima ad amandum nisi ea qua 
+co<lb break="no" ed="#P" n="75"/>guoscit. Tertio, confirmatur ex sermone et
+<lb ed="#P" n="76"/>doctrina Christi, docebat enim quae 
+intellige<lb break="no" ed="#P" n="77"/>bat (loquebatur enim ut homo rationalis); 
+si<lb break="no" ed="#P" n="78"/>cut ergo docebat et loquebatur ut homo, ita
+<lb ed="#P" n="79"/>etiam intelligebat; unde Joan. 1 : Deum 
+ne<lb break="no" ed="#P" n="80"/>4no vidit unguam ; Unigenitus, qui est in sinu
+<lb ed="#P" n="81"/>Patris, ipse enarravit ; et Joan. 8 : Quod 
+vi<lb break="no" ed="#P" n="82"/>deo loquor ; et Agatho Papa, in citata epistola,
+<lb ed="#P" n="83"/>dicit in Christo fuisse locutionem humanam
+<lb ed="#P" n="84"/>habentem humanas proprietates, quarum una
+<lb ed="#P" n="85"/>est, ut 3b humana intelligentia procedat. 
+Quo<lb break="no" ed="#P" n="86"/>circa definitiones supra adducte ad hoc 
+ip<lb break="no" ed="#P" n="87"/>sum confirmandum adduci possunt. Ultimo
+<lb ed="#P" n="88"/>uti possumus ratione, ct optima est illa D.
+<lb ed="#P" n="89"/>Thome, quia potentia est propter 
+operatio<lb break="no" ed="#P" n="90"/>nem (frustra enim assumpsisset Verbum 
+ra<lb break="no" ed="#P" n="91"/>tionalem animam et intellectum, nisi illa 
+es<lb break="no" ed="#P" n="92"/>set intellecturum), quare hoc esset contra 
+fi<lb break="no" ed="#P" n="93"/>nem incarnationis, et praeter dignitatem Verbi
+<lb ed="#P" n="94"/>incarnati.
+</p>
+                  <p xml:id="szstco-k59273-d1e781">
+                     <lb ed="#P" n="95"/>9. Dieo secundo : in intellectu Christi fuit
+<lb ed="#P" n="96"/>actus creatus intelligendi. Hanc etiam 
+con<lb break="no" ed="#P" n="97"/>clusionem existimo de fide certam, et 
+defini<lb break="no" ed="#P" n="98"/>tam in VI Synod., et aliis Conciliis, qua 
+de<lb break="no" ed="#P" n="99"/>finiunt in Christo esse duas operationes, 
+di<lb break="no" ed="#P" n="100"/>vinam et humanam ; est enim universalis 
+de<lb break="no" ed="#P" n="101"/>finiio, quae non minus locum habet in actu
+<lb ed="#P" n="102"/>intellectus quam voluntatis. Item ex supra
+<lb ed="#P" n="103"/>citatis generalibus locutionibus, quibus 
+affir<lb break="no" ed="#P" n="104"/>mant Concilia fuisse in Christo utramque 
+na<lb break="no" ed="#P" n="105"/>turam perfectam cum omnibus proprietatibus.
+<lb ed="#P" n="106"/>Probatur autem breviter ex Scriptura, Isai.
+<lb ed="#P" n="107"/>11: Requiescet. super eum. Spiritus Domini,
+<lb ed="#P" n="108"/>Spiritus sapientie, intellectus , scientiae , et
+<pb ed="#P" n="659"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>consilii; quod esse intelligendum de donis
+<lb ed="#P" n="2"/>creatis, supra ostendimus ex Sanctis, qui 
+ma<lb break="no" ed="#P" n="3"/>gis de actibus quam de habitibus loquuntur.
+<lb ed="#P" n="4"/>Item Luc. 2 : Proficiebat sapientia, etc. Nam,
+<lb ed="#P" n="5"/>licet hic locus a multis Sanctis exponatur de
+<lb ed="#P" n="6"/>demonstratione et ostensione sapientic (sicut
+<lb ed="#P" n="7"/>supra diximus agentes de gratia), tamen, 
+si<lb break="no" ed="#P" n="8"/>cut ibi diximus hanc ostensionem non esse
+<lb ed="#P" n="9"/>sine aliquo augmento in ipsis actibus gratic,
+<lb ed="#P" n="10"/>ita nec fuit sine actibus scientiae , praesertim
+<lb ed="#P" n="11"/>quia infra, q. 12, referemus multos Patres,
+<lb ed="#P" n="12"/>qui locum hunc intelligunt de vero augmento
+<lb ed="#P" n="13"/>scienli:  ereate per proprios actus ejus. Ac
+<lb ed="#P" n="14"/>denique ex contextu constat, sicut est sermo
+<lb ed="#P" n="15"/>de state et gratia hominis, ita et de 
+sapien<lb break="no" ed="#P" n="16"/>tia hominis, ut expresse docuit Ambr., lib.
+<lb ed="#P" n="17"/>de Incarn. Dom. sacram., c. 7. Ultima ratio,
+<lb ed="#P" n="18"/>sumpta ex proprietate et perfectione humans
+<lb ed="#P" n="19"/>nature, quie estin Christo, hoc satis 
+confir<lb break="no" ed="#P" n="20"/>mat.
+</p>
+                  <p xml:id="szstco-k59273-d1e862">
+                     <lb ed="#P" n="21"/>6. Anima Christi nihil formaliter iutellezit
+<lb ed="#P" n="22"/>per scientiam. increatam divinitatis. — Actio
+<lb ed="#P" n="23"/>vitalis àmmanens cur necessario petit esse a 
+po<lb break="no" ed="#P" n="24"/>tentia sui subjecti. — Dico tertio : anima 
+Chri<lb break="no" ed="#P" n="25"/>sti Domini neque Deum ipsum, neque 
+quid<lb break="no" ed="#P" n="26"/>quam aliud formaliter intellexit per ipsam
+<lb ed="#P" n="27"/>scientiam increatam divinitatis. Heec est 
+sen<lb break="no" ed="#P" n="28"/>tentia communis Theologorum, D. Thom. hic,
+<lb ed="#P" n="29"/>in 3, q. 4, art. 4, et q. 20, de Verit. , art. 1;
+<lb ed="#P" n="30"/>Cajet. et aliorum Thomistarum ; Capreol. 
+su<lb break="no" ed="#P" n="31"/>pra, dieta dist. 14, ubi Bonavent., q. 1; 
+Mar<lb break="no" ed="#P" n="32"/>sil., q. 10, art. 9; Gregor. supra; et colligi 
+po<lb break="no" ed="#P" n="33"/>lest ex Agathone Papa, dict. epist., inde enim
+<lb ed="#P" n="34"/>probat in Christo non posse unam esse ope-,
+<lb ed="#P" n="35"/>rationem utriusque nature, quia impossibile
+<lb ed="#P" n="36"/>est propriam operationem unius nature fieri
+<lb ed="#P" n="37"/>operationem alterius, et in hanc sententiam
+<lb ed="#P" n="38"/>citat Augustin., 5 contra Julian., ubi nihil 
+in<lb break="no" ed="#P" n="39"/>venio; in libro tamen de Duabus animabus,
+<lb ed="#P" n="40"/>contra Manicheos, c. 10, multa habet, ex
+<lb ed="#P" n="41"/>quibus illud deduci potest; et Ambros., lib. 2
+<lb ed="#P" n="42"/>de Fide, c. 4, aperte dicit operationem unius
+<lb ed="#P" n="43"/>potestatis non posse esse alterius: JVaze ubi
+<lb ed="#P" n="44"/>est, inquit, substantia diversa, nequit esse 
+ope<lb break="no" ed="#P" n="45"/>ratio wa. Et ad eumdem modum 
+argumen<lb break="no" ed="#P" n="46"/>tatur Damasce., lib. 3, c. 13, 14 et 15, et Leo
+<lb ed="#P" n="47"/>Pap., epist. 10 ad Flavian., et 96 ad Leonem
+<lb ed="#P" n="48"/>Augustum. fatio vero peculiaris ex hoc 
+mys<lb break="no" ed="#P" n="49"/>terio reddi potest, quia, si scientia increata
+<lb ed="#P" n="50"/>divinitatis per seipsam esset ita unita 
+intellec<lb break="no" ed="#P" n="51"/>tui creato anima Christi, ut redderet illam
+<lb ed="#P" n="52"/>actu intelliventem , jam esset unio facta in
+<lb ed="#P" n="53"/>natura, et esset communis toti Trinitati. Sed
+<lb ed="#P" n="54"/>hee ratio non cogit; diceretur enim, hanc
+<lb ed="#P" n="55"/>unionem non esse hvpostaticam, sed beatifi-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>cam, et vel esse, vel saltem posse esse 
+com<lb break="no" ed="#P" n="57"/>munem omnibus beatis, atque adeo non esse
+<lb ed="#P" n="58"/>substantialem unionem, sed accidentalem,
+<lb ed="#P" n="59"/>seu potius intelligibilem, sicut multi 
+loquun<lb break="no" ed="#P" n="60"/>tar de unione divinitatis in ratione speciei 
+in<lb break="no" ed="#P" n="61"/>telligibilis. Ratio ergo propria est, quia actus
+<lb ed="#P" n="62"/>intelligendi intellectus creati essentialiter 
+di<lb break="no" ed="#P" n="63"/>cit duplicem respectum ad intellectum, quem
+<lb ed="#P" n="64"/>constituit intelligentem, ratione cujus 
+repu<lb break="no" ed="#P" n="65"/>enatactui increato, ut per seipsum 
+consti<lb break="no" ed="#P" n="66"/>tuat talem intellectum actu intelligentem.
+<lb ed="#P" n="67"/>Primus respectus est actionis; nam, quia 
+in<lb break="no" ed="#P" n="68"/>telligere est actus vit:, oportet ut sit actio 
+in<lb break="no" ed="#P" n="69"/>telligentis, nam actualis vita consistit in 
+ac<lb break="no" ed="#P" n="70"/>tione, ut ex prima parte, seu materia de 
+ani<lb break="no" ed="#P" n="71"/>ma constat. Alius respectus est forme, est
+<lb ed="#P" n="72"/>enim intellectio actus formalis intelligentis,
+<lb ed="#P" n="73"/>cum sit actus secundus et immanens, et ideo
+<lb ed="#P" n="74"/>per formalem unionem sui ad intellectum
+<lb ed="#P" n="75"/>constituit illum intelligentem. Quod duobus
+<lb ed="#P" n="76"/>modis fieri potest, scilicet, vel pér summam
+<lb ed="#P" n="77"/>identitatem, ut contingit in Deo, quia est 
+ip<lb break="no" ed="#P" n="78"/>sum intelligere per essentiam, vel per 
+infor<lb break="no" ed="#P" n="79"/>mationem propriam, ut est in omni 
+intellec<lb break="no" ed="#P" n="80"/>tione qua ab intellectu distinguitur ; quia ergo
+<lb ed="#P" n="81"/>intellectio increata nec fieri potest ipse 
+intel<lb break="no" ed="#P" n="82"/>lectus creatus, neque ab illo effici, neque
+<lb ed="#P" n="83"/>illum informare, ideo per seipsam non potest
+<lb ed="#P" n="84"/>constituere illum actu intelligentem.
+</p>
+                  <p xml:id="szstco-k59273-d1e1005">
+                     <lb ed="#P" n="85"/>7. Responsio ad fundamentum. — Et haec
+<lb ed="#P" n="86"/>ratio solvit fundamentum secunda sententie;
+<lb ed="#P" n="87"/>ad priorem enim partem de specie, seu 
+ob<lb break="no" ed="#P" n="88"/>jecto intelligibili respondet hic Cajetanus 
+spe<lb break="no" ed="#P" n="89"/>ciem esse formam in esse intelligibili , 
+intel<lb break="no" ed="#P" n="90"/>lectionem vero in esse naturali; essentiam
+<lb ed="#P" n="91"/>autem divinam posse informare intellectum
+<lb ed="#P" n="92"/>creatum, ut intelligibilem formam, non vero
+<lb ed="#P" n="93"/>naturalem. Quod si interroges cur actus 
+in<lb break="no" ed="#P" n="94"/>telligendi creatus magis sit forma naturalis
+<lb ed="#P" n="95"/>quam species intelligibilis, Cajetanus nullam
+<lb ed="#P" n="96"/>rationem reddit, sed solum inductione probat
+<lb ed="#P" n="97"/>intelleetionem esse formam naturalem, quia
+<lb ed="#P" n="98"/>ila reperimus in omnibus intellectionibus
+<lb ed="#P" n="99"/>creatis, cum tamen eadem fere fieri possit in
+<lb ed="#P" n="100"/>speciebus creatis. Quare gratis mihi videtur
+<lb ed="#P" n="101"/>confieta illa distinctio, ut omittam vix posse
+<lb ed="#P" n="102"/>intelligi, si de vera forma sit sermo ; nam
+<lb ed="#P" n="103"/>ila, qua dicitur forma in esse intelligibili,
+<lb ed="#P" n="104"/>vel formaliter dat aliquod esse reale, vel! 
+nul<lb break="no" ed="#P" n="105"/>lum confert: si hoc posterius dicatur, vere
+<lb ed="#P" n="106"/>non est forma realis, cum non habeat realem
+<lb ed="#P" n="107"/>causalitatem forms, quae est dare formaliter
+<lb ed="#P" n="108"/>aliquod esse reale componendo unum aliquod
+<lb ed="#P" n="109"/>reale ens. Si autem dicatur prius, fieri non
+<lb ed="#P" n="110"/>potest ut essentia divina ita informet intellec-
+<pb ed="#P" n="660"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>tum creatum , quia nec potest dare illi esse
+<lb ed="#P" n="2"/>substantiale, quia intellectus non est capax 
+il<lb break="no" ed="#P" n="3"/>lius, nec accidentale, cum ipsa formaliter non
+<lb ed="#P" n="4"/>sit accidens; neque posset alteri ex his modis
+<lb ed="#P" n="5"/>uniri, quin esset vera forma substantialis, vel
+<lb ed="#P" n="6"/>accidentalis, atque adeo forma physica seu
+<lb ed="#P" n="7"/>naturalis. Et hae ratio applicari optime 
+po<lb break="no" ed="#P" n="8"/>test ad confirmandam conclusionem positam,
+<lb ed="#P" n="9"/>quia, quamvis divina essentia sit formalis 
+in<lb break="no" ed="#P" n="10"/>tellectio, est tamen intellectio substantialis,
+<lb ed="#P" n="11"/>eujus non est capax intellectus creatus, qui
+<lb ed="#P" n="12"/>solum accidentaliter , non substantialiter est
+<lb ed="#P" n="13"/>intelligens.
+</p>
+                  <p xml:id="szstco-k59273-d1e1096">
+                     <lb ed="#P" n="14"/>8. Essentia divina cur uniri potest 
+iutellec<lb break="no" ed="#P" n="15"/>iui creato per se ipsam àn ratione speciei 
+intel<lb break="no" ed="#P" n="16"/>ligibilis, eb non actus. — Ad exemplum ergo
+<lb ed="#P" n="17"/>de specie intelligibili respondetur, speciem
+<lb ed="#P" n="18"/>intelligibilem ereatam per se non poni ut 
+in<lb break="no" ed="#P" n="19"/>formet, sed ut efficiat, nam per se tantum est
+<lb ed="#P" n="20"/>quasi semen objecti, ut suppleat absentiam
+<lb ed="#P" n="21"/>vel efficaeitatem ejus : ut enim intellectus 
+in<lb break="no" ed="#P" n="22"/>telligat, requirit concursum sui objecti, qui
+<lb ed="#P" n="23"/>non est concursus forme intriusece 
+informan<lb break="no" ed="#P" n="24"/>tis , sed efficientis, aut termini specificantis ;
+<lb ed="#P" n="25"/>species vero ponitur, ut suppleat vicem ejus,
+<lb ed="#P" n="26"/>presertim in ratione principii coeflicientis ;
+<lb ed="#P" n="27"/>quod vero inhzreat, convenit speciei 
+acciden<lb break="no" ed="#P" n="28"/>tali eo quod accidens est, non ex vi concursus
+<lb ed="#P" n="29"/>necessari ad intellectionem ; essentia ergo
+<lb ed="#P" n="30"/>divina, cum dicitur per seipsam supplere 
+vi<lb break="no" ed="#P" n="31"/>cem speciei, non est quia vere informet, sed
+<lb ed="#P" n="32"/>solum quia intime adest intellectui, et cum
+<lb ed="#P" n="33"/>illo concurrit ad visionem sui, tam in ratione
+<lb ed="#P" n="34"/>principii efficientis, quam objecti terminantis
+<lb ed="#P" n="35"/>illam, ut latius 1 p., q. 42.
+</p>
+                  <p xml:id="szstco-k59273-d1e1147">
+                     <lb ed="#P" n="36"/>9. Subsistentia creata cur suppleri potest
+<lb ed="#P" n="37"/>ger increatam, et mou intellectio creata per 
+di<lb break="no" ed="#P" n="38"/>vinam. — Ad aliud vero exemplum: de 
+sub<lb break="no" ed="#P" n="39"/>sistentia, negatur similitudo propter multa.
+<lb ed="#P" n="40"/>Primo, quia subsistere non consistit in actione
+<lb ed="#P" n="41"/>qua sit ab intrinseco principio vite, sicut 
+in<lb break="no" ed="#P" n="42"/>telligere, quae ratio etiam de specie 
+intelligi<lb break="no" ed="#P" n="43"/>bili dari poterat. Secundo, quia subsistentia
+<lb ed="#P" n="44"/>non est vera forma, sed tantum terminus 
+na<lb break="no" ed="#P" n="45"/>ture, ut supra dictum est. Tertio, quia 
+subsis<lb break="no" ed="#P" n="46"/>tentia etiam creata est actus substantialis, et
+<lb ed="#P" n="47"/>ideo suppleri potest per subsistentiam 
+increa<lb break="no" ed="#P" n="48"/>iam etiam substantialem ; at vero intellectio
+<lb ed="#P" n="49"/>creata est actus accidentalis, et ideo 
+intellec<lb break="no" ed="#P" n="50"/>lio substantialis non potest vicem ejus subire.
+<lb ed="#P" n="51"/>Et confirmatur haec responsio et conclusio,
+<lb ed="#P" n="52"/>nam, si fundamentum illud aliquid valeret,
+<lb ed="#P" n="53"/>sequeretur, quia essentia divina est formaliter
+<lb ed="#P" n="54"/>sua misericordia et justitia et alice 
+perfectio<lb break="no" ed="#P" n="55"/>ues similes, posse per se ipsam reddere for-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>maliter justam, misericordem, ete., animam
+<lb ed="#P" n="57"/>humanam, quod est absurdum ; alias posset
+<lb ed="#P" n="58"/>etiam justificari homo formaliter per ipsam
+<lb ed="#P" n="59"/>justitiam increatam Dei, quod est plus quam
+<lb ed="#P" n="60"/>falsum, ut constat ex doctrina de 
+justifica<lb break="no" ed="#P" n="61"/>tione.
+</p>
+                  <p xml:id="szstco-k59273-d1e1208">
+                     <lb ed="#P" n="62"/>10. Nulla perfectio existens in Deo potest
+<lb ed="#P" n="63"/>per se uniri creatura, praeter subsistentiam.
+<lb ed="#P" n="64"/>— Ex quibus exemplis licet intelligere, 
+nul<lb break="no" ed="#P" n="65"/>lam perfectionem formaliter existentem in
+<lb ed="#P" n="66"/>Deo, posse per seipsam formaliter 
+communi<lb break="no" ed="#P" n="67"/>cari seu uniri creatura, praeter subsistentiam,
+<lb ed="#P" n="68"/>quia omnis alia perfectio, ut est in Deo, 
+perti<lb break="no" ed="#P" n="69"/>net ad ipsius nature (ut i*a dicam) 
+constitu<lb break="no" ed="#P" n="70"/>üionem ; Deus autem non potest uniri 
+erea<lb break="no" ed="#P" n="71"/>ture in natura, ut supra ostensum est. Ut 
+ve<lb break="no" ed="#P" n="72"/>ro talis perfectio esse potest in creatura, vel
+<lb ed="#P" n="73"/>est essentialis, ut est perfectio substantis ,
+<lb ed="#P" n="74"/>prout de natura dicitur, et ita non potest 
+con<lb break="no" ed="#P" n="75"/>ferri per ipsam essentiam Dei, quia non 
+po<lb break="no" ed="#P" n="76"/>test illa essentialiter constituere essentiam
+<lb ed="#P" n="77"/>creatam ; vel est accidentalis, et ita etiam non
+<lb ed="#P" n="78"/>potest formaliter dari per substantialem 
+per<lb break="no" ed="#P" n="79"/>fectionem ipsius divinitatis, propter rationem
+<lb ed="#P" n="80"/>factam.
+</p>
+                  <p xml:id="szstco-k59273-d1e1252">
+                     <lb ed="#P" n="81"/>11. Dubium. — Sententia Joan. Ripe 
+qua<lb break="no" ed="#P" n="82"/>lis. — Sed quaeres primo quam sit certa ha:ec
+<lb ed="#P" n="83"/>postrema conclusio. Quidam enim eam 
+pu<lb break="no" ed="#P" n="84"/>tant esse de fide, et contrariam hereticam ;
+<lb ed="#P" n="85"/>alii perieulosam et temerariam sententiam
+<lb ed="#P" n="86"/>Ripe appellant, quia ex illa sequitur animam
+<lb ed="#P" n="87"/>Christi comprehendere Deum, quia videret
+<lb ed="#P" n="88"/>Deum eadem visione qua ipse se videt. 
+Se<lb break="no" ed="#P" n="89"/>quitur etiam animam Christi non indigere 
+lu<lb break="no" ed="#P" n="90"/>mine creato ad videndum Deum, quod est
+<lb ed="#P" n="91"/>damnatum in Concilio Viennen.,Clement. Ad
+<lb ed="#P" n="92"/>nostrum, de Har. Sequitur denique animam
+<lb ed="#P" n="93"/>Christi amare Deum ipso amore increato
+<lb ed="#P" n="94"/>quo Deusse amat, et non per charitatem 
+crea<lb break="no" ed="#P" n="95"/>tam illi infusam, quod supra hexreticum esse
+<lb ed="#P" n="96"/>diximus. Denique, in Concil. Basil., sess. 92,
+<lb ed="#P" n="97"/>damnatur haec propositio Augustini de Roma :
+<lb ed="#P" n="98"/>Andina Christi tam clare ac intense videt Dewn,
+<lb ed="#P" n="99"/>sicut. Verbum ipsum.
+</p>
+                  <p xml:id="szstco-k59273-d1e1296">
+                     <lb ed="#P" n="100"/>12. Responsio. — respondeo: ita asserere
+<lb ed="#P" n="101"/>animam Christi cognoscere omnia quae intel:
+<lb ed="#P" n="102"/>ligit, per ipsam increatam scientiam, ut 
+nul<lb break="no" ed="#P" n="103"/>lum habeat creatum actum intelligendi , est
+<lb ed="#P" n="104"/>plane hereticum ; tamen, si non negetur 
+ha<lb break="no" ed="#P" n="105"/>bere actus creatos, asserere etiam cognoscere
+<lb ed="#P" n="106"/>per inereatum, non est haereticum, quia 
+ne<lb break="no" ed="#P" n="107"/>que conclusio nosira est definita in aliquo
+<lb ed="#P" n="108"/>Concilio, neque aperte colligitur ex Scriptura,
+<lb ed="#P" n="109"/>vel ex aliis principiis fidei; neque enim ex
+<lb ed="#P" n="110"/>contraria sententia sequitur aperte compre-
+<pb ed="#P" n="661"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>hensio Dei ; dici enim posset illam scientiam
+<lb ed="#P" n="2"/>increatam non totaliter uniri intellectui 
+crea<lb break="no" ed="#P" n="3"/>lo, sed juxta eapacitatem ejus; et eadem 
+ra<lb break="no" ed="#P" n="4"/>tione dici posset lumen glorie esse 
+necessa<lb break="no" ed="#P" n="5"/>rium, non ad agendum, sed ad 
+suscipien<lb break="no" ed="#P" n="6"/>dam illam visionem, et ut. intellectus fiat 
+ca<lb break="no" ed="#P" n="7"/>pax illius. Merito tamen temerarius censendus
+<lb ed="#P" n="8"/>esset, qui contrariam sententiam vellet 
+de<lb break="no" ed="#P" n="9"/>fendere, quam Theologi fere omnes ut 
+absur<lb break="no" ed="#P" n="10"/>dam et improbabilem reliquerunt , cuique
+<lb ed="#P" n="11"/>Agatho Papa et alii Patres citati fere aperte
+<lb ed="#P" n="12"/>contradieunt ; quae denique, licet non aperte
+<lb ed="#P" n="13"/>repugnet, parum tamen consentanea est 
+prin<lb break="no" ed="#P" n="14"/>cipiis fidei.
+</p>
+                  <p xml:id="szstco-k59273-d1e1357">
+                     <lb ed="#P" n="15"/>13. Dubium secundum. — Qusres secundo
+<lb ed="#P" n="16"/>quo tempore inceperit anima Christi habere
+<lb ed="#P" n="17"/>hos actus intelligendi, seu ratione uti. 
+Gno<lb break="no" ed="#P" n="18"/>slici, quantum ex Irenzo colligitur, l. 4, c.
+<lb ed="#P" n="19"/>17, videntur asseruisse, Christum in infantia
+<lb ed="#P" n="20"/>non habuisse rationis usum. Brentium etiam
+<lb ed="#P" n="21"/>asseruisse Christum, sicut corpore, ita et 
+ani<lb break="no" ed="#P" n="22"/>mo adolevisse, refert Feuarden.,in Iren., l.
+<lb ed="#P" n="23"/>2, c. 49, n. 5. Et ibidem ait, Gallasium, in 
+an<lb break="no" ed="#P" n="24"/>notat. illius loci Irens;i, asseruisse Christum
+<lb ed="#P" n="25"/>more aliorum hominum didicisse. Et alios 
+si<lb break="no" ed="#P" n="26"/>miles hcretieos ibidem refert, quos variis 
+Pa<lb break="no" ed="#P" n="27"/>irum testimoniis confutat, et ex his quae in
+<lb ed="#P" n="28"/>discursu sequentium qusestionum dicemus,
+<lb ed="#P" n="29"/>sufficienter confutabuntur a nobis. Nunc 
+bre<lb break="no" ed="#P" n="30"/>viter dico, ex communi doctrina 
+Theologo<lb break="no" ed="#P" n="31"/>rum, in 3, dist. 44, Christum, a primo 
+instan<lb break="no" ed="#P" n="32"/>üi conceptionis sue, usum fuisse ratione, et
+<lb ed="#P" n="33"/>habuisse actus intelligendi. Haec est aperta
+<lb ed="#P" n="34"/>sententia August., l. 2 de Peccat. merit., c. 29,
+<lb ed="#P" n="35"/>et juxta illam intelligenda sunt qui idem 
+trac<lb break="no" ed="#P" n="36"/>laverat, l. 4, c. trigesimo septimo ; idem 
+do<lb break="no" ed="#P" n="37"/>cet Ansel.,lib. 2 Cur Deus hom., c. 13. 
+Pro<lb break="no" ed="#P" n="38"/>batur ex illo Jerem. 31 : Mulier circumdabit
+<lb ed="#P" n="39"/>virum, id est, Virgo Christum, qui vir dicitur,
+<lb ed="#P" n="40"/>non setate, sed sapientia, ut ibi Hieron. et
+<lb ed="#P" n="41"/>alii Patres exponunt, et eleganter Bernard.,
+<lb ed="#P" n="42"/>homil. 29 in Missus est ; deinde ex illo Joan.
+<lb ed="#P" n="43"/>4 : Vidimus gloriam ejus, gloriam quasi 
+Uni<lb break="no" ed="#P" n="44"/>geniti a. Patre, plenum gratiae et veritas, id
+<lb ed="#P" n="45"/>est, scientiae, ut August. et alii exponunt ; 
+si<lb break="no" ed="#P" n="46"/>cut ergo a primo instanti conceptionis fuit
+<lb ed="#P" n="47"/>Unigenitus a Patre, Xa etiam fuit plenus
+<lb ed="#P" n="48"/>Scientize, ita enim decebat tante persons 
+di<lb break="no" ed="#P" n="49"/>gnitatem, ut in simili argumentatur August.,
+<lb ed="#P" n="50"/>15 de Trinit., c. 26, et indicat Cyp., lib. de
+<lb ed="#P" n="51"/>Cardin. Christ. oper.,capit. de Nativ. Christi;
+<lb ed="#P" n="52"/>et melius Anselm., l. 2 Cur Deus hom., c. 13.
+<lb ed="#P" n="53"/>Ex quibus confirmatur : nam Verbum in 
+na<lb break="no" ed="#P" n="54"/>tura nostra eas tantum imperfectiones 
+as<lb break="no" ed="#P" n="55"/>sumpsit, quae ita sunt connaturales naturae
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>nostrae mortali, ut possent etiam ad nostram
+<lb ed="#P" n="57"/>redemptionem conducere; at vero carentia
+<lb ed="#P" n="58"/>actus intelligendi, seu usus rationis, nihil 
+no<lb break="no" ed="#P" n="59"/>bis prodesse poterat; non ergo assumpsit hane
+<lb ed="#P" n="60"/>imperfectionem ; sed haec veritas magis ex 
+se<lb break="no" ed="#P" n="61"/>quentibus disputationibus constabit et 
+explica<lb break="no" ed="#P" n="62"/>bitur. Sed objici potest contra hoc, illud Isai.
+<lb ed="#P" n="63"/>8 : Antequam sciat puer vocare Patrem, etc.,
+<lb ed="#P" n="64"/>cujus propriussensus esse videtur, antea quam
+<lb ed="#P" n="65"/>habeat usum rationis, cui consonat illud Luc.
+<lb ed="#P" n="66"/>2: Proficiebat, sapientia. Respondetur, 
+Hie<lb break="no" ed="#P" n="67"/>ronymum ita exponere primum locum : 
+42z<lb break="no" ed="#P" n="68"/>tequam. sciat vocare Patrem, id est, antequam
+<lb ed="#P" n="69"/>fiat homo, et habeat Patrem quem vocare
+<lb ed="#P" n="70"/>possit. Ambrosius vero,lib. de Incarnat., c.
+<lb ed="#P" n="71"/>1, et August., serm. 32, de Temp., exponunt,
+<lb ed="#P" n="72"/>antequam sciat, id est, antequam propter 
+in<lb break="no" ed="#P" n="73"/>fantiam possit vocare Patrem. Exponi etiam
+<lb ed="#P" n="74"/>potest de scientia experimentali, sicut 
+testi<lb break="no" ed="#P" n="75"/>monium Luce, de quo quaest. 12.
+</p>
+               </div>
+               <div xml:id="szstco-k59273-Dd1e1495">
+                  <head xml:id="szstco-k59273-Hd1e1497">Sectio 3</head>
+                  <head xml:id="szstco-k59273-Hd1e1499" type="question-title">
+  Utrum omnis actus intelligendi anima Christi 
+  fuerit verus, certus et evidens
+</head>
+                  <p xml:id="szstco-k59273-d1e1502">
+                     <lb ed="#P" n="76" type="fixed=661"/>SECTIO III.
+<lb ed="#P" n="77"/>Utrum omnis actus intelligendi anima Christi 
+fue<lb break="no" ed="#P" n="78"/>rit verus, certus et evidens.
+</p>
+                  <p xml:id="szstco-k59273-d1e1511">
+                     <lb ed="#P" n="79"/>1. Nonnulli antiqui haretici docuerunt 
+ha<lb break="no" ed="#P" n="80"/>buisse animam Christi cognitionem creatam
+<lb ed="#P" n="81"/>admistam ignorantie, atque adeo ex aliqua
+<lb ed="#P" n="82"/>parte incertam et inevidentem. Ita sensisse
+<lb ed="#P" n="83"/>Gnosticos, colligitur ex Iren., 1 contra 
+hae<lb break="no" ed="#P" n="84"/>res., c. 16; de Arianis idem indicat Ambros.,
+<lb ed="#P" n="85"/>5 lib. de Fid., c. 7; et idem docuit 
+Themis<lb break="no" ed="#P" n="86"/>lius quidam, a quo Themistiani, ut refert 
+So<lb break="no" ed="#P" n="87"/>phronius, in epist. quae habetur VI Synod.,
+<lb ed="#P" n="88"/>act. 11; et Liberatus, in Breviario, c. 19.
+<lb ed="#P" n="89"/>Idem denique Agnoite, ut refert Gregor., lib.
+<lb ed="#P" n="90"/>2 Regist., c. 42; ct Isidor., lib. 8 Etymolog.,
+<lb ed="#P" n="91"/>c. 5. Fundamenta horum errorum sunt 
+quae<lb break="no" ed="#P" n="92"/>dam loca Scripture, quae in sequentibus 
+quae<lb break="no" ed="#P" n="93"/>stionibus a nobis explicanda sunt.
+</p>
+                  <p xml:id="szstco-k59273-d1e1546">
+                     <lb ed="#P" n="94"/>2. Suppono ergo in intellectu anima 
+Chri<lb break="no" ed="#P" n="95"/>sti fuisse actus, tum naturales, tum etiam
+<lb ed="#P" n="96"/>supernaturales. Hoc ex sequentibus 
+quaestio<lb break="no" ed="#P" n="97"/>nibus fusius constabit; nunc breviter 
+explica<lb break="no" ed="#P" n="98"/>tur, quia in Christo fuit perfecta natura 
+hu<lb break="no" ed="#P" n="99"/>mana cum omnibus suis proprietatibus 
+natu<lb break="no" ed="#P" n="100"/>ralibus, ut Concilia definiunt; ergo habuit
+<lb ed="#P" n="101"/>suos actus naturales, nam, licet hi actus non
+<lb ed="#P" n="102"/>sint ad modum proprietatum manantium a
+<lb ed="#P" n="103"/>natura, sed pendere possint ex voluntate 
+ope<lb break="no" ed="#P" n="104"/>rantis, lamen sunt proprietates seu 
+perfectio<lb break="no" ed="#P" n="105"/>nes maxime consentanes ipsi natura, quibus
+<lb ed="#P" n="106"/>privari non debet natura omni ex parte 
+per<lb break="no" ed="#P" n="107"/>fecta; quin potius, servato naturali ordine,
+<lb ed="#P" n="108"/>impossibile est ut homo utens sensibus non
+<pb ed="#P" n="662"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>interdum eliciat aliquem actum naturalem
+<lb ed="#P" n="2"/>intellectus; unde, ut anima Christi caruisset,
+<lb ed="#P" n="3"/>vel suspendisset omnem hujusmodi actum,
+<lb ed="#P" n="4"/>oportuisset praeternaturali et miraculoso 
+mo<lb break="no" ed="#P" n="5"/>do hoc facere ; quod tamen sine fructu et sine
+<lb ed="#P" n="6"/>causa fieret, quia neque ad perfectionem ejus,
+<lb ed="#P" n="7"/>neque ad utilitatem nostram conferebat. 
+Un<lb break="no" ed="#P" n="8"/>de censeo hanc partem certam esse de fide ;
+<lb ed="#P" n="9"/>eamque colligo ex definitionibus Conciliorum
+<lb ed="#P" n="10"/>supra citatis, et aliis, quibus tradunt esse in
+<lb ed="#P" n="11"/>Christo duas operationes, et ex modo quo
+<lb ed="#P" n="12"/>Seriptura de Christo loquitur, ut de homine
+<lb ed="#P" n="13"/>sentiente et intelligente naturali modo.
+</p>
+                  <p xml:id="szstco-k59273-d1e1615">
+                     <lb ed="#P" n="14"/>3. Objectio. — Responsio. — Altera pars
+<lb ed="#P" n="15"/>de actu supernaturali, etiam est de fide, quia
+<lb ed="#P" n="16"/>si de fide certum est, in aliis justis et beatis
+<lb ed="#P" n="17"/>esse supernaturalem cognitionem, multo 
+ma<lb break="no" ed="#P" n="18"/>gis de anima Christi, de qua infra ostendemus
+<lb ed="#P" n="19"/>esse beatam, et cognoscere omnia divina 
+mys<lb break="no" ed="#P" n="20"/>teria, quae non nisi supernaturaliter cognosci
+<lb ed="#P" n="21"/>possunt. Dices : quamvis haec cognitio aliis
+<lb ed="#P" n="22"/>sit supernaturalis, tamen anime Christi erit
+<lb ed="#P" n="23"/>naturalis propter unionem. Respondetur, si
+<lb ed="#P" n="24"/>sit sensus ipsum actum in se esse naturalem,
+<lb ed="#P" n="25"/>vel animam uniiam non indigere altiori 
+lu<lb break="no" ed="#P" n="26"/>mine et auxilio ad illum eliciendum, quam ad
+<lb ed="#P" n="27"/>alios aetus naturales, falsum omnino est;
+<lb ed="#P" n="28"/>quia, sicut unio non immutat nec confundit
+<lb ed="#P" n="29"/>naturas, iia nec proprietates earum, neque
+<lb ed="#P" n="30"/>ipsa unio per se formaliter dat vires ad 
+ope<lb break="no" ed="#P" n="31"/>randum, ut supra, disp. 18, late dictum est ;
+<lb ed="#P" n="32"/>si vero sit sensus illum actum esse 
+connatu<lb break="no" ed="#P" n="33"/>ralem anime unite, quia ratione unionis de--
+<lb ed="#P" n="34"/>bita est illi tam perfecta cognitio, verum est
+<lb ed="#P" n="35"/>quidem; non tamen est contra id quod 
+dici<lb break="no" ed="#P" n="36"/>mus ; loquimur enim de ipsis actibus 
+secun<lb break="no" ed="#P" n="37"/>dum se; sicut habere dicitur anima Christi
+<lb ed="#P" n="38"/>amorem Dei naturalem, et supernaturalem,
+<lb ed="#P" n="39"/>quamvis uterque possit dici aliquo modo 
+con<lb break="no" ed="#P" n="40"/>naturalis anims unite, et hoc exemplum 
+con<lb break="no" ed="#P" n="41"/>firmat positionem factam.
+</p>
+                  <p xml:id="szstco-k59273-d1e1678">
+                     <lb ed="#P" n="42"/>4. Dico primo: omnis actus supernaturalis,
+<lb ed="#P" n="43"/>qui fuit in intellectu anime Christi, est verus,
+<lb ed="#P" n="44"/>certus et evidens. Haec conclusio est omnino
+<lb ed="#P" n="45"/>certa, nam primum de ratione omnis actus
+<lb ed="#P" n="46"/>intellectualis supernaturalis est, ut sit verus ;
+<lb ed="#P" n="47"/>quia cum hujusmodi actus sit ex speciali Dei
+<lb ed="#P" n="48"/>revelatione et influxu, non potest non esse
+<lb ed="#P" n="49"/>verus, quia, si falsus esset, ejus falsitas in
+<lb ed="#P" n="50"/>Deum redundaret. Quod explicatur et 
+confir<lb break="no" ed="#P" n="51"/>matur, quia veltalis actus est evidens, vel
+<lb ed="#P" n="52"/>obscurus : si evidens, hoc ipso necessario est
+<lb ed="#P" n="53"/>verus ; si obscurus et supernaturalis, 
+neces<lb break="no" ed="#P" n="54"/>sario est actus fidei infuse, cui non potest
+<lb ed="#P" n="55"/>subesse falsum. Denique rationes omnes,
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>quibus hoc solet probari de actu fidei infusse,
+<lb ed="#P" n="57"/>evidentius procedunt de omni actu 
+superna<lb break="no" ed="#P" n="58"/>turalis cognitionis. Ex his vero plane efficitur,
+<lb ed="#P" n="59"/>omnem hujusmodi actum debere esse certum;
+<lb ed="#P" n="60"/>ostensum est enim necessario esse 
+infallibi<lb break="no" ed="#P" n="61"/>lem ; certitudo autem ibi est, ubi non potest
+<lb ed="#P" n="62"/>esse falsitas. Quod vero etiam evidens sit, 
+fa<lb break="no" ed="#P" n="63"/>cile declaratur, suppositis iis quae dieta sunt
+<lb ed="#P" n="64"/>quaest. 7; ostendimus enin ibi nunquam 
+fuis<lb break="no" ed="#P" n="65"/>se fidem in anima Christi, quia non fuit capax
+<lb ed="#P" n="66"/>cognitionis obscure ; ergo.
+</p>
+                  <p xml:id="szstco-k59273-d1e1737">
+                     <lb ed="#P" n="67"/>5. Omne judicium naturale anime Christi
+<lb ed="#P" n="68"/>fuit infallibile.— Dico secundo : omnis actus
+<lb ed="#P" n="69"/>naturalis intellectus Christi fuit etiam verus,
+<lb ed="#P" n="70"/>certus et evidens. Hc conclusio etiam 
+colli<lb break="no" ed="#P" n="71"/>gitur ex communi doctrina Theologorum in 3,
+<lb ed="#P" n="72"/>dist. 414 et 47, et ex D. Thoma infra , q. 15,
+<lb ed="#P" n="73"/>art. 3, et est omnino certa; Scriptura enim
+<lb ed="#P" n="74"/>sacra ita loquitur de Christo, sicut de homine
+<lb ed="#P" n="75"/>habente infallibilem auctoritatem , qui, in iis
+<lb ed="#P" n="76"/>qua loquebatur, decipere alios non potuit, et
+<lb ed="#P" n="77"/>consequenter neque ipse decipi; et in hoc
+<lb ed="#P" n="78"/>fundatur maxima certitudo nostre fidei; ergo.
+<lb ed="#P" n="79"/>omne judicium, quod fuit in anima Christi,
+<lb ed="#P" n="80"/>fuit verum et infallibile, atque adeo certum
+<lb ed="#P" n="81"/>et evidens; quia in actibus naturalibus certa
+<lb ed="#P" n="82"/>veritas et infallibilitas assensus fundatur in
+<lb ed="#P" n="83"/>evidentia, nec potest dari actus obscurus 
+om<lb break="no" ed="#P" n="84"/>ni ex parte, verus et certus ; hoc enim est
+<lb ed="#P" n="85"/>proprium fidei infusse. Et confirmatur, quia
+<lb ed="#P" n="86"/>error seu falsus assensus est magna 
+imper<lb break="no" ed="#P" n="87"/>fectio, qua per se utilitatem afferre non 
+pos<lb break="no" ed="#P" n="88"/>set ad nostram redemptionem, quin potius
+<lb ed="#P" n="89"/>posset obesse, valde enim imminueret 
+lo<lb break="no" ed="#P" n="90"/>quentis Christi auctoritatem ; ergo non 
+as<lb break="no" ed="#P" n="91"/>sumpsit Verbum talem imperfectionem, 
+ne<lb break="no" ed="#P" n="92"/>que ejus majestatem aut dignitatem decebat
+<lb ed="#P" n="93"/>ut illam assumeret. Confirmatur tandem, quia
+<lb ed="#P" n="94"/>omne judicium, etiam naturale, quod est in
+<lb ed="#P" n="95"/>intellectu beati, est verum et infallibile ;
+<lb ed="#P" n="96"/>multo ergo magis in intellectu Christi, qui
+<lb ed="#P" n="97"/>non solum beatus erat, sed etiam Deus.
+</p>
+                  <p xml:id="szstco-k59273-d1e1807">
+                     <lb ed="#P" n="98"/>6. In intellectu Christi qullus actus 
+opi<lb break="no" ed="#P" n="99"/>Aionis. — Prima objectio. — Sequitur primo
+<lb ed="#P" n="100"/>non fuisse in intellectu Christi actum 
+opinio<lb break="no" ed="#P" n="101"/>nis vel fidei human de se fallibilis, quia his
+<lb ed="#P" n="102"/>actibus potest subesse falsum ; unde si illos
+<lb ed="#P" n="103"/>exerceret, potuissef interdum habere actum
+<lb ed="#P" n="104"/>falsum. Item hi actus sunt de se incerti ; actus
+<lb ed="#P" n="105"/>autem incertus non habuit locum in Christo,
+<lb ed="#P" n="106"/>ut dictum est, quia incertitudo includit 
+du<lb break="no" ed="#P" n="107"/>bium, seu formidinem de veritate judicii;
+<lb ed="#P" n="108"/>et ideo, qui assensum incertum habet, ex vi
+<lb ed="#P" n="109"/>illius exponit se periculo falsitatis. Sequitur
+<lb ed="#P" n="110"/>secundo, omnem actum intelleetus Christi
+<pb ed="#P" n="663"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>fuisse aliquo modo actum scientice, quia 
+ge<lb break="no" ed="#P" n="2"/>nerali quadam ratione omnis actus evidens,
+<lb ed="#P" n="3"/>actus scientiae dicitur ; et propter hanc fortasse
+<lb ed="#P" n="4"/>causam D. Thomas hic, et alii Theologi, 
+so<lb break="no" ed="#P" n="5"/>lum sub nomine scientiae agunt de 
+cognitio<lb break="no" ed="#P" n="6"/>ne creata intellectus Christi.
+</p>
+                  <p xml:id="szstco-k59273-d1e1855">
+                     <lb ed="#P" n="7"/>7. Sed contra primo, quia Christus per 
+in<lb break="no" ed="#P" n="8"/>tellectum creatum multa ignoravit; ergo 
+ea<lb break="no" ed="#P" n="9"/>dem ratione potuit in multis errare, quia non
+<lb ed="#P" n="10"/>est major ratio de ignorantia privationis quam
+<lb ed="#P" n="11"/>prave dispositionis. Antecedens patet ex 
+Da<lb break="no" ed="#P" n="12"/>masc.,l. 3 de Fid., c. 21, dicente, Verbum
+<lb ed="#P" n="13"/>assumpsisse naturavi ignorantem ; ck. Ambr.,
+<lb ed="#P" n="14"/>2 de Fid., videtur tribuere Christo 
+dubitatio<lb break="no" ed="#P" n="15"/>nem ex ignorantia profectam, propter verba
+<lb ed="#P" n="16"/>illa Matth. 26 : Pater, si possibile est, transeat
+<lb ed="#P" n="17"/>a. 1e caliz iste; et idem significat Augustinus,
+<lb ed="#P" n="18"/>exponens verba illa Psalm. 21 : Quare «e 
+de<lb break="no" ed="#P" n="19"/>reliquisti, etc. Et confirmatur primo, quia
+<lb ed="#P" n="20"/>oportuit CAristum per omnia fratribus 
+assi<lb break="no" ed="#P" n="21"/>vari,ad Hebr. 2, pro similitudine absque
+<lb ed="#P" n="22"/>peccato, ad Hebr. 4. Sed error non est 
+pec<lb break="no" ed="#P" n="23"/>catum; ergo. Et confirmatur secundo, quia
+<lb ed="#P" n="24"/>error intellectus sepe nascitur ex errore in
+<lb ed="#P" n="25"/>sensu; sed in sensibus Christi sepe potuit
+<lb ed="#P" n="26"/>esse deceptio; nam interdum a longe potuit
+<lb ed="#P" n="27"/>res apparere minor quam erat, vel aliquid
+<lb ed="#P" n="28"/>simile.
+</p>
+                  <p xml:id="szstco-k59273-d1e1905">
+                     <lb ed="#P" n="29"/>8. Christus nullam habuit ignorautiam. — Ad
+<lb ed="#P" n="30"/>argumentum respondetur imprimis, non esse
+<lb ed="#P" n="31"/>eamdem rationem de ignorantia privationis
+<lb ed="#P" n="32"/>et de errore, quia haec multo major 
+imperfee<lb break="no" ed="#P" n="33"/>lio est, magisque contraria perfectioni 
+virtu<lb break="no" ed="#P" n="34"/>tis, et infallibili auctoritati quae in Christo esse
+<lb ed="#P" n="35"/>debuit. Secundo dicitur antecedens, proprie
+<lb ed="#P" n="36"/>et in rigore loquendo, esse falsum, quia 
+Chri<lb break="no" ed="#P" n="37"/>sli anima nihil eorum nescivit, quae in aliqua
+<lb ed="#P" n="38"/>temporis differentia existentiam habiturasunt;
+<lb ed="#P" n="39"/>ct quamvis demus, ex rebus quae in sola 
+di<lb break="no" ed="#P" n="40"/>vina potentia continentur, et ab ea fieri 
+pos<lb break="no" ed="#P" n="41"/>sunt, aliquas non cognovisse (de quo infra 
+di<lb break="no" ed="#P" n="42"/>cetur), tamen illa carentia seu negatio 
+scien<lb break="no" ed="#P" n="43"/>li: non potest dici vera ignorantia ; quia 
+igno<lb break="no" ed="#P" n="44"/>rantia non significat quamcunque negationem
+<lb ed="#P" n="45"/>cognitionis, sed privationem illius scientiae,
+<lb ed="#P" n="46"/>qui inesse deberet, juxta conditionem vel
+<lb ed="#P" n="47"/>statum proprie nature; ut non dicitur homo
+<lb ed="#P" n="48"/>ignorans, eo quod careat scientia angelica ;
+<lb ed="#P" n="49"/>cognoscere autem omnia possibilia fortasse 
+<lb ed="#P" n="50"/>non pertinet ad statum vel conditionem 
+in<lb break="no" ed="#P" n="51"/>tellectus creati, et ilà Christus nihil eorum
+<lb ed="#P" n="52"/>nescivit seuignoravit qua oportuit scire, 
+con<lb break="no" ed="#P" n="53"/>siderata dignitate persons, conditione 
+natu<lb break="no" ed="#P" n="54"/>r:, et ratione status seu officii, et ita, 
+simpli<lb break="no" ed="#P" n="55"/>citer loquendo, ignorantiam non habuit, sed
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>plenitudinem scientiae, ut dicitur Joan. 1, e£
+<lb ed="#P" n="57"/>thesauros sapientie Dei, ad Colos.2, et hoc
+<lb ed="#P" n="58"/>magis constabit ex quaestionibus sequentibus.
+<lb ed="#P" n="59"/>Ad Damascenum ergo respondetur, sensum
+<lb ed="#P" n="60"/>ejus esse, assumpsisse Christum naturam quee
+<lb ed="#P" n="61"/>de seignorans esset, nisi in assumptione ipsa
+<lb ed="#P" n="62"/>impleta esset sapientia, ut ipse postea 
+expo<lb break="no" ed="#P" n="63"/>nit ibidem, et optime l. 2 de Fide, c. 22; 
+Am<lb break="no" ed="#P" n="64"/>brosius vero non dicit Christum dubitasse vel
+<lb ed="#P" n="65"/>ignorasse, sed ita se gessisse ae si dubitaret
+<lb ed="#P" n="66"/>vel ignoraret. Et eodem modo potest exponi
+<lb ed="#P" n="67"/>Augustinus, quamvis ipse addat Christum ibi
+<lb ed="#P" n="68"/>locutum esse in persona suorum 
+membro<lb break="no" ed="#P" n="69"/>rum
+</p>
+                  <p xml:id="szstco-k59273-d1e2000">
+                     <lb ed="#P" n="70"/>9. Ad primam confirmationem respondetur
+<lb ed="#P" n="71"/>oportuisse Christum esse similem hominibus
+<lb ed="#P" n="72"/>peccatoribus in natura passibili et mortali, et
+<lb ed="#P" n="73"/>hanc esse Pauli intentionem ; non tamen 
+de<lb break="no" ed="#P" n="74"/>cuisse illum fieri similem in culpa, vel in aliis
+<lb ed="#P" n="75"/>defectibus, quia ita sunt cum culpa conjuncti,
+<lb ed="#P" n="76"/>ut ad medendum illi prodesse non possint ;
+<lb ed="#P" n="77"/>et hujusmodi est error, et ideo nullo modo
+<lb ed="#P" n="78"/>potuit esse, neque expediens, neque decens,
+<lb ed="#P" n="79"/>ut illum assumeret; unde Paulus nunquam
+<lb ed="#P" n="80"/>dixit oportuisse ut Christus esset nobis 
+simi<lb break="no" ed="#P" n="81"/>lis in omnibus praeter peccatum ; alias etiam
+<lb ed="#P" n="82"/>in modo nativitatis, et in aliis rebus omnibus
+<lb ed="#P" n="83"/>debuisset esse similis ; sed prius dixit 
+debuis<lb break="no" ed="#P" n="84"/>se, per omnia fratribus assimilari, ed 
+qiseri<lb break="no" ed="#P" n="85"/>cors fiere, etc. Itaque, in iis quae conferebant
+<lb ed="#P" n="86"/>ad opus nostre redemptionis, quo factus est
+<lb ed="#P" n="87"/>nobis misericors, oportuit ut nobis esset 
+si<lb break="no" ed="#P" n="88"/>milis; in alio vero loco solum dicit fuisse £
+ez<lb break="no" ed="#P" n="89"/>tatum per omnia, absque ullo peccato.
+</p>
+                  <p xml:id="szstco-k59273-d1e2046">
+                     <lb ed="#P" n="90"/>10. Ad secundam confirmationem 
+respon<lb break="no" ed="#P" n="91"/>detur, primum non recte inferre, quia 
+Chri<lb break="no" ed="#P" n="92"/>stus per sapientiam intellectus provenire 
+po<lb break="no" ed="#P" n="93"/>terat et corrigere sensum, ne saltem 
+intel<lb break="no" ed="#P" n="94"/>lectui deceptionem pareret. Deinde negatur
+<lb ed="#P" n="95"/>etiam minor, quia, licet deceptio sensus 
+mi<lb break="no" ed="#P" n="96"/>nor esset imperfectio, potuit tamen Christus
+<lb ed="#P" n="97"/>Dominus, sua divina virtute, ita confortare
+<lb ed="#P" n="98"/>sensus, ut semper viderent seu 
+apprehende<lb break="no" ed="#P" n="99"/>rent res prout ver: sunt, sive prope essent,
+<lb ed="#P" n="100"/>sive distantes, et sive hoc, sive illo modo 
+ap<lb break="no" ed="#P" n="101"/>plicarentur.
+</p>
+                  <p xml:id="szstco-k59273-d1e2075">
+                     <lb ed="#P" n="102"/>11. Alii addunt etiam per superiorem 
+ra<lb break="no" ed="#P" n="103"/>tionem potuisse praevenire sensus, ne 
+decipe<lb break="no" ed="#P" n="104"/>rentur. Sed non placet, quia sola ratio 
+supe<lb break="no" ed="#P" n="105"/>rior non poterat praecavere ne objectum 
+im<lb break="no" ed="#P" n="106"/>mutaret sensum modo sibi proportionato.
+<lb ed="#P" n="107"/>Unde neque etiam potuit praevenire ne sensus
+<lb ed="#P" n="108"/>sentiret et apprehenderet juxta qualitatem
+<lb ed="#P" n="109"/>speciei ab objecto recepte ; et ideo, quamvis
+<lb ed="#P" n="110"/>ratio per superiorem scientiam possit praeve-
+<pb ed="#P" n="664"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>niri, ne ipsa sequatur apparentem 
+cognitio<lb break="no" ed="#P" n="2"/>nem sensus, non tamen, ne sensus ipse tali
+<lb ed="#P" n="3"/>modo apprehendat objectum, et ideo oportuit
+<lb ed="#P" n="4"/>hoc fieri alia superiori virtute et potestate.
+</p>
+                  <p xml:id="szstco-k59273-d1e2110">
+                     <lb ed="#P" n="5"/>12. Objectio.— Responsio.— Sed contra 
+se<lb break="no" ed="#P" n="6"/>eundo, quia Christus Dominus intelligebat
+<lb ed="#P" n="7"/>omnes rationes probabiles omnium 
+opinio<lb break="no" ed="#P" n="8"/>num, et credebat hominibus qui sibi aliqua
+<lb ed="#P" n="9"/>narrabant; ergo poterat habere assensus 
+opi<lb break="no" ed="#P" n="10"/>nionis et fidei humans, qui sunt incerti. 
+Con<lb break="no" ed="#P" n="11"/>firmatur primo, quia hujusmodi actus sunt
+<lb ed="#P" n="12"/>connaturales homini. Sed Christus assumpsit
+<lb ed="#P" n="13"/>naturam cum omnibus proprietatibus, alias
+<lb ed="#P" n="14"/>neque potuisset per discursum cognoscere,
+<lb ed="#P" n="15"/>quia hic modus est imperfectus. Presertim,
+<lb ed="#P" n="16"/>quia, licet ita assentiret, posset vitare 
+pericu<lb break="no" ed="#P" n="17"/>lum falsitatis, ita per superiorem aliquam
+<lb ed="#P" n="18"/>scientiam dirigendo haec judicia, ut nunquam
+<lb ed="#P" n="19"/>nisi in vera materia versarentur. 
+Responde<lb break="no" ed="#P" n="20"/>tur, Christum evidenter semper cognovisse
+<lb ed="#P" n="21"/>res omnes, qua vel ab hominibus narrari
+<lb ed="#P" n="22"/>poterant, vel rationibus probabilibus 
+confir<lb break="no" ed="#P" n="23"/>mari; et ita nunquam utebatur testimonio
+<lb ed="#P" n="24"/>humano ad assentiendum, sed per suam 
+evi<lb break="no" ed="#P" n="25"/>dentiam judicabat de uniuscujusque 
+testimo<lb break="no" ed="#P" n="26"/>nio, per rationes autem probabiles non 
+judi<lb break="no" ed="#P" n="27"/>cabat de veritate, sed tantum de singularum
+<lb ed="#P" n="28"/>opinionum probabilitate, de qua evidentiam
+<lb ed="#P" n="29"/>habere poterat.
+</p>
+                  <p xml:id="szstco-k59273-d1e2167">
+                     <lb ed="#P" n="30"/>13. Ad confirmationem respondetur, 
+opor<lb break="no" ed="#P" n="31"/>tuisse quidem ut intellectus Christi haberet
+<lb ed="#P" n="32"/>actus sibi connaturales, non tamen omnes,
+<lb ed="#P" n="33"/>presertim illos qui magnam imperfectionem
+<lb ed="#P" n="34"/>includunt, ut sunt isti actus obscuri et 
+incer<lb break="no" ed="#P" n="35"/>ti, quia (ut dictum est) habere hos actus, 
+ne<lb break="no" ed="#P" n="36"/>que sux nature perfectionem, neque nobis
+<lb ed="#P" n="37"/>utilitatem afferret. Quod ita etiam declaratur,
+<lb ed="#P" n="38"/>quia in voluntate nullum actum habuit 
+Chri<lb break="no" ed="#P" n="39"/>stus, qui non sit actus virtutis ipsius 
+volunta<lb break="no" ed="#P" n="40"/>lis; ergo neque in intellectu habuit actus,
+<lb ed="#P" n="41"/>nisi virtutis intellectualis ; fides autem 
+huma<lb break="no" ed="#P" n="42"/>na et opinio non sunt intellectuales virtutes,
+<lb ed="#P" n="43"/>et ideo neque sancti Angeli, neque beati, 
+hu<lb break="no" ed="#P" n="44"/>jusmodi actus exercent.
+</p>
+                  <p xml:id="szstco-k59273-d1e2202">
+                     <lb ed="#P" n="45"/>14. Unde ad ultimam confirmationem 
+res<lb break="no" ed="#P" n="46"/>pondetur, potuisse quidem Christum modo
+<lb ed="#P" n="47"/>ibi indicato vitare omnem assensum falsum,
+<lb ed="#P" n="48"/>etiam si hujusmodi assensus praestare vellet;
+<lb ed="#P" n="49"/>lamen non propter solam falsitatem 
+vitan<lb break="no" ed="#P" n="50"/>dam non decuit illos exercere, sed etiam quia
+<lb ed="#P" n="51"/>ex vi objecti formalis incerti sunt, et falsitati
+<lb ed="#P" n="52"/>expositi, et ideo ad perfectionem intellectus
+<lb ed="#P" n="53"/>non pertinent. Non deerunt etiam qui dicant,
+<lb ed="#P" n="54"/>non potuisse ullo modo habere hos actus,
+<lb ed="#P" n="55"/>supposita evidenti cognitione, quam de eis-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>dem rebus aliunde habebat. Sed quam verum
+<lb ed="#P" n="57"/>hoc sit, alibi est disputandum.
+</p>
+                  <p xml:id="szstco-k59273-d1e2236">
+                     <lb ed="#P" n="58"/>15. Dubium. Sed queres ultimo an 
+sal<lb break="no" ed="#P" n="59"/>tem de potentia absoluta posset Verbum in
+<lb ed="#P" n="60"/>humanitate assumere, vel permittere falsum
+<lb ed="#P" n="61"/>assensum, vel erroneum. Quibusdam enim
+<lb ed="#P" n="62"/>ita videtur, nec sine probabili conjectura;
+<lb ed="#P" n="63"/>posset enim Verbum assumere humanam
+<lb ed="#P" n="64"/>naturam, nullum donum, vel speciale 
+auxi<lb break="no" ed="#P" n="65"/>lium intellectus illi prebendo, quo posito, ille
+<lb ed="#P" n="66"/>homo non posset certius aut verius judicare
+<lb ed="#P" n="67"/>de rebus, quam posset purus homo cum 
+eo<lb break="no" ed="#P" n="68"/>dem ingenio et eisdem sensibus, ut supra,
+<lb ed="#P" n="69"/>disp. 18, demonstratum est ; posset ergo 
+de<lb break="no" ed="#P" n="70"/>cipi sicut purus homo. Primum antecedens
+<lb ed="#P" n="71"/>probatur, quia illud neque physicam 
+repu<lb break="no" ed="#P" n="72"/>enantiam involvit, neque est contra aliquam
+<lb ed="#P" n="73"/>moralem virtutem, neque contra sapientiam,
+<lb ed="#P" n="74"/>aut aliud attributum ipsius Dei, ut Deus est;
+<lb ed="#P" n="75"/>sicut ergo non repugnat Deum in assumpta
+<lb ed="#P" n="76"/>natura mori, ita neque errare, neque falsum
+<lb ed="#P" n="77"/>materialiter proferre ; hoc enim nec peccatum
+<lb ed="#P" n="78"/>esset, et ideo neque esset contra divinam 
+bo<lb break="no" ed="#P" n="79"/>nitatem, quia Deus non vellet tale materiale
+<lb ed="#P" n="80"/>mendacium, vel errorem, sed tantum 
+permit<lb break="no" ed="#P" n="81"/>leret; neque etiam esset contra veritatem vel
+<lb ed="#P" n="82"/>auctoritatem Dei, quia ille homo tunc non
+<lb ed="#P" n="83"/>sentiret, nec loqueretur auctoritate divina,
+<lb ed="#P" n="84"/>sed humana.
+</p>
+                  <p xml:id="szstco-k59273-d1e2297">
+                     <lb ed="#P" n="85"/>16. Responsio. — Christus de potentia etiam.
+<lb ed="#P" n="86"/>absoluta falli, errareve qon potuit. — Difficile
+<lb ed="#P" n="87"/>quidem est, implicationem contradictionis in
+<lb ed="#P" n="88"/>hoc ostendere; nihilominus tamen non 
+pos<lb break="no" ed="#P" n="89"/>sum ita de Christo, seu Deo homine sentire,
+<lb ed="#P" n="90"/>ut existimem potuisse, vel in intellectum ejus
+<lb ed="#P" n="91"/>cadere errorem, vel in sermonem 
+menda<lb break="no" ed="#P" n="92"/>cium, etiam materiale et sine culpa; quae 
+vi<lb break="no" ed="#P" n="93"/>detur esse sententia Anselmi, 1l. 2 Cur Deus
+<lb ed="#P" n="94"/>homo, c. 13. Et potest suaderi primo, quia,
+<lb ed="#P" n="95"/>licet hoc nude consideratum in ordine ad 
+so<lb break="no" ed="#P" n="96"/>lam potentiam quasi physicam non videatur
+<lb ed="#P" n="97"/>contradictionem involvere , consideratum 
+ta<lb break="no" ed="#P" n="98"/>men in ordine ad potentiam conjunctam 
+di<lb break="no" ed="#P" n="99"/>vine sapientie, et prudentie, videtur sane
+<lb ed="#P" n="100"/>repugnare. Quia ad prudentem providentiam
+<lb ed="#P" n="101"/>ralionalis persone pertinet non admittere
+<lb ed="#P" n="102"/>falsitatem et deceptionem in propria natura,
+<lb ed="#P" n="103"/>quando facile praeveniri et caveri potest; per
+<lb ed="#P" n="104"/>unionem autem facta est humanitas vere ac
+<lb ed="#P" n="105"/>proprie natura Verbi Dei; et Verbum, quod
+<lb ed="#P" n="106"/>est persona illius nature, potest illam ita 
+di<lb break="no" ed="#P" n="107"/>rigere et gubernare, ut nunquam decipiatur;
+<lb ed="#P" n="108"/>ergo. Secundo, quia in errore aut falsitate
+<lb ed="#P" n="109"/>nulla potest esse ratio boni honesti, neque
+<lb ed="#P" n="110"/>ad illud potest conferre; sed Deus non potest
+<pb ed="#P" n="665"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>in propria natura admittere, nisi quod 
+hones<lb break="no" ed="#P" n="2"/>tum est, vel ad honestum confert ; qua 
+ratio<lb break="no" ed="#P" n="3"/>ne utitur Anselmus supra. Tertio, quia talis
+<lb ed="#P" n="4"/>error, si esset possibilis in divina persona 
+ra<lb break="no" ed="#P" n="5"/>tione assumptae nature, multum diminueret
+<lb ed="#P" n="6"/>auctoritatem talis persone9, per assumptam
+<lb ed="#P" n="7"/>naturam loquentis. Si enim ex hoc solum
+<lb ed="#P" n="8"/>quod is, qui loquitur, est persona divina, non
+<lb ed="#P" n="9"/>intrinsece sequitur ipsum nec decipi posse,
+<lb ed="#P" n="10"/>nec decipere, etiam sine peccato, fere non
+<lb ed="#P" n="11"/>haberet Deus homo majorem auctoritatem in
+<lb ed="#P" n="12"/>loquendo, quam homo purus, quia uterque
+<lb ed="#P" n="13"/>decipi posset, nisi ex divina revelatione 
+loque<lb break="no" ed="#P" n="14"/>retur ; et uterque posset illa carere, et decipi,
+<lb ed="#P" n="15"/>etiam sine culpa, existimando verum esse
+<lb ed="#P" n="16"/>quod non est, seu a Deo revelari, quod vera
+<lb ed="#P" n="17"/>revelatione ostensum non est. Consequens
+<lb ed="#P" n="18"/>autem videtur valde absurdum.
+</p>
+               </div>
+               <div xml:id="szstco-k59273-Dd1e2400">
+                  <head xml:id="szstco-k59273-Hd1e2402">Sectio 4</head>
+                  <head xml:id="szstco-k59273-Hd1e2404" type="question-title">
+  Utrum in anima Christi fuerint habitus 
+  intellectuales
+</head>
+                  <p xml:id="szstco-k59273-d1e2407">
+                     <lb ed="#P" n="19" type="fixed=665"/>SECTIO IV.
+<lb ed="#P" n="20"/>Utrum in anima Christi fuerint habitus 
+intellec<lb break="no" ed="#P" n="21"/>tuales.
+</p>
+                  <p xml:id="szstco-k59273-d1e2416">
+                     <lb ed="#P" n="22"/>A. Habitus naturales in intellectu Christi.
+<lb ed="#P" n="23"/>—Haec quaestio ex dictis facile definiri potest,
+<lb ed="#P" n="24"/>nam ex actibus facile est habitus colligere ;
+<lb ed="#P" n="25"/>sicut ergo actum in naturalem et 
+supernatu<lb break="no" ed="#P" n="26"/>ralem distinximus, ita pari ratione potest 
+dis<lb break="no" ed="#P" n="27"/>tingui habitus. Dico ergo primo, in Christi
+<lb ed="#P" n="28"/>intellectu fuisse habitus naturales. Haec 
+con<lb break="no" ed="#P" n="29"/>clusio certa est apud Theologos, in 3, dist. 14,
+<lb ed="#P" n="30"/>el patebit etiam ex dicendis disputatione 
+se<lb break="no" ed="#P" n="31"/>quenti, et infra etiam, quaest. 19. Nune solum
+<lb ed="#P" n="32"/>adverto primo, simpliciter loquendo, non esse
+<lb ed="#P" n="33"/>certius esse habitus naturales in intellectu
+<lb ed="#P" n="34"/>Christi, quam aliorum hominum, quia hoc
+<lb ed="#P" n="35"/>nullo modo revelatum est de Christo, et 
+pen<lb break="no" ed="#P" n="36"/>det ex principio generali de omnibus 
+homini<lb break="no" ed="#P" n="37"/>bus, non omnino certo. Si quis tamen hos
+<lb ed="#P" n="38"/>habitus in aliis hominibus admitteret, in 
+Chri<lb break="no" ed="#P" n="39"/>sto autem negaret, certe, et temerarius esset,
+<lb ed="#P" n="40"/>et suspectus in fide; et hoc modo intelligo
+<lb ed="#P" n="41"/>conclusionem esse certam, supposito, 
+scili<lb break="no" ed="#P" n="42"/>cet, principio philosophieo, non solum 
+pro<lb break="no" ed="#P" n="43"/>babiliori, sed fere evidenti. Secundo adverto,
+<lb ed="#P" n="44"/>nomine habituum comprehendi hoc loco, tam
+<lb ed="#P" n="45"/>species intelligibiles quam habitus 
+scientia<lb break="no" ed="#P" n="46"/>rum, atque omne id ( quidquid illud est) quod
+<lb ed="#P" n="47"/>in intellectu manet per modum actus primi,
+<lb ed="#P" n="48"/>et est principium recordationis, seu 
+memo<lb break="no" ed="#P" n="49"/>rie, et reddit illum facilem et promptum ad
+<lb ed="#P" n="50"/>naturales actus scientiae. Quanquam enim de
+<lb ed="#P" n="51"/>his varie versentur opiniones, tamen in 
+ge<lb break="no" ed="#P" n="52"/>nere, quod aliquid sit in intellectu permanens
+<lb ed="#P" n="53"/>per modum habitus, quo intellectualis me-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>moria generetur , fere nullus dubitat; negari
+<lb ed="#P" n="55"/>autem non potest quin in anima Christi fuerit
+<lb ed="#P" n="56"/>memoria intellectiva. Est enim haec naturalis
+<lb ed="#P" n="57"/>proprietas et facultas anima rationalis, et 
+os<lb break="no" ed="#P" n="58"/>tensum est ex definitionibus fidei, fuisse in
+<lb ed="#P" n="59"/>anima Christi omnes proprietates naturales
+<lb ed="#P" n="60"/>humanitatis; fuit ergo in illa intellectualis
+<lb ed="#P" n="61"/>memoria. Item haec facultas, et usus ejus,
+<lb ed="#P" n="62"/>spectat ad perfectionem prudentie humans,
+<lb ed="#P" n="63"/>teste Aristotele, 6 Ethic., c. 8, ubi ad 
+pruden<lb break="no" ed="#P" n="64"/>tiam, experientiam requirit; experientiam 
+au<lb break="no" ed="#P" n="65"/>tem memoria efficit, ut idem docet 1 
+Meta<lb break="no" ed="#P" n="66"/>phys., in principio. Sic ergo in genere constat
+<lb ed="#P" n="67"/>esse in intellectu Christi aliquid permanens
+<lb ed="#P" n="68"/>per modum habitus naturalis. In particulari
+<lb ed="#P" n="69"/>vero, quid illud fuerit, pendet ex 
+opinioni<lb break="no" ed="#P" n="70"/>bus. In eis tamen ita loquendum est de 
+Chri<lb break="no" ed="#P" n="71"/>sto, sicut de aliis hominibus, ut supra dictum
+<lb ed="#P" n="72"/>est, quia hoc pertinet ad consummatam 
+hu<lb break="no" ed="#P" n="73"/>mandv nature perfectionem, et ita constat
+<lb ed="#P" n="74"/>probabilius esse habere species intelligibiles
+<lb ed="#P" n="75"/>naturales, et habitus ab speciebus 
+distinc<lb break="no" ed="#P" n="76"/>tos, etc.
+</p>
+                  <p xml:id="szstco-k59273-d1e2540">
+                     <lb ed="#P" n="77"/>2. Habitus infusus in intellectu Christi. —
+<lb ed="#P" n="78"/>Dico secundo : etiam est in intellectu Christi
+<lb ed="#P" n="79"/>habitus infusus intellectualis ; nomine 
+habi<lb break="no" ed="#P" n="80"/>tus intelligo quodcumque principium actus,
+<lb ed="#P" n="81"/>quod sit qualitas infusa intellectui, et in eo
+<lb ed="#P" n="82"/>permanens, sive sit per modum luminis, sive
+<lb ed="#P" n="83"/>per modum speciei, et sive habeat actum 
+se<lb break="no" ed="#P" n="84"/>cundum semper conjunctum, sive non. Et
+<lb ed="#P" n="85"/>hoc sensu existimo conclusionem esse ita 
+cer<lb break="no" ed="#P" n="86"/>tam, ut sit fidei proxima, neque negari possit
+<lb ed="#P" n="87"/>sine nota erroris. Probatur ex dictis supra de
+<lb ed="#P" n="88"/>habituali gratia Christi. Illa enim seque fere
+<lb ed="#P" n="89"/>generalia sunt perfectionibus intellectus, sive
+<lb ed="#P" n="90"/>voluntatis; unde in locis Scripture quae de
+<lb ed="#P" n="91"/>hoc loquuntur , ambe conjunguntur, ut Isai.
+<lb ed="#P" n="92"/>AL : Aequiescet. super eun. Spiritus Domini,
+<lb ed="#P" n="93"/>Spiritus sapientie et intellectus. Ubi verbum
+<lb ed="#P" n="94"/>requiescet, indicat permanentiam per modum
+<lb ed="#P" n="95"/>habitus. Et Joan. 1 : Vidimus gloriam ejus,
+<lb ed="#P" n="96"/>plenwm gratiae et veriatis. Item , quia tam
+<lb ed="#P" n="97"/>certum est, lumen glorie datum esse animae
+<lb ed="#P" n="98"/>Christi ad videndum Deum, sicut aliis beatis.
+</p>
+                  <p xml:id="szstco-k59273-d1e2591">
+                     <lb ed="#P" n="99"/>3. Denique ostensum est fuisse in anima
+<lb ed="#P" n="100"/>Christi aclus supernaturalis cognitionis ; sed
+<lb ed="#P" n="101"/>ad eliciendos hujusmodi actus connaturali et
+<lb ed="#P" n="102"/>perfecto modo, requiritur habitus; ergo. 
+Con<lb break="no" ed="#P" n="103"/>firmatur, nam hac ratione in quocumque
+<lb ed="#P" n="104"/>Sancto est aliqua virtus intellectualis infusa ;
+<lb ed="#P" n="105"/>eur igitur non erit in Christo ? Nulla sane est
+<lb ed="#P" n="106"/>dubitandi ratio, neque aliquid invenio quod
+<lb ed="#P" n="107"/>contra has veritates objiciam , quod 
+respon<lb break="no" ed="#P" n="108"/>sione dignum sit; quanquam Palud., in 3,
+<pb ed="#P" n="666"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>d. 13, q. 2, multa in utramque partem 
+obji<lb break="no" ed="#P" n="2"/>ciat. Àn vero hic habitus sit unus vel 
+multi<lb break="no" ed="#P" n="3"/>plex, in sequentibus disputabitur.
+</p>
+               </div>
+            </div>
+            <div xml:id="szstco-k59273-Dd1e2628"><!--sua-p3-q9a2-->
+               <head xml:id="szstco-k59273-Hd1e2631">Articulus 2</head>
+               <p xml:id="szstco-k59273-d1e2633">
+                  <lb ed="#P" n="82" type="fixed=666"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k59273-d1e2638">
+                  <lb ed="#P" n="83"/>Affirmat D. Thomas, et probat, quia 
+Chri<lb break="no" ed="#P" n="84"/>stus est aliis beatitudinis causa ; multo ergo
+<lb ed="#P" n="85"/>magis eam habuit. Quas ratio est moralis 
+de<lb break="no" ed="#P" n="86"/>monstratio, non metaphysica; et ideo difü
+i<lb break="no" ed="#P" n="87"/>cultas, quam Cajetanus movet, necessaria
+<lb ed="#P" n="88"/>non est, quamvis qua occasione illius dicit,
+<lb ed="#P" n="89"/>et qui notat in solutione ad tertium, utilia
+<lb ed="#P" n="90"/>sint ; omnia tamen clara.
+</p>
+            </div>
+            <div xml:id="szstco-k59273-Dd1e2660"><!--sua-p3-q9a3-->
+               <head xml:id="szstco-k59273-Hd1e2663">Articulus 3</head>
+               <p xml:id="szstco-k59273-d1e2665">
+                  <lb ed="#P" n="4" type="fixed=668"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k59273-d1e2670">
+                  <lb ed="#P" n="5"/>1. Dupliciter potest aliqua scientia esse
+<lb ed="#P" n="6"/>infusa, vel per se, quia natura sua postulat
+<lb ed="#P" n="7"/>illum productionis modum ; vel per accidens,
+<lb ed="#P" n="8"/>quia licet acquiri possit, ex accidente 
+infun<lb break="no" ed="#P" n="9"/>ditur. D. Thomas ergo de scientia per se 
+in<lb break="no" ed="#P" n="10"/>fusa loquitur, ut. constat ex tota quaestione
+<lb ed="#P" n="11"/>sequenti, praesertim art. 4. Cajetanus vero
+<lb ed="#P" n="12"/>nescio quam differentiam invenit inter 
+no<lb break="no" ed="#P" n="13"/>men scientiae ézdiíe, velénfuse. Ait enim
+<lb ed="#P" n="14"/>scientiam dici infusam, quando datur supra
+<lb ed="#P" n="15"/>nature debitum, atque adeo diversa actione,
+<lb ed="#P" n="16"/>qua illius subjectum creatum est, qualem 
+di<lb break="no" ed="#P" n="17"/>cit (et bene) fuisse scientiam infusam animse
+<lb ed="#P" n="18"/>Christi ; inditam autem scientiam vocari 
+di<lb break="no" ed="#P" n="19"/>cit, qua datur alicui simul cum ipsa natura,
+<lb ed="#P" n="20"/>quia est connaturalis, et quasi debita ipsi
+<lb ed="#P" n="21"/>nature, atque adeo, quae imprimitur eadem
+<lb ed="#P" n="22"/>actione, qua ipsa natura creatur, ut est, 
+in<lb break="no" ed="#P" n="23"/>quit, scientia angelica. Sed, quod ad verba
+<lb ed="#P" n="24"/>attinet, non immoror, quanquam existimem
+<lb ed="#P" n="25"/>has voces apud "Theologos fere semper pro
+<lb ed="#P" n="26"/>eadem usurpari, et latine idem significare,
+<lb ed="#P" n="27"/>si tamen vox adita, latina est. Quod vero ad
+<lb ed="#P" n="28"/>rem attinet, illud solum de productione 
+scien<lb break="no" ed="#P" n="29"/>tie inditee per eamdem actionem, qua 
+produ<lb break="no" ed="#P" n="30"/>citur subjectum, existimo esse falsum, quia,
+<lb ed="#P" n="31"/>cum sit qualitas a subjecto distincta, et ab
+<lb ed="#P" n="32"/>illo effective non resultet, ut in materia de
+<lb ed="#P" n="33"/>Angelis ostendi, etiamsi connaturalis sit 
+sub<lb break="no" ed="#P" n="34"/>jecto, necesse est ut ab agente distincta 
+ac<lb break="no" ed="#P" n="35"/>tione producatur. Vera ergo differentia solum
+<lb ed="#P" n="36"/>est, quod scientia cum natura concreata, sive
+<lb ed="#P" n="37"/>infusa, sive indita dicatur, interdum est 
+su<lb break="no" ed="#P" n="38"/>pra naturalem capacitatem et debitum 
+na<lb break="no" ed="#P" n="39"/>ture ; interdum vero est illi consentanea.
+</p>
+               <p xml:id="szstco-k59273-d1e2748">
+                  <lb ed="#P" n="40"/>9. Objectio. — Responsio. — Respondet D.
+<lb ed="#P" n="41"/>Thomas esse in Christo scientiam infusam
+<lb ed="#P" n="42"/>praeter beatam. Probat, quia intellectus 
+Chris<lb break="no" ed="#P" n="43"/>li est in potentia ad species intelligibiles ;
+<lb ed="#P" n="44"/>ergo, ut esset perfectus, debuit habere 
+ac<lb break="no" ed="#P" n="45"/>tum. Sed contra, nam vel est sermo de 
+po<lb break="no" ed="#P" n="46"/>tentia naturali, et sic non concluditur 
+inten<lb break="no" ed="#P" n="47"/>tum, quia ad scientiam per se infusam non
+<lb ed="#P" n="48"/>est intellectus humanus in potentia naturali.
+<lb ed="#P" n="49"/>Vel est sermo de obedientiali, et hanc 
+poten<lb break="no" ed="#P" n="50"/>liam non oportet habere semper actum, quia
+<lb ed="#P" n="51"/>neque est debitus, nec potest dari omnino
+<lb ed="#P" n="52"/>adsquatus. Respondetur ex eodem D. 
+Tho<lb break="no" ed="#P" n="53"/>ma, q. 41, art. 4, sermonem esse de potentia
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="54"/>obedientiali. Sed (ut bene Cajetanus hic et ibi
+<lb ed="#P" n="55"/>notat) non est intellizendum de potentia 
+obe<lb break="no" ed="#P" n="56"/>dientiali in tota sua latitudine, prout ad 
+abso<lb break="no" ed="#P" n="57"/>lutam Dei potentiam comparari potest, sic
+<lb ed="#P" n="58"/>enim recte procedit argumentum factum ; sed
+<lb ed="#P" n="59"/>intelligendum est de hac potentia, ut 
+perti<lb break="no" ed="#P" n="60"/>nente ad perfectum statum gratiae, seu prout
+<lb ed="#P" n="61"/>in eo statu secundum legem Dei ordinariam
+<lb ed="#P" n="62"/>reduci solet in actum, ae si diceremus animam
+<lb ed="#P" n="63"/>esse in potentia ad gratiam, vel ad caritatem
+<lb ed="#P" n="64"/>infusam ; eodem enim modo per intellectum
+<lb ed="#P" n="65"/>estin potentia, ut in aliquo statu perfecte 
+co<lb break="no" ed="#P" n="66"/>enoscatres in proprio genere seu per proprias
+<lb ed="#P" n="67"/>species ; et ita optime procedit ratio D. 
+Tho<lb break="no" ed="#P" n="68"/>mz, et multo magis in Christo quàm in aliis,
+<lb ed="#P" n="69"/>cui ratione unionis potest haec capacitas dici
+<lb ed="#P" n="70"/>quodammodo naturalis.
+</p>
+               <p xml:id="szstco-k59273-d1e2820">
+                  <lb ed="#P" n="71"/>3. In argumentis tractat D. Thomas, an
+<lb ed="#P" n="72"/>cum scientia beata possit esse simul alia
+<lb ed="#P" n="73"/>scientia de eisdem rebus per beatam cognitis;
+<lb ed="#P" n="74"/>qua quaestio facilis est, et communis aliis
+<lb ed="#P" n="75"/>beatis, et ita argumenta omnia clara sunt, et
+<lb ed="#P" n="76"/>non indigent expositione. Notanda vero est
+<lb ed="#P" n="77"/>solutio ad secundum, ubi D. Thomas sentit,
+<lb ed="#P" n="78"/>actum opinionis esse posse simul cum 
+scien<lb break="no" ed="#P" n="79"/>tia, et Cajetanus in re idem affirmare videtur,
+<lb ed="#P" n="80"/>quamvis in modo loquendi neget. Sed de hoc
+<lb ed="#P" n="81"/>alias.
+</p>
+            </div>
+            <div xml:id="szstco-k59273-Dd1e2847"><!--sua-p3-q9a4-->
+               <head xml:id="szstco-k59273-Hd1e2850">Articulus 4</head>
+               <p xml:id="szstco-k59273-d1e2852">
+                  <lb ed="#P" n="91" type="fixed=669"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k59273-d1e2857">
+                  <lb ed="#P" n="92"/>1. Duplex potest esse sensus quaestionis
+<lb ed="#P" n="93"/>hujus. Prior, an in Christo fuerit scientia 
+na<lb break="no" ed="#P" n="94"/>iura sua acquisita, sive ab ipso acquisita 
+fue<lb break="no" ed="#P" n="95"/>rii, sive aliunde habita, ut fuit in Adam. 
+Pos<lb break="no" ed="#P" n="96"/>terior est, an inillo fuerit talis scientia, et tali
+<lb ed="#P" n="97"/>modo, scilicet, per proprios actus paulatim
+<lb ed="#P" n="98"/>comparata; et hic posterior est manifestus
+<pb ed="#P" n="670"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>sensus D. Thome, ut patet ex corpore 
+arti<lb break="no" ed="#P" n="2"/>culi. Quid autem nomine scientiae intelligat,
+<lb ed="#P" n="3"/>non satis constat; potest enim intelligere, vel
+<lb ed="#P" n="4"/>proprium habitum scientiae in rigore 
+sum<lb break="no" ed="#P" n="5"/>ptum (ut Cajet. illum intelligit, et videtur
+<lb ed="#P" n="6"/>sane mens ejus), vel generaliter quemcunque
+<lb ed="#P" n="7"/>habitum in intellectu acquisitum, sive sit 
+spe<lb break="no" ed="#P" n="8"/>cies, sive quidvis aliud, de quo magis 
+viden<lb break="no" ed="#P" n="9"/>tur procedere probationes D. Thome.
+</p>
+               <p xml:id="szstco-k59273-d1e2899">
+                  <lb ed="#P" n="10"/>9. Assertio ergo est, fnisse in anima Christi
+<lb ed="#P" n="11"/>hujusmodi scientiam acquisitam , ne 
+intellec<lb break="no" ed="#P" n="12"/>tus agens in Christo fuerit otiosus. Quae ratio,
+<lb ed="#P" n="13"/>ut constat, summum probat comparasse 
+Chri<lb break="no" ed="#P" n="14"/>stum aliquas species intelligibiles per 
+actio<lb break="no" ed="#P" n="15"/>nem intellectus agentis, eadem enim potest
+<lb ed="#P" n="16"/>ad Adamum applicari. Sed de hac re infra
+<lb ed="#P" n="17"/>disputandum est latius. Argumenta D. Thome
+<lb ed="#P" n="18"/>solum procedunt contra priorem sensum
+<lb ed="#P" n="19"/>questionis , et ideo difficultatem non habent.
+</p>
+            </div>
+            <div xml:id="szstco-k59273-Dd1e2924"><!--sua-p3-q9a4-d25-->
+               <head xml:id="szstco-k59273-Hd1e2927">Disputatio 25</head>
+               <head xml:id="szstco-k59273-Hd1e2929" type="question-title">
+      De triplici scientia animae 
+      Christi, quoad quaestionem ad est
+    </head>
+               <p xml:id="szstco-k59273-d1e2932">
+                  <lb ed="#P" n="20" type="fixed=670"/>DISPUTATIO XXV.
+<lb ed="#P" n="21"/>in tres Sectiones distributa.
+<lb ed="#P" n="22"/>DE TRIPLICI SCIENTIA ANIMAE CHRISTI QUOAD
+<lb ed="#P" n="23"/>QUAESTIONEM AN EST.
+</p>
+               <p xml:id="szstco-k59273-d1e2943">
+                  <lb ed="#P" n="24"/>Ostendimus disputatione praecedenti, in
+<lb ed="#P" n="25"/>Christo esse scientiam creatam. Sequitur ut
+<lb ed="#P" n="26"/>videamus quotuplex illa sit, tractaturi postea
+<lb ed="#P" n="27"/>quid unaqueque sit, ordinem D. Thom 
+se<lb break="no" ed="#P" n="28"/>quentes. In hae vero quaestione non 
+distin<lb break="no" ed="#P" n="29"/>guemus actum et habitum scientiv, 
+suppo<lb break="no" ed="#P" n="30"/>nentes eamdem esse de utroque rationem, ut
+<lb ed="#P" n="31"/>ex fine praecedentis disputationis constat.
+</p>
+               <div xml:id="szstco-k59273-Dd1e2963">
+                  <head xml:id="szstco-k59273-Hd1e2965">Sectio 1</head>
+                  <head xml:id="szstco-k59273-Hd1e2967" type="question-title">
+  Utrum anima Christi a principio creationis suae
+  fuerit beata
+</head>
+                  <p xml:id="szstco-k59273-d1e2970">
+                     <lb ed="#P" n="32" type="fixed=670"/>SECTIO I.
+<lb ed="#P" n="33"/>Utrum anima Christi a principio creationis suae
+<lb ed="#P" n="34"/>fuerit beata.
+</p>
+                  <p xml:id="szstco-k59273-d1e2979">
+                     <lb ed="#P" n="35"/>1. Difficultas hujus quaestionis posita est in
+<lb ed="#P" n="36"/>tempore quo Christus Dominus cepit habere
+<lb ed="#P" n="37"/>hane scientiam. Nam, quod nune illam 
+ha<lb break="no" ed="#P" n="38"/>beat, et saltem a tempore mortis suae illam
+<lb ed="#P" n="39"/>habuerit, de fide certum est, neque aliquem
+<lb ed="#P" n="40"/>qui in Christum credat, invenio in hoc 
+dubi<lb break="no" ed="#P" n="41"/>lasse, cum per mortem Christi aliis etiam 
+jus<lb break="no" ed="#P" n="42"/>tis aperta sit janua coeli, ut infra ostendetur ,
+<lb ed="#P" n="43"/>et cum latroni ipse promiserit : ZZodie meeum
+<lb ed="#P" n="44"/>eris i» paradiso, et cum gloriosa resurrectio
+<lb ed="#P" n="45"/>corporis fuerit evidens testimonium glorice
+<lb ed="#P" n="46"/>ipsius animes. Quod ergo in quaestionem verti
+<lb ed="#P" n="47"/>potest, solum est an in tempore vite mortalis
+<lb ed="#P" n="48"/>hac eadem scientia potitus fuerit. Heretici
+<lb ed="#P" n="49"/>enim, qui Christo ignorantiam tribuunt mul-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="50"/>tarum rerum quas prius non cognovit, et
+<lb ed="#P" n="51"/>postea paulatim didicit, consequenter negant
+<lb ed="#P" n="52"/>habuisse semper hanc scientiam beatam ; in
+<lb ed="#P" n="53"/>quem errorem multi ex hereticis hujus 
+tem<lb break="no" ed="#P" n="54"/>poris lapsi sunt, praesertim Lutherus, Calvinus
+<lb ed="#P" n="55"/>et Zuinglius. Fundamenta eorum (si quae esse
+<lb ed="#P" n="56"/>possunt) statim attingemus.
+</p>
+                  <p xml:id="szstco-k59273-d1e3031">
+                     <lb ed="#P" n="57"/>2. Dico ergo primo, animam Christi 
+Domi<lb break="no" ed="#P" n="58"/>ni, etiam eo tempore quo fuit conjuncta 
+cor<lb break="no" ed="#P" n="59"/>pori mortali, habuisse scientiam beatam. [ta
+<lb ed="#P" n="60"/>sentiunt Theologi statim citandi. Et probatur
+<lb ed="#P" n="61"/>testimoniis Scripture sacre, quis, licet per se
+<lb ed="#P" n="62"/>singula non cogant, tamen simul sumpta, et
+<lb ed="#P" n="63"/>adjunctis Patrum testimoniis, magnam fidem
+<lb ed="#P" n="64"/>faciunt. Joan. 4 : Deum nemo vidit unquam.
+<lb ed="#P" n="65"/>Unigenitus, qui est in siwu Patris, ipse 
+enar<lb break="no" ed="#P" n="66"/>l'àvit ; ae si apertius diceret : Unigenitus, qui
+<lb ed="#P" n="67"/>videt , ipse enarravit. Et sicut per 
+humanita<lb break="no" ed="#P" n="68"/>tem et dum in mortali vita viveret, 
+enarra<lb break="no" ed="#P" n="69"/>vit, ita per eamdem humanitatem et eodem
+<lb ed="#P" n="70"/>tempore vidit. Ita fere Augustinus, tractatn
+<lb ed="#P" n="71"/>8 in Joan, ; et colligitur etiam ex Cyrillo, 
+li<lb break="no" ed="#P" n="72"/>bro 4 in Joan., e. 22; et Chrysostomo, 
+homi<lb break="no" ed="#P" n="73"/>lia 14 in Joan., cui consonant verba Christi,
+<lb ed="#P" n="74"/>Joan. 3 : Quod scimus, loquimur, et quod 
+vidi<lb break="no" ed="#P" n="75"/>mus testamur. Ubi aperte loquitur de se 
+ho<lb break="no" ed="#P" n="76"/>mine, et ad eumdem sensum exponitur quod
+<lb ed="#P" n="77"/>statim subdit : JVemo ascendit in calum, nisi
+<lb ed="#P" n="78"/>qui descendit de ccelo, P'ilius hominis, qui est
+<lb ed="#P" n="79"/>in ccelo. Ubi verbum ascendit, non est 
+praesen<lb break="no" ed="#P" n="80"/>tis temporis, sed praeteriti, ut constat ex 
+ver<lb break="no" ed="#P" n="81"/>bo greco, àvagégrnxsv ; dicitur ergo Christus 
+sc<lb break="no" ed="#P" n="82"/>eundum humanitatem ascendisse, et esse in
+<lb ed="#P" n="83"/>ccelo, non corporeo ascensu, sed visione 
+bea<lb break="no" ed="#P" n="84"/>ta; quia priori modo nondum ascenderat ,
+<lb ed="#P" n="85"/>neque ille ascensus potuit convenire Christo
+<lb ed="#P" n="86"/>secundum divinitatem, quia in illam non 
+ca<lb break="no" ed="#P" n="87"/>dit ascensus, ratione sui. Neque obstat quod
+<lb ed="#P" n="88"/>ait : ZVemo ascendit , nisi qui descendit, Quia
+<lb ed="#P" n="89"/>non oportet ut ascensus et descensus 
+secun<lb break="no" ed="#P" n="90"/>dum eamdem rationem vel metaphoram 
+in<lb break="no" ed="#P" n="91"/>telligantur; descendit ergo perincarnationem,
+<lb ed="#P" n="92"/>ascendit per visionem. Unde non fuit piior
+<lb ed="#P" n="93"/>ascensus quam descensus, sed, e contrario,
+<lb ed="#P" n="94"/>prius descendit (scilicet, ordine nature) ut
+<lb ed="#P" n="95"/>posset ascendere. Unde ibidem ait de. illo
+<lb ed="#P" n="96"/>Joannes : Qwi de celo venit, super omnes est,
+<lb ed="#P" n="97"/>et quod vidit et audivit , hoc testatur. Quo
+<lb ed="#P" n="98"/>verba eamdem vim habent quam 
+praeceden<lb break="no" ed="#P" n="99"/>tia. Quod autem dicit : Vidit e£ audivit, non
+<lb ed="#P" n="100"/>sunt diversa, sed eadem visio, auditio dicitur,
+<lb ed="#P" n="101"/>ut significetur non habere illam ex vi 
+huma<lb break="no" ed="#P" n="102"/>nitalis , sed ex infusione divina ; est ergo iila
+<lb ed="#P" n="103"/>auditio longe diversa ab ea quam nos 
+habe<lb break="no" ed="#P" n="104"/>mus per fidem. Unde, veluti hoc ipsum inter-
+<pb ed="#P" n="671"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>pretans, ait Christus, Joan. 6 : Omnis qui 
+au<lb break="no" ed="#P" n="2"/>divit a Paíre et didicit, venit ad me, non quia
+<lb ed="#P" n="3"/>Patrem viderit quisquam, misi is qui est a Deo.
+<lb ed="#P" n="4"/>Ac si diceret , non ita audiunt alii sicut 
+Chri<lb break="no" ed="#P" n="5"/>stus, qui videndo audit. Simile est illud Joan.
+<lb ed="#P" n="6"/>8: Ego, quae vidi apud Patrem , loquor. Et
+<lb ed="#P" n="7"/>Joan. 19: Ubi ego swm , illic e£ minister meus
+<lb ed="#P" n="8"/>erit , id est in gloria. Et c. 14 : Ut ubi ego
+<lb ed="#P" n="9"/>sum, et vos sitis. Accommodatur etiam illud
+<lb ed="#P" n="10"/>Psal. 40 : Beatum faciet illum àn terra ; nam
+<lb ed="#P" n="11"/>Psal. ille de Christo exponitur Joan. 43. Et
+<lb ed="#P" n="12"/>confirmari potest, nam gloria 
+Transfiguratio<lb break="no" ed="#P" n="13"/>nis signum fuit glorie latentis in anima , ut
+<lb ed="#P" n="14"/>Patres omnes tradunt, exponentes illud 
+mys<lb break="no" ed="#P" n="15"/>terium, uf infra, suo loco, videbimus. Ex 
+dic<lb break="no" ed="#P" n="16"/>tis etiam testimoniis sumitur bona ratio, nam
+<lb ed="#P" n="17"/>Christus futurus erat auctor divine doctrine,
+<lb ed="#P" n="18"/>et doctor praecipuus mysteriorum Dei ; ergo
+<lb ed="#P" n="19"/>oportuit ut non tantum audita, sed a se visa
+<lb ed="#P" n="20"/>narraret. Sed haec assertio magis cum 
+se<lb break="no" ed="#P" n="21"/>quenti confirmabitur.
+</p>
+                  <p xml:id="szstco-k59273-d1e3188">
+                     <lb ed="#P" n="22"/>3. Christus a. primo suae conceptionis 
+ns<lb break="no" ed="#P" n="23"/>tanti scientiam. el. visionem habuit beatam. —
+<lb ed="#P" n="24"/>Dico ergo secundo : anima Christi vidit Deum
+<lb ed="#P" n="25"/>à primo instanti creationis sus. Ita docent
+<lb ed="#P" n="26"/>Theologi omnes, in3, d. 14; D. Thomas 
+hic<lb break="no" ed="#P" n="27"/>et infra, q. 15, art. 10, 34, a. 4; Can. late,
+<lb ed="#P" n="28"/>lib. 12 de Locis, c. 14; et sequitur fere ex
+<lb ed="#P" n="29"/>precedenti conclusione, quia non est major
+<lb ed="#P" n="30"/>ratio de uno tempore vite mortalis, quam de
+<lb ed="#P" n="31"/>alio. Nam visio béata non magis impediri 
+po<lb break="no" ed="#P" n="32"/>terat in infantili corpore quam passibili, cum
+<lb ed="#P" n="33"/>supra utriusque statum sit, eta neutro statu
+<lb ed="#P" n="34"/>corporis pendeat. Alioqui vero fons et 
+prima<lb break="no" ed="#P" n="35"/>ria ratio illius visionis eadem fuit semper in
+<lb ed="#P" n="36"/>Christo a principio conceptionis, scilicet, unio
+<lb ed="#P" n="37"/>hypostatica. Et ita probatur optime hae 
+con<lb break="no" ed="#P" n="38"/>clusio ex illo Joan. 1 : Vidimus gloriam ejus,
+<lb ed="#P" n="39"/>gloriam quasi. Unigeniti a Patre, plenum 
+gra<lb break="no" ed="#P" n="40"/>tie et veritatis. Ubi indicatur (ut supra cum
+<lb ed="#P" n="41"/>D. Thoma et Theologis) gloriam et 
+plenitudi<lb break="no" ed="#P" n="42"/>nem gratiae et veritatis datam esse Christo
+<lb ed="#P" n="43"/>homini, quia est Unigenitus Patris ; et ita 
+es<lb break="no" ed="#P" n="44"/>se veluti proprietatem manantem ab unione;
+<lb ed="#P" n="45"/>ergo, sicut a primo instanti conceptionis ille
+<lb ed="#P" n="46"/>homo fuit Unigenitus Patris,ita ex tunc habuit
+<lb ed="#P" n="47"/>gloriam et gratiam consummatam in gloria
+<lb ed="#P" n="48"/>et visione Dei. Ita colligitur ex Athanas., orat.
+<lb ed="#P" n="49"/>4 contra Arian., et in lib. de Salutari Christi
+<lb ed="#P" n="50"/>adventu, et de humanitate Verbi; clarius et
+<lb ed="#P" n="51"/>brevius, ex Damasc., 1. 3 de Fide, c. 92, ubi
+<lb ed="#P" n="52"/>propterea, inquit, eos, qui dicunt Christum
+<lb ed="#P" n="53"/>vorum Vncrementum, ium sopientia accepisse,
+<lb ed="#P" n="54"/>conseguenler negare unionem factam. esse a. 
+pri<lb break="no" ed="#P" n="55"/>to ilo carnis criu; nam si tunc, inquit, facta
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>est, quid tandem afferri potest, quin omnibus
+<lb ed="#P" n="57"/>prorsus sapientie gralueque opibus 
+affluae<lb break="no" ed="#P" n="58"/>ri * etc. Confirmari potest ex illo Jer. 31 :
+<lb ed="#P" n="59"/>Femina circumdabit virum, scilicet, sapientia,
+<lb ed="#P" n="60"/>utsupra, cum Hieronymo, exposuimus; in
+<lb ed="#P" n="61"/>Scripturis autem non dicitur hoc modo vir,
+<lb ed="#P" n="62"/>nisi qui videt Deum ; reliqui enim, ut parvuli
+<lb ed="#P" n="63"/>existimantur, juxta illud 4 Cor. 13 : Postquam
+<lb ed="#P" n="64"/>autem factus sum vir, evacuavi quae erant 
+par<lb break="no" ed="#P" n="65"/>vuli. Confirmatur secundo ex illo Psal. 94 :
+<lb ed="#P" n="66"/>Inie projectus sum em wulero. Que verba de
+<lb ed="#P" n="67"/>Christo intelligit Eusebius, libro 10 de 
+De<lb break="no" ed="#P" n="68"/>monstrat. Evangel.,cap. ultimo. Et introducit
+<lb ed="#P" n="69"/>Christum dicentem ad Patrem : Zz func Deum
+<lb ed="#P" n="70"/>neum jam videbam. Denique accommodatur
+<lb ed="#P" n="71"/>illud Psalm. 65: Peatus quem. elegisti et 
+as<lb break="no" ed="#P" n="72"/>sumpsisti. Quod de humanitate Christi 
+intel<lb break="no" ed="#P" n="73"/>ligit Augustinus, indicans in ipsa 
+assump<lb break="no" ed="#P" n="74"/>üone plenam fuisse gloria et beatitudine.
+<lb ed="#P" n="75"/>Idem sentit lib. 83 Question., q. 65, et libro
+<lb ed="#P" n="76"/>4 de Consensu Evangel., cap. ultimo, in 
+fi<lb break="no" ed="#P" n="77"/>ne. Ubi, cum dixisset nullum mortalem 
+ho<lb break="no" ed="#P" n="78"/>minem posse in hac vita videre Deum, 
+sub<lb break="no" ed="#P" n="79"/>dit : Qua «acne proprietate distat a 
+cete<lb break="no" ed="#P" n="80"/>vis homo cujus susceptione Verbum caro 
+fac<lb break="no" ed="#P" n="81"/>Qum est. Denique Richardus de S. Victore,
+<lb ed="#P" n="82"/>lib. 4 de Emmanuel., c. 99 : Quod aos, 
+in<lb break="no" ed="#P" n="83"/>quit, expectamus iq consummatione, illi datum
+<lb ed="#P" n="84"/>est i sua conceptione. Ad hoc etiam 
+confir<lb break="no" ed="#P" n="85"/>mandum, afferri possunt omnia quae supra
+<lb ed="#P" n="86"/>adduximus super art. 12, quaest. 7 D. 
+Tho<lb break="no" ed="#P" n="87"/>me, ex Patribus exponentibus locum Luc 2,
+<lb ed="#P" n="88"/>Proficiebat sapientia, et docentibus non ita
+<lb ed="#P" n="89"/>inse profecisse, ut aliquid denuo didicerit,
+<lb ed="#P" n="90"/>de quotestimonio dicemus plura infra, quaest.
+<lb ed="#P" n="91"/>19. Afferri etiam possunt quae disp. 18 et 92,
+<lb ed="#P" n="92"/>de plenitudine gratiae Christi, attulimus, quam
+<lb ed="#P" n="93"/>a prineipio conceptionis obtinuisse 
+probavi<lb break="no" ed="#P" n="94"/>mus. Denique afferri possunt qua statim q.
+<lb ed="#P" n="95"/>10, art. 2 D. Thome, dicemus, de illo 
+testi<lb break="no" ed="#P" n="96"/>monio Matt. 13 : De illa die nemo scit, neque
+<lb ed="#P" n="97"/>Filius.
+</p>
+                  <p xml:id="szstco-k59273-d1e3357">
+                     <lb ed="#P" n="98"/>4. Ultimo addere possumus rationes. 
+Pri<lb break="no" ed="#P" n="99"/>ma, quae ex dictis testimoniis Scripture 
+sumi<lb break="no" ed="#P" n="100"/>tur, est, quia Christus semper fuit Filius Dei
+<lb ed="#P" n="101"/>naturalis; ergo heres; ergo possessor; neque
+<lb ed="#P" n="102"/>enim tempore indigebat ad fruendum 
+hare<lb break="no" ed="#P" n="103"/>ditate; neque interventura erat mors Patris,
+<lb ed="#P" n="104"/>ut Filius in possessionem mitteretur; neque
+<lb ed="#P" n="105"/>propter statem impediri poterat, ut supra
+<lb ed="#P" n="106"/>ostensum est. Secunda, quia non est credibile
+<lb ed="#P" n="107"/>divinam personam non statim ditasse 
+natu<lb break="no" ed="#P" n="108"/>ram suam omnibus donis gratiae et gloriae, et
+<lb ed="#P" n="109"/>omnem contrariam imperfectionem ab anima
+<lb ed="#P" n="110"/>sua abjecisse; carere autem felicitate, magna
+<pb ed="#P" n="672"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>est imperfectio quae nec nobis erat necessaria,
+<lb ed="#P" n="2"/>nec divinam personam decebat.
+</p>
+                  <p xml:id="szstco-k59273-d1e3396">
+                     <lb ed="#P" n="3"/>5. Objectio. — Responsio.— Dices : imo fuit
+<lb ed="#P" n="4"/>nobis et ipsi necessaria propter majorem
+<lb ed="#P" n="5"/>perfectionem, scilicet, ut sibi et nobis mereri
+<lb ed="#P" n="6"/>posset, et pro nobis dolere et tristari. 
+Res<lb break="no" ed="#P" n="7"/>pondetur, quod ad ipsum attinet, melius ipsi
+<lb ed="#P" n="8"/>fuisse semper fuisse beatum , quam 
+beatitu<lb break="no" ed="#P" n="9"/>dinem mereri , praesertim cum beatitudinem
+<lb ed="#P" n="10"/>quodammodo sibi connaturalem haberet 
+ra<lb break="no" ed="#P" n="11"/>lione unionis. Adde, si oportuisset sibi mereri
+<lb ed="#P" n="12"/>beatitudinem, potuisse hoc facere, etiam si
+<lb ed="#P" n="13"/>nullo tempore ea caruisset, ut inferius, q. 19,
+<lb ed="#P" n="14"/>osiendemus ; unde, quod ad nos pertinet, 
+po<lb break="no" ed="#P" n="15"/>tuit simul esse viator et comprehensor, et ita
+<lb ed="#P" n="16"/>pro nobis mereri, et pro nobis satisfacere, et
+<lb ed="#P" n="17"/>veram tristitiam et dolorem pro nobis 
+susci<lb break="no" ed="#P" n="18"/>pere, absque carentia beatitudinis. Tertia 
+ra<lb break="no" ed="#P" n="19"/>tio sumitur ex D. Thoma hic, quia Christus
+<lb ed="#P" n="20"/>est caput influens in omnes gratiam et 
+elo<lb break="no" ed="#P" n="21"/>riam; ergo debuit ipse multo magis esse 
+or<lb break="no" ed="#P" n="22"/>natus gratia et gloria. Cui adde, quod a 
+prin<lb break="no" ed="#P" n="23"/>cipio conceptionis fuit caput etiam 
+Angelo<lb break="no" ed="#P" n="24"/>rum, quod statim ipsi jussi sunt adorare, ut
+<lb ed="#P" n="25"/>dicitur ad Hebr. 1; ergo non est credibile
+<lb ed="#P" n="26"/>fuisse caput in inferiori statu gratiae aut 
+glo<lb break="no" ed="#P" n="27"/>rie quam Angeli erant. Unde confirmatur,
+<lb ed="#P" n="28"/>nam Angeli sancti parum post creationem
+<lb ed="#P" n="29"/>suam acceperunt gloriam, in tertio, vel (ut alii
+<lb ed="#P" n="30"/>volunt) in secundo instanti ; ergo anima 
+Chri<lb break="no" ed="#P" n="31"/>sti illos superavit, et a primo instanti Deum
+<lb ed="#P" n="32"/>vidit. Tandem conjectura, qua ex D. Thoma
+<lb ed="#P" n="33"/>hie colligitur, optima est, quia Christus de
+<lb ed="#P" n="34"/>justitia meruit aliis gratiam et gloriam. Ergo
+<lb ed="#P" n="35"/>decuit ut a principio ipse. haberet gratiam et
+<lb ed="#P" n="36"/>gloriam, quia, licet visio Dei proprie et per se
+<lb ed="#P" n="37"/>non requiratur ad meritum, tamen in eo, qui
+<lb ed="#P" n="38"/>est perfectissimum principium omnis meriti,
+<lb ed="#P" n="39"/>quique ad suam sanctificationem non 
+indige<lb break="no" ed="#P" n="40"/>bat merito, convenientissimum fuit ut gratia
+<lb ed="#P" n="41"/>consummata esset illi principium meriti. Unde
+<lb ed="#P" n="42"/>confirmatur, quia Adam, eo quod futurus erat
+<lb ed="#P" n="43"/>naturale principium generis humani, creatus
+<lb ed="#P" n="44"/>fuit a principio perfectus in naturalibus; ergo
+<lb ed="#P" n="45"/>Christus, qui est supremus auctor gratiae et
+<lb ed="#P" n="46"/>glorie, debuit a principio su: conceptionis
+<lb ed="#P" n="47"/>habere gratiam et gloriam summe perfectam.
+</p>
+                  <p xml:id="szstco-k59273-d1e3496">
+                     <lb ed="#P" n="48"/>6. Dubium.— Responsio.— Sed quares qua
+<lb ed="#P" n="49"/>certitudine hac doctrina tenenda sit. Aliqui
+<lb ed="#P" n="50"/>existimant simpliciter esse de fide. Sed non
+<lb ed="#P" n="51"/>videtur, quia Scripture testimonia non sunt
+<lb ed="#P" n="52"/>adeo expressa, quin aliis modis explicari 
+pos<lb break="no" ed="#P" n="53"/>sint, et nulla etiam extat de hac re Ecclesise
+<lb ed="#P" n="54"/>definitio, neque etiam traditio est satis aperta;
+<lb ed="#P" n="55"/>nam, licet Theologi in hac veritate asserenda
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>consentiant , nou tamen illam affirmant ut
+<lb ed="#P" n="57"/>dogma fidei, et fere eodem modo loquuntur
+<lb ed="#P" n="58"/>sancti Patres; et ideo alii solum dicunt esse
+<lb ed="#P" n="59"/>opinionem ita veram , ut contrarium opinari
+<lb ed="#P" n="60"/>temerarium sit. Et haec censura est mitissima
+<lb ed="#P" n="61"/>omnium quae fieri potest ; existimo enim 
+con<lb break="no" ed="#P" n="62"/>trariam sententiam, etiam erroneum et 
+pro<lb break="no" ed="#P" n="63"/>ximam heresi esse, quia Scripture 
+testimo<lb break="no" ed="#P" n="64"/>nia, adjunctis expositionibus et testimoniis
+<lb ed="#P" n="65"/>Patrum, et consensu Doctorum omnium 
+Ca<lb break="no" ed="#P" n="66"/>tholicorum , sufficiunt ad hanc certitudinem
+<lb ed="#P" n="67"/>prestandam.
+</p>
+                  <p xml:id="szstco-k59273-d1e3544">
+                     <lb ed="#P" n="68"/>7. Objectio. — Responsio.— Sed contra hanc
+<lb ed="#P" n="69"/>veritatem objici solent varia loca 
+Seriplura<lb break="no" ed="#P" n="70"/>rum, quae partim tractata sunt cum de 
+gra<lb break="no" ed="#P" n="71"/>lia ageremus , partim attingentur in 
+sequen<lb break="no" ed="#P" n="72"/>tibus. Nune solum objicitur illud Luc. 92 ;
+<lb ed="#P" n="73"/>Nonne oportuit pati Christum, et ita intrare
+<lb ed="#P" n="74"/>in gloriam, suam? Ergo ante passionem non
+<lb ed="#P" n="75"/>intravit in gloriam. Unde Joan. 7 dicitur :
+<lb ed="#P" n="76"/>Nondum erat Spiritus datus, quia nondum
+<lb ed="#P" n="77"/>erat Jesus glorificatus. Et ideo, Joan. 17, orat
+<lb ed="#P" n="78"/>ipse Christus : Clarifíca me, Pater, etc. 
+Res<lb break="no" ed="#P" n="79"/>pondetur, haec testimonia intelligi de gloria
+<lb ed="#P" n="80"/>resurrectionis et ascensionis, et de 
+manifes<lb break="no" ed="#P" n="81"/>tatione et exaltatione nominis Christi, ut 
+Pa<lb break="no" ed="#P" n="82"/>ires omnes intelligunt.
+</p>
+                  <p xml:id="szstco-k59273-d1e3579">
+                     <lb ed="#P" n="83"/>8. Objectio. — Responsio. — Dices : Gloria
+<lb ed="#P" n="84"/>corporis et anime conjuncta necessario sunt,
+<lb ed="#P" n="85"/>si corpus et anima inter se sint conjuncta ;
+<lb ed="#P" n="86"/>manat enim gloria corporis ex gloria anime,
+<lb ed="#P" n="87"/>ut Theologi docent cum Augustino, ep. 56.
+<lb ed="#P" n="88"/>Respondetur fuisse quidem debitam gloriam
+<lb ed="#P" n="89"/>corpori Christi a principio conceptionis , non
+<lb ed="#P" n="90"/>tantum ratione glori? anims, sed etiam 
+ra<lb break="no" ed="#P" n="91"/>tione unionis; tamen propter nostram 
+redem<lb break="no" ed="#P" n="92"/>ptionem, divina dispensatione, illa ad tempus
+<lb ed="#P" n="93"/>caruisse, cujus rei significationem quamdam
+<lb ed="#P" n="94"/>in Transfiguratione tradidit, ut dictum est.
+</p>
+               </div>
+               <div xml:id="szstco-k59273-Dd1e3610">
+                  <head xml:id="szstco-k59273-Hd1e3612">Sectio 2</head>
+                  <head xml:id="szstco-k59273-Hd1e3614" type="question-title">
+  Utrum in anima Christi sit scientia connaturalis
+  animae humanae
+</head>
+                  <p xml:id="szstco-k59273-d1e3617">
+                     <lb ed="#P" n="95" type="fixed=672"/>SECTIO II.
+<lb ed="#P" n="96"/>Utrum in anima Christi sit scientia connaturalis
+<lb ed="#P" n="97"/>animae humanae.
+</p>
+                  <p xml:id="szstco-k59273-d1e3626">
+                     <lb ed="#P" n="98"/>1. In anima Christi scientia acquisita, seu
+<lb ed="#P" n="99"/>connaturalis. — In hac quaestione, sicut in
+<lb ed="#P" n="100"/>precedenti dixi, nulla est difficultas de hac
+<lb ed="#P" n="101"/>scientia secundum se, seu absolute 
+conside<lb break="no" ed="#P" n="102"/>rata, sed solum in tempore et modo quo 
+Chri<lb break="no" ed="#P" n="103"/>sli anima cepit habere hanc scientiam. De
+<lb ed="#P" n="104"/>qua re nihil hoc loco dicam , quia pendet ex
+<lb ed="#P" n="105"/>multis, qua circa quaest. 12 D. Thom. 
+trac<lb break="no" ed="#P" n="106"/>landa sunt, ubi hoc melius expedietur; et
+<lb ed="#P" n="107"/>ideo hic brevissime dicendum est, cerium
+<lb ed="#P" n="108"/>omnino esse Christum Dominum habere scien-
+<pb ed="#P" n="673"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>tiam ceonnaturalem anime humane. Ita 
+do<lb break="no" ed="#P" n="2"/>cent omnes Theologi, in 3, d. 13 et 14 ; 
+quam<lb break="no" ed="#P" n="3"/>vis Bonax. soleat in contrarium citari, quia 
+ne<lb break="no" ed="#P" n="4"/>gat fuisse in Christo scientiam acquisitam. Sed
+<lb ed="#P" n="5"/>non est eredibile eum esse locutum de 
+sub<lb break="no" ed="#P" n="6"/>stantia ipsius scientiae (ut ita dicam), sed de
+<lb ed="#P" n="7"/>modo acquirendi illam , ut ex sequenti sect.,
+<lb ed="#P" n="8"/>et magis ex disp. 28 constabit. Riehard. vero
+<lb ed="#P" n="9"/>ibi, a. 3, q. 9 et 3, videtur hanc sententiam
+<lb ed="#P" n="10"/>docere; quia sentit scientiam infusam anime
+<lb ed="#P" n="11"/>Ghristi faisse superioris rationis a scientia
+<lb ed="#P" n="12"/>eonnaturali homini, et tamen praeter illam
+<lb ed="#P" n="13"/>negat in Christo fuisse aliam acquisitam ; sed
+<lb ed="#P" n="14"/>est sententia omnino falsa. Unde sine magno
+<lb ed="#P" n="15"/>errore negari haec veritas non potest, quia
+<lb ed="#P" n="16"/>( ut supra late citatum est) in Christo est 
+na<lb break="no" ed="#P" n="17"/>tura humana cum omni proprietate et 
+per<lb break="no" ed="#P" n="18"/>fectione illi connaturali ; sed scientia humana
+<lb ed="#P" n="19"/>esi una ex maximis perfectionibus humane
+<lb ed="#P" n="20"/>natura; ergo. Deinde supra ostendimus fuisse
+<lb ed="#P" n="21"/>in intellectu Christi actus intellectus 
+natura<lb break="no" ed="#P" n="22"/>les; ergo maxime actus scientiae ; ergo. 
+Ter<lb break="no" ed="#P" n="23"/>tio, quia habuit virtutes morales 
+connatura<lb break="no" ed="#P" n="24"/>les homini; ergo et prudentiam naturalem ;
+<lb ed="#P" n="25"/>ergo pari ratione alias scientias. Denique 
+An<lb break="no" ed="#P" n="26"/>zeli habent scientiam sibi connaturalem ,
+<lb ed="#P" n="27"/>eamdem habent beati , habuit etiam Adam in
+<lb ed="#P" n="28"/>statu innocentie, et in universum perfectio
+<lb ed="#P" n="29"/>gratie non destruit perfectionem nature, quae
+<lb ed="#P" n="30"/>imperfectionem non includit, perfectioni 
+gra<lb break="no" ed="#P" n="31"/>ij:]g repugnantem ; erga. Neque contra hoc
+<lb ed="#P" n="32"/>oecurrit nova objectio, prseter eas quae fieri
+<lb ed="#P" n="33"/>solent de beatis , quas tetigit D. Thomas 
+su<lb break="no" ed="#P" n="34"/>pra, art. 1 hujus quaestionis.
+</p>
+                  <p xml:id="szstco-k59273-d1e3730">
+                     <lb ed="#P" n="35"/>9. Quid nomine scientiae comuaturalis hic
+<lb ed="#P" n="36"/>intelligatur.— In Christo ars factibiliwm fuit.
+<lb ed="#P" n="37"/>— In Christo scientia ex perimentalis. — Sed
+<lb ed="#P" n="38"/>observandum est primo, nomine scientiae hic
+<lb ed="#P" n="39"/>intelliei omnes virtutes intellectuales, scilicet,
+<lb ed="#P" n="40"/>intellectum seu habitum principiorum, de
+<lb ed="#P" n="41"/>quo nulla potest esse dubitandi ratio, cum
+<lb ed="#P" n="42"/>assensus principiorum sint maxime evidentes,
+<lb ed="#P" n="43"/>et connaturales homini; sapientiam deinde ac
+<lb ed="#P" n="44"/>scientiam. De quibus solum potest dubitari,
+<lb ed="#P" n="45"/>quia in hominibus non sunt sine admistione
+<lb ed="#P" n="46"/>opinionum et incerütudinis. Dicendum vero
+<lb ed="#P" n="47"/>est in Christo fuisse quoad conclusiones 
+evi<lb break="no" ed="#P" n="48"/>dentes , quae per lumen nature certe esse
+<lb ed="#P" n="49"/>possunt. De iis vero rebus de quibus lumen
+<lb ed="#P" n="50"/>nature consequi non potest evidenter 
+cogni<lb break="no" ed="#P" n="51"/>tionem, assecutus est Christus quidquid ratio
+<lb ed="#P" n="52"/>naturalis consequi potest, et omnes rationes
+<lb ed="#P" n="53"/>probabiles, aut verisimilia judicia opinionum
+<lb ed="#P" n="54"/>omnium ; non famen per haec de veritate ipsa
+<lb ed="#P" n="55"/>judicabat, sed vel suspendebat assensum, vel
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>de probabilitate, quae evidens esse poterat,
+<lb ed="#P" n="57"/>judicium ferebat.Preterea comprehendi etiam
+<lb ed="#P" n="58"/>potest prudentia, de qua jam dictum est. Et
+<lb ed="#P" n="59"/>ultimo etiam artem complectimur, quz, ut
+<lb ed="#P" n="60"/>est intellectualis virtus, etiam pertinet ad 
+ab<lb break="no" ed="#P" n="61"/>solutam perfectionem intellectus , et fortasse
+<lb ed="#P" n="62"/>a scientia non multum distinguitur, nisi in
+<lb ed="#P" n="63"/>materia factibili; ait autem D. Thomas infra,
+<lb ed="#P" n="64"/>q. 13, art. 4, ad 3, fuisse in Christo scientiam
+<lb ed="#P" n="65"/>omnium factibilium. Nee refert quod ars 
+vi<lb break="no" ed="#P" n="66"/>detur esse eonjuncta cum usu; nam, licet 
+ip<lb break="no" ed="#P" n="67"/>sa dirigat usum , non tamen ab illo 
+essentia<lb break="no" ed="#P" n="68"/>liter pendet; tota enim perfectio artis, quc
+<lb ed="#P" n="69"/>ad intellectum spectat, sine usu haberi 
+po<lb break="no" ed="#P" n="70"/>test.
+</p>
+                  <p xml:id="szstco-k59273-d1e3814">
+                     <lb ed="#P" n="71"/>3. Observandum secundo est, scientiam
+<lb ed="#P" n="72"/>hane connaturalem generaliter dictam, prout
+<lb ed="#P" n="73"/>comprehendit omnem naturalem cognitionem
+<lb ed="#P" n="74"/>evidentem, duplicem distingui posse: est enim
+<lb ed="#P" n="75"/>quaedam cognitio quae vocaiur experimentalis,
+<lb ed="#P" n="76"/>ei polissimum versatur circa singularia, qua
+<lb ed="#P" n="77"/>per sensum experimur, ex quo intellectus 
+ac<lb break="no" ed="#P" n="78"/>cipit evidentem cognitionem in ipsa 
+experien<lb break="no" ed="#P" n="79"/>tia fundatam. Alia est cognitio evidens 
+con<lb break="no" ed="#P" n="80"/>clusionum ex propriis prineipiis naturali 
+lu<lb break="no" ed="#P" n="81"/>mine evidentibus, qua proprie vocatur, seu
+<lb ed="#P" n="82"/>meretur nomen scientiae ; hic vero utrumque
+<lb ed="#P" n="83"/>genus cognitionis sub hac voce 
+comprehen<lb break="no" ed="#P" n="84"/>dimus, nam eum utraque harum cognitionum
+<lb ed="#P" n="85"/>naturalis sit homini, et perfectionem afferat
+<lb ed="#P" n="86"/>sine imperfectione , uuioni aut beatitudini
+<lb ed="#P" n="87"/>repugnante, dubium non est quin utraque
+<lb ed="#P" n="88"/>fuerit in Christo, ut latius q. 19 iractabitur.
+</p>
+               </div>
+               <div xml:id="szstco-k59273-Dd1e3857">
+                  <head xml:id="szstco-k59273-Hd1e3859">Sectio 3</head>
+                  <head xml:id="szstco-k59273-Hd1e3861" type="question-title">
+  Utrum fuerit semper in anima Christi scientia 
+  rerum in proprio genere supernaturalis et per se
+  infusa
+</head>
+                  <p xml:id="szstco-k59273-d1e3864">
+                     <lb ed="#P" n="89" type="fixed=673"/>SECTIO III
+<lb ed="#P" n="90"/>Utrum fuerit semper in anima Christi scientia 
+re<lb break="no" ed="#P" n="91"/>rum in proprio genere supernaturalis et per se
+<lb ed="#P" n="92"/>infusa.
+</p>
+                  <p xml:id="szstco-k59273-d1e3875">
+                     <lb ed="#P" n="93"/>1. Tractavi prius de scientia naturali quam
+<lb ed="#P" n="94"/>de hae infusa, ut ratio dubitandi, et 
+opinio<lb break="no" ed="#P" n="95"/>num varietas, quae hic esse potest, melius 
+in<lb break="no" ed="#P" n="96"/>telligatur. Ratio enim difficultatis est, quia
+<lb ed="#P" n="97"/>per scientiam beatam et naturalem habet 
+ani<lb break="no" ed="#P" n="98"/>ma Christi omnem cognitionem et 
+perfectio<lb break="no" ed="#P" n="99"/>nem, quae vel ex Scripturis , vel ex dignitate
+<lb ed="#P" n="100"/>persone, vel ex munere Redemptoris, vel ex
+<lb ed="#P" n="101"/>capacitate intellectus humani, vel denique ex
+<lb ed="#P" n="102"/>quovis alio indieio vel signo colligi potest.
+<lb ed="#P" n="103"/>Habet enim per illas duas cognitiones , 
+per<lb break="no" ed="#P" n="104"/>fectionem nature dehitam et gratiae, et 
+con<lb break="no" ed="#P" n="105"/>sequenier habet actum respondentem 
+capa<lb break="no" ed="#P" n="106"/>citati naturali intellectus, et obedientiali; 
+ha<lb break="no" ed="#P" n="107"/>bet cognitionem rerum omnium naturalium
+<pb ed="#P" n="674"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>et supernaturalium, contingentium et 
+libe<lb break="no" ed="#P" n="2"/>rarum; quorsum ergo meeessaria est alia
+<lb ed="#P" n="3"/>scientia ?
+</p>
+                  <p xml:id="szstco-k59273-d1e3921">
+                     <lb ed="#P" n="4"/>2. Propter hoc quidam Theologi videntur
+<lb ed="#P" n="5"/>aperte negare habuisse animam Christi hanc
+<lb ed="#P" n="6"/>scientiam. Ita sentit Bonav., in 3, d. 14, a. 3,
+<lb ed="#P" n="7"/>q. 1 et 2; quanquam enim concedat habuisse
+<lb ed="#P" n="8"/>Christum scientiam infusam, aperte tamen
+<lb ed="#P" n="9"/>sentit illam fuisse naturalem, et infusam per
+<lb ed="#P" n="10"/>accidens; propterea enim negat ibidem, 
+Chri<lb break="no" ed="#P" n="11"/>stum aliam scientiam sibi acquisivisse, et 
+il<lb break="no" ed="#P" n="12"/>lam scientiam dicit esse similem illi quam
+<lb ed="#P" n="13"/>Adam habuit in statu innocentie, et idem
+<lb ed="#P" n="14"/>sentit Alens., 3 p., q. 13, memb. 4 et 2, quia
+<lb ed="#P" n="15"/>non aliter ponit scientiam infusam in Christo
+<lb ed="#P" n="16"/>quam in Adamo; et fere eodem modo 
+loquun<lb break="no" ed="#P" n="17"/>tur alii Nominales, ut Almain., Gab., et alii,
+<lb ed="#P" n="18"/>in 3, dist. 44; Scot. vero ibi, q. 3, et Durand.,
+<lb ed="#P" n="19"/>q. 3 et 4, mediam quamdam videntur 
+ha<lb break="no" ed="#P" n="20"/>bere opinandi rationem; nam circa res 
+na<lb break="no" ed="#P" n="21"/>turales, quae per naturalem scientiam 
+huma<lb break="no" ed="#P" n="22"/>nam cognosci possunt, non putant habuisse
+<lb ed="#P" n="23"/>Christum aliam scientiam per se infusam;
+<lb ed="#P" n="24"/>circa alias vero res, quae naturalem 
+eapacita<lb break="no" ed="#P" n="25"/>tem humani intellectus superant, illam 
+viden<lb break="no" ed="#P" n="26"/>itur admittere , fortasse ut non tantum in
+<lb ed="#P" n="27"/>Verbo, sed etiam in proprio genere 
+cogno<lb break="no" ed="#P" n="28"/>scantur. Sed hoc jam pertinet ad quaestionem
+<lb ed="#P" n="29"/>de objecto hujus scientiae infusce, quae infra,
+<lb ed="#P" n="30"/>q. 11, tractanda est.
+</p>
+                  <p xml:id="szstco-k59273-d1e3983">
+                     <lb ed="#P" n="31"/>3. Anima Christi habuit scientiam infusam.
+<lb ed="#P" n="32"/>-— Dico primo, Christi animse datam esse
+<lb ed="#P" n="33"/>scientiam per se infusam, distinctam a beata
+<lb ed="#P" n="34"/>et à naturali. Hic est sententia D. Thome
+<lb ed="#P" n="35"/>hic, et tota quaest. 11, quam ita intelligunt et
+<lb ed="#P" n="36"/>sequuntur Thomiste» omnes, Cajet., Capreol.,
+<lb ed="#P" n="37"/>in d,:d. 14; qg. 1, art. 1,:60n6e.2,, eta. 3; ad
+<lb ed="#P" n="38"/>argum. contra illam ; Paludan. ibi, q. 9 ; 
+Ri<lb break="no" ed="#P" n="39"/>chard., a. 3, q. 2 et 3, si attente legatur. Idem
+<lb ed="#P" n="40"/>Marsil. , q. 10, a. 2, et alii. Ex Scriptura , et
+<lb ed="#P" n="41"/>Patribus non potest haec conclusio efficaciter
+<lb ed="#P" n="42"/>probari, ut ostendit ratio dubitandi in 
+prin<lb break="no" ed="#P" n="43"/>cipio posita. Nam , licet ex Seriptura constet
+<lb ed="#P" n="44"/>Christum . fuisse sapientissimum , sapientia
+<lb ed="#P" n="45"/>plus quam humana, et infusa, quia 
+cognosce<lb break="no" ed="#P" n="46"/>bat cogitationes hominum, et revelabat 
+divi<lb break="no" ed="#P" n="47"/>na et supernaturalia mysteria, et futura 
+con<lb break="no" ed="#P" n="48"/>tingentia, et Luc. 2, adhuc infans. sedebat in
+<lb ed="#P" n="49"/>«medio Doctorum, et stupebant omnes super 
+pru<lb break="no" ed="#P" n="50"/>deniia et vesponsis ejus; unde , Joan. 7, 
+qui<lb break="no" ed="#P" n="51"/>dam interrogabant : Unde hic litteras scit,
+<lb ed="#P" n="52"/>cum non didicerit? quamvis hoc (inquam) ita
+<lb ed="#P" n="53"/>sit, quia tamen omnes hi effectus vel 
+demons<lb break="no" ed="#P" n="54"/>irationes sapientie proficisci potuerunt ex
+<lb ed="#P" n="55"/>sola scientia beata, ideo non potest ex illis
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>efficaciter concludi alia scientia per se infusa.
+<lb ed="#P" n="57"/>Arguitur ergo ratione probabili, et pro 
+ma<lb break="no" ed="#P" n="58"/>teri qualitate sufficienti. Primo, quia 
+Chri<lb break="no" ed="#P" n="59"/>stus non solum erat comprehensor, sed etiam
+<lb ed="#P" n="60"/>viator; ergo etiam ut viator debuit habere 
+co<lb break="no" ed="#P" n="61"/>gnitionem aliquam supernaturalem, quia visio
+<lb ed="#P" n="62"/>est propria scientia comprehensoris. Secundo,
+<lb ed="#P" n="63"/>quia haec scientia possibilis est, et expedit
+<lb ed="#P" n="64"/>pluribus modis cognoscere creaturas , atque
+<lb ed="#P" n="65"/>adeo non tantum in Verbo, sed etiam in ipsis
+<lb ed="#P" n="66"/>per proprias earum species. Propter quam
+<lb ed="#P" n="67"/>causam Augustinus, 4 Genes. ad lit., c. 23
+<lb ed="#P" n="68"/>et 24, duplicem scientiam in Angelis 
+distin<lb break="no" ed="#P" n="69"/>guit, matulinam, ek vespertinam ; et huc etiam
+<lb ed="#P" n="70"/>tendit ratio D. Thomse, in art. 3, pertinere ad
+<lb ed="#P" n="71"/>perfectionem proportionatam intellectui 
+erea<lb break="no" ed="#P" n="72"/>io, tam secundum se, quam elevato per 
+gra<lb break="no" ed="#P" n="73"/>liam, ut cognoscat res per proprias species,
+<lb ed="#P" n="74"/>ut ibi exposuimus. Et hac conclusio magis
+<lb ed="#P" n="75"/>cun sequenti confirmabitur.
+</p>
+                  <p xml:id="szstco-k59273-d1e4085">
+                     <lb ed="#P" n="76"/>4. Scientia infusa Christi ab instanti 
+con<lb break="no" ed="#P" n="77"/>ceptionis.—JDico ergo secundo : Christi anima
+<lb ed="#P" n="78"/>habuit hanc scientiam a primo instanti sus
+<lb ed="#P" n="79"/>creationis. Ita sentit D. Thomas, et omnes qui
+<lb ed="#P" n="80"/>illam ponunt. Et probari potest ex praecedenii,
+<lb ed="#P" n="81"/>addito testimonio Pauli, ad Hebr. 10, ubi de
+<lb ed="#P" n="82"/>Christo dicit: Zugrediens mundum dicit : 
+Hos<lb break="no" ed="#P" n="83"/>tiam et oblationem moluisti, corpus autem 
+ad<lb break="no" ed="#P" n="84"/>aptasti qiAi, etc., ex Psal. 395 et infra subdit:
+<lb ed="#P" n="85"/>In qua eoluntate sanctificati swmnus, satis 
+si<lb break="no" ed="#P" n="86"/>gnificaus, in ipso ingressu, atque adeo in 
+pri<lb break="no" ed="#P" n="87"/>mo momento conceptionis sue, cognovisse
+<lb ed="#P" n="88"/>Christi animam voluntatem Pairis, et 
+myste<lb break="no" ed="#P" n="89"/>ria nostrae redemptionis, et voluntarie 
+obtu<lb break="no" ed="#P" n="90"/>lisse vitam pro hominibus, et per illam 
+vo<lb break="no" ed="#P" n="91"/>luntatem, nostram sanctificationem meruisse.
+<lb ed="#P" n="92"/>Hinc ergo satis probabiliter colligitur, illam
+<lb ed="#P" n="93"/>cognitionem ad hanc scientiam per se infusam
+<lb ed="#P" n="94"/>pertinuisse; fuit enim sine dubio 
+supernaiu<lb break="no" ed="#P" n="95"/>ralis cognitio, cum esset de supernaturalibus
+<lb ed="#P" n="96"/>mysteriis; et cum illa fuerit fundamentum
+<lb ed="#P" n="97"/>merili, credibile est non fuisse tantum 
+visio<lb break="no" ed="#P" n="98"/>nem comprehensoris, sed cognitionem aliam
+<lb ed="#P" n="99"/>scientiae infusae. Facit etiam illud Isai. 7 : 
+Zu<lb break="no" ed="#P" n="100"/>igrwum et mel comedet , ut sciat reprobare 
+ma<lb break="no" ed="#P" n="101"/>Qum, et eligere bono ; ubi Hieronymus: Z4 est,
+<lb ed="#P" n="102"/>adhuc puer Loc sciet, quae scientia electiva
+<lb ed="#P" n="103"/>melius accommodatur scienti: infuse. 
+Deni<lb break="no" ed="#P" n="104"/>que faciunt illa communia testimonia Isaize
+<lb ed="#P" n="105"/>11: Egredietur virga, etc., eb vequiescet super
+<lb ed="#P" n="106"/>illum , etc.; et Coloss. 9 : Zu quo suni omnes ,
+<lb ed="#P" n="107"/>thesauri sapientie et scientiae Dei. Posset etiam
+<lb ed="#P" n="108"/>hoc confirmari testimoniis Patrum , 
+asseren<lb break="no" ed="#P" n="109"/>tium Christi animam a2 principio fuisse 
+sa<lb break="no" ed="#P" n="110"/>pientia plenam; sed ea omitto, quia non de
+<pb ed="#P" n="675"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>hac scientia in specie loquuntur, sed in 
+com<lb break="no" ed="#P" n="2"/>muni de sapientia, et ita in superioribus 
+suf<lb break="no" ed="#P" n="3"/>ficienter facta sunt, et videri possunt in 
+Bel<lb break="no" ed="#P" n="4"/>larm., lib. £4 de Christi anima, cap. 3. Ratio
+<lb ed="#P" n="5"/>vero est sepe jam tacta. Primo, quia tota hzc
+<lb ed="#P" n="6"/>sapientia data est Christo ratione unionis,
+<lb ed="#P" n="7"/>quam a principio habuit, et neque illi fuit
+<lb ed="#P" n="8"/>necessarium, nec nobis utile illa carere aliquo
+<lb ed="#P" n="9"/>tempore. Secundo , quia haec scientia aliquo
+<lb ed="#P" n="10"/>modo pertinet ad perfectum statum 
+beatifi<lb break="no" ed="#P" n="11"/>cum anima Christi, non quidem ut 
+essentia<lb break="no" ed="#P" n="12"/>lis, sed quasi accidentalis perfectio; quae cum
+<lb ed="#P" n="13"/>noa pendeat a corpore, statim dari debuit.
+<lb ed="#P" n="14"/>Imo addit Marsil. supra, hanc scientiam 
+in<lb break="no" ed="#P" n="15"/>fusam manare a beata, ut a causa efficiente,
+<lb ed="#P" n="16"/>quod videtur gratis et sine fundamento 
+dic<lb break="no" ed="#P" n="17"/>ilum; quia actus secundus amoris vel 
+cogni<lb break="no" ed="#P" n="18"/>tionis non efficit aliquid, nisi fortasse 
+inter<lb break="no" ed="#P" n="19"/>dum habitum, qui similes actus producat.
+<lb ed="#P" n="20"/>Satis ergo est si dicamus, hanc scientiam esse
+<lb ed="#P" n="21"/>convenientem dispositionem vel perfectionem
+<lb ed="#P" n="22"/>intellectus beati. Tertio, argumentari 
+possu<lb break="no" ed="#P" n="23"/>mus, quia in Christo etiam pertinuit haec
+<lb ed="#P" n="24"/>scientia ad perfectum statum viatoris ; quia,
+<lb ed="#P" n="25"/>livet sit etiam perfectio comprehensoris , 
+ta<lb break="no" ed="#P" n="26"/>men, quatenus respectu Dei est abstractiva
+<lb ed="#P" n="27"/>cognilio, est magis accommodata ad statum
+<lb ed="#P" n="28"/>viatoris ; Christus autem a primo instanti
+<lb ed="#P" n="29"/>suae conceptionis fuit perfecte viator et 
+com<lb break="no" ed="#P" n="30"/>prehensor. Denique Angelis in primo instanti
+<lb ed="#P" n="31"/>sus creationis infusa est scientia illis 
+conna<lb break="no" ed="#P" n="32"/>turalis; sed hae scientia est etiam 
+connatu<lb break="no" ed="#P" n="33"/>ralis Christo ratione unionis ; ergo.
+</p>
+                  <p xml:id="szstco-k59273-d1e4239">
+                     <lb ed="#P" n="34"/>9. Dubium. — Responsio. — Ratio 
+dubitan<lb break="no" ed="#P" n="35"/>di in principio posita ex dictis satis est 
+expe<lb break="no" ed="#P" n="36"/>dita. Queret vero fortasse aliquis quo gradu
+<lb ed="#P" n="37"/>certitudinis tenenda sit doctrina posita. 
+Non<lb break="no" ed="#P" n="38"/>nulli enim Theologi temerarium esse dicunt
+<lb ed="#P" n="39"/>negare hanc scientiam. Sed vereor ne hoc 
+te<lb break="no" ed="#P" n="40"/>mere dictum sit, quia ubi nulla est auctoritas
+<lb ed="#P" n="41"/>Seripture vel Patrum, quae mutum urgeat,
+<lb ed="#P" n="42"/>et graves Theologi inter se dissident, 
+solum<lb break="no" ed="#P" n="43"/>que conjecturis utuntur, non video cur 
+te<lb break="no" ed="#P" n="44"/>meritatis nola inurenda sit. Negare igitur 
+om<lb break="no" ed="#P" n="45"/>nem scientiam infusam in anima Christi, esset
+<lb ed="#P" n="46"/>plus quam temerarium et erroneum, quia
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="47"/>scientia beata etiam est infusa ; negare vero
+<lb ed="#P" n="48"/>scientiam supernaturalem et per se infusam
+<lb ed="#P" n="49"/>distinctam a beata, est quidem falsum, et 
+mi<lb break="no" ed="#P" n="50"/>nus probabile; nullam vero meretur 
+gravio<lb break="no" ed="#P" n="51"/>rem censuram, praesertim in eorum opinione,
+<lb ed="#P" n="52"/>qui asserunt habuisse Christum ab instanti
+<lb ed="#P" n="53"/>conceptionis scientiam per accidens infusam.
+<lb ed="#P" n="54"/>Nam, si quis negando hanc scientiam per 
+ac<lb break="no" ed="#P" n="55"/>cidens infusam , negaret etiam aliam , multo
+<lb ed="#P" n="56"/>minus probabiliter loqueretur, et non sine
+<lb ed="#P" n="57"/>temeritate, quia nullus Theologorum ausus
+<lb ed="#P" n="58"/>est ita opinari; multum enim derogat ille
+<lb ed="#P" n="59"/>modus dicendi perfectioni debite animae 
+Chri<lb break="no" ed="#P" n="60"/>sti, et eam in hoc facit inferiorem Angelis ;
+<lb ed="#P" n="61"/>quod nec veritati, nec pietati consentaneum
+<lb ed="#P" n="62"/>est, nec Paulo dicenti, minoratum quidem
+<lb ed="#P" n="63"/>esse ab Angelis propter passibile corpus, non
+<lb ed="#P" n="64"/>propter defectum perfectionis, quae ad 
+ani<lb break="no" ed="#P" n="65"/>mam pertineat.
+</p>
+                  <p xml:id="szstco-k59273-d1e4313">
+                     <lb ed="#P" n="66"/>6. Dubium.— Responsio. — Ultimo, 
+dubi<lb break="no" ed="#P" n="67"/>tari hic poterat an, praeter has tres scientias
+<lb ed="#P" n="68"/>habeat aliam Christi anima. Alexand. enim ,
+<lb ed="#P" n="69"/>3 p., quaest. 13, memb. 1 et 2, videtur 
+adde<lb break="no" ed="#P" n="70"/>re quamdam aliam scientiam, quam vocat
+<lb ed="#P" n="71"/>unionis, et indicat esse distinctam a beata.
+<lb ed="#P" n="72"/>Idem Altisiod., lib. 3 Summ., tract. 1, c. 5. Sed,
+<lb ed="#P" n="73"/>ut recte dixit D. Thomas, in hac quast., art.
+<lb ed="#P" n="74"/>1, ad 3, quamvis ipsa scientia beata, vel 
+in<lb break="no" ed="#P" n="75"/>fusa, possit denominari scientia unionis, quia
+<lb ed="#P" n="76"/>per ipsam scitur et cognoscitur ipsa unio, vel
+<lb ed="#P" n="77"/>quatenus ratione unionis data est , tamen 
+fin<lb break="no" ed="#P" n="78"/>gere distinctam scientiam a praedictis, 
+omni<lb break="no" ed="#P" n="79"/>no superfluum et praeter rationem est; quia
+<lb ed="#P" n="80"/>scientia convenit Christo ratione nature, id
+<lb ed="#P" n="81"/>est,in aliqua natura; unde necesse est vel
+<lb ed="#P" n="82"/>creatam esse, vel increatam ; si sit increata,
+<lb ed="#P" n="83"/>non pertinet ad scientiam humanitatis, de qua
+<lb ed="#P" n="84"/>agimus ; si autem creata sit, vel est clara visio
+<lb ed="#P" n="85"/>Dei in seipso, et haec est scientia beata ; vel
+<lb ed="#P" n="86"/>est scientia creaturarum per proprias species,
+<lb ed="#P" n="87"/>et Dei tantum abstractiva, et haec esse potest
+<lb ed="#P" n="88"/>vel naturalis, vel supernaturaliter infusa ; non
+<lb ed="#P" n="89"/>est ergo in anima Christi alia scientia praeter
+<lb ed="#P" n="90"/>dietas. Et confirmatur, quia illa unio nullius
+<lb ed="#P" n="91"/>scienti? principium est ; non est enim 
+opera<lb break="no" ed="#P" n="92"/>tiva, sed ad subsistendum.
+</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

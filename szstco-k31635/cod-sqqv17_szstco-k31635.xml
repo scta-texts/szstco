@@ -1,0 +1,2047 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 5</title>
+            <author ref="#FranciscoSuarez">Francisco Suarez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 5</title>
+               <date when="2025-04-27">April 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-sqqv17">Paris 1860, v. 17</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-04-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="519"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="szstco-k31635">
+            <head xml:id="szstco-k31635-Hd1e96">Quaestio 5</head>
+            <div xml:id="szstco-k31635-Dd1e98"><!--sua-p3-q5prae-->
+               <head xml:id="szstco-k31635-Hd1e101">Praeambulum</head>
+               <p xml:id="szstco-k31635-d1e103">
+                  <lb ed="#P" n="61" type="fixed=517"/>Res tota, quam in hac q. D. Thomas tractat,
+<lb ed="#P" n="62"/>fere explicata fuerat quaestione praecedenti ;
+<lb ed="#P" n="63"/>solum enim ostendit partes physieas et 
+essen<lb break="no" ed="#P" n="64"/>tialBs humane nature assumptas fuisse a
+<lb ed="#P" n="65"/>Verbo, quod fere ex superioribus constabat ;
+<lb ed="#P" n="66"/>quia non poterat humana natura assumi, nisi
+<lb ed="#P" n="67"/>constans ex partibus essentialibus ; tamen D.
+<lb ed="#P" n="68"/>Thomas, ad refellendos aliquos errores, et
+<lb ed="#P" n="69"/>uniuscujusque rei propriam rationem 
+red<lb break="no" ed="#P" n="70"/>dendam, hanc quaestionem movet, qua adeo
+<lb ed="#P" n="71"/>clara est, ut circa litteram nihil fere 
+commen<lb break="no" ed="#P" n="72"/>tari oporteat.
+</p>
+            </div>
+            <div xml:id="szstco-k31635-Dd1e133"><!--sua-p3-q5a1-->
+               <head xml:id="szstco-k31635-Hd1e136">Articulus 1</head>
+               <p xml:id="szstco-k31635-d1e138">
+                  <lb ed="#P" n="82" type="fixed=518"/>Hic articulus clarus est, et nulla 
+exposi<lb break="no" ed="#P" n="83"/>tione indiget.
+</p>
+            </div>
+            <div xml:id="szstco-k31635-Dd1e146"><!--sua-p3-q5a2-->
+               <head xml:id="szstco-k31635-Hd1e149">Articulus 2</head>
+               <p xml:id="szstco-k31635-d1e151">
+                  <lb ed="#P" n="84" type="fixed=519"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k31635-d1e156">
+                  <lb ed="#P" n="85"/>Tota littera D. Thomae est perspicua. 
+So<lb break="no" ed="#P" n="86"/>lum sunt duo breviter observanda. Primum
+<lb ed="#P" n="87"/>est, D. Thomam suis rationibus directe 
+con<lb break="no" ed="#P" n="88"/>cludere, corpus Christi Domini non fuisse
+<lb ed="#P" n="89"/>confectum ex materia, seu substantia 
+cceles<lb break="no" ed="#P" n="90"/>ti; sed ex illa materia qua caetera corpora 
+hu<lb break="no" ed="#P" n="91"/>mana constare solent; consequenter vero,
+<lb ed="#P" n="92"/>quamvis id diserte non dicat, convineit corpus
+<lb ed="#P" n="93"/>Christi fuisse mixtum, et ex quatuor 
+elemen<lb break="no" ed="#P" n="94"/>tis coagmentatum ; hoc enim intellexit in 
+ti<lb break="no" ed="#P" n="95"/>tulo, nomine terreni corporis. Pari etiam 
+ra<lb break="no" ed="#P" n="96"/>tione concludit, habuisse corpus illud 
+qua<lb break="no" ed="#P" n="97"/>tuor humores, quos in titulo, nomine 
+sangui<lb break="no" ed="#P" n="98"/>nis indicavit ; in rationibus vero articuli, sub
+<lb ed="#P" n="99"/>nomine corporis carnei illos complexus est,
+<pb ed="#P" n="520"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>quia non est vera ae viva caro sine sanguine
+<lb ed="#P" n="2"/>cui alii humores admisti sunt. Secundo est
+<lb ed="#P" n="3"/>observandum, rationibus D. Thome recte
+<lb ed="#P" n="4"/>quidem effici, Christi humanitatem constitisse
+<lb ed="#P" n="5"/>hujusmodi corpore, et in illo fuisse 
+sangui<lb break="no" ed="#P" n="6"/>nem et alios humores; quomodo autem haec
+<lb ed="#P" n="7"/>omnia fuerint unita Verbo, an, scilicet, 
+im<lb break="no" ed="#P" n="8"/>mediate et proxime, seu secundum 
+hyposta<lb break="no" ed="#P" n="9"/>sim, an vero tantum mediate, seu in 
+hypos<lb break="no" ed="#P" n="10"/>tasi, ex his quae D. Thomas tradit, solum hoc
+<lb ed="#P" n="11"/>potest convinei, haec omnia ita fuisse unita
+<lb ed="#P" n="12"/>Verbo, ut necessarium est ad hoc, ut Verbum
+<lb ed="#P" n="13"/>vere factum sit caro et homo, ex quo recte
+<lb ed="#P" n="14"/>concluditur fuisse proxime et immediate 
+uni<lb break="no" ed="#P" n="15"/>ta, ut disputatione sequenti latius 
+explican<lb break="no" ed="#P" n="16"/>dum est; et ibidem tractabimus locum prime
+<lb ed="#P" n="17"/>ad Corinth. 45, quem in solutione ad primum
+<lb ed="#P" n="18"/>D. Thomas explicavit.
+</p>
+            </div>
+            <div xml:id="szstco-k31635-Dd1e235"><!--sua-p3-q5a3-->
+               <head xml:id="szstco-k31635-Hd1e238">Articulus 3</head>
+               <p xml:id="szstco-k31635-d1e240">
+                  <lb ed="#P" n="58" type="fixed=521"/>Littera hujus articuli est facilis, atque ideo
+<lb ed="#P" n="59"/>illum explicare necessarium non est,
+</p>
+            </div>
+            <div xml:id="szstco-k31635-Dd1e249"><!--sua-p3-q5a4-->
+               <head xml:id="szstco-k31635-Hd1e252">Articulus 4</head>
+               <p xml:id="szstco-k31635-d1e254">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="74" type="fixed=522"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k31635-d1e261">
+                  <lb ed="#P" n="75"/>Hujus articuli titulus intelligi potest, vel
+<lb ed="#P" n="76"/>de potentia ipsa intellectiva, quae est 
+aeci<lb break="no" ed="#P" n="77"/>dens anime superadditum, vel de ipsa 
+sub<lb break="no" ed="#P" n="78"/>stantiali anima, prout attingit gradum 
+ratio<lb break="no" ed="#P" n="79"/>nalem seu intellectualem, et interdum 
+nomi<lb break="no" ed="#P" n="80"/>ne intellectus significatur, ut idem D. 
+Tho<lb break="no" ed="#P" n="81"/>mas docuit prima parte, q. 79, art. 14, qui
+<lb ed="#P" n="82"/>non satis explicat quo sensu hanc 
+quaestio<lb break="no" ed="#P" n="83"/>nem moveat ; nec de errore Apollinaris salis
+<lb ed="#P" n="84"/>constat quo sensu mentem seu intellectum
+<lb ed="#P" n="85"/>Christo negaverit. Ea vero, quce» D. Thomas
+<lb ed="#P" n="86"/>adducit in corpore articuli, ad utrumque
+<lb ed="#P" n="87"/>sensum facile applicari possunt; nam duse
+<lb ed="#P" n="88"/>prime rationes , quibus probat in Christo
+<lb ed="#P" n="89"/>fuisse intellectum, scilicet, quia 
+admiraba<lb break="no" ed="#P" n="90"/>tur, et quia fuit capax meriti, de potentia 
+in<lb break="no" ed="#P" n="91"/>tellectiva immediate procedunt. "Tertia vero
+<lb ed="#P" n="92"/>ratio, scilicet, quia alias caro Christi non 
+es<lb break="no" ed="#P" n="93"/>set vere humana, sed bestialis, solum probat
+<lb ed="#P" n="94"/>de substantia et essentia anime rationalis.
+<lb ed="#P" n="95"/>Quocirca videtur D. Thomas hoc potissimum
+<lb ed="#P" n="96"/>intendisse in hoc articulo, praesertim eum hoc
+<lb ed="#P" n="97"/>loco non tam de accidentibus, quam de 
+sub<lb break="no" ed="#P" n="98"/>stantia nature assumpte sermo sit; quanquam
+<lb ed="#P" n="99"/>quoniam substantia rei ex accidentibus et
+<pb ed="#P" n="523"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>operationibus recte cognoscitur, merito in 
+pri<lb break="no" ed="#P" n="2"/>ma et secunda ratione, ex operationibus 
+oolli<lb break="no" ed="#P" n="3"/>gil facultatem, ut ex facultate etiam ipsa 
+sub<lb break="no" ed="#P" n="4"/>stantia anime rationalis Christo non defuisse
+<lb ed="#P" n="5"/>intelligatur, quod argumentum praesertim ex
+<lb ed="#P" n="6"/>operationibus vite efficacissimum sumitur ;
+<lb ed="#P" n="7"/>quia hsc operatio inseparabilis est a suo
+<lb ed="#P" n="8"/>principio intrinseco, tam proximo, quod est
+<lb ed="#P" n="9"/>potentia, quam principali, quod est ipsa 
+ani<lb break="no" ed="#P" n="10"/>ma substantia. Cetera clara sunt.
+</p>
+            </div>
+            <div xml:id="szstco-k31635-Dd1e345"><!--sua-p3-q5a4-d15-->
+               <head xml:id="szstco-k31635-Hd1e348">Disputatio 15</head>
+               <head xml:id="szstco-k31635-Hd1e350" type="question-title">
+      Quid verbum assumpserit per incarnationem prout facta est
+    </head>
+               <p xml:id="szstco-k31635-d1e353">
+                  <lb ed="#P" n="11" type="fixed=523"/>DISPUTATIO XV.
+<lb ed="#P" n="12"/>In octo sectiones distributa.
+<lb ed="#P" n="13"/>QUID VERBUM ASSUMPSERIT PER INCARNATIONEM
+<lb ed="#P" n="14"/>PROUT FACTA EST.
+</p>
+               <p xml:id="szstco-k31635-d1e364">
+                  <lb ed="#P" n="15"/>In praecedenti disputatione diximus quid sit
+<lb ed="#P" n="16"/>assumptibile per quamcumque unionem 
+hy<lb break="no" ed="#P" n="17"/>postaticam possibilem; hic dicendum 
+sequi<lb break="no" ed="#P" n="18"/>tur quid assumpserit Verbum divinum per
+<lb ed="#P" n="19"/>unionem hypostaticam, quae facta est. 
+Possu<lb break="no" ed="#P" n="20"/>mus autem ex his qui ibi dieta sunt, hic sine
+<lb ed="#P" n="21"/>nova disputatione sumere quid Verbum non
+<lb ed="#P" n="22"/>assumpserit. Primum est, Verbum non 
+as<lb break="no" ed="#P" n="23"/>sumpsisse aliquam aliam naturam praeter 
+hu<lb break="no" ed="#P" n="24"/>manam, et partes ejus, quod certum de fide
+<lb ed="#P" n="25"/>est, quia Deus factus est homo, et non aliud.
+<lb ed="#P" n="26"/>Unde in Scriptura sacra hoc praedicatur, 
+tan<lb break="no" ed="#P" n="27"/>quam singulare beneficium humane naturse
+<lb ed="#P" n="28"/>eolatum ; et de solo Christo dicitur esse
+<lb ed="#P" n="29"/>Principem et caput omniuni, constitutum 
+su<lb break="no" ed="#P" n="30"/>per opera manuum Dei, quia soli humanitati
+<lb ed="#P" n="31"/>ejus concessa est tam ineffabilis gratia; unde
+<lb ed="#P" n="32"/>nullus alius subsistens in ereata natura, 
+po<lb break="no" ed="#P" n="33"/>test secundum fidem diei verus et naturalis
+<lb ed="#P" n="34"/>Deus, nisi solus Christus. Denique de 
+angeli<lb break="no" ed="#P" n="35"/>cis naturis expresse dicitur ad Hebr. 2: Von
+<lb ed="#P" n="36"/>Angelos apprehendit, quod tanquam 
+manifes<lb break="no" ed="#P" n="37"/>tius et clarius supponitur de inferioribus 
+na<lb break="no" ed="#P" n="38"/>iuris. Hujus vero rei supra tradidimus 
+con<lb break="no" ed="#P" n="39"/>gruentias, disput. 3. Secundo certum est 
+Ver<lb break="no" ed="#P" n="40"/>bum non assumpsisse personam creatam, nec
+<lb ed="#P" n="41"/>naturam habentem personalitatem ereatam.
+<lb ed="#P" n="42"/>Hoc etiam est de fide, ut sufficienter 
+explica<lb break="no" ed="#P" n="43"/>tum est circa litteram D. Thom., et disput. 7
+<lb ed="#P" n="44"/>late contra Nestorium probatum est; dictum
+<lb ed="#P" n="45"/>etiam est disputatione praecedenti hujusmodi
+<lb ed="#P" n="46"/>assumptionem vel unionem esse 
+imposeibi<lb break="no" ed="#P" n="47"/>lem ;salis ergo constat non esse factam. 
+Su<lb break="no" ed="#P" n="48"/>perest ergo dicamus quid Verbum 
+assumpse<lb break="no" ed="#P" n="49"/>rit;et prius dicemus de tota natura, deinde
+<lb ed="#P" n="50"/>de partibus ejus, tam essentialibus quam 
+in<lb break="no" ed="#P" n="51"/>tegrantibus.
+</p>
+               <div xml:id="szstco-k31635-Dd1e447">
+                  <head xml:id="szstco-k31635-Hd1e449">Sectio 1</head>
+                  <head xml:id="szstco-k31635-Hd1e451" type="question-title">
+  Utrum Verbum assumpserit veram hominis 
+  naturam
+</head>
+                  <p xml:id="szstco-k31635-d1e454">
+                     <cb ed="#P" n="b"/>
+                     <lb ed="#P" n="52" type="fixed=523"/>SECTIO I.
+<lb ed="#P" n="53"/>Utrum Verbum assumpserit veram hominis 
+<lb ed="#P" n="54"/>naturam.
+</p>
+                  <p xml:id="szstco-k31635-d1e465">
+                     <lb ed="#P" n="55"/>1. Omissis erroribus, tam supra, disput. 1,
+<lb ed="#P" n="56"/>tractatis, quam statim sectionibus 
+sequenti<lb break="no" ed="#P" n="57"/>bus tractandis, dico primo, Verbum divinum
+<lb ed="#P" n="58"/>assumpsisse veram et essentialiter perfectam
+<lb ed="#P" n="59"/>humanam naturam. Est de fide, quae 
+sufficien<lb break="no" ed="#P" n="60"/>ier probatur ex illo principio, supra, disput.
+<lb ed="#P" n="61"/>2, late probato, Christum esse verum Deum,
+<lb ed="#P" n="62"/>et verum hominem; ex quo, disput. 7, 
+con<lb break="no" ed="#P" n="63"/>clusimus, in Christo esse duas naturas, 
+ve<lb break="no" ed="#P" n="64"/>ram, scilicet, divinitatem, et veram 
+humani<lb break="no" ed="#P" n="65"/>tatem, ex quibus et in quibus subsislit, et
+<lb ed="#P" n="66"/>hine tandem concluditur veram assumpsisse
+<lb ed="#P" n="67"/>humanitatem, quia per hanc assumptionem
+<lb ed="#P" n="68"/>factum est ut in illa subsistat.
+</p>
+                  <p xml:id="szstco-k31635-d1e498">
+                     <lb ed="#P" n="69"/>2. Dico secundo : haec humanitas a Verbo
+<lb ed="#P" n="70"/>assumpta est unica, individua et singularis.
+<lb ed="#P" n="71"/>Ita docent omnes Theologi, cum Damasc., lib.
+<lb ed="#P" n="72"/>3, cap. 11, et est de fide certum, quatenus de
+<lb ed="#P" n="73"/>fide certum est, Christum esse quemdam 
+sin<lb break="no" ed="#P" n="74"/>gularem hominem ab aliis numero distinctum
+<lb ed="#P" n="75"/>non tantum ratione persons, sed etiam 
+ra<lb break="no" ed="#P" n="76"/>tione nature humane. Ratio vero est facilis,
+<lb ed="#P" n="77"/>quia humanitas abstracta ab individuis, ut
+<lb ed="#P" n="78"/>sie, non est res apta ad existendum; debuit
+<lb ed="#P" n="79"/>ergonecessario assumi individuanatura; quod
+<lb ed="#P" n="80"/>autem in una tantum, et non in omnibus,
+<lb ed="#P" n="81"/>neque in multis facta fuerit hae unio, constat
+<lb ed="#P" n="82"/>de fide, ex iis qui in principio hujus disput.
+<lb ed="#P" n="83"/>diximus.
+</p>
+                  <p xml:id="szstco-k31635-d1e534">
+                     <lb ed="#P" n="84"/>3. Prima objectio. — Responsio. — Sed
+<lb ed="#P" n="85"/>contra primo, quia fructus hujus unionis 
+fu<lb break="no" ed="#P" n="86"/>turus erat communis omnibus hominibus ;
+<lb ed="#P" n="87"/>ergo debuit natura communis omnibus sumi.
+<lb ed="#P" n="88"/>Propter hoc fertur, quemdam doctorem 
+Pari<lb break="no" ed="#P" n="89"/>siensem asseruisse, assumptam esse 
+humani<lb break="no" ed="#P" n="90"/>tatem in communi. Sed est heretica et 
+inin<lb break="no" ed="#P" n="91"/>telligibilis sententia, et fundamentum ejus
+<lb ed="#P" n="92"/>frivolum ; ex quo potius concludi potest 
+con<lb break="no" ed="#P" n="93"/>trarium , nam fructus hujus unionis, qui est
+<lb ed="#P" n="94"/>gratia, et gloria, et remissio peccatorum, fuit
+<lb ed="#P" n="95"/>universalis causalitate et operatione, et ideo
+<lb ed="#P" n="96"/>fuit necessaria singularis et individua natura,
+<lb ed="#P" n="97"/>qui talium operationum principium esse
+<lb ed="#P" n="98"/>posset.
+</p>
+                  <p xml:id="szstco-k31635-d1e569">
+                     <lb ed="#P" n="99"/>4. Secunda objectio. — Responsio. — Sed
+<lb ed="#P" n="100"/>contra secundo, quia suppositum supra 
+natu<lb break="no" ed="#P" n="101"/>ram sSpecificam et communem non addit,
+<lb ed="#P" n="102"/>nisi principia individuantia ; sed individua
+<lb ed="#P" n="103"/>natura includit hac principia ; si ergo 
+Chri<lb break="no" ed="#P" n="104"/>stus assumpsit individuam naturam , assum-
+<pb ed="#P" n="524"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>psit suppositum. Qui majorem propositionem
+<lb ed="#P" n="2"/>admittunt , dicunt humanitatem Christi per
+<lb ed="#P" n="3"/>assumptionem factam esse hanc , seu 
+indivi<lb break="no" ed="#P" n="4"/>duam. Sed hoc est impossibile, tum quia,
+<lb ed="#P" n="5"/>quod assumitur, supponitur assumptioni ;
+<lb ed="#P" n="6"/>assumitur autem haec natura ; tum etiam
+<lb ed="#P" n="7"/>quia, si dimitteretur a Verbo, eadem 
+nu<lb break="no" ed="#P" n="8"/>mero maneret; tum denique quia nulla res
+<lb ed="#P" n="9"/>potest formaliter constitui hae, seuindividua,
+<lb ed="#P" n="10"/>per aliam rem a se distinctam , ut ex 
+Meta<lb break="no" ed="#P" n="11"/>physica suppono, quia non potest esse res
+<lb ed="#P" n="12"/>- vera et actualis, nisi sit singularis et 
+indivi<lb break="no" ed="#P" n="13"/>dua. Respondetur ergo negando majorem,
+<lb ed="#P" n="14"/>nam principia individuantia potius pertinent
+<lb ed="#P" n="15"/>ad constitutionem hujus nature , suppositum
+<lb ed="#P" n="16"/>vero addit specialem modum per se existendi.
+<lb ed="#P" n="17"/>Hic vero sese offerebat quaestio , an propter
+<lb ed="#P" n="18"/>assumptionem humanitatis possit etiam 
+Ver<lb break="no" ed="#P" n="19"/>bum dici hominem assumpsisse ; sed hee
+<lb ed="#P" n="20"/>sufficienter circa litteram D. Thome explicata
+<lb ed="#P" n="21"/>est.
+</p>
+                  <p xml:id="szstco-k31635-d1e634">
+                     <lb ed="#P" n="22"/>5. Dico tertio : Verbum assumpsit hanc
+<lb ed="#P" n="23"/>humanitatem , non omnino denuo creatam,
+<lb ed="#P" n="24"/>sed ex ipsis hominibus a stirpe Ada 
+descen<lb break="no" ed="#P" n="25"/>dentibus. Est de fide, ut constat Matth. 1, et
+<lb ed="#P" n="26"/>Luc. 3 ; de illa traetat D. Thom. infra, q. 31
+<lb ed="#P" n="27"/>et 32; nonnulle vero congruentie illius 
+su<lb break="no" ed="#P" n="28"/>pra, disput. 3 et 4, adducte sunt, et alias 
+ad<lb break="no" ed="#P" n="29"/>duxit D. Thom. , q. 4, artic. 6 ; summa 
+om<lb break="no" ed="#P" n="30"/>nium est, quia expediens fuit ut per eamdem
+<lb ed="#P" n="31"/>naturam demonem vinceret, quam ipse in
+<lb ed="#P" n="32"/>Adam vicerat.
+</p>
+                  <p xml:id="szstco-k31635-d1e660">
+                     <lb ed="#P" n="33"/>6. Objectio. — Responsio. — Dices : hac 
+ra<lb break="no" ed="#P" n="34"/>tione probaretur, debuisse ipsam Ads 
+singu<lb break="no" ed="#P" n="35"/>larem naturam sumere. Respondetur id non
+<lb ed="#P" n="36"/>fuisse conveniens , tum quia illa natura jam
+<lb ed="#P" n="37"/>fuerat peccato maculata; tum etiam quia:
+<lb ed="#P" n="38"/>jam erat terminata in propria persona; ac
+<lb ed="#P" n="39"/>denique, quia ex Adamo generandi erant 
+ho<lb break="no" ed="#P" n="40"/>mines secundum carnem , quod non decebat
+<lb ed="#P" n="41"/>Christum, maxime cum ab eodem Adamo 
+ori<lb break="no" ed="#P" n="42"/>ginalem maculam tracturi essent. Lege D.
+<lb ed="#P" n="43"/>Thom., in 3, d. 2, q. 4, art. 2, q. 3.
+</p>
+               </div>
+               <div xml:id="szstco-k31635-Dd1e688">
+                  <head xml:id="szstco-k31635-Hd1e690">Sectio 2</head>
+                  <head xml:id="szstco-k31635-Hd1e692" type="question-title">Utrum Verbum assumpserit veram animam 
+        rationalem</head>
+                  <p xml:id="szstco-k31635-d1e695">
+                     <lb ed="#P" n="44" type="fixed=524"/>SECTIO II.
+<lb ed="#P" n="45"/>Utrum Verbum assumpserit veram animam 
+ratio<lb break="no" ed="#P" n="46"/>nalem.
+</p>
+                  <p xml:id="szstco-k31635-d1e704">
+                     <lb ed="#P" n="47"/>1. Prima heresis fuit Arianorum, 
+negan<lb break="no" ed="#P" n="48"/>tium in Christo fuisse veram animam , 
+dice<lb break="no" ed="#P" n="49"/>bant enim Verbum illi fuisse loco animse. Ita
+<lb ed="#P" n="50"/>refert Epiph., heres. 69; et August., in 49;
+<lb ed="#P" n="51"/>Nazianzenus , orat. 54, post medium ; Cyril.
+<lb ed="#P" n="52"/>Alexand., ep. 9 et 29, et in septima Synodo,
+<lb ed="#P" n="53"/>act. 6. tom, 5, non longe a fine; idem error
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>tribuitar Eusebio Cowsariensi, et aliis Arianis.
+</p>
+                  <p xml:id="szstco-k31635-d1e726">
+                     <lb ed="#P" n="55"/>2. Secundus error fuit Apollinaris , qui in
+<lb ed="#P" n="56"/>principio dicitur sensisse cum Arianis; postea
+<lb ed="#P" n="57"/>vero, quibusdam Scripture testimoniis 
+coac<lb break="no" ed="#P" n="58"/>tus, dixit in Christo esse animam sentienlem,
+<lb ed="#P" n="59"/>non tamen mentem. Ita refert Epiph., heres.
+<lb ed="#P" n="60"/>T1, ubi Epistolam Athanasii ad Epietetum
+<lb ed="#P" n="61"/>eontra hanc heresim citat ; August., heres.
+<lb ed="#P" n="62"/>55; Vincent. Lirin., in suo libel. contra her.,
+<lb ed="#P" n="63"/>c. 17; Nazian., orat. 46, quae est epist. ad
+<lb ed="#P" n="64"/>Nectar. ; Cyril., hom. 5, Ephes. dieta ; 
+Ruffi<lb break="no" ed="#P" n="65"/>nus, lib. 41 Hist., c. 205; et Socrates, in 
+Tri<lb break="no" ed="#P" n="66"/>partita, lib. 5, c. 44. Quid autem nomine
+<lb ed="#P" n="67"/>mentis Apollinaris intellexerit, an, scilicet,
+<lb ed="#P" n="68"/>potentiam intelleetivam, vel ipsam 
+substan<lb break="no" ed="#P" n="69"/>tiam rationalis anime, non satis aperte 
+expli<lb break="no" ed="#P" n="70"/>cant dicti auctores, quanquam Augustinus,
+<lb ed="#P" n="71"/>et fere Epiphanius et Ruffinus non obscure
+<lb ed="#P" n="72"/>indicent, eum non de sola accidentali 
+facul<lb break="no" ed="#P" n="73"/>tate, sed de substantia ipsius anime fuisse
+<lb ed="#P" n="74"/>locutum; sic enim Augustinus ait: JVegacit
+<lb ed="#P" n="75"/>sentem, quae est rationalis anima hominis.
+<lb ed="#P" n="76"/>Epiphanius vero refert, se interrogasse 
+here<lb break="no" ed="#P" n="77"/>ticos, quid nomine mentis intelligerent, 
+ipsos<lb break="no" ed="#P" n="78"/>que respondisse , esse substantiam seu 
+spiri<lb break="no" ed="#P" n="79"/>tum.
+</p>
+                  <p xml:id="szstco-k31635-d1e784">
+                     <lb ed="#P" n="80"/>3. Quid mentis nomine intelligat significari
+<lb ed="#P" n="81"/>Epiphanius. — Ejus sententia perpeuditur.—
+<lb ed="#P" n="82"/>Ex quo fit consequens, eos negasse partem
+<lb ed="#P" n="83"/>quamdam human nature. Quo sensu 
+here<lb break="no" ed="#P" n="84"/>tici dici Dimerite , quorum auctor fuit 
+qui<lb break="no" ed="#P" n="85"/>dam Timotheus, postea dixerunt, ex iribus
+<lb ed="#P" n="86"/>partibus humane nature, corpore, anima et
+<lb ed="#P" n="87"/>mente, Verbum duas priores tantum 
+assum<lb break="no" ed="#P" n="88"/>psisse, ut constat ex Epiphanio supra, et 
+hee<lb break="no" ed="#P" n="89"/>res. 78, et ex epistolis Damasi, quas refert
+<lb ed="#P" n="90"/>Niceph., lib. 12 Hist., cap. 17 et 18, et ex
+<lb ed="#P" n="91"/>parte habentur tom. 2 Cone. , et apud 
+Theo<lb break="no" ed="#P" n="92"/>dor., lib. 5 Histor., cap. 10 et 11 ; quibus 
+lo<lb break="no" ed="#P" n="93"/>cis Damasus eontra hunc haereticum definit,
+<lb ed="#P" n="94"/>assumpsisse Christum veram animam 
+ratio<lb break="no" ed="#P" n="95"/>nalem , non obscure indicans hoc negasse
+<lb ed="#P" n="96"/>predictum haereticum , et in hoc fuisse 
+secu<lb break="no" ed="#P" n="97"/>ium Apollinarem. Verum est tamen 
+Epipha<lb break="no" ed="#P" n="98"/>nium supra, primum contendere, mentem
+<lb ed="#P" n="99"/>non esse spiritum, ex illo loco , 1 Cor. 14:
+<lb ed="#P" n="100"/>Psallam, spiritu, psallam e£ ente; demde
+<lb ed="#P" n="101"/>velle non esse substantiam, quia a/ias, inquit,
+<lb ed="#P" n="102"/>qulliplem esset homo ; ac tandem asserere
+<lb ed="#P" n="103"/>mentem non esse substantiam , sed humane
+<lb ed="#P" n="104"/>substanti: functionem, seu actionem (ait ipse)
+<lb ed="#P" n="105"/>ez Deo nobis datam. Sed prior locus parum
+<lb ed="#P" n="106"/>cogit, nam ibi nomine spiritus non 
+significa<lb break="no" ed="#P" n="107"/>tur anima hominis , sed vel donum spiritus,
+<lb ed="#P" n="108"/>linguarum videlicet donum, de quo ibi ser-
+<pb ed="#P" n="525"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>mo est, vel certe aer, aut vox quae in aere
+<lb ed="#P" n="2"/>formatur; unde est illud, quod ibi 
+premitti<lb break="no" ed="#P" n="3"/>dur: Si orem lingua, spiritus meus orat, id
+<lb ed="#P" n="4"/>est, vox vel lingua mea, eiens owtem mea sine
+<lb ed="#P" n="5"/>fructii est ; et deinde subjungit: Orabo spiritu,
+<lb ed="#P" n="6"/>orabo ei menie, hoc est, non tantum verba
+<lb ed="#P" n="7"/>proferendo, sed etiam animo et mente 
+conci<lb break="no" ed="#P" n="8"/>piendo. Unde etiam potest ibi nomine spiri£us
+<lb ed="#P" n="9"/>affectus orandi significari ; hic autem, cum
+<lb ed="#P" n="10"/>mens dicitur esse spiritus hominis, spiritus
+<lb ed="#P" n="11"/>pro anims substantia sumitur. Unde, quod
+<lb ed="#P" n="12"/>in secundo dicto Epiphanius inferebat, solum
+<lb ed="#P" n="13"/>probat mentem non esse substantiam ab 
+ho<lb break="no" ed="#P" n="14"/>mine separatam, eique assistentem, quia sic
+<lb ed="#P" n="15"/>homo non esset unus, sed multiplex ; hoc
+<lb ed="#P" n="16"/>vero non sequitur, dicendo mentem esse 
+sub<lb break="no" ed="#P" n="17"/>stantiam rationalis anime eum corpore unum
+<lb ed="#P" n="18"/>hominem componentem. Quod denique tertio
+<lb ed="#P" n="19"/>loco ait, mentem esse actionem, fortasse 
+in<lb break="no" ed="#P" n="20"/>terdum hac vox ita usurpatur. Apollinaris 
+ta<lb break="no" ed="#P" n="21"/>men non in hac tantum significatione de
+<lb ed="#P" n="22"/>mente est locutus; nec nomine mentis sola
+<lb ed="#P" n="23"/>actio ejus, sed etiam principium ipsius, vel
+<lb ed="#P" n="24"/>proximum, vel principale et radicale, 
+signi<lb break="no" ed="#P" n="25"/>ficari potest et solet, ut declaratum est, et
+<lb ed="#P" n="26"/>amplius constabit ex his quae infra, q. 6, art. 9;
+<lb ed="#P" n="27"/>in ejus commentario ostendemus. In hoc ergo
+<lb ed="#P" n="28"/>sensu hac hwresis hoc loco refutanda est; de
+<lb ed="#P" n="29"/>potentia namque intellectiva inferius suo loco,
+<lb ed="#P" n="30"/>q. 9, tractabimus.
+</p>
+                  <p xml:id="szstco-k31635-d1e919">
+                     <lb ed="#P" n="31"/>4. Conclusio de fide tenenda. — Dico ergo :
+<lb ed="#P" n="32"/>Christus Dominus assumpsit veram animam
+<lb ed="#P" n="33"/>rationalem, ejusdem speciei cum animabus
+<lb ed="#P" n="34"/>aliorum hominum. Est de fide, quae 
+suflicien<lb break="no" ed="#P" n="35"/>ler probari posset ex principio posito sectione
+<lb ed="#P" n="36"/>precedenti, quia sine vera anima rationali
+<lb ed="#P" n="37"/>vera humanitas esse non potest, nec verus
+<lb ed="#P" n="38"/>homo, cum per illam formaliter et 
+essentiali<lb break="no" ed="#P" n="39"/>ter constituatur. Probari etiam potest 
+sufti<lb break="no" ed="#P" n="40"/>cienter ex priuciplo posito supra, disput. 7,
+<lb ed="#P" n="41"/>sect, 9, ubi ostendimus unionem hanc non
+<lb ed="#P" n="42"/>esse factam in natura. Sed praeterea probatur
+<lb ed="#P" n="43"/>ex propriis. Primo, ex Scriptura, Joan. enim
+<lb ed="#P" n="44"/>12, dicit Christus : ZVuac anima mea turbata
+<lb ed="#P" n="45"/>est, et Matth. 26 : Z'ristis est anima mea ; ubi
+<lb ed="#P" n="46"/>non potest nomiue anims Verbum intelligi,
+<lb ed="#P" n="47"/>tum propter verborum proprietatem , tum
+<lb ed="#P" n="48"/>quia illi affectus non possunt ipsum Verbum
+<lb ed="#P" n="49"/>afficere, sicut solent afficere animum ; alias
+<lb ed="#P" n="50"/>oporteret Verbum ipsum esse passibile, quod
+<lb ed="#P" n="51"/>Ariani facile concederent, quia negabant esse
+<lb ed="#P" n="52"/>verum Deum; contra quos sufficienter supra
+<lb ed="#P" n="53"/>disputatum est; et q. 2, ostendimus Christum
+<lb ed="#P" n="54"/>non esse passum nec mutatum in sua 
+divini<lb break="no" ed="#P" n="55"/>tate. Deinde non possunt illa testimonia ex-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>poni de anima sentiente tantum. Primo, quia
+<lb ed="#P" n="57"/>non est sermo de quacumque passione 
+tristi<lb break="no" ed="#P" n="58"/>ti:, sed de tristitia rationali et voluntaria, ut
+<lb ed="#P" n="59"/>patet ex verbo illo : /Voz mea voluntas, sed
+<lb ed="#P" n="60"/>(ua fiat ; et ex eo quod ex voluntaria 
+conside<lb break="no" ed="#P" n="61"/>ratione, et meditatione excitavit in se illam
+<lb ed="#P" n="62"/>tristitiam, ut argumentatur sexta Synod., act.
+<lb ed="#P" n="63"/>18, in edicto Constantini, in quo antiqui 
+Gra<lb break="no" ed="#P" n="64"/>ci Patres contra hunc errorem referuntur.
+<lb ed="#P" n="65"/>Denique, Joan. 10, ait Christus : Z/go ono
+<lb ed="#P" n="66"/>animam meam, wt iterum sumam, eam; nemo
+<lb ed="#P" n="67"/>tollit eum a «e, sed potestalem habeo ponendi
+<lb ed="#P" n="68"/>animam meam, eb iterum. sumendi eam; ex
+<lb ed="#P" n="69"/>quibus verbis satis constat, illam Christi 
+ani<lb break="no" ed="#P" n="70"/>mam habuisse libertatem arbitrii, et fuisse
+<lb ed="#P" n="71"/>immortalem ; unde de illa dictum est Psalm.
+<lb ed="#P" n="72"/>45 : JVou derelinques animam meam àn inferno,
+<lb ed="#P" n="73"/>ut ab Apostolo Petro explicatur, Act. 2; et
+<lb ed="#P" n="74"/>ideo Matth. 26, et Luc. 23, eadem anima $
+pi<lb break="no" ed="#P" n="75"/>ritus dicitur. Ex quibuslocis etiam constat, in
+<lb ed="#P" n="76"/>Christi morte hanc animam fuisse a corpore
+<lb ed="#P" n="77"/>separatam, cum tamen Verbum nunquam
+<lb ed="#P" n="78"/>fuerit a corpore disjunctum.
+</p>
+                  <p xml:id="szstco-k31635-d1e1028">
+                     <lb ed="#P" n="79"/>5. Secundo, principaliter definita est hzc
+<lb ed="#P" n="80"/>veritas a Damaso Papa, cum Concilio 
+Roma<lb break="no" ed="#P" n="81"/>no, in professione fidei quae habetur inter 
+de<lb break="no" ed="#P" n="82"/>creta ejus; et refert etiam Theodor., lib. 5
+<lb ed="#P" n="83"/>Hist; cap. 9, 10; eb 14, et. lib. 9: Driparts
+<lb ed="#P" n="84"/>cap. 15; et Niceph., lib. 12 Hist., cap. 18;
+<lb ed="#P" n="85"/>idem habetur in Concilio Ephes. , in Epist.
+<lb ed="#P" n="86"/>Cyril. ad Nest., qua ibidem, can. 3, 
+ap<lb break="no" ed="#P" n="87"/>probatur; idem Concil. Chalcedon., act. 1;
+<lb ed="#P" n="88"/>quinta Synod., sess. 8, can. 4 et 11; sexta 
+Sy<lb break="no" ed="#P" n="89"/>nod., act. 11, in Epist. Sophronii, et sess. 18,
+<lb ed="#P" n="90"/>in citato edicto Constantini; et Concil. 
+Car<lb break="no" ed="#P" n="91"/>thag. IV, cap. 4, et Concil. Tolet. I, IV et
+<lb ed="#P" n="92"/>XI, in confessionibus fidei. Tradit etiam Leo
+<lb ed="#P" n="93"/>Papa, epist. 114, 82, 95; Cyril. supr., et lib.
+<lb ed="#P" n="94"/>de fide ad Theodos. ; August., libr. de Agone
+<lb ed="#P" n="95"/>Christiano, c. 10 et 21, et optime libro 
+con<lb break="no" ed="#P" n="96"/>tra Felicianum Arianum, cap. 13, ubi dicit,
+<lb ed="#P" n="97"/>prottermissis Scripturis, se velle ratione 
+con<lb break="no" ed="#P" n="98"/>tendere; et prima ac potissima qua utitur,
+<lb ed="#P" n="99"/>sumitur ex fine incarnationis, tum quia sine
+<lb ed="#P" n="100"/>rationali anima non potuisset Christus orare, :
+<lb ed="#P" n="101"/>mereri, nec satisfacere ; tum etiam quia, cum
+<lb ed="#P" n="102"/>incarnatus fuerit ad redimendum hominem
+<lb ed="#P" n="103"/>lapsum, assumere debuit id quod potissimum
+<lb ed="#P" n="104"/>in homine ceciderat, quodque maxime 
+re<lb break="no" ed="#P" n="105"/>demptione indigebat; hoc autem est 
+rationa<lb break="no" ed="#P" n="106"/>lis anima. Qua ratio frequens est apud 
+Pa<lb break="no" ed="#P" n="107"/>tres, ut patet ex citato edicto Constantini; et
+<lb ed="#P" n="108"/>ex Nazianz., orat. 51 et 52; Damasc., lib. 3,
+<lb ed="#P" n="109"/>cap. 6; et Ambros., lib. de Incarnat. Domin:
+<lb ed="#P" n="110"/>sacram., cap. 7.
+</p>
+                  <p xml:id="szstco-k31635-d1e1100">
+                     <pb ed="#P" n="526"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>6. Ultimo afferri possunt rationes 
+philoso<lb break="no" ed="#P" n="2"/>phice. Prima, quia non potest Deus fieri 
+for<lb break="no" ed="#P" n="3"/>ma corporis, ut supra etiam, disput. 7, 
+de<lb break="no" ed="#P" n="4"/>claratum est. Secunda, quia esto posse aliquo
+<lb ed="#P" n="5"/>modo informare, tamen natura composita ex
+<lb ed="#P" n="6"/>tali forma, non esset humanitas, et ita nec
+<lb ed="#P" n="7"/>Christus esset verus homo, quia non potest
+<lb ed="#P" n="8"/>Deus supplere effectum caus: formalis. 
+Ter<lb break="no" ed="#P" n="9"/>tia specialis contra Apollin., quia in homine
+<lb ed="#P" n="10"/>non est anima sensitiva distincta a rationali ;
+<lb ed="#P" n="11"/>-unde si Christus assumpsisset animam 
+sensi<lb break="no" ed="#P" n="12"/>tivam sine rationali, necessario assumpsisset
+<lb ed="#P" n="13"/>naturam alicujus bruti aut embryonis. Neque
+<lb ed="#P" n="14"/>contra hanc veritatem aliquid ex Scriptura
+<lb ed="#P" n="15"/>vel Patribus objici potest. Unde fundamentum
+<lb ed="#P" n="16"/>h:reticorum solum erat, ut Athanasius 
+re<lb break="no" ed="#P" n="17"/>fert, lib. de Incarnat. Verbi, prope finem, et
+<lb ed="#P" n="18"/>et Ambrosius supra, quia si Christus 
+habuis<lb break="no" ed="#P" n="19"/>set animam rationalem, peccati capax 
+exti<lb break="no" ed="#P" n="20"/>tisset; sed dicendum, illam animam, quae sibi
+<lb ed="#P" n="21"/>relicta, fuisset capax peccati, per unionem 
+im<lb break="no" ed="#P" n="22"/>peceabilem evasisse, ut q. 45 explicabitur. Est
+<lb ed="#P" n="23"/>autem hoc loco advertendum, conclusionem
+<lb ed="#P" n="24"/>esse intelligendam de unione immediata ; hic
+<lb ed="#P" n="25"/>enim est clarussensus Conciliorum et Patrum,
+<lb ed="#P" n="26"/>etest evidens per sese, nam aliquid debuit
+<lb ed="#P" n="27"/>necessario immediate assumi; ergo maxime
+<lb ed="#P" n="28"/>anima. Dices: tota humanitas. Sed contra,
+<lb ed="#P" n="29"/>quia non potest humanitas immediate 
+assu<lb break="no" ed="#P" n="30"/>nri,nisi essentiales partes, quibus conslat,
+<lb ed="#P" n="31"/>immediate assumantur; quia entitas totius
+<lb ed="#P" n="32"/>humanitatis non est alia ab entitate partium
+<lb ed="#P" n="33"/>simul sumptarum et unitarum. Confirmatur,
+<lb ed="#P" n="34"/>quiain triduo mansit anima unita immediate,
+<lb ed="#P" n="35"/>et tamen non est facta nova unio, sed ex vi
+<lb ed="#P" n="36"/>precedentis; de qua re plura infra, q. 6.
+</p>
+               </div>
+               <div xml:id="szstco-k31635-Dd1e1186">
+                  <head xml:id="szstco-k31635-Hd1e1188">Sectio 3</head>
+                  <head xml:id="szstco-k31635-Hd1e1190" type="question-title">Utrum Christus assumpserit verum humanum
+        Corpus</head>
+                  <p xml:id="szstco-k31635-d1e1193">
+                     <lb ed="#P" n="37" type="fixed=526"/>SECTIO III
+<lb ed="#P" n="38"/>Utrum Christus assumpserit verum humanum
+<lb ed="#P" n="39"/>Corpus.
+</p>
+                  <p xml:id="szstco-k31635-d1e1202">
+                     <lb ed="#P" n="40"/>1. Primus error negavit Christum verum
+<lb ed="#P" n="41"/>corpus assumpsisse, sed solum phantasticum
+<lb ed="#P" n="42"/>et apparens. Ita erravit Marcion, contra quem
+<lb ed="#P" n="43"/>multa seripsit Tertull., libris contra illum, et
+<lb ed="#P" n="44"/>lib. de Carne Christi; referunt etiam Justinus
+<lb ed="#P" n="45"/>Martyr, Apolog. 2 pro Christianis, non longe
+<lb ed="#P" n="46"/>a fine; Epiphan., heres. 42; et August., har.
+<lb ed="#P" n="47"/>22; Irens., lib. 4, cap. 29, qui ait propterea
+<lb ed="#P" n="48"/>hune hereticum prima capita Luce, qus
+<lb ed="#P" n="49"/>sunt de humana Christi generatione, 
+expun<lb break="no" ed="#P" n="50"/>xisse. Eumdem errorem secutus est Lucanus
+<lb ed="#P" n="51"/>quidam, et Cerdon, ut refert Tertull., lib. de
+<lb ed="#P" n="52"/>Prescript. hbiret., circa finem; et Epiphan.,
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="53"/>heres. 41; August., in 21; item Manichsi, ut
+<lb ed="#P" n="54"/>constat ex Epiphan., hseres. 66; et August.,
+<lb ed="#P" n="55"/>in 46; item Proclianitee apud August., haeres.
+<lb ed="#P" n="56"/>60, seu Prodianite, ut est apud Philastrium,
+<lb ed="#P" n="57"/>lib. de Haresibus ; ac denique Priscillianisto,
+<lb ed="#P" n="58"/>ut refert Leo Papa, epist. 93, cap. 4 et 1T.
+</p>
+                  <p xml:id="szstco-k31635-d1e1248">
+                     <lb ed="#P" n="59"/>2. Secundus error fuit , habuisse Christum
+<lb ed="#P" n="60"/>verum corpus, sed non ejusdem rationis cum
+<lb ed="#P" n="61"/>nostro, in quo fuit varietas; quidam enim
+<lb ed="#P" n="62"/>dixerunt fuisse formatum ex elementis, ut
+<lb ed="#P" n="63"/>Apelles apud August., heres. 293. Alii 
+ha<lb break="no" ed="#P" n="64"/>buisse corpus ccleste, ut Valentinus, teste
+<lb ed="#P" n="65"/>Augustino, heres. 11, et Tertul., lib. de 
+Pre<lb break="no" ed="#P" n="66"/>script. har.; et Gnostici, apud Iren., lib. 4,
+<lb ed="#P" n="67"/>cap. 5. Alii denique dixerunt habuisse 
+cor<lb break="no" ed="#P" n="68"/>pus divinum, consubstantiale divinitati, vel
+<lb ed="#P" n="69"/>certe ex ipsa formatum, ut Apollinar., 
+refe<lb break="no" ed="#P" n="70"/>rente Justino Martyre, Apolog. 2, ad fin., de
+<lb ed="#P" n="71"/>quo salis multa dicta sunt supra, disp. 7,
+<lb ed="#P" n="72"/>Sect. 2.
+</p>
+                  <p xml:id="szstco-k31635-d1e1282">
+                     <lb ed="#P" n="73"/>3. Dico primo: Verbum divinum 
+assump<lb break="no" ed="#P" n="74"/>sit verum corpus. Est de fide, quae 
+sufficien<lb break="no" ed="#P" n="75"/>ter probatur ex veritate incarnationis, supra
+<lb ed="#P" n="76"/>late probata, etsimul cum sequenti evidenter
+<lb ed="#P" n="77"/>ostendetur; infra etiam, quaest. 14, ex 
+pro<lb break="no" ed="#P" n="78"/>fesso probandum est, Christum assumpsisse
+<lb ed="#P" n="79"/>verum corpus passibile, et non tantum 
+appa<lb break="no" ed="#P" n="80"/>renter. Nune sufficit illa ratio, quia si 
+Chri<lb break="no" ed="#P" n="81"/>stus non habuit verum corpus, nulla est 
+ve<lb break="no" ed="#P" n="82"/>ritas in mysterüs vite ejus, quia nec vere
+<lb ed="#P" n="83"/>mortuus est, nec vere resurrexit ; vana erit
+<lb ed="#P" n="84"/>ergo fides nostra, ut alias Paulus 
+argumenta<lb break="no" ed="#P" n="85"/>tur, 1 ad Corinth. 16, et in huncfinem 
+perse<lb break="no" ed="#P" n="86"/>quitur Augustinus, lib. 83 Qusst., q. 14.
+</p>
+                  <p xml:id="szstco-k31635-d1e1315">
+                     <lb ed="#P" n="87"/>4. Dico secundo, assumpsisse Verbum 
+cor<lb break="no" ed="#P" n="88"/>pus humanum ejusdem materie et rationis
+<lb ed="#P" n="89"/>cum nostro. Est de fide, et probari potest
+<lb ed="#P" n="90"/>illis principiis generalibus, quod Christus est
+<lb ed="#P" n="91"/>verus homo, conceptus ex muliere, de quo
+<lb ed="#P" n="92"/>dicetur suo loco. Nune probatur ex propriis,
+<lb ed="#P" n="93"/>primo ex Scriptura, Joan. 1: Verbum caro
+<lb ed="#P" n="94"/>faclum, est, scilicet, per assumptionem et
+<lb ed="#P" n="95"/>unionem, juxta illud ad Hebr. 1 : S'emen 
+Abra<lb break="no" ed="#P" n="96"/>he apprehendit; et cap. 2: Quia pueri 
+com<lb break="no" ed="#P" n="97"/>qwwnicaverunt carni e£ sanguini, e£. F'ilius Dei
+<lb ed="#P" n="98"/>participavit eisdem ; ad Roman. 1: Qwi factus
+<lb ed="#P" n="99"/>est ei em semine David secundum. caruem;
+<lb ed="#P" n="100"/>Petr. 4: Christo igitur passo in carne, et vos
+<lb ed="#P" n="101"/>eadem cogitatione armamini. Secundo deüniunt
+<lb ed="#P" n="102"/>hoc omnia Concilia citata sectione praecedenti,
+<lb ed="#P" n="103"/>el specialiter traduntur circa hoc multa in.
+<lb ed="#P" n="104"/>Concilio Hispalen. II, cap. 13, et in 
+Bracha<lb break="no" ed="#P" n="105"/>ren. I, cap. 4, et in decretis Eutychiani, Li-.
+<lb ed="#P" n="106"/>berii et Damasi Pontificum, et a Leone Papa,
+<lb ed="#P" n="107"/>in citatis epistolis, et aliis Patribus citatis,
+<pb ed="#P" n="527"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>presertim Tertul.,lib. de Carne Christi; et.
+<lb ed="#P" n="2"/>Ambros., lib. de Incarnationis Domini 
+sacra<lb break="no" ed="#P" n="3"/>mento, cap. 7; et August., epist. 146, ubi
+<lb ed="#P" n="4"/>ponderat verba quae Christus post 
+resurrec<lb break="no" ed="#P" n="5"/>tionem dixit, Luc. 24: Videte quia spiritus
+<lb ed="#P" n="6"/>carnem, e$ ossa non habet, sicut qne videtis 
+ha<lb break="no" ed="#P" n="7"/>Gere. Sunt etiam aperta illa Scripture 
+testi<lb break="no" ed="#P" n="8"/>monia: Verbum caro factum, est, Joan. 4.
+<lb ed="#P" n="9"/>F'acíus est ex semine David secundum carnem,
+<lb ed="#P" n="10"/>Roman. 4. Quia pueri communicaverunt carni
+<lb ed="#P" n="11"/>e sanguini, et Filius Dei participavit eisdem,
+<lb ed="#P" n="12"/>Hebr. 9; et similia, quae frequentia sunt. 
+Ul<lb break="no" ed="#P" n="13"/>limo sunt rationes. Prima, quia etiam corpus
+<lb ed="#P" n="14"/>humanum de essentia hominis est. Secunda,
+<lb ed="#P" n="15"/>quia tale corpus fuit necessarium ad finem
+<lb ed="#P" n="16"/>- redemptionis, quia in nostro corpore pati 
+de<lb break="no" ed="#P" n="17"/>buit, et exempla virtutum nobis ostendere,
+<lb ed="#P" n="18"/>et quia corpus nostrum debet configurari 
+cor<lb break="no" ed="#P" n="19"/>pori claritatis ejus. Unde sumitur tertia ratio,
+<lb ed="#P" n="20"/>quia Verbum non tantum erat redempturum
+<lb ed="#P" n="21"/>animas, sed etiam corpora. Quarta denique,
+<lb ed="#P" n="22"/>quia alias non fuisset Christus vere conceptus
+<lb ed="#P" n="23"/>ex Virgine, nec verus filius hominis, contra
+<lb ed="#P" n="24"/>Evangelicam historiam. De qua re plura in
+<lb ed="#P" n="25"/>sequenti tomo. Est autem haec conclusio 
+eo<lb break="no" ed="#P" n="26"/>dem sensu intelligenda quo conclusio praece-.
+<lb ed="#P" n="27"/>dents sectionis, scilicet, de unione 
+immedia<lb break="no" ed="#P" n="28"/>ta, propter eadem testimonia et easdem 
+ra<lb break="no" ed="#P" n="29"/>üones. Quibus addi potest, quod in propria
+<lb ed="#P" n="30"/>persona habet corpus immediatam unionem
+<lb ed="#P" n="31"/>eum subsistentia ; Verbum autem supplet 
+per<lb break="no" ed="#P" n="32"/>feetissime propriam subsistentiam ; ergo 
+uni<lb break="no" ed="#P" n="33"/>iur immediate corpori. Et hoc a fortiori 
+con<lb break="no" ed="#P" n="34"/>firmabunt quae sect. 5 et 6 dicentur; et in
+<lb ed="#P" n="35"/>quast. etiam 6 idem roborabitur.
+</p>
+                  <p xml:id="szstco-k31635-d1e1443">
+                     <lb ed="#P" n="36"/>5. Fundamentum Manicheorum fuit, quia
+<lb ed="#P" n="37"/>putabant corpora esse mala ex natura sua, et
+<lb ed="#P" n="38"/>a malo principio. Sed hoc processit ex stulto
+<lb ed="#P" n="39"/>errore, qui in 4 part. ex professo refutatur,
+<lb ed="#P" n="40"/>. et videri potest Athanas., lib. 3 de Íncarnat.
+<lb ed="#P" n="41"/>Chrisü, aliquantulum a principio ; Ireneus,
+<lb ed="#P" n="42"/>lib. 4, cap. 29, lib. 3, cap. 18 et 32; et D.
+<lb ed="#P" n="43"/>Thom., 4 contra gent., cap. 30.
+</p>
+                  <p xml:id="szstco-k31635-d1e1463">
+                     <lb ed="#P" n="44"/>6. Prima objectio. — Responsio.— 
+Funda<lb break="no" ed="#P" n="45"/>mentum aliorum haereticorum sumitur ex 
+ali<lb break="no" ed="#P" n="46"/>quibus Pauli testimoniis. Primum est illud,
+<lb ed="#P" n="47"/>2ad Corint. 5 : .Z/. sí cognovimus Christum
+<lb ed="#P" n="48"/>secundum carnem, sed jaun qon movinus ; quae
+<lb ed="#P" n="49"/>Faustus Manieheus ita exposuit, ut diceret,
+<lb ed="#P" n="50"/>Paulum in principio existimasse Christum 
+ha<lb break="no" ed="#P" n="51"/>buisse veram carnem, postea vero mutasse
+<lb ed="#P" n="52"/>senlentiam. Et adjungebant illud ad Philip.
+<lb ed="#P" n="53"/>2: n similitudinem. hominum. factus, id. est,
+<lb ed="#P" n="54"/>non in veritate. Respondetur, impiam esse
+<lb ed="#P" n="55"/>illam Fausti expositionem; si enim ita licet
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>sentire de Paulo, nihil est firmum in verbis -
+<lb ed="#P" n="57"/>ejus. Sensus ergo duplex esse potest. Primus,
+<lb ed="#P" n="58"/>ut Paulus de se loquatur pro eo tempore quo
+<lb ed="#P" n="59"/>Christum persequebatur, et dicat: Etsi 
+ali<lb break="no" ed="#P" n="60"/>quando secundum carauem,id est carnaliter,
+<lb ed="#P" n="61"/>judieantes, indignam sstimationem 
+habui<lb break="no" ed="#P" n="62"/>mus de Christo, sed jam non ita novimus seu
+<lb ed="#P" n="63"/>existimamus. Vel secundo, ut loquatur de
+<lb ed="#P" n="64"/>conditione carnis passibilis, in qua 
+cognovi<lb break="no" ed="#P" n="65"/>mus Christum, dum hic viveret, sed nunc jam
+<lb ed="#P" n="66"/>non novimus; qua expositio traditur in 
+sep<lb break="no" ed="#P" n="67"/>tima Synodo , act. 6, tom. 4 ad. finem. Et
+<lb ed="#P" n="68"/>confirmatur auctoritate Chrysost. et Cyril. ;
+<lb ed="#P" n="69"/>et est etiam August., lib. 41 contra Faust., a
+<lb ed="#P" n="70"/>principio; et est consentanea verbis quae 
+Pau<lb break="no" ed="#P" n="71"/>lus postea subjungit: Uf qui vieunt, jam q02
+<lb ed="#P" n="72"/>Sibi vivant, sed ei qui pro illis moriuus est et
+<lb ed="#P" n="73"/>resurrezit. De illo vero testimonio ad Philip.
+<lb ed="#P" n="74"/>2, jam supra, q. 2, diximus illam particulam,
+<lb ed="#P" n="75"/>in similitudinem, non excludere veritatem ;
+<lb ed="#P" n="76"/>sicut patet Gen. 5, cum dicitur : Adam genuit
+<lb ed="#P" n="77"/>fium ad imaginem et similitudinem suam ; et
+<lb ed="#P" n="78"/>ad hunc modum dixit Clemens Alexan., lib.
+<lb ed="#P" n="79"/>1 de Pedag., c. 2, venisse Filium Dei iu 
+fi<lb break="no" ed="#P" n="80"/>gura hominis. Vel si gratis demus illam 
+simi<lb break="no" ed="#P" n="81"/>litudinem excludere veritatem, referenda est
+<lb ed="#P" n="82"/>non ad homines ut homines, sed ad homines
+<lb ed="#P" n="83"/>ut peccatores, ut Chrysost. ibi et alii 
+nota<lb break="no" ed="#P" n="84"/>runt; quomodo de Christo dicitur ad Rom.
+<lb ed="#P" n="85"/>8, habuisse carnem , 2» similitudinem carnis
+<lb ed="#P" n="86"/>peccati, quamvis non habuerit carnem 
+pec<lb break="no" ed="#P" n="87"/>cali.
+</p>
+                  <p xml:id="szstco-k31635-d1e1563">
+                     <lb ed="#P" n="88"/>7. Secundo, objicitur illud 1 ad Corint. 15:
+<lb ed="#P" n="89"/>Primus homo de terra terrenus, secundus homo
+<lb ed="#P" n="90"/>de calo celestis ; volunt enim Christum dici
+<lb ed="#P" n="91"/>celestem hominem propter cecleste corpus.
+<lb ed="#P" n="92"/>Sed non intelligit Paulus, qui statim etiam eos
+<lb ed="#P" n="93"/>vocat homines coelestes, qui Christum 
+imitan<lb break="no" ed="#P" n="94"/>tur. Primo ergo exponunt Patres, Christum
+<lb ed="#P" n="95"/>dici celestem hominem, quia celestem 
+vi<lb break="no" ed="#P" n="96"/>tam vixit, seu quia impeccabilis fuit ; Adam
+<lb ed="#P" n="97"/>vero dicitur terrenus, utpote subditus 
+peeca<lb break="no" ed="#P" n="98"/>to, cui quadrat quod statim Paulus subjungit:
+<lb ed="#P" n="99"/>Qualis terrenus, tales et terreni, qualis 
+eales<lb break="no" ed="#P" n="100"/>tis, tales et. celestes. Ita Tertullianus, libr. de
+<lb ed="#P" n="101"/>Carne Christi, capite octavo; et Beda, in eum
+<lb ed="#P" n="102"/>locum referens Augustinum.
+</p>
+                  <p xml:id="szstco-k31635-d1e1598">
+                     <lb ed="#P" n="103"/>8. Christus quo pacto dicatur celesiis homo.
+<lb ed="#P" n="104"/>— Secundo, dicitur Christus homo coelestis
+<lb ed="#P" n="105"/>propier gloriam, quam a principio habuit;
+<lb ed="#P" n="106"/>quamvis enim in corpore illam non habuerit
+<lb ed="#P" n="107"/>usque ad resurrectionem, illi tamen erat 
+de<lb break="no" ed="#P" n="108"/>bita et connaturalis ; primus vero homo 
+dici<lb break="no" ed="#P" n="109"/>tur terrenus, propter mortalitatem ex peccato
+<lb ed="#P" n="110"/>contractam. Ita fere Chrysost., hom. 42, in 1
+<pb ed="#P" n="528"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>ad Corinth.; et August., 13 de Civit., cap.
+<lb ed="#P" n="2"/>23; Tertull. ; lib. de Resur. carnis, cap. 49
+<lb ed="#P" n="3"/>et sequentibus. Tertio dicitur Christus 40omo
+<lb ed="#P" n="4"/>calestis,vatione divini et coelestis suppositi,
+<lb ed="#P" n="5"/>qua ratione etiam solet diei homo, qui de 
+cz<lb break="no" ed="#P" n="6"/>lo descendit, Joan. 3 et 6; ita fere Nazianz., d.
+<lb ed="#P" n="7"/>orat. 54, circa medium ; et indicat Augustin.,
+<lb ed="#P" n="8"/>epist. 57 ad Dardanum, q. 2. Quarto, 
+dici<lb break="no" ed="#P" n="9"/>iur ccelestis propter ineffabilem modum 
+con<lb break="no" ed="#P" n="10"/>ceptionis, supra totum nature ordinem, 
+cc<lb break="no" ed="#P" n="11"/>lesti quadam virtute effectee ; ita Ambr., 4 ad
+<lb ed="#P" n="12"/>Gorinth. 15; et Hilar., lib. 40 de Trinit., non
+<lb ed="#P" n="13"/>longe a principio; August., Dialogo 65 qusest.
+<lb ed="#P" n="14"/>ad Orosium, q. 4.
+</p>
+                  <p xml:id="szstco-k31635-d1e1654">
+                     <lb ed="#P" n="15"/>9. Dices : hac ratione, etiam Adam 
+dicen<lb break="no" ed="#P" n="16"/>dus esset homo coelestis, quia ab ipso Deo 
+im<lb break="no" ed="#P" n="17"/>mediate creatus fuit. Respondetur primum,
+<lb ed="#P" n="18"/>Adam fuisse productum eo naturali modo
+<lb ed="#P" n="19"/>quo species humana in primo suo individuo
+<lb ed="#P" n="20"/>produci poterat, Christum vero modo omnino
+<lb ed="#P" n="21"/>supernaturali fuisse genitum. Secundo, in
+<lb ed="#P" n="22"/>Christi conceptione, non solum, neque 
+prae<lb break="no" ed="#P" n="23"/>cipue considerari corporis formationem, sed
+<lb ed="#P" n="24"/>multo magis assumptionem, et inde vocari
+<lb ed="#P" n="25"/>celestem, unde Augustin. supra : Colestem
+<lb ed="#P" n="26"/>dico, quia vou ex hummno conceptus est semine,
+<lb ed="#P" n="27"/>sed ex Maria Virgine pro nostra salute 
+as<lb break="no" ed="#P" n="28"/>sumptus a Filio Dei.
+</p>
+               </div>
+               <div xml:id="szstco-k31635-Dd1e1688">
+                  <head xml:id="szstco-k31635-Hd1e1690">Sectio 4</head>
+                  <head xml:id="szstco-k31635-Hd1e1692" type="question-title">Utrum assumpserit Christus corpus et animam
+        inter se unita</head>
+                  <p xml:id="szstco-k31635-d1e1695">
+                     <lb ed="#P" n="29" type="fixed=528"/>SECTIO IV.
+<lb ed="#P" n="30"/>Utrum assumpserit Christus corpus et animam
+<lb ed="#P" n="31"/>inter se unita.
+</p>
+                  <p xml:id="szstco-k31635-d1e1704">
+                     <lb ed="#P" n="32"/>1. Hanc brevem dubitationem supra, q. 2,
+<lb ed="#P" n="33"/>art. 5, huc remisimus, quoniam praecedentes
+<lb ed="#P" n="34"/>supponit, et de ilia fuitolim inter scholasticos
+<lb ed="#P" n="35"/>dubitatum, quibusdam negantibus 
+assumpsis<lb break="no" ed="#P" n="36"/>se Christum has duas partes inter se unitas,
+<lb ed="#P" n="37"/>quia necessario consequi videbatur, ex 
+unio<lb break="no" ed="#P" n="38"/>ne earum resultare personam humanam 
+crea<lb break="no" ed="#P" n="39"/>tam ; quam sententiam tanquam scholasticam
+<lb ed="#P" n="40"/>opinionem refert Magist.. in 3,d. 6 ; et Hugo
+<lb ed="#P" n="41"/>de S. Vietor., lib. 1 de Sacramentis, part. 2;
+<lb ed="#P" n="42"/>et Scot., in illa d. 6, q. 3, dicit non fuisse
+<lb ed="#P" n="43"/>hereticam, donec ab Alexandro III damnata
+<lb ed="#P" n="44"/>est in cap. Cum Christus, extra. de Hzreticis.
+<lb ed="#P" n="45"/>Et eodem modo de illa sententia loquuntur
+<lb ed="#P" n="46"/>alii scholastici antiqui.
+</p>
+                  <p xml:id="szstco-k31635-d1e1739">
+                     <lb ed="#P" n="47"/>2. Dicendum vero est, Christum Dominum
+<lb ed="#P" n="48"/>assumpsisse corpus et animam inter se unita
+<lb ed="#P" n="49"/>ad componendam unam humanitatem. Est de
+<lb ed="#P" n="50"/>fide, et contraria senteutia semper fuit 
+hzre<lb break="no" ed="#P" n="51"/>tica, tanquam directe repugnans substantie
+<lb ed="#P" n="52"/>mystlerü incarnationis. Unde in Concilio
+<lb ed="#P" n="53"/>Ephes., can. 43, et Coneilio Chalced., act. 4 et
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>5, et in sexta Synodo, act. 11, in epist. 
+So<lb break="no" ed="#P" n="55"/>phron., et act. 13, cap. 4, definitur, Christum
+<lb ed="#P" n="56"/>assumpsisse carnem animatam anima 
+ratio<lb break="no" ed="#P" n="57"/>nali, quod perinde est ac dicere assumpsisse
+<lb ed="#P" n="58"/>carnem unitam animae; et eodem modo 
+lo<lb break="no" ed="#P" n="59"/>quuntur Concilia supra citata, et alia, quz
+<lb ed="#P" n="60"/>docent Christum assumpsisse carnem 
+mie<lb break="no" ed="#P" n="61"/>diante anima , quae disput. 97 tractabimus.
+<lb ed="#P" n="62"/>Item, quae docent Christum constare ex 
+cor<lb break="no" ed="#P" n="63"/>pore et anima, ut Lateranense, quod 
+habe<lb break="no" ed="#P" n="64"/>tur in cap. Firmiter, de Sum. Trinit.; et 
+Atha<lb break="no" ed="#P" n="65"/>nas., in symbolo. Et ita sentit aperte de 
+cer<lb break="no" ed="#P" n="66"/>titudine hujus veritas Damascen., lib. 3 de.
+<lb ed="#P" n="67"/>Fide, cap. 2; August., epist. 3; D. Thom., 4
+<lb ed="#P" n="68"/>contra gent., cap. 37, etloco supra citato. 
+Ra<lb break="no" ed="#P" n="69"/>tio autem est, quia unio anim: et corporis
+<lb ed="#P" n="70"/>est de essentia humanitatis et hominis. 
+Ver<lb break="no" ed="#P" n="71"/>bum autem et veram humanitatem 
+assum<lb break="no" ed="#P" n="72"/>psit, et vere factus est homo. Deinde nisi 
+cor<lb break="no" ed="#P" n="73"/>pus et anima fuissent unila, non potuissent
+<lb ed="#P" n="74"/>per mortem separari, unde nec Christus vere
+<lb ed="#P" n="75"/>mortuus fuisset; et simili ratione, nec vere
+<lb ed="#P" n="76"/>resurrexisset, nisi post mortem iterum 
+con<lb break="no" ed="#P" n="77"/>juncta fuissent ; nec a principio esset genitus
+<lb ed="#P" n="78"/>ex matre, quia generatio formaliter 
+termi<lb break="no" ed="#P" n="79"/>natur ad unionem animas cum corpore. Ad
+<lb ed="#P" n="80"/>fundamentum autem contrarii erroris, jam ex
+<lb ed="#P" n="81"/>supra dictis patet responsio ; per unionem
+<lb ed="#P" n="82"/>enim anim: et corporis immediate resultat
+<lb ed="#P" n="83"/>hec natura, et per hypostaticam unionem
+<lb ed="#P" n="84"/>impediri potest, ne resultet haec persona.
+</p>
+                  <p xml:id="szstco-k31635-d1e1827">
+                     <lb ed="#P" n="85"/>3. Occurrebat hoc loco difficultas, an corpus
+<lb ed="#P" n="86"/>et anima aliter fuerint unita Verbo ratione 
+to<lb break="no" ed="#P" n="87"/>tius humanitatis, seu quatenus unite erant ad
+<lb ed="#P" n="88"/>illam componendam, aliter vero secundum
+<lb ed="#P" n="89"/>se, seu secundum entitates suas. Sed bzc 
+du<lb break="no" ed="#P" n="90"/>bitatio supponit nonnulla tractanda disputat.
+<lb ed="#P" n="91"/>17, et ideo usque in illum locum differenda
+<lb ed="#P" n="92"/>est.
+</p>
+                  <p xml:id="szstco-k31635-d1e1847">
+                     <lb ed="#P" n="93"/>4. An Christus dicendus sit ex tribus 
+natu<lb break="no" ed="#P" n="94"/>ris compositus. — Ex dictis vero expeditur
+<lb ed="#P" n="95"/>facile aliud dubium, quod ad modum 
+loquen<lb break="no" ed="#P" n="96"/>di pertinet, an Christus dicendus sit 
+compo<lb break="no" ed="#P" n="97"/>situs ex tribus naturis, divinitate, anima et
+<lb ed="#P" n="98"/>carne, au vero ex duabus tantum, divinitate,
+<lb ed="#P" n="99"/>scilicet, et humanitate; nam Damascen., lib.
+<lb ed="#P" n="100"/>3, cap. 46, ita posteriorem hunc modum 
+lo<lb break="no" ed="#P" n="101"/>queudi eligit, ut priorem non probet ; quein
+<lb ed="#P" n="102"/>imitatur Paulinus Aquileien., in libel. 
+Sacro<lb break="no" ed="#P" n="103"/>syllabo, qui refertur in Concilio 
+Francofor<lb break="no" ed="#P" n="104"/>diensi, et habetur etiam in 5 tom. Biblioth.
+<lb ed="#P" n="105"/>Sanct., quoniam videtur illo modo loquendi
+<lb ed="#P" n="106"/>significari ita fuisse disjuncta inter se animam
+<lb ed="#P" n="107"/>et corpus, sicut a divinitate, seu non magis
+<lb ed="#P" n="108"/>fuisse unita inter se ad componendum unam
+<pb ed="#P" n="529"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>naturam quam cum divinitate. Item, quia 
+ani<lb break="no" ed="#P" n="2"/>ma et corpus non sunt proprie duae natura,
+<lb ed="#P" n="3"/>cum sint partes unius nature. Nihilominus
+<lb ed="#P" n="4"/>prior loquendi modus est valde a Patribus
+<lb ed="#P" n="5"/>usitatus ; illo enim utitur Gelas. Papa, lib. de
+<lb ed="#P" n="6"/>Duab. natur., circa finem ; et Concilium 
+To<lb break="no" ed="#P" n="7"/>letan. XI, ex August., 13 de Trinit., cap. 17,
+<lb ed="#P" n="8"/>ubi utramque locutionem conjungit dicens :
+<lb ed="#P" n="9"/>Ez duabus substantiis una persona, ac per hoc
+<lb ed="#P" n="10"/>ám em tribus, Deo, anima, et carne ; et 
+Ber<lb break="no" ed="#P" n="11"/>nard., serm. 3 in Vigil. Nativit. Domini , et
+<lb ed="#P" n="12"/>lib. 5 de Considerat. ad Eugenium , ubi ait,
+<lb ed="#P" n="13"/>sicut in Trinitate suni tres person:in una 
+na<lb break="no" ed="#P" n="14"/>tura, ita per hoc mysterium factum esse, ut
+<lb ed="#P" n="15"/>sint tres nature in una persona. Et eodem
+<lb ed="#P" n="16"/>modo loquitur Innoc., lib. 4 de Myst. altaris,
+<lb ed="#P" n="17"/>cap. 14. Indieat etiam Leo Papa, epist. 11,
+<lb ed="#P" n="18"/>dicens, Verbum, carnem et animam, unum
+<lb ed="#P" n="19"/>esse Christum. Et quamvis magis proprie 
+di<lb break="no" ed="#P" n="20"/>catur Christus constare ex duabus naturis ,
+<lb ed="#P" n="21"/>tamen alius modus loquendi non est 
+rejicien<lb break="no" ed="#P" n="22"/>dus, nam estin rigore verus, et introductus
+<lb ed="#P" n="23"/>est ad explicandum, verum corpus et veram
+<lb ed="#P" n="24"/>animam Christum assumpsisse ; si enim 
+pu<lb break="no" ed="#P" n="25"/>rus homo dicitur ex duplici natura constare,
+<lb ed="#P" n="26"/>corporali scilieet et spiritali, cur non poterit
+<lb ed="#P" n="27"/>diei Christus constare ex tribus ? Regulariter
+<lb ed="#P" n="28"/>vero nos priori modo loqui debemus, quia
+<lb ed="#P" n="29"/>est proprior, magisque explicat Verbum non
+<lb ed="#P" n="30"/>assumpsisse corpus et animam, ut duas 
+natu<lb break="no" ed="#P" n="31"/>ras disjunctas, sed ut unam componentes.
+<lb ed="#P" n="32"/>Posterior autem modus ad refutandas 
+expres<lb break="no" ed="#P" n="33"/>se hereses eontrarias usurpatus est a 
+Patri<lb break="no" ed="#P" n="34"/>bus, et eodem modo possumus nos loqui, 
+ad<lb break="no" ed="#P" n="35"/>hibita sufficiente declaratione. 
+</p>
+               </div>
+               <div xml:id="szstco-k31635-Dd1e1965">
+                  <head xml:id="szstco-k31635-Hd1e1967">Sectio 5</head>
+                  <head xml:id="szstco-k31635-Hd1e1969" type="question-title">Utrum assumpserit Christus partes omnes qua sunt
+        de integritate corporis humani</head>
+                  <p xml:id="szstco-k31635-d1e1972">
+                     <lb ed="#P" n="36" type="fixed=529"/>SECTIO V.
+<lb ed="#P" n="37"/>Utrum assumpserit Christus partes omnes qua sunt
+<lb ed="#P" n="38"/>de integritate corporis humani.
+</p>
+                  <p xml:id="szstco-k31635-d1e1981">
+                     <lb ed="#P" n="39"/>1. Dico primo, Verbum divinum assumpsisse
+<lb ed="#P" n="40"/>corpus integrum, et omnibus suis parlibus
+<lb ed="#P" n="41"/>constans. Hzec conclusio est omnino certa, et
+<lb ed="#P" n="42"/>in ea conveniunt omnes Theologi et Patres,
+<lb ed="#P" n="43"/>qui de hac materia loquuntur ; et 
+fundamen<lb break="no" ed="#P" n="44"/>tum est, quia Christus non est tantum homo
+<lb ed="#P" n="45"/>verus, sed etiam perfectus et integer, et 
+ne<lb break="no" ed="#P" n="46"/>que mancus aut mulilus, neque monsitrosus ;
+<lb ed="#P" n="47"/>quanquam enim hoc ultimum non habeatur
+<lb ed="#P" n="48"/>expresse in Scriptura, tamen, cum fides 
+do<lb break="no" ed="#P" n="49"/>ceat, Verbum factum fuisse hominem, 
+assu<lb break="no" ed="#P" n="50"/>mendo nostram naturam, quam in Àdamo
+<lb ed="#P" n="51"/>plantavit, satis indicat et docet, sicut creavit
+<lb ed="#P" n="52"/>Adam integrum quoad omnes partes, ita etiam
+<lb ed="#P" n="53"/>perfectam et integram humanitatem assum-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>psisse, ut bene explicuit Leo Papa, serm. 7 de
+<lb ed="#P" n="55"/>Nativ., c. 2; et Damasc., lib. 3 de Fide, cap.
+<lb ed="#P" n="56"/>3 et 6; et idem est communis sensus 
+om<lb break="no" ed="#P" n="57"/>nium Patrum, et totius Ecclesie ; ac denique
+<lb ed="#P" n="58"/>hoe intendunt definire Concilia supra citata,
+<lb ed="#P" n="59"/>cum statuunt assumpsisse Verbum nostrum
+<lb ed="#P" n="60"/>corpus perfectum, quale creavit in Adam. 
+Ra<lb break="no" ed="#P" n="61"/>lio vero facilis est, quia ita decebat et 
+majes<lb break="no" ed="#P" n="62"/>tatem Verbi Dei, cujus illud corpus erat 
+futu<lb break="no" ed="#P" n="63"/>rum, et omnipotentiam Spiritus Saneti, cujus
+<lb ed="#P" n="64"/>virlute corpus illud fabricatum est, et 
+excel<lb break="no" ed="#P" n="65"/>lentiam ipsius operis, quod, sicut est 
+maxi<lb break="no" ed="#P" n="66"/>mum omnium, qua a Deo perfecta sunt, ita
+<lb ed="#P" n="67"/>debuit integro ac perfecto modo fieri.
+</p>
+                  <p xml:id="szstco-k31635-d1e2049">
+                     <lb ed="#P" n="68"/>2. Dico secundo: Verbum divinum 
+assum<lb break="no" ed="#P" n="69"/>psit omnes partes corporis humani, eas 
+pra<lb break="no" ed="#P" n="70"/>sertim quae anima rationali informantur, non
+<lb ed="#P" n="71"/>tantum mediate et in hypostasi, sed etiam
+<lb ed="#P" n="72"/>immediate et secundum hypostasim. 
+Expli<lb break="no" ed="#P" n="73"/>catio horum terminorum jam supra tradita
+<lb ed="#P" n="74"/>est. Conclusio vero communis est, et certa ;
+<lb ed="#P" n="75"/>ut vero explicetur et probetur, advertendum
+<lb ed="#P" n="76"/>estin corpore humano multa ad illius 
+inte<lb break="no" ed="#P" n="77"/>gritatem concurrere, ut ossa, carnem, 
+san<lb break="no" ed="#P" n="78"/>guinem, et alios humores, dentes, ungues,
+<lb ed="#P" n="79"/>capillos, barbam, ete., quae omnia fuisse in
+<lb ed="#P" n="80"/>corpore Christi, indubitatum est ex dictis in
+<lb ed="#P" n="81"/>precedenti conclusione ; quia corpus illud
+<lb ed="#P" n="82"/>erat perfectum et integrum, et naturali modo
+<lb ed="#P" n="83"/>vivebat et nutriebatur, ete. Unde 
+consequen<lb break="no" ed="#P" n="84"/>ler fit, haec omnia fuisse assumpta in 
+hypo<lb break="no" ed="#P" n="85"/>stasi Verbi, de quo jam quaestio esse non 
+po<lb break="no" ed="#P" n="86"/>lest ; an vero fuerint etiam assumpta 
+secun<lb break="no" ed="#P" n="87"/>dum hypostasim, illud potest in quaestionem
+<lb ed="#P" n="88"/>venire. Secundo observandum est ex 
+philo<lb break="no" ed="#P" n="89"/>sophia, quidam esse inter hae quae 
+inte<lb break="no" ed="#P" n="90"/>grant corpas humanum, de quibus certum
+<lb ed="#P" n="91"/>est informari ipsa anima rationali, ut sunt
+<lb ed="#P" n="92"/>partes omnes organiee?, et ossa, caro, eic.
+<lb ed="#P" n="93"/>Alia vero sunt de quibus dubitatur, ut sunt
+<lb ed="#P" n="94"/>dentes, ungues, capilli, humores. De hoc 
+po<lb break="no" ed="#P" n="95"/>steriori genere partium nunc non agimus,
+<lb ed="#P" n="96"/>postulat enim longiorem disputationem. De
+<lb ed="#P" n="97"/>priori ergo partium genere probatur 
+conclu<lb break="no" ed="#P" n="98"/>sio, quia corpus humanum unitum fuit Verbo
+<lb ed="#P" n="99"/>immediate, et secundum hypostasim ; neque
+<lb ed="#P" n="100"/>enim sola anima immediate assumpta est, sed
+<lb ed="#P" n="101"/>tota humanitas, sicut in propria humana 
+per<lb break="no" ed="#P" n="102"/>sona, non sola anima subsistit, sed totus 
+ho<lb break="no" ed="#P" n="103"/>mo, seu tota humanitas ; Verbum enim 
+divi<lb break="no" ed="#P" n="104"/>num totam subsistentiam creatam 
+humanita<lb break="no" ed="#P" n="105"/>lis impedivit, et per se ipsum illam 
+termina<lb break="no" ed="#P" n="106"/>vit; sicut ergo assumpsit animam immediate,
+<lb ed="#P" n="107"/>ei seeundum hypostasum, ita et corpus, ut
+<lb ed="#P" n="108"/>magis q. 6 declarabitur. Sed non potuit assu-
+<pb ed="#P" n="530"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>mere corpus secundum hypostasim, nisi 
+as<lb break="no" ed="#P" n="2"/>sumendo partes ex quibus corpus constat,
+<lb ed="#P" n="3"/>quia ipsum corpus non est quiddam aliud a
+<lb ed="#P" n="4"/>suis parlibus; ergo assumpsit saltem illas
+<lb ed="#P" n="5"/>partes quae informantur anima rationali ; tum
+<lb ed="#P" n="6"/>quia hae sunt ex quibus maxime 
+substantiali<lb break="no" ed="#P" n="7"/>ter et quasi essentialiter componitur 
+huma<lb break="no" ed="#P" n="8"/>nitas; tum etiam quia omnes hae partes in
+<lb ed="#P" n="9"/>propria persona subsistere solent subsistentia
+<lb ed="#P" n="10"/>totius nature, quai in Christi humanitate fuit
+<lb ed="#P" n="11"/>ipsa subsistentia Verbi; ac denique quia 
+ani<lb break="no" ed="#P" n="12"/>ma, qua informantur omnes hae partes, 
+as<lb break="no" ed="#P" n="13"/>sumpta est ; ergo et omnes hujusmodi partes
+<lb ed="#P" n="14"/>corporis, quia fere eadem est ratio de 
+omni<lb break="no" ed="#P" n="15"/>bus, neque ulla probabilis ratio dubitandi hic
+<lb ed="#P" n="16"/>occurrit.
+</p>
+               </div>
+               <div xml:id="szstco-k31635-Dd1e2180">
+                  <head xml:id="szstco-k31635-Hd1e2182">Sectio 6</head>
+                  <head xml:id="szstco-k31635-Hd1e2184" type="question-title">
+  Utrum Verbum divinum immediate et secundum
+  hypostasim assumpserit sanguinem ad 
+  subsistendum in sua persona
+</head>
+                  <p xml:id="szstco-k31635-d1e2187">
+                     <lb ed="#P" n="17" type="fixed=530"/>SECTIO VI.
+<lb ed="#P" n="18"/>Utrum Verbum divinum immediate et secundum
+<lb ed="#P" n="19"/>hypostasim assumpserit sanguinem ad 
+subsisten<lb break="no" ed="#P" n="20"/>dum in sua persona.
+</p>
+                  <p xml:id="szstco-k31635-d1e2198">
+                     <lb ed="#P" n="21"/>1. Ratio dubitandi est, quia sanguis non
+<lb ed="#P" n="22"/>est pars corporis humani, neque anima 
+ra<lb break="no" ed="#P" n="23"/>tionali informatur, ut est communis 
+Theolo<lb break="no" ed="#P" n="24"/>gorum, et multorum philosophorum 
+senten<lb break="no" ed="#P" n="25"/>tia, quae fundamentum habetin Aristotele,
+<lb ed="#P" n="26"/>lib. 2 de Part. animal.,cap. 3, ubi sanguinem
+<lb ed="#P" n="27"/>dicit esse alimentum ultimum, et esse in 
+ve<lb break="no" ed="#P" n="28"/>nis tanquam in vase; et cap. 10, negat esse
+<lb ed="#P" n="29"/>partem ; et lib. 3, cap. 5, ubi dicit sanguinem
+<lb ed="#P" n="30"/>esse materiam totius corporis, et esse quasi
+<lb ed="#P" n="31"/>irriguum per venas; constat autem ex eodem
+<lb ed="#P" n="32"/>Aristotele, lib. 2 de Gener., text. 297 et 38, et
+<lb ed="#P" n="33"/>lib. 3 de Anima, text. 45, alimentum esse 
+al<lb break="no" ed="#P" n="34"/>terius substantie a vivente, quia nutritio est
+<lb ed="#P" n="35"/>substantialis conversio, quae non habet locum
+<lb ed="#P" n="36"/>inter res ejusdem forme ; unde cum 
+alimen<lb break="no" ed="#P" n="37"/>tum incipit informari anima viventis, jam 
+de<lb break="no" ed="#P" n="38"/>sinit esse alimentum, et incipit esse pars;
+<lb ed="#P" n="39"/>cum ergo sanguis sit ultimum alimentum,
+<lb ed="#P" n="40"/>non informatur anima, sed ex illo fil proxima
+<lb ed="#P" n="41"/>conversio, et animes» informatio; quomodo
+<lb ed="#P" n="42"/>intelligi possunt verba qua ex Aristotele 
+ci<lb break="no" ed="#P" n="43"/>tari solent, 3 de Historia animalium, cap. 19,
+<lb ed="#P" n="44"/>ubi dicit, sanguinem semper animari et 
+fer<lb break="no" ed="#P" n="45"/>vere, quanquam haec codicibus greeis non
+<lb ed="#P" n="46"/>habeantur. Habet etiam haec sententia 
+funda<lb break="no" ed="#P" n="47"/>mentum in D. Thoma infra, q. 314, ait. 5, ad
+<lb ed="#P" n="48"/>1, ubi dicit, sanguinem non esse aclu 
+par<lb break="no" ed="#P" n="49"/>tem, et ideo, quamvis corpus Christi fuerit ex
+<lb ed="#P" n="50"/>sanguine Virginis formatum, nihil fuisse 
+abla<lb break="no" ed="#P" n="51"/>tum ex corpore Virginis, quod actu esset pars
+<lb ed="#P" n="52"/>ejus. Et 4 p., q. 109, art. 4, ad 3, dicit 
+san<lb break="no" ed="#P" n="53"/>guinem nondum accepisse naturam speciei,
+<lb ed="#P" n="54"/>sed adhuc esse in via, ut vivat; et alia simi-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="55"/>lia testimonia refert Capreolus, qui hanc 
+de<lb break="no" ed="#P" n="56"/>fendit sententiam, in 9, d. 15, artic. 3, ad 3
+<lb ed="#P" n="57"/>contra 3 concl., et in 4, d. 10, q. 2, art. 3, ad
+<lb ed="#P" n="58"/>4 Scoti contra 4 concl., ubi etiam Seot., q.
+<lb ed="#P" n="59"/>1, art. 2, idem affirmat. ; et Soto , quaest. 1,
+<lb ed="#P" n="60"/>artic. 2, et d. A4, art. 3; ubietiam Bonaven.,
+<lb ed="#P" n="61"/>art. 15 q. 4,:ad:2: cet; bachard,, asi 45 qu
+<lb ed="#P" n="62"/>Durand., q. 2, ad 2; Palud., q. 1, art. 2; n.
+<lb ed="#P" n="63"/>18; Alensis, 2 part., q. 26, membr. 6; et 
+me<lb break="no" ed="#P" n="64"/>diei etiam in eamdem conveniunt sententiam,
+<lb ed="#P" n="65"/>cum Galeno, lib. 4 de Usu partium. Rationes
+<lb ed="#P" n="66"/>omitto, tum quia facile ex dictis sumi 
+pos<lb break="no" ed="#P" n="67"/>sunt, tum quia res est aliena.
+</p>
+                  <p xml:id="szstco-k31635-d1e2305">
+                     <lb ed="#P" n="68"/>2. Ex hoc vero principio sequi videtur,
+<lb ed="#P" n="69"/>Verbum non fuisse immediate sanguini 
+uni<lb break="no" ed="#P" n="70"/>tum, primo quia Verbum non assumpsit 
+cor<lb break="no" ed="#P" n="71"/>pus, nisi mediante anima, ut infra, q. 6, cum
+<lb ed="#P" n="72"/>D. Thom. et antiquioribus Patribus dicemus;
+<lb ed="#P" n="73"/>ergo, etc. Secundo, quia Verbum tantum 
+as<lb break="no" ed="#P" n="74"/>sumpsit unam naturam, una autem natura
+<lb ed="#P" n="75"/>constat una materia, et forma ultima ; nam
+<lb ed="#P" n="76"/>cum sanguis habeat suam propriam formam,
+<lb ed="#P" n="77"/>ad gradum inanimatorum perlinentem, 
+dis<lb break="no" ed="#P" n="78"/>tincta natura est a natura animata ; 
+assump<lb break="no" ed="#P" n="79"/>sisset ergo Verbum duas naturas. Tertio, quia
+<lb ed="#P" n="80"/>in aliis hominibus subsistentia creata 
+huma<lb break="no" ed="#P" n="81"/>nitatis tantum terminat eas partes corporis,
+<lb ed="#P" n="82"/>qua informantur anima rationali; neque
+<lb ed="#P" n="83"/>enim potest sanguis illa subsistentia 
+termi<lb break="no" ed="#P" n="84"/>nari,cum sit substantia re ipsa prorsus 
+dis<lb break="no" ed="#P" n="85"/>tincta ab humanitate. Quarto, quia partes,
+<lb ed="#P" n="86"/>qui non informantur anima, non sunt de
+<lb ed="#P" n="87"/>integritate humanitatis ; ergo nec assumpta
+<lb ed="#P" n="88"/>sunt a Verbo immediate; antecedens patet,
+<lb ed="#P" n="89"/>quia humanitas est substantia per se una;
+<lb ed="#P" n="90"/>ergo unicam habet formam; ergo. Quinto,
+<lb ed="#P" n="91"/>quia nunc in ecelo non habet Verbum sibi 
+u<lb break="no" ed="#P" n="92"/>nitas, nisi eas partes corporis quae 
+informan<lb break="no" ed="#P" n="93"/>tur anima rationali ; ergo signum est eas 
+tan<lb break="no" ed="#P" n="94"/>tum a prineipio assumpsisse ; patet 
+antece<lb break="no" ed="#P" n="95"/>dens, quia solas eas partes corporis 
+assump<lb break="no" ed="#P" n="96"/>sit in resurrectione, cujus signum est quod
+<lb ed="#P" n="97"/>sanguinem non assumpsit; dicitur enim adhuc
+<lb ed="#P" n="98"/>manere separatum à Verbo. Sesto, alias 
+se<lb break="no" ed="#P" n="99"/>querentur incommoda, scilicet Verbum esse
+<lb ed="#P" n="100"/>sanguinem, et per communicationem 
+idio<lb break="no" ed="#P" n="101"/>matum sanguinem esse hominem, quia 
+Ver<lb break="no" ed="#P" n="102"/>bum est homo, et Verbum est sanguis ; ergo
+<lb ed="#P" n="103"/>sanguis est homo ; sicat. dicebamus , quod si
+<lb ed="#P" n="104"/>Verbum assumpsisset duas naturas, esset 
+in<lb break="no" ed="#P" n="105"/>ter illas in concreto communicatio 
+idioma<lb break="no" ed="#P" n="106"/>tum; uude ulterius dici posset Verbum, vel
+<lb ed="#P" n="107"/>Christum effusum in passione, et adhaerens
+<lb ed="#P" n="108"/>cruci, etc.
+</p>
+                  <p xml:id="szstco-k31635-d1e2397">
+                     <lb ed="#P" n="109"/>3. Propter haec est prima quorumdam
+<pb ed="#P" n="531"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>Theologorum sententia, qui simpliciter 
+ne<lb break="no" ed="#P" n="2"/>gat sanguinem Christi fuisse immediate 
+uni<lb break="no" ed="#P" n="3"/>tum hypostatice Verbo. Ita tenet Durandus,
+<lb ed="#P" n="4"/>in 4, d. 10, q. 4, n. 16; Franciscus de 
+Mai<lb break="no" ed="#P" n="5"/>ronis, d. 43, et serm. qui incipit Memoriam
+<lb ed="#P" n="6"/>fecit, ete.; Gab., in Canonem, lect. 53, et 
+Sup<lb break="no" ed="#P" n="7"/>plem. Gab., in 4, d. 44, q. 4, circa finem ; 
+in<lb break="no" ed="#P" n="8"/>dieabbichard:, m 3, d. 2, art. 9; q. 1, übi
+<lb ed="#P" n="9"/>negat sanguinem Christi in triduo fuisse 
+ado<lb break="no" ed="#P" n="10"/>randum latria, quia 205, fuit, inquit, 
+esseatia<lb break="no" ed="#P" n="11"/>lis pars corporis ; et Abulensis, paradox. 2,
+<lb ed="#P" n="12"/>cap. 2, 40 et sequentibus, dicit in triduo non
+<lb ed="#P" n="13"/>fuisse sanguinem unitum Verbo ; de 
+sangui<lb break="no" ed="#P" n="14"/>ne vero existentein corpore vivo non 
+expres<lb break="no" ed="#P" n="15"/>se id negat, sed potius dicit fuisse 
+consequen<lb break="no" ed="#P" n="16"/>ter assumptum, quomodo etiam loquitur de
+<lb ed="#P" n="17"/>omnibus partibus humanitatis.
+</p>
+                  <p xml:id="szstco-k31635-d1e2443">
+                     <lb ed="#P" n="18"/>4. Secunda sententia distinguit duplicem
+<lb ed="#P" n="19"/>sanguinem, alterum nutrimentalem, qui non
+<lb ed="#P" n="20"/>informatur anima, neque est plene decoctus,
+<lb ed="#P" n="21"/>aut dispositus, nec per se requiritur ad 
+com<lb break="no" ed="#P" n="22"/>ponendum integrum corpus, sed solum ad
+<lb ed="#P" n="23"/>alendum illud ; alterum perfectum, et per se
+<lb ed="#P" n="24"/>requisitum ad integritatem humani corporis,
+<lb ed="#P" n="25"/>eti non solum utsit alimentum, quamvis etiam
+<lb ed="#P" n="26"/>possit ad hoc deservire secundum quamdam
+<lb ed="#P" n="27"/>aceidentalem transmutationem, per 
+conden<lb break="no" ed="#P" n="28"/>sationem, vel alio simili modo ; nam 
+substan<lb break="no" ed="#P" n="29"/>Baliter totus hic sanguis dicitur informari
+<lb ed="#P" n="30"/>anima. Qus distinetio fundamentum habet
+<lb ed="#P" n="31"/>in D. Thom., Quodlibet. 5, art. 55; et ea 
+uti<lb break="no" ed="#P" n="32"/>tur Cajetan. infra, q. 54, art. 2; et Sylvest.,
+<lb ed="#P" n="33"/>in Rosa aurea, q. 31. Qua distinctione 
+sup<lb break="no" ed="#P" n="34"/>posita, dicit haec sententia Christum non 
+as<lb break="no" ed="#P" n="35"/>sumpsisse hyposiatice priorem sanguinem,
+<lb ed="#P" n="36"/>Scilicet nutrimentalem, propter fundamenta
+<lb ed="#P" n="37"/>prime sententie; assumpsisse vero 
+posterio<lb break="no" ed="#P" n="38"/>rem ae perfectum sanguinem, propter 
+gene<lb break="no" ed="#P" n="39"/>rales rationes sectione praecedenti factas, et
+<lb ed="#P" n="40"/>propter multa alia, quz: statim afferemus. Et
+<lb ed="#P" n="41"/>heec videtur esse sententia Cajetani hic, q. 5,
+<lb ed="#P" n="42"/>art. 2, juncto alioloco supra citato; et 
+indi<lb break="no" ed="#P" n="43"/>cat etiam Sylvester supra; qui consequenter
+<lb ed="#P" n="44"/>duplieem in Christo sanguinem distinguit, et
+<lb ed="#P" n="45"/>alium vocat salubrem, quia ex vi proprie
+<lb ed="#P" n="46"/>unionis habet infinitum valorem ; alium 
+tan<lb break="no" ed="#P" n="47"/>tum salubriter effusum, quia, licet ex se non
+<lb ed="#P" n="48"/>sit ita efficax, quia non est unitus, tamen 
+ef<lb break="no" ed="#P" n="49"/>fusio ejus propter dignitatem suppositi fuit
+<lb ed="#P" n="50"/>ejusdem valoris, sicut lacrymarum effusio.
+</p>
+                  <p xml:id="szstco-k31635-d1e2517">
+                     <lb ed="#P" n="51"/>5. Tertia sentenlia affirmat, sanguinem
+<lb ed="#P" n="52"/>Christi fuisse assumptum proxime et 
+imme<lb break="no" ed="#P" n="53"/>diate, propter testimonia Sanetorum siatim
+<lb ed="#P" n="54"/>citanda; dicit tamen non fuisse assumptum
+<lb ed="#P" n="55"/>ex vi assumptionis humane nature integre
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>et perfectae, idque propter fundamenta primce
+<lb ed="#P" n="57"/>sententie; unde concludit hoc faetum esse ex
+<lb ed="#P" n="58"/>peculiari Dei ordinatione, ut esset condignum
+<lb ed="#P" n="59"/>pretium nostre redemptionis. Pro hac 
+sen<lb break="no" ed="#P" n="60"/>tentia nullum invenio auctorem, quamvis in
+<lb ed="#P" n="61"/>multorum ore feratur.
+</p>
+                  <p xml:id="szstco-k31635-d1e2546">
+                     <lb ed="#P" n="62"/>6. Dico primo : sanguis Christi Domini 
+pro<lb break="no" ed="#P" n="63"/>xime et immediate fuit unitus Verbo Dei. Haec
+<lb ed="#P" n="64"/>conclusio est hoc tempore ita certa, ul 
+con<lb break="no" ed="#P" n="65"/>traria non possit sine errore defendi. Eam
+<lb ed="#P" n="66"/>sentit D. Thom. hic, art. 2, in corpore, juncta
+<lb ed="#P" n="67"/>solutione ad 2, ubi eodem modo loquitur de
+<lb ed="#P" n="68"/>assumptione carnis et sanguinis. Clarius id
+<lb ed="#P" n="69"/>docet dicto Quodl. 5, art. 5; Capreol. supra,
+<lb ed="#P" n="70"/>et in 4, d. 41, q. 14, art. 3, ad B contra4 
+con<lb break="no" ed="#P" n="71"/>clus.; Soto, d. 10, q. 14, art. 2; Major, in 3,
+<lb ed="#P" n="72"/>dist. 3, q. 2; Albert. Mag., tract. de Sacrif.
+<lb ed="#P" n="73"/>Miss: ; Turrecr., in cap. Invitat., de Consec.,
+<lb ed="#P" n="74"/>d. 2; Nicol. de Lyr., ad Hebr. 9, exponens
+<lb ed="#P" n="75"/>illa verba , quanto snagis sanguis Christi; et
+<lb ed="#P" n="76"/>Remigius, et alii in eumdem locum ; late 
+Syl<lb break="no" ed="#P" n="77"/>vest., in Rosa aurea, traet. 3, quaest. 30, et
+<lb ed="#P" n="78"/>seq.; Dominicus de Dominicis, in lib. de 
+San<lb break="no" ed="#P" n="79"/>guine Christi; et in Direct. Inquisit. , 9 p., q.
+<lb ed="#P" n="80"/>10, refertur mandato Clementis VI fuisse 
+re<lb break="no" ed="#P" n="81"/>traclatam ut hsereticam, sententiam 
+cujus<lb break="no" ed="#P" n="82"/>dam, qui Barcinone asserebat, in triduo non
+<lb ed="#P" n="83"/>fuisse sanguinem Christi unitum Verbo, 
+ip<lb break="no" ed="#P" n="84"/>sumque assertorem fuisse ab Inquisitoribus
+<lb ed="#P" n="85"/>damnatum; quis historia a Sylvestro et 
+Do<lb break="no" ed="#P" n="86"/>minico de Dominicis late refertur , qui 
+refe<lb break="no" ed="#P" n="87"/>runt etiam Pium II illam sententiam 
+dam<lb break="no" ed="#P" n="88"/>nasse.
+</p>
+                  <p xml:id="szstco-k31635-d1e2607">
+                     <lb ed="#P" n="89"/>7. Et primo probari solet haec sententia ex
+<lb ed="#P" n="90"/>illis locis Scripture, in quibus nostra 
+redem<lb break="no" ed="#P" n="91"/>ptio tribuitur sanguini Christi, tanquam 
+con<lb break="no" ed="#P" n="92"/>digno pretio, ad Ephes. 1, ad Colos. 1, ad 
+Ro<lb break="no" ed="#P" n="93"/>man. 3 : Per fidem in sanguine ipsius ; ad
+<lb ed="#P" n="94"/>Hebr. 9 : Quanto magis sanguis Christi ; 4
+<lb ed="#P" n="95"/>Petr. 4 : JVon corruptibilibus auro et argento,
+<lb ed="#P" n="96"/>sed. pretioso sanguine, etc.; Joan. 4: Sanguis
+<lb ed="#P" n="97"/>Jesu Christi Filii ejus emundat mos ab omni
+<lb ed="#P" n="98"/>geccato ; et Apoc. 1, dicuntur Sancti dealbasse
+<lb ed="#P" n="99"/>stolas suas in sanguine Agni; et Luc. 22, ait
+<lb ed="#P" n="100"/>Christus : Hie est calig novum testamentum, iu
+<lb ed="#P" n="101"/>sanguine eo, qui gro vobis effuudetur.
+</p>
+                  <p xml:id="szstco-k31635-d1e2638">
+                     <lb ed="#P" n="102"/>8. Objectio. — Sed responderi potest, 
+san<lb break="no" ed="#P" n="103"/>guinem Christi habuisse hanc efficaciam, quia
+<lb ed="#P" n="104"/>effusus fuit a persona infinita, et 
+consequen<lb break="no" ed="#P" n="105"/>ter dicentur eamdem vim habuisse laeryme,
+<lb ed="#P" n="106"/>et quecumque alia opera Christi ; lamen 
+spe<lb break="no" ed="#P" n="107"/>cialiter redemptionem tribui sanguini, sicut
+<lb ed="#P" n="108"/>tribuitur passioni, quia statuit Deus 
+redem<lb break="no" ed="#P" n="109"/>plionem nostram passione sua, et effusione
+<lb ed="#P" n="110"/>sui sanguinis consummare, sicut $i statuisset
+<pb ed="#P" n="532"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>flendo tantum nos redimere, dici possent de
+<lb ed="#P" n="2"/>laerymis Christi omnia qui de sanguine 
+dic<lb break="no" ed="#P" n="3"/>ta sunt. Unde Augustinus, 13 de Trinit., cap.
+<lb ed="#P" n="4"/>15, in dignitatem suppositi hoc refert dicens:
+<lb ed="#P" n="5"/>Sanguis ille, quoniam ejus erat qui ullum 
+ha<lb break="no" ed="#P" n="6"/>buit omnino peccatum, ad remissionem mostro -
+<lb ed="#P" n="7"/>vum fusus est peccatorum ; et Leo Papa, serm.
+<lb ed="#P" n="8"/>19 de Passione , cap. 3: Z/fusio sanguinis
+<lb ed="#P" n="9"/>justi tai potens fuit ad privilegium, tam dives
+<lb ed="#P" n="10"/>ad pretium , etc. ; eodem fere modo loquitur
+<lb ed="#P" n="11"/>Bernar., serm. 3 de Circumcis. Sed, quamvis
+<lb ed="#P" n="12"/>hzc testimonia, nude sumpta, possent hoc
+<lb ed="#P" n="13"/>modo vitari, tamen, adjunctis aliis, et 
+consi<lb break="no" ed="#P" n="14"/>deratis omnibus circumstantiis, satis in eis
+<lb ed="#P" n="15"/>indicatur non solam effusionem propter 
+di<lb break="no" ed="#P" n="16"/>gnitatem patientis, sed ipsummet sanguinem
+<lb ed="#P" n="17"/>propter personam illi immediate conjunctam,
+<lb ed="#P" n="18"/>fuisse infiniti valoris; praesertim cum Christus
+<lb ed="#P" n="19"/>Dominus, eodem modo suo corpori et 
+san<lb break="no" ed="#P" n="20"/>guini tribuat, quod data sint in remissionem
+<lb ed="#P" n="21"/>peccatorum. Unde Augustinus, enarrat. in
+<lb ed="#P" n="22"/>Psal. 65, circa id : Z'erribilis est. super omnes
+<lb ed="#P" n="23"/>JDeos : Queritis , inquit, quid emerit. Videte
+<lb ed="#P" n="24"/>quid dederit , e. invenite quid emerit ; sanguis
+<lb ed="#P" n="25"/>Christi pretium est, tanti quid valet ? quid, nisi
+<lb ed="#P" n="26"/>lotus orbis ? quid, nisi omnes gentes? et serm.
+<lb ed="#P" n="27"/>128, de Tempore : Pretium vite nostre 
+san<lb break="no" ed="#P" n="28"/>guis est. Domini , e£ totius mundi ncolumitas
+<lb ed="#P" n="29"/>sempiterna : pecunia illa, totius dundi copiosa
+<lb ed="#P" n="30"/>qossessio est. Sed optimum testimonium ad
+<lb ed="#P" n="31"/>hoe confirmandum, est illud ad Hebr. 9 : Quia
+<lb ed="#P" n="32"/>ergo pueri comaunicaveruat carni et sanguini,
+<lb ed="#P" n="33"/>et. ipse similiter participavit eisdem. Loquitur
+<lb ed="#P" n="34"/>autem de Filio Dei, et de carne, et sanguine,
+<lb ed="#P" n="35"/>ut significant substantiam humanitatis, juxta
+<lb ed="#P" n="36"/>id Matth. 16 : Caro et sanguis non vevelavit
+<lb ed="#P" n="37"/>libi; nam corruptio culpe, quae interdum 
+no<lb break="no" ed="#P" n="38"/>mine carnis et sanguinis significari solet , ut
+<lb ed="#P" n="39"/>4 Cor. 45 , Caro et sanguis regnum Dei «on
+<lb ed="#P" n="40"/>possidebunt , in Christo locum non habuit,
+<lb ed="#P" n="41"/>quamvis si illa corruptio significet solam 
+pce<lb break="no" ed="#P" n="42"/>nam, seu corporis passibilitatem, sic etiam de
+<lb ed="#P" n="43"/>Filio Dei dici potest, sumpsisse carnem et
+<lb ed="#P" n="44"/>sanguinem, id est naturam humanam, non in
+<lb ed="#P" n="45"/>quocumque statu, sed in statu passibili et
+<lb ed="#P" n="46"/>mortali; et hic est sensus Pauli, ut patel ex
+<lb ed="#P" n="47"/>verbis subjunclis , w£ per ortem desirueret,
+<lb ed="#P" n="48"/>ete. ; ait ergo Paulus, Dei Filium participasse
+<lb ed="#P" n="49"/>seu communicasse carni et sanguini, per
+<lb ed="#P" n="50"/>unionem, scilicet, hypostaticam, quia Verbum
+<lb ed="#P" n="51"/>nullo alio modo communicavit nostre 
+natu<lb break="no" ed="#P" n="52"/>rae, et tamen hoc modo eque dicit, carni ef
+<lb ed="#P" n="53"/>sanguini participasse; sicut ergo carnem 
+pro<lb break="no" ed="#P" n="54"/>xime sibi univit , ila et sanguinem. Sic 
+inter<lb break="no" ed="#P" n="55"/>pretantur hunc locum ibi Chrysost., Theoph.,
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>Theodor., Ambr.,Ansel., et apertiusD. Thom.,
+<lb ed="#P" n="57"/>et OEcumen., qui ex Cyrillo illam refert. Quam
+<lb ed="#P" n="58"/>Cyril. significat in quadam homil., de eo quod
+<lb ed="#P" n="59"/>Verbum factus sit homo; et lib. de Incarn.
+<lb ed="#P" n="60"/>Unigen., circa finem, et lib. 4 de Fide ad Reg.,
+<lb ed="#P" n="61"/>longe post medium, ubi haec verba tractans
+<lb ed="#P" n="62"/>inquit : Verbum ex Deo, particeps factum est
+<lb ed="#P" n="63"/>carnis et sanguinis ;etlib. de Fide ad Theod.,
+<lb ed="#P" n="64"/>circa princ., et epist. 8 ad Nestor., circa 
+fi<lb break="no" ed="#P" n="65"/>nem, ita exponit illud Joan. 4, Verbum caro
+<lb ed="#P" n="66"/>factum esi : Nihil aliud est, inquit, quam quod
+<lb ed="#P" n="67"/>in carne ei sanguine nobiscum commmwunicaverit.
+<lb ed="#P" n="68"/>Ex quo licet colligere , ubiceumque Scriptura
+<lb ed="#P" n="69"/>dieit, Verbum sumpsisse humanitatem , 
+car<lb break="no" ed="#P" n="70"/>nem et sanguinem complecti, ex quibus 
+con<lb break="no" ed="#P" n="71"/>stat humanitas. :
+</p>
+                  <p xml:id="szstco-k31635-d1e2821">
+                     <lb ed="#P" n="72"/>9. Secundo principaliter probatur 
+conclu<lb break="no" ed="#P" n="73"/>sio auctoritate Conciliorum. Nam Goncilium
+<lb ed="#P" n="74"/>Ephes., can. 5, dicit Verbum seque ac nos
+<lb ed="#P" n="75"/>communicasse carni et sanguini; et in epist.
+<lb ed="#P" n="76"/>Cyril., cum Concil. Alexand., quae habetur et
+<lb ed="#P" n="77"/>probatur in Ephes., tom. 4, cap. 14, dicitur,
+<lb ed="#P" n="78"/>verum naturalemque Deum, carnem et 
+san<lb break="no" ed="#P" n="79"/>guinem assumpsisse ; et haec omnia 
+referun<lb break="no" ed="#P" n="80"/>tur et confirmantur in quinta Synodo 
+gene<lb break="no" ed="#P" n="81"/>rali, act. 6, longe a medio; et in Concilio
+<lb ed="#P" n="82"/>Chalced. , act. 4, pag. 33, ad finem, refertur
+<lb ed="#P" n="83"/>et approbatur illa explicatio Cyrilli : Verbum
+<lb ed="#P" n="84"/>caro factum est, id est, Carnem et sanguinem
+<lb ed="#P" n="85"/>sumpsit; et sexta Synodo, act. 16, damnatur
+<lb ed="#P" n="86"/>quidam hereticus, qui dicebat carnem et 
+san<lb break="no" ed="#P" n="87"/>guinem in cruce fuisse dimissa, ubi Patres
+<lb ed="#P" n="88"/>omnes illus Concilii satis sentire indicant ,
+<lb ed="#P" n="89"/>utrumque fuisse eodem modo assumptum ; et
+<lb ed="#P" n="90"/>in aet. 8 ejusdem Synodi habentur haec verba
+<lb ed="#P" n="91"/>in professione fidei cujusdam Macarii : Z'
+ac<lb break="no" ed="#P" n="92"/>(us esl in assumptione carnis eb sanguinis, |
+<lb ed="#P" n="93"/>mansit tamen quod erat. Nerum est, illum 
+Ma<lb break="no" ed="#P" n="94"/>carium fuisse haretieum, quia negabat duas
+<lb ed="#P" n="95"/>in Christo voluntates, ejus tamen professio in
+<lb ed="#P" n="96"/>hoc solum rejicitur, non in aliis. Et 
+confirma<lb break="no" ed="#P" n="97"/>tur ex definitione Clementis VI, in extravag.
+<lb ed="#P" n="98"/>Unigenitus, de Peenit. et remis., ubi dicii,
+<lb ed="#P" n="99"/>unam guttam sanguinis Christi fuisse 
+suffi<lb break="no" ed="#P" n="100"/>ciens pretium redemptionis nostrae, propter
+<lb ed="#P" n="101"/>unionem ad Verbum; et loquitur aperte de
+<lb ed="#P" n="102"/>unione ipsius sanguinis, non corporis, ita ut
+<lb ed="#P" n="103"/>pretium fuerit infinitum ex parte rei oblatz,
+<lb ed="#P" n="104"/>et non tantum ex dignitate offerentis. Unde
+<lb ed="#P" n="105"/>in principio illius Extravagantis premittit ,
+<lb ed="#P" n="106"/>Dei Filiwm nostre mortalitatis substantiam
+<lb ed="#P" n="107"/>divinitati suae conjuncisse, ui haberet unde
+<lb ed="#P" n="108"/>hominem redimeret, et Deo satisfaceret; ubi
+<lb ed="#P" n="109"/>per suóstantiav, nostre mortalitatis, carnem
+<lb ed="#P" n="110"/>el sanguinem plane intelligit. Et hae ratione
+<pb ed="#P" n="533"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>intelligi potest dictum fuisse a Petro, 4 epist.
+<lb ed="#P" n="2"/>cap. 1: Non corruptibilibus auro et. argento,
+<lb ed="#P" n="3"/>sed pretioso sanguine, quasi agni immaculati.
+<lb ed="#P" n="4"/>Quo testimonio usos fuisse quosdam '
+Theolo<lb break="no" ed="#P" n="5"/>gos, de hac re disputantes coram Pio II, 
+re<lb break="no" ed="#P" n="6"/>fert Sylvest. supra, ex eoque collegisse, 
+vo<lb break="no" ed="#P" n="7"/>cari Christi sanguinem non solum pretiosum,
+<lb ed="#P" n="8"/>sed etiam incorruptibilem propter unionem
+<lb ed="#P" n="9"/>ad Verbum. Quo etiam modo Dionys. 
+Ale<lb break="no" ed="#P" n="10"/>xand., in epist. contra Paul. Samosat., dixit,
+<lb ed="#P" n="11"/>sanguinem Christi non posse corrumpi, quia
+<lb ed="#P" n="12"/>est sanguis Dei vivi. Refert ejus verba 
+Tur<lb break="no" ed="#P" n="13"/>rian., lib. 4 pro epistolis Pontific., c. 19.
+</p>
+                  <p xml:id="szstco-k31635-d1e2941">
+                     <lb ed="#P" n="14"/>10. Tertio afferri possunt testimonia 
+Sanc<lb break="no" ed="#P" n="15"/>torum. Preter citatos, Leo Papa, epist. 10,
+<lb ed="#P" n="16"/>cap. 5, multa dicit de infinito valore 
+sangui<lb break="no" ed="#P" n="17"/>nis Christi, et postea exponens illud 1 Joan.
+<lb ed="#P" n="18"/>b, Hic est qui venit in aqua et sanguine, J esus
+<lb ed="#P" n="19"/>Christus, dicit, per haec significari 
+divinita<lb break="no" ed="#P" n="20"/>ilem, quae ab humanitate non separatur; et
+<lb ed="#P" n="21"/>Nazianz., orat. 50 : Verbum, inquit, caro 
+fac<lb break="no" ed="#P" n="22"/>tum. est, non putative, sed vere, quod explicans
+<lb ed="#P" n="23"/>subdit rationem , quia assumpsit corpus eo
+<lb ed="#P" n="24"/>carne, ossibus et sanguine constans. Beda, 
+ex<lb break="no" ed="#P" n="25"/>plicans illud Act. 90, quam acquisivit sanguine
+<lb ed="#P" n="26"/>$40, dicit, sanguinem Dei dici propter 
+unio<lb break="no" ed="#P" n="27"/>nem duarum naturarum in una persona ; 
+ex<lb break="no" ed="#P" n="28"/>pressiora sunt verba Cyrilli, homil. 5, Ephes.
+<lb ed="#P" n="29"/>dicta, ubi ait, Verbum carnem et sanguinem
+<lb ed="#P" n="30"/>assumpsisse. Similiter Epiphanius, heresi
+<lb ed="#P" n="31"/>septuagesima sepiima, prope finem, ait 
+Ver<lb break="no" ed="#P" n="32"/>bum Dei non tantum animam humanam, sed
+<lb ed="#P" n="33"/>etiam carnem et sanguinem participasse , id
+<lb ed="#P" n="34"/>est, assumpsisse ; et ibi longam refert 
+episto<lb break="no" ed="#P" n="35"/>lam Paulini, post epistolam Athanasii ad
+<lb ed="#P" n="36"/>Epictet. , ut ostendat Verbum assumpsisse
+<lb ed="#P" n="37"/>perfectam humanitatem et corpus omnibus
+<lb ed="#P" n="38"/>partibus constans, inter quas sanguinem 
+nu<lb break="no" ed="#P" n="39"/>merat.
+</p>
+                  <p xml:id="szstco-k31635-d1e3000">
+                     <lb ed="#P" n="40"/>11. Quarto, confirmari hoc potest ex 
+mys<lb break="no" ed="#P" n="41"/>terio Eucharistie, nam Verbum divinum non
+<lb ed="#P" n="42"/>minus est per concomitantiam sub speciebus
+<lb ed="#P" n="43"/>vinij quam sub speciebus panis; ergo non
+<lb ed="#P" n="44"/>minus est unitum sanguini quam corpori ; 
+pa<lb break="no" ed="#P" n="45"/>tet consequentia, quia alias, cum ex 
+verbo<lb break="no" ed="#P" n="46"/>rum consecrationis calicis tantum sit sanguis
+<lb ed="#P" n="47"/>sub speciebus vini, si sanguis ille non esset
+<lb ed="#P" n="48"/>immediate unitus Verbo, non esset Verbum
+<lb ed="#P" n="49"/>sub illis speciebus per concomitantiam, 
+sal<lb break="no" ed="#P" n="50"/>tem immediate, sed ad summum media 
+car<lb break="no" ed="#P" n="51"/>ne et anima. Atque adeo si in triduo 
+conse<lb break="no" ed="#P" n="52"/>craretur sauzuis, non esset ibi Verbum per
+<lb ed="#P" n="53"/>concomitantiam ; quod videtur omnino 
+fal<lb break="no" ed="#P" n="54"/>sum, nam Christus, Joan. 6, sque de carne
+<lb ed="#P" n="55"/>et sanguine dixit ; Caro mea vere est cibus, et
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>sanguis meus vere est potus; qui manducat
+<lb ed="#P" n="57"/>meam carnem et bibit meum sanguinem; in me
+<lb ed="#P" n="58"/>manet, et ego in eo; ergo quandocumque ex
+<lb ed="#P" n="59"/>vi consecrationis sanguis est sub illis 
+specie<lb break="no" ed="#P" n="60"/>bus, ibi est suppositum divinum; et ideo
+<lb ed="#P" n="61"/>semper est idem qui offert, et quod offertur,
+<lb ed="#P" n="62"/>quod totum est propter immediatam unionem
+<lb ed="#P" n="63"/>ad Verbum.
+</p>
+                  <p xml:id="szstco-k31635-d1e3057">
+                     <lb ed="#P" n="64"/>12. Dices, Concilium Tridentinum, sess. 13,
+<lb ed="#P" n="65"/>cap. 3, solum dicere divinitatem esse per 
+con<lb break="no" ed="#P" n="66"/>comitantiam in Eucharistia ex vi unionis ejus
+<lb ed="#P" n="67"/>cum anima et corpore. Respondetur sub 
+cor<lb break="no" ed="#P" n="68"/>pore sanguinem comprehendisse; loquitur
+<lb ed="#P" n="69"/>enim de corpore humano integro et perfecto,
+<lb ed="#P" n="70"/>quod sanguinem complectitur, ut statim 
+de<lb break="no" ed="#P" n="71"/>clarabo.
+</p>
+                  <p xml:id="szstco-k31635-d1e3077">
+                     <lb ed="#P" n="72"/>13. Quinto, reddenda est ratio propria,
+<lb ed="#P" n="73"/>quam statim in conclus. 3 melius 
+propone<lb break="no" ed="#P" n="74"/>mus.
+</p>
+                  <p xml:id="szstco-k31635-d1e3086">
+                     <lb ed="#P" n="75"/>14. Dico ergo secundo : totus sanguis, qui
+<lb ed="#P" n="76"/>fuit in corpore Christi, quique ab illo pro 
+no<lb break="no" ed="#P" n="77"/>bis effusus est, fuit immediate unitus Verbo
+<lb ed="#P" n="78"/>hypostatice. Hsec conclusio non est tam certa,
+<lb ed="#P" n="79"/>sicut praecedens, sed mihi videtur omnino 
+ve<lb break="no" ed="#P" n="80"/>ra, et contraria, neque pia, neque secura est.
+<lb ed="#P" n="81"/>Primum, quia Scriptura sacra, Concilia, et
+<lb ed="#P" n="82"/>Patres citati, indefinite loquuntur de sanguine
+<lb ed="#P" n="83"/>Christi, etin doctrinalibus locutionibus 
+inde<lb break="no" ed="#P" n="84"/>finita equivalet universali. Deinde , quia si
+<lb ed="#P" n="85"/>non totus sanguis qui fuit in corpore Christi,
+<lb ed="#P" n="86"/>fuit unitus, scilicet sanguis nutrimentalis, 
+er<lb break="no" ed="#P" n="87"/>go neque totus sanguis qui fuit effusus, fuit
+<lb ed="#P" n="88"/>unitus; nam sine dubio magna vel major
+<lb ed="#P" n="89"/>pàrs ejus fuit nutrimentalis; et ita Cajetanus
+<lb ed="#P" n="90"/>fatetur de sanguine effuso in horto, et idem
+<lb ed="#P" n="91"/>dicere posset de sanguine Circumcisionis, et
+<lb ed="#P" n="92"/>de aliis effusionibus; nam primus sanguis,
+<lb ed="#P" n="93"/>qui videtur egredi e corpore, quando fit 
+divi<lb break="no" ed="#P" n="94"/>sio, est sanguis nutrimentalis. Consequens
+<lb ed="#P" n="95"/>autem est valde falsum, tum quia totus 
+san<lb break="no" ed="#P" n="96"/>guis effusus a Christo ejusdem valoris 
+cense<lb break="no" ed="#P" n="97"/>tur in Seriptura, et Patribus omnibus; tum
+<lb ed="#P" n="98"/>etiam quia Clemens VI definit, quamlibet
+<lb ed="#P" n="99"/>guttam sanguinis effusi fuisse infiniti valoris
+<lb ed="#P" n="100"/>propter unionem. Confirmatur, nam ex vi 
+ver<lb break="no" ed="#P" n="101"/>borum consecrationis calicis, totus sanguis
+<lb ed="#P" n="102"/>Christi ponitur sub speciebus; nam verbum
+<lb ed="#P" n="103"/>illud, sanguis «neus, totum includit; sed 
+ubi<lb break="no" ed="#P" n="104"/>cumque est sanguis Christi, vel aliqua pars
+<lb ed="#P" n="105"/>ejus, ibi est per concomitantiam totum 
+sup<lb break="no" ed="#P" n="106"/>positum Christi, ut probatum est.
+</p>
+                  <p xml:id="szstco-k31635-d1e3159">
+                     <lb ed="#P" n="107"/>15. Denique illa secunda sententia, quz
+<lb ed="#P" n="108"/>contrarium asserebat, falso nititur 
+fundamen<lb break="no" ed="#P" n="109"/>to, etiam philosophico ; quia non est 
+verisi<lb break="no" ed="#P" n="110"/>mile esse in sanguine ipso substantialem va-
+<pb ed="#P" n="534"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>rietatem, quamvis quoad aeccidentalem 
+per<lb break="no" ed="#P" n="2"/>fectionem possit esse magis, vel minus purus;
+<lb ed="#P" n="3"/>quia illa substantialis distinctio nullo 
+proba<lb break="no" ed="#P" n="4"/>bili signo colligi aut discerni potest; quia
+<lb ed="#P" n="5"/>quoad exteriora accidentia, totus sanguis est
+<lb ed="#P" n="6"/>ejusdem modi et rationis; totus etiam est in
+<lb ed="#P" n="7"/>corpore continuus; nullus est etiam usus ad
+<lb ed="#P" n="8"/>quem unus sanguis possit deservire, cui non
+<lb ed="#P" n="9"/>videatur utilis etiam alius; nam sanguis 
+nu<lb break="no" ed="#P" n="10"/>irimentalis, et nutritioni, et actionibus 
+ani<lb break="no" ed="#P" n="11"/>malis vite deservit, et eo melius quo purior
+<lb ed="#P" n="12"/>est. Denique, cum Scriptura, et Sancti de
+<lb ed="#P" n="13"/>sanguiue Christi loquuntur, certe nomine
+<lb ed="#P" n="14"/>sanguinis significant id quod omnes homines
+<lb ed="#P" n="15"/>generaliter hae voce intelligunt; omnes 
+au<lb break="no" ed="#P" n="16"/>tem nomine sanguinis intelligunt 
+nutrimen<lb break="no" ed="#P" n="17"/>talem sanguinem, qui est in venis tanquam
+<lb ed="#P" n="18"/>in vase; hic ergo sanguis fuit unitus Verbo
+<lb ed="#P" n="19"/>Dei hypostatice; sicut cum dicitur Christus
+<lb ed="#P" n="20"/>conceptus ex purissimis sanguinibus 
+Beatis<lb break="no" ed="#P" n="21"/>sime Virginis, de sanguine nutrimentali id
+<lb ed="#P" n="22"/>intelligitur, ut ex D. Thoma supra 
+mani<lb break="no" ed="#P" n="23"/>feste colligitur; unde D. Thomas nunquam in
+<lb ed="#P" n="24"/>partibus ea distinctione duplicis sanguinis
+<lb ed="#P" n="25"/>usus est. :
+</p>
+                  <p xml:id="szstco-k31635-d1e3229">
+                     <lb ed="#P" n="26"/>16. Dico tertio, Verbum assumpsisse 
+san<lb break="no" ed="#P" n="27"/>guinem, non solum ob extrinsecam rationem,
+<lb ed="#P" n="28"/>scilicet, ut esset pretium condignum, sed
+<lb ed="#P" n="29"/>etiam ob intrinsecam rationem, pertinentem
+<lb ed="#P" n="30"/>ad perfectam et integram assumptionem 
+to<lb break="no" ed="#P" n="31"/>tius humanitatis. Haec conclusio est contra
+<lb ed="#P" n="32"/>ultimam sententiam supra citatam, et 
+expli<lb break="no" ed="#P" n="33"/>eat propriam et intrinsecam rationem hujus
+<lb ed="#P" n="34"/>assumptionis, quae non est fundanda in hoe,
+<lb ed="#P" n="35"/>quod sanguis est actu pars rationali anima
+<lb ed="#P" n="36"/>informata; illa enim sententia philosophica,
+<lb ed="#P" n="37"/>vel est falsa, vel certe valde dubia, unde non
+<lb ed="#P" n="38"/>videtur certa fidei veritas ad illas angustias
+<lb ed="#P" n="39"/>redigenda. Presertim cum Aristoteles , lib. 7
+<lb ed="#P" n="40"/>Physie., text. 41, aliquas parles animantis
+<lb ed="#P" n="41"/>fateatur esse anim:w expertes; potest ergo
+<lb ed="#P" n="42"/>esse pars, lieet non informetur anima. 
+Fun<lb break="no" ed="#P" n="43"/>datur ergo conclusio, in hoc quod sanguis
+<lb ed="#P" n="44"/>vere ac proprie pertinet ad veritatem et 
+in<lb break="no" ed="#P" n="45"/>tegritatem humane nature, ut docet D. 
+Tho<lb break="no" ed="#P" n="46"/>mas infra, q. 54, art. 2, ad 3, et 76, art. 1,
+<lb ed="#P" n="47"/>ad 2, et Quodl. 5, art. 5, et in 4, d. A4, q. 1,
+<lb ed="#P" n="48"/>art. 2, q. 3, ad 3, ubi omnes Theologi, 
+pro<lb break="no" ed="#P" n="49"/>pter hanc causam, docent sanguinem 
+futu<lb break="no" ed="#P" n="50"/>rum esse in corporibus resurgentium; imo,
+<lb ed="#P" n="51"/>Concilium 'Tridentinum, sess. 13, cap. 3, 
+vi<lb break="no" ed="#P" n="52"/>detur vocare sanguinem partem corporis,
+<lb ed="#P" n="53"/>dum dicit sanguinem Christi esse sub 
+specie<lb break="no" ed="#P" n="54"/>bus panis, ex vi illius connewionis qua partes
+<lb ed="#P" n="55"/>corporis inter se copulantur ; quin etiam Aris-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>toteles, lib. 9 de Partibus animal., cap. 2 et
+<lb ed="#P" n="57"/>8, sanguinem inter partes animalis numerat.
+<lb ed="#P" n="58"/>Idem, lib. 4 de Histor. animal., cap. 4, et lib.
+<lb ed="#P" n="59"/>3, cap. 2; Gal., lib. 2 de Elem., in principio,
+<lb ed="#P" n="60"/>ut latius quaestione sequenti dicetur; et 
+Se<lb break="no" ed="#P" n="61"/>neca, lib. 4 Quest. natural., vocat illum quasi
+<lb ed="#P" n="62"/>partem , quia pertinet ad veritatem humane
+<lb ed="#P" n="63"/>nature, quia sine sanguine non solum integer
+<lb ed="#P" n="64"/>homo esse non potest, sed neque omnino 
+na<lb break="no" ed="#P" n="65"/>turaliter esse potest.
+</p>
+                  <p xml:id="szstco-k31635-d1e3320">
+                     <lb ed="#P" n="66"/>17. Hanc etiam ob causam solet in sacra
+<lb ed="#P" n="67"/>Scriptura totus homo caro et sanguis 
+appel<lb break="no" ed="#P" n="68"/>lari, Matth. 46 : Caro et sanguis von revelavit
+<lb ed="#P" n="69"/>7i). Idem ad Galat. 4, ad Ephes. 6, ad Hebr.
+<lb ed="#P" n="70"/>2, videlicet, per syneedochen, a parte totum
+<lb ed="#P" n="71"/>nominando, ut Anselmus, D. Thomas, et alii
+<lb ed="#P" n="72"/>ibi notarunt. Supponitur ergo his locis, 
+san<lb break="no" ed="#P" n="73"/>guinem esse partem. Imo, cum caro et 
+sqn<lb break="no" ed="#P" n="74"/>guis conjunguntur, per sazguinem anima 
+si<lb break="no" ed="#P" n="75"/>enificari solet, ut expositores advertunt; et
+<lb ed="#P" n="76"/>Philo, de eo quod deterius potiori insidietur ;
+<lb ed="#P" n="77"/>non qnia sanguis sit praecipua pars, sed quia
+<lb ed="#P" n="78"/>quodammodo vivificat corpus, et ab eo 
+maxi<lb break="no" ed="#P" n="79"/>me viia pendet. Ex quo etiam aliqui ita 
+erra<lb break="no" ed="#P" n="80"/>runt, ut sanguinem putaverint esse animam,
+<lb ed="#P" n="81"/>ut refert Clemen. Alexand., lib. 4 Pedag.,
+<lb ed="#P" n="82"/>cap. 6; et Aristoteles, 1 de Anim., cap. 2. Et
+<lb ed="#P" n="83"/>Levit. 17, dicitur anima esse in sanguine, id
+<lb ed="#P" n="84"/>est, vila quae ab illo pendet, ut Augustinus
+<lb ed="#P" n="85"/>exposuit, q. 17 in Levit. Ex quo signo intelligi
+<lb ed="#P" n="86"/>tur, sanguinem non solum requiri per modum
+<lb ed="#P" n="87"/>nutrimenti convertendi in substantiam aliti,
+<lb ed="#P" n="88"/>sie enim posset animal, saltem brevi aliquo
+<lb ed="#P" n="89"/>tempore, conservari sine sanguine; non 
+au<lb break="no" ed="#P" n="90"/>tem ita est, sed simpliciter requiritur ad 
+con<lb break="no" ed="#P" n="91"/>sistentiam corporis, et quasi ad fovendum
+<lb ed="#P" n="92"/>omnia membra, et conservandum naturalem
+<lb ed="#P" n="93"/>calorem, maxime vite necessarium. Deinde
+<lb ed="#P" n="94"/>est veluti quoddam generale organum ad
+<lb ed="#P" n="95"/>operationes anime praestandas, praesertim ad
+<lb ed="#P" n="96"/>alfectus, ut sunt ira, audacia; et ad 
+conserva<lb break="no" ed="#P" n="97"/>tionem spirituum vitalium, et animalium, qui
+<lb ed="#P" n="98"/>ad vite, conservationem et usum sensuum
+<lb ed="#P" n="99"/>maxime necessarii sunt. Et haec omnia 
+proce<lb break="no" ed="#P" n="100"/>dunt, sive sanguis informetur anima, sive
+<lb ed="#P" n="101"/>non.
+</p>
+                  <p xml:id="szstco-k31635-d1e3401">
+                     <lb ed="#P" n="102"/>18. Quoniam ergo Verbum divinum factum
+<lb ed="#P" n="103"/>est homo, quantum ad naturam spectat, 
+ejus<lb break="no" ed="#P" n="104"/>dem perfectionis, veritatis, et integritalis qua
+<lb ed="#P" n="105"/>nos sumus, ideo assumpsit sauguinem ex vi
+<lb ed="#P" n="106"/>hujus perfecte et integre sumptionis 
+huma<lb break="no" ed="#P" n="107"/>ne nature. Et hoc significavit Paulus cum
+<lb ed="#P" n="108"/>dixit, ideo Filium Dei assumpsisse carnem et
+<lb ed="#P" n="109"/>sanguinem, quia alii homines carne et san-.
+<lb ed="#P" n="110"/>guine constant; et idem significat Concilium
+<pb ed="#P" n="535"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>Ephes. cum Cyrillo et aliis Patribus, cum 
+di<lb break="no" ed="#P" n="2"/>cunt, in Scriptura saera, quando dicit Verbum
+<lb ed="#P" n="3"/>carnem facium esse, nomine carnis 
+sangui<lb break="no" ed="#P" n="4"/>nem comprehendi, quia significatur tota 
+hu<lb break="no" ed="#P" n="5"/>manitas, quae utrumque complectitur. Idem
+<lb ed="#P" n="6"/>denique significant reliqui Patres, cum aiunt
+<lb ed="#P" n="7"/>assumpsisse Verbum verum et integrum 
+hu<lb break="no" ed="#P" n="8"/>manum corpus, quale a principio in nostra
+<lb ed="#P" n="9"/>natura plantavit, ut patet ex Epiph., Nazianz.,
+<lb ed="#P" n="10"/>et alüs, in locis citatis; et Damasc., lib. 5,
+<lb ed="#P" n="11"/>cap. 6; August., lib. 10 de Civit., cap. 27; et
+<lb ed="#P" n="12"/>sunt optima verba Leonis, serm. 8 de Nativit.:
+<lb ed="#P" n="13"/>Utriusque nature in suis proprietatibus 
+per<lb break="no" ed="#P" n="14"/>maonentis tanta est unitatis facta communio, qt
+<lb ed="#P" n="15"/>quidquid ibi sit deitatis, non sit ab havmanitate
+<lb ed="#P" n="16"/>disjuactum ; quidquid autem est hominis , non
+<lb ed="#P" n="17"/>$it a deitate divisum; constat autem ex dictis,
+<lb ed="#P" n="18"/>sanguinem aliquid esse hominis. Non ergo ex
+<lb ed="#P" n="19"/>sola ratione extrinseca, seu quasi ex 
+privile<lb break="no" ed="#P" n="20"/>gio, sed quasi naturali concomitantia 
+assum<lb break="no" ed="#P" n="21"/>ptus est sanguis, simul cum aliis partibus
+<lb ed="#P" n="22"/>humanitatis. Quod ita explicatur, quia, sicut
+<lb ed="#P" n="23"/>hoe ipso quod de aliquo dicitur, esse verum
+<lb ed="#P" n="24"/>hominem, dicitur habere carnem et 
+sangui<lb break="no" ed="#P" n="25"/>nem, ita, cum dicitur Verbum assumpsisse
+<lb ed="#P" n="26"/>humanitatem, hoc ipso dicitur sanguinem 
+as<lb break="no" ed="#P" n="27"/>sumpsisse. Denique si tantum ex privilegio
+<lb ed="#P" n="28"/>esset sanguis assumptus, sequitur factas esse
+<lb ed="#P" n="29"/>duas uniones hypostaticas , physice non 
+con<lb break="no" ed="#P" n="30"/>nexas, sed tantum subordinatas ex intentione
+<lb ed="#P" n="31"/>agentis; sicut si Verbum assumpsisset 
+lacry<lb break="no" ed="#P" n="32"/>mas, vel aliquid simile; quod esset sine 
+ra<lb break="no" ed="#P" n="33"/>tione et fundamento dictum, nam ad solam
+<lb ed="#P" n="34"/>dignitatem seu valorem pretii sufficeret unio
+<lb ed="#P" n="35"/>mediata, seu in hypostasi, nisi intrinseca 
+ra<lb break="no" ed="#P" n="36"/>lio perfecte assumptionis aliud requireret.
+<lb ed="#P" n="37"/>Et rationes etiam pro prima sententia facte
+<lb ed="#P" n="38"/>urgent contra has duas uniones hoc modo
+<lb ed="#P" n="39"/>explicatas; quae tamen in nostra sententia 
+fa<lb break="no" ed="#P" n="40"/>cile solvi possunt.
+</p>
+                  <p xml:id="szstco-k31635-d1e3514">
+                     <lb ed="#P" n="41"/>19. Ad primum respondetur, Verbum 
+as<lb break="no" ed="#P" n="42"/>sumpsisse carnem mediante anima ; sub 
+car<lb break="no" ed="#P" n="43"/>ne autem sanguis comprehenditur, ut dietum
+<lb ed="#P" n="44"/>est; intelligendum autem est illud axioma,
+<lb ed="#P" n="45"/>corpus assumptum esse ratione anime, ut 
+in<lb break="no" ed="#P" n="46"/>fra dicetur, sive talis anima informet omnes
+<lb ed="#P" n="47"/>partes assumptas, sive non. Et hoc modo
+<lb ed="#P" n="48"/>etiam sanguis est assumptus mediante anima,
+<lb ed="#P" n="49"/>quia licet concedamus non informari ab ipsa,
+<lb ed="#P" n="50"/>tamen est propter ipsam , qua in corpore
+<lb ed="#P" n="51"/>conservari non potest sine sanguine ; et 
+san<lb break="no" ed="#P" n="52"/>guis etiam ipse natura sua postulat 
+conjunc<lb break="no" ed="#P" n="53"/>tionem aliquam ad animam, seu ad corpus
+<lb ed="#P" n="54"/>humanum, sine quo esse aut diu conservari
+<lb ed="#P" n="55"/>non potest.
+</p>
+                  <p xml:id="szstco-k31635-d1e3549">
+                     <cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>20. Ad secundum respondetur, sanguinis
+<lb ed="#P" n="57"/>naturam esse veluti incompletam, et ex 
+na<lb break="no" ed="#P" n="58"/>tura sua ordinatam ad complementum 
+huma<lb break="no" ed="#P" n="59"/>ni corporis, cujus aliquo modo est ; et ideo
+<lb ed="#P" n="60"/>Verbum, assumendo carnem et sanguinem ,
+<lb ed="#P" n="61"/>non est dicendum assumpsisse duas naturas,
+<lb ed="#P" n="62"/>sed unam completam.
+</p>
+                  <p xml:id="szstco-k31635-d1e3570">
+                     <lb ed="#P" n="63"/>21. Ad tertium respondetur, in puris 
+homi<lb break="no" ed="#P" n="64"/>nibus, eo modo quo natura est una, ita et
+<lb ed="#P" n="65"/>subsistentiam esse unam ; natura vero ita una
+<lb ed="#P" n="66"/>est, ut non sit omnino simplex, sed multa
+<lb ed="#P" n="67"/>compleetatur, ad sui veritatem et 
+integrita<lb break="no" ed="#P" n="68"/>tem pertinentia. Eodem ergo modo 
+subsisten<lb break="no" ed="#P" n="69"/>tiaillius naturae est una, et subsistentia 
+san<lb break="no" ed="#P" n="70"/>guinis respectu illius est veluti partialis. 
+Ver<lb break="no" ed="#P" n="71"/>bum ergo divinum in humanitate Christi 
+to<lb break="no" ed="#P" n="72"/>tam illius subsistentiam supplevit, ablata 
+im<lb break="no" ed="#P" n="73"/>perfectione et composilione ipsius 
+subsisten<lb break="no" ed="#P" n="74"/>tie ; quidquid enim creata subsistentia, 
+com<lb break="no" ed="#P" n="75"/>posita ex multis partibus, intelligitur 
+termina<lb break="no" ed="#P" n="76"/>re, perfectiori modo terminavit Verbum sua
+<lb ed="#P" n="77"/>simplici subsistentia.
+</p>
+                  <p xml:id="szstco-k31635-d1e3605">
+                     <lb ed="#P" n="78"/>22. Ad quartum respondetur , sanguinem
+<lb ed="#P" n="79"/>esse de integritate humanitatis, sive 
+informe<lb break="no" ed="#P" n="80"/>tur anima, sive non ; qui autem negant 
+infor<lb break="no" ed="#P" n="81"/>mari, consequenter dicent corpus humanum
+<lb ed="#P" n="82"/>esse per se unum, non mathematico modo ,
+<lb ed="#P" n="83"/>per continuationem perfectam, sed modo 
+phy<lb break="no" ed="#P" n="84"/>sico, ef per quamdam quasi continuationem
+<lb ed="#P" n="85"/>physicam, quatenus omnes ille partes sunt
+<lb ed="#P" n="86"/>ita conjuncte et subordinate, prout ad 
+ea<lb break="no" ed="#P" n="87"/>rum conservalionem necessarium est, et 
+pro<lb break="no" ed="#P" n="88"/>ut expedit ut anima possit illis uti, ad. sua
+<lb ed="#P" n="89"/>munera exercenda. ;
+</p>
+                  <p xml:id="szstco-k31635-d1e3634">
+                     <lb ed="#P" n="90"/>23. Ad quintum respondetur, certissimum
+<lb ed="#P" n="91"/>esse, in resurrectione sanguinem iterum 
+fuis<lb break="no" ed="#P" n="92"/>se conjunctum corpori, et nunc etiam esse in
+<lb ed="#P" n="93"/>Christi corpore glorioso ; quia vero sanguis,
+<lb ed="#P" n="94"/>quem Christus habuit in toto vitee tempore,
+<lb ed="#P" n="95"/>potuit excedere quantitatem sanguinis, qua
+<lb ed="#P" n="96"/>simul necessaria est ad conservationem et
+<lb ed="#P" n="97"/>veritatem corporis humani, ideo fieri potuit
+<lb ed="#P" n="98"/>ut non omnem sanguinem, quem in vita 
+ha<lb break="no" ed="#P" n="99"/>buit, et quem aliquando effudit, in 
+resurrec<lb break="no" ed="#P" n="100"/>lione iterum assumpserit, ut infra, in materia
+<lb ed="#P" n="101"/>de resurrectione Christi, latius dicetur. Ubi
+<lb ed="#P" n="102"/>etiam constabit sanguinem in passione 
+effu<lb break="no" ed="#P" n="103"/>sum, et in resurrectione recuperatum, 
+nun<lb break="no" ed="#P" n="104"/>quam fuisse a Verbo dimissum, et ita quoad
+<lb ed="#P" n="105"/>unionem hypostaticam, non fuisse vere 
+reas<lb break="no" ed="#P" n="106"/>sumptum, eum nunquam fuerit a Verbo 
+dis<lb break="no" ed="#P" n="107"/>junetum ; solum igitur quoad conjunctionem
+<lb ed="#P" n="108"/>cum corpore, dici potest iterum in 
+resurree<lb break="no" ed="#P" n="109"/>lione esse sumptum.
+</p>
+                  <p xml:id="szstco-k31635-d1e3680">
+                     <lb ed="#P" n="110"/>24. Ad sextum, quanquam illa incommoda
+<pb ed="#P" n="536"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>sint magis de modo loquendi, quam de re,
+<lb ed="#P" n="2"/>negatur tamen eorum consecutio, quia 
+san<lb break="no" ed="#P" n="3"/>guis est pars; et ideo ab illo non sumitur
+<lb ed="#P" n="4"/>communicatio idiomatum.
+</p>
+               </div>
+               <div xml:id="szstco-k31635-Dd1e3699">
+                  <head xml:id="szstco-k31635-Hd1e3701">Sectio 7</head>
+                  <head xml:id="szstco-k31635-Hd1e3703" type="question-title">
+  Utrum Verbum divinum assumpserit alios humores,
+  ungues, dentes et capillos immediate, et 
+  secundum hypostasim
+</head>
+                  <p xml:id="szstco-k31635-d1e3706">
+                     <lb ed="#P" n="5" type="fixed=536"/>SECTIO VII.
+<lb ed="#P" n="6"/>Utrum Verbum divinum assumpserit alios humores,
+<lb ed="#P" n="7"/>ungues, dentes et capillos immediate, et 
+secun<lb break="no" ed="#P" n="8"/>dum hypostasim.
+</p>
+                  <p xml:id="szstco-k31635-d1e3717">
+                     <lb ed="#P" n="9"/>1. In hoc dubio omnia sunt minus certa
+<lb ed="#P" n="10"/>quam in praecedenti. Dico tamen primo, 
+pro<lb break="no" ed="#P" n="11"/>babilius mihi videri, alios etiam tres huinores
+<lb ed="#P" n="12"/>immediate fuisse unitos Verbo Dei, ut multi
+<lb ed="#P" n="13"/>ex auctoribus citatis sentiunt, praesertim 
+Ca<lb break="no" ed="#P" n="14"/>jetan., Sylv., Soto; et sumi potest ex Innoc. III,
+<lb ed="#P" n="15"/>in cap. In quadam, extra. de Celebr. Missar.,
+<lb ed="#P" n="16"/>ubi dicit, de latere Christi exiisse sanguinem
+<lb ed="#P" n="17"/>et aquam, ut esset signum, corpus illud 
+con<lb break="no" ed="#P" n="18"/>stare ex quatuor elementis, et habere 
+qua<lb break="no" ed="#P" n="19"/>iuor humores, quod est de ratione et 
+compo<lb break="no" ed="#P" n="20"/>sitione veri corporis humani, quale Verbum
+<lb ed="#P" n="21"/>assumpsit. Damasc. etiam, lib. 2 de Fide, cap.
+<lb ed="#P" n="22"/>12, dicit corpora animalium ex quatuor 
+hu<lb break="no" ed="#P" n="23"/>moribus constare, et ita solent hi omnes 
+hu<lb break="no" ed="#P" n="24"/>mores nomine sanguinis comprehendi, quia
+<lb ed="#P" n="25"/>in corpore humano fere semper sunt misti,
+<lb ed="#P" n="26"/>etsese mutuo juvant ad conservationem 
+cor<lb break="no" ed="#P" n="27"/>poris, et vitae operationes.
+</p>
+                  <p xml:id="szstco-k31635-d1e3761">
+                     <lb ed="#P" n="28"/>2. Unde Augustinus, Epist. 146, dixit: 
+Qua<lb break="no" ed="#P" n="29"/>tuor humoribus naturam, carnis temperari ,
+<lb ed="#P" n="30"/>etiay, medicine disciplina testatur. Et ideo
+<lb ed="#P" n="31"/>etiam lib. de Spirit. et anima, cap. 15 et 33,
+<lb ed="#P" n="32"/>dicit humanum corpus quatuor humoribus
+<lb ed="#P" n="33"/>constare. Quod expresse etiam docet D. 
+Tho<lb break="no" ed="#P" n="34"/>mas, in 4, d. A44, q. 4, art. 2, quaest. 3, in
+<lb ed="#P" n="35"/>corp., etad 3, et ibi reliqui Theologi. 
+Idem<lb break="no" ed="#P" n="36"/>que sentiunt philosophi supra citati, 
+praeser<lb break="no" ed="#P" n="37"/>tim Galen., lib. 2 de Elem., in principio, ubi
+<lb ed="#P" n="38"/>quatuor humores vocat elementa corporis 
+hu<lb break="no" ed="#P" n="39"/>90i; dixerat autem ipse, lib. 4 , elementum
+<lb ed="#P" n="40"/>vocari partem rei minimam. Item lib. 4 de
+<lb ed="#P" n="41"/>Anatom., etlib. de Natur. hom., ubi 
+Hyppo<lb break="no" ed="#P" n="42"/>cratem in eamdem sententiam refert. Lege
+<lb ed="#P" n="43"/>Scaligerum, exercit. 280, cap. 1.
+</p>
+                  <p xml:id="szstco-k31635-d1e3799">
+                     <lb ed="#P" n="44"/>3. Ex his ergo sumitur ratio conclusionis,
+<lb ed="#P" n="45"/>nam isti humores sunt etiam de veritate 
+hu<lb break="no" ed="#P" n="46"/>mane nature, et per se requisiti ad 
+conve<lb break="no" ed="#P" n="47"/>nientem statum corporis humani , et ideo
+<lb ed="#P" n="48"/>etiam in eorporibus resurgentium 
+permane<lb break="no" ed="#P" n="49"/>bunt. Nec refert quod Aristoteles interdumhos
+<lb ed="#P" n="50"/>humores excrementa vocat; sic enim de bile
+<lb ed="#P" n="51"/>loquitur, lib. 4 de Part. animal.,c. 2, et de 
+pi<lb break="no" ed="#P" n="52"/>tuita, primo de Gener.anim. c.418;non enim
+<lb ed="#P" n="53"/>vocantur excrementa, quia perjse non sint ne-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>cessarii corpori humano, sed quia non per se
+<lb ed="#P" n="55"/>ordinantur ad nutritionem, sicut sanguis. Vel
+<lb ed="#P" n="56"/>cerle quia magna ex parte solent esse 
+su<lb break="no" ed="#P" n="57"/>perflui, et tanquam excrementa ; per se vero
+<lb ed="#P" n="58"/>necessarii sunt ad debitum 
+temperamen<lb break="no" ed="#P" n="59"/>tum ipsius corporis, et ut sanguis ipse sit 
+li<lb break="no" ed="#P" n="60"/>quidus, fluens, et humidus, ac debite 
+tempe<lb break="no" ed="#P" n="61"/>ratus.
+</p>
+                  <p xml:id="szstco-k31635-d1e3843">
+                     <lb ed="#P" n="62"/>4. Objectio.— Responsio.—Dices : ergo 
+pa<lb break="no" ed="#P" n="63"/>ri ratione spiritus vitales et animales fuissent
+<lb ed="#P" n="64"/>assumpti ; pertinent enim ad veritatem huma -
+<lb ed="#P" n="65"/>ne nature, cum necessarii sint ad 
+operatio<lb break="no" ed="#P" n="66"/>nes vite, et ad naturalem statum, et 
+conser<lb break="no" ed="#P" n="67"/>vationem humani corporis ; unde etiam erunt
+<lb ed="#P" n="68"/>in corporibus resurgentium. Respondetur
+<lb ed="#P" n="69"/>primo, non esse omnino eamdem rationem,
+<lb ed="#P" n="70"/>quia humores habent substantiam magis
+<lb ed="#P" n="71"/>stabilem et consistentem, atque adeo magis
+<lb ed="#P" n="72"/>intrinsece necessariam eorpori humano ; 
+spi<lb break="no" ed="#P" n="73"/>ritus autem sunt quasi in continua 
+successio<lb break="no" ed="#P" n="74"/>ne, et facillime transmutantur, et ita magis
+<lb ed="#P" n="75"/>videntur esse extra humans nature 
+integrita<lb break="no" ed="#P" n="76"/>teur.Secundo responderi potest satis pie et 
+pro<lb break="no" ed="#P" n="77"/>babiliter concedendo sequelam, quia nullum
+<lb ed="#P" n="78"/>habet incommodum, et quia veritas et 
+integri<lb break="no" ed="#P" n="79"/>tas humani corporis hos spiritus requirit; 
+un<lb break="no" ed="#P" n="80"/>de non desunt, qui putent eos esse animatos.
+<lb ed="#P" n="81"/>Ac denique, licet in vita mortali varientur
+<lb ed="#P" n="82"/>per continuam actionem et reactionem, tamen
+<lb ed="#P" n="83"/>in corpore glorioso iidem perpetuo manebunt
+<lb ed="#P" n="84"/>incorruptibiles. Sed quid de illis substantiis
+<lb ed="#P" n="85"/>mediis inter cibum seu alimentum et 
+sangui<lb break="no" ed="#P" n="86"/>nem, quà vocantur ros et cambium? cibus
+<lb ed="#P" n="87"/>enim, priusquam in sanguinem vel in glutem
+<lb ed="#P" n="88"/>convertatur, in has substantias convertitur,
+<lb ed="#P" n="89"/>per quas paulatim transmutatio fit. 
+Respon<lb break="no" ed="#P" n="90"/>detur, has substantias non fuisse assumptas,
+<lb ed="#P" n="91"/>quia non sunt de veritate humane nature,
+<lb ed="#P" n="92"/>nec per se requisit:e ad perfectam consisten -
+<lb ed="#P" n="93"/>liam ejus, et vilae operationes. Et majori 
+ra<lb break="no" ed="#P" n="94"/>tione non fuerunt assumpte lacrymae, 
+sali<lb break="no" ed="#P" n="95"/>va, sudor, et similia excrementa, quae nullo
+<lb ed="#P" n="96"/>modo ad humane nature integritatem 
+spec<lb break="no" ed="#P" n="97"/>tant.
+</p>
+                  <p xml:id="szstco-k31635-d1e3924">
+                     <lb ed="#P" n="98"/>5. Dico secundo: probabilius etiam videtur,
+<lb ed="#P" n="99"/>ungues, dentes et capillos assumptos fuisse
+<lb ed="#P" n="100"/>secundum hypostasim Verbi Dei. Et quidem
+<lb ed="#P" n="101"/>de dentibus et unguibus fere nil dubito, tum
+<lb ed="#P" n="102"/>quia valde probabile est, informari anima 
+ra<lb break="no" ed="#P" n="103"/>lionali, et augeri vitali modo ; tum etiam quia
+<lb ed="#P" n="104"/>sunt de integritate humani corporis, et per se
+<lb ed="#P" n="105"/>necessariijnon solum ad ornamentum, sed
+<lb ed="#P" n="106"/>etiam ad nonnullas actiones humanas. De 
+ca<lb break="no" ed="#P" n="107"/>pillis vero res est magis dubia ; sumitur tamen
+<lb ed="#P" n="108"/>ex Ambros., libr., de Incarn. Dom, sacram.,
+<pb ed="#P" n="537"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>cap. 6 ; et Athanas., Epist. ad Epictet., quam
+<lb ed="#P" n="2"/>refert Epiph., heres. 17, qui dicunt, eos 
+he<lb break="no" ed="#P" n="3"/>reticos, qui afiemabant divinitatem et carnem
+<lb ed="#P" n="4"/>Christi esse ejusdem substantie , 
+consequen<lb break="no" ed="#P" n="5"/>ter fuisse dicturos, Verbum in carnem, 
+capil<lb break="no" ed="#P" n="6"/>los, sanguinem et ossa conversum esse. In
+<lb ed="#P" n="7"/>quibus verbis manifeste supponunt, Verbum
+<lb ed="#P" n="8"/>eodem modo fuisse unitum capillis, quo carni,
+<lb ed="#P" n="9"/>sanguini et ossibus. Preterea, pertinent 
+ca<lb break="no" ed="#P" n="10"/>pilli ad quoddam eomplementum et 
+ornamen<lb break="no" ed="#P" n="11"/>tum eorporis humani, propter quod futuri sunt
+<lb ed="#P" n="12"/>in eorporibus resurgentium, teste August. ,
+<lb ed="#P" n="13"/>92 de Civit.,c. 19; et in Enchirid., c. 88, cum
+<lb ed="#P" n="14"/>quo senüunt omnes Theologi, in 4, d. 44; ubi
+<lb ed="#P" n="15"/>D. Thom., q. 4, art. 2, q. 3, ad 3, etiam 
+sen<lb break="no" ed="#P" n="16"/>tit, illos informari anima rationali; quod etiam
+<lb ed="#P" n="17"/>indicat 4 p., q. 27, art. 2 ; ergo eadem 
+ratio<lb break="no" ed="#P" n="18"/>ne, credibile est unitos esse Verbo Dei, 
+prz<lb break="no" ed="#P" n="19"/>sertim cum in hoc nullum sit incommodum,
+<lb ed="#P" n="20"/>et ad majorem quamdam Christi dignitatem,
+<lb ed="#P" n="21"/>et majorem perfectionem hujus unionis 
+per<lb break="no" ed="#P" n="22"/>tineat. Dices, haec omnia facillime 
+transmuta<lb break="no" ed="#P" n="23"/>ri et resolvi, unde fit fere continue factam
+<lb ed="#P" n="24"/>esse novam unionem ad Verbum, et novam
+<lb ed="#P" n="25"/>separationem ; atque adeo magnam 
+mate<lb break="no" ed="#P" n="26"/>riae quantitatem fuisse temporis successione
+<lb ed="#P" n="27"/>Verbo unitam, et postea omnino dimissam.
+<lb ed="#P" n="28"/>Quod videtur inconveniens, et contra illud
+<lb ed="#P" n="29"/>commune axioma : Quod semel assumpsit ,
+<lb ed="#P" n="30"/>nunquam dimisit, quod ex Damasceno 
+sum<lb break="no" ed="#P" n="31"/>pium est, lib. 3, cap. 27. Respondetur hoc
+<lb ed="#P" n="32"/>nullum esse incommodum ; ita enim 
+necessa<lb break="no" ed="#P" n="33"/>rio dicendum estaecidisse in continua 
+nutri<lb break="no" ed="#P" n="34"/>tione et resolutione partium omnium, etiam
+<lb ed="#P" n="35"/>perfectarum, et praesertim ipsius sanguinis.
+<lb ed="#P" n="36"/>Illa ergo, quae per se fuerunt sumpta, scilicet,
+<lb ed="#P" n="37"/>anima et corpus nunquam fuerunt dimissa ;
+<lb ed="#P" n="38"/>partes vero corporis materiales, quae continue
+<lb ed="#P" n="39"/>resolvuntur , dimitti potuerunt , praesertim
+<lb ed="#P" n="40"/>quoad illam materiam, qua in corpore Christi
+<lb ed="#P" n="41"/>resurgenlis futura non erat necessaria, ut 
+la<lb break="no" ed="#P" n="42"/>lius in materia de Resurrectione Christi 
+dice<lb break="no" ed="#P" n="43"/>mus,
+</p>
+               </div>
+               <div xml:id="szstco-k31635-Dd1e4050">
+                  <head xml:id="szstco-k31635-Hd1e4052">Sectio 8</head>
+                  <head xml:id="szstco-k31635-Hd1e4054" type="question-title">Utrum Verbum divinum in humanitate assumpserit
+        accidentia</head>
+                  <p xml:id="szstco-k31635-d1e4057">
+                     <lb ed="#P" n="44" type="fixed=537"/>SECTIO VIII.
+<lb ed="#P" n="45"/>Utrum Verbum divinum in humanitate assumpserit
+<lb ed="#P" n="46"/>accidentia.
+</p>
+                  <p xml:id="szstco-k31635-d1e4066">
+                     <lb ed="#P" n="47"/>1. Supposita distinctione supra data de 
+as<lb break="no" ed="#P" n="48"/>sumptione in hypostdsi, vel secundum 
+hypo<lb break="no" ed="#P" n="49"/>stasim, dico primo, assumpsisse Verbum in
+<lb ed="#P" n="50"/>sua hypostasi, media humanitate, formas 
+acci<lb break="no" ed="#P" n="51"/>dentales. Est certa ; sumitur ex illis locis 
+Scri<lb break="no" ed="#P" n="52"/>pture, qua dicunt Christum fuisse hominem
+<lb ed="#P" n="53"/>visibilem oculis corporeis, manducasse, bi-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>bisse, tristem fuisse; ac denique ex illis in
+<lb ed="#P" n="55"/>quibus dicitur habitu inventus ut homo. Ex
+<lb ed="#P" n="56"/>quibus sumunt Concilia, assumpsisse naturam
+<lb ed="#P" n="57"/>nostram perfectam, et quidquid in ea 
+planta<lb break="no" ed="#P" n="58"/>vit, et per omnia fuisse nobis similem, sine
+<lb ed="#P" n="59"/>sorde peccati, ut loquitur Concilium Chalced.,
+<lb ed="#P" n="60"/>act. 5, in 2 definitione Fidei, et sexta 
+Syno<lb break="no" ed="#P" n="61"/>dus, act. 4 et 11; et frequentissime Sancti
+<lb ed="#P" n="62"/>Patres, Leo, serm. 8 de Nativitat.; Damasus,
+<lb ed="#P" n="63"/>Epist. 4 ad Paulin. ; Cyril., Epistol. 25 ; Epiph.,
+<lb ed="#P" n="64"/>heres. 77; August., lib. 10 de Civit., cap. 17,
+<lb ed="#P" n="65"/>et Praefat. ad enarr. 2 Psalm. 29; Nazianz.,
+<lb ed="#P" n="66"/>orat. b1 et 52; Damasc., lib. 4 de Fide, cap.
+<lb ed="#P" n="67"/>44, et lib. 3, cap. 6, 22, 23; Ambros., de 
+In<lb break="no" ed="#P" n="68"/>carnat. Domin. sacram., cap. 5 et 7; Fulgent.,
+<lb ed="#P" n="69"/>lib. de Incarn. et grat., cap. 6. Ex quibus 
+su<lb break="no" ed="#P" n="70"/>mitur ratio, quia habere formas accidentales
+<lb ed="#P" n="71"/>pertinet ad naturalem statum , 
+conservatio<lb break="no" ed="#P" n="72"/>nem et perfectionem humanae naturae, ut per
+<lb ed="#P" n="73"/>se evidens est; sed Christus assumpsit 
+perfec<lb break="no" ed="#P" n="74"/>tam humanitatem, verumque corpus 
+huma<lb break="no" ed="#P" n="75"/>num, quod naturaliter posset esse, operari,
+<lb ed="#P" n="76"/>videri, pati, etc.; ergo. Et haec conclusio, qua
+<lb ed="#P" n="77"/>hie tantum in generali posita est, inferius
+<lb ed="#P" n="78"/>evidentius constabit, cum agemus in specie
+<lb ed="#P" n="79"/>de omnibus perfectionibus et defectibus in
+<lb ed="#P" n="80"/>humanitate assumptis.
+</p>
+                  <p xml:id="szstco-k31635-d1e4144">
+                     <lb ed="#P" n="81"/>2. Dico secundo: Verbum non assumpsit 
+ac<lb break="no" ed="#P" n="82"/>cidentia immediate, et secundum hypostasim,
+<lb ed="#P" n="83"/>sed tantum in hypostasi mediante natura. De
+<lb ed="#P" n="84"/>hae conclusione nihil fere dicunt expresse
+<lb ed="#P" n="85"/>Theologi, omnes tamen eam ut manifestam
+<lb ed="#P" n="86"/>supponunt. Probatur autem ex principio 
+po<lb break="no" ed="#P" n="87"/>sito disputatione praecedenti, sect. ultim.,
+<lb ed="#P" n="88"/>quia accidens non est immediate 
+assumptibi<lb break="no" ed="#P" n="89"/>le, et praesertim dum in actu inharet, et non
+<lb ed="#P" n="90"/>subsistit; forms autem accidentales, quz
+<lb ed="#P" n="91"/>erant in Christo, actu inherebant corpori,
+<lb ed="#P" n="92"/>vel anima ejus; non ergo immediate 
+termi<lb break="no" ed="#P" n="93"/>nabantur subsistentia Verbi.
+</p>
+                  <p xml:id="szstco-k31635-d1e4176">
+                     <lb ed="#P" n="94"/>3. Objectio.— Responsio.— Objectio.— 
+Res<lb break="no" ed="#P" n="95"/>ponsio. — Sed contra, quia Concilia eodem
+<lb ed="#P" n="96"/>modo et contextu dicunt assumpsisse 
+Ver<lb break="no" ed="#P" n="97"/>bum animam et operationes ; ergo intelligunt
+<lb ed="#P" n="98"/>omnia immediate assumpsisse; alias etiam
+<lb ed="#P" n="99"/>cum dicunt assumpsisse sanguinem, possent
+<lb ed="#P" n="100"/>intelligi mediate et in hypostasi. 
+Responde<lb break="no" ed="#P" n="101"/>tur, necessario intelligendum esse, 
+assum<lb break="no" ed="#P" n="102"/>ptionem esse factam accommodate, juxta 
+ca<lb break="no" ed="#P" n="103"/>pacitatem uniuscujusque rei, et ideo tota
+<lb ed="#P" n="104"/>substantia, qua capax est subsistentis, 
+intel<lb break="no" ed="#P" n="105"/>ligitur immediate assumpta, accidentia vero
+<lb ed="#P" n="106"/>ut afficientia substantiam. Sed contra 
+secun<lb break="no" ed="#P" n="107"/>do, nam accidentia in Christo existunt ipsa
+<lb ed="#P" n="108"/>existentia inereata Verbi Dei; ergo sunt illi
+<pb ed="#P" n="538"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>immediate unita. Antecedens patet, quia in
+<lb ed="#P" n="2"/>alis hominibus accidentia existunt eadem
+<lb ed="#P" n="3"/>existenlia qua existit ipsa natura, cujus sunt;
+<lb ed="#P" n="4"/>ergo et in Christo; sed natura ejus existit
+<lb ed="#P" n="5"/>existenlia Verbi; ergo et accidentia. 
+Respon<lb break="no" ed="#P" n="6"/>detur argumentum procedere ex duobus 
+fal<lb break="no" ed="#P" n="7"/>sis principiis , quia neque in Christo 
+humani<lb break="no" ed="#P" n="8"/>tas existit existentia increata Verbi, neque in
+<lb ed="#P" n="9"/>ipso aut in aliis hominibus accidentia 
+exis<lb break="no" ed="#P" n="10"/>tunt eadem existentia qua existit substantia,
+<lb ed="#P" n="11"/>sed habent propriam existentiam 
+accidenta<lb break="no" ed="#P" n="12"/>lem.
+</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

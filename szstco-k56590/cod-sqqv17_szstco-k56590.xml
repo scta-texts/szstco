@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 8</title>
+            <author ref="#FranciscoSuarez">Francisco Suarez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 8</title>
+               <date when="2025-04-27">April 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-sqqv17">Paris 1860, v. 17</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-04-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="638"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="szstco-k56590">
+            <head xml:id="szstco-k56590-Hd1e96">Quaestio 8</head>
+            <div xml:id="szstco-k56590-Dd1e98"><!--sua-p3-q8prae-->
+               <head xml:id="szstco-k56590-Hd1e101">Praeambulum</head>
+               <p xml:id="szstco-k56590-d1e103">
+                  <lb ed="#P" n="28" type="fixed=637"/>Disputavit D. Thomas de gratia Christi
+<lb ed="#P" n="29"/>prout est formalis perfectio ejus, nunc de illa
+<lb ed="#P" n="30"/>tractat prout est principium gratificandi alios;
+<lb ed="#P" n="31"/>et quoniam haec efficacitas convenit Christo
+<lb ed="#P" n="32"/>quatenus est caput Ecclesie, ideo duo D.
+<lb ed="#P" n="33"/>Thomas inquirit in hac quaestione. Primum
+<lb ed="#P" n="34"/>est, an hac dignitas capitis conveniat Christo,
+<lb ed="#P" n="35"/>et quoniam caput dicit respectum ad 
+mem<lb break="no" ed="#P" n="36"/>bra, simul inquirit quorum sit caput. 
+Secun<lb break="no" ed="#P" n="37"/>dum est, qua sit gratia per quam influit seu
+<lb ed="#P" n="38"/>operatur ut caput, haec enim proprie gratia
+<lb ed="#P" n="39"/>capitis dicitur.
+</p>
+            </div>
+            <div xml:id="szstco-k56590-Dd1e133"><!--sua-p3-q8a1-->
+               <head xml:id="szstco-k56590-Hd1e136">Articulus 1</head>
+               <p xml:id="szstco-k56590-d1e138">
+                  <lb ed="#P" n="47" type="fixed=638"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k56590-d1e143">
+                  <lb ed="#P" n="48"/>1. Quid D. Thomas nomine Ecclesie in£
+el<lb break="no" ed="#P" n="49"/>ligat à» hoo articulo. — Quoniam haec capitis
+<lb ed="#P" n="50"/>appellatio metaphorica est, non potest pro-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="51"/>prie de ea disputari, nisi prius constet, quid
+<lb ed="#P" n="52"/>per ilam metaphoram significetur; et ideo
+<lb ed="#P" n="53"/>merito D. Thomas in hoc articulo ad ires
+<lb ed="#P" n="54"/>conditiones reduxit rationem capitis, in 
+qui<lb break="no" ed="#P" n="55"/>bus hoc caput mysticum naturale caput 
+imi<lb break="no" ed="#P" n="56"/>tatur, scilicet, ut sit aliquo modo primum in
+<lb ed="#P" n="57"/>ordine, ei excedat perfectione, et in alia
+<lb ed="#P" n="58"/>membra influat; querere ergo an Christus
+<lb ed="#P" n="59"/>sit caput, nihil aliud est quam quesrere an
+<lb ed="#P" n="60"/>habeat has tres conditiones, et praecipua 
+dif<lb break="no" ed="#P" n="61"/>ficultas est de tertia, tum quia illa est que
+<lb ed="#P" n="62"/>precipue attenditur in capite , praesertim
+<lb ed="#P" n="63"/>mystieo seu morali; tum etiam quia de aliis
+<lb ed="#P" n="64"/>duabus conditionibus satis ex superioribus
+<lb ed="#P" n="65"/>coustat, eas in Christo reperiri. Quid vero
+<lb ed="#P" n="66"/>nomine Ecclesie in hoc titulo D. Thomas 
+in<lb break="no" ed="#P" n="67"/>telligat, non satis manifestum est, an , 
+scili<lb break="no" ed="#P" n="68"/>cet, intelligat solam Ecclesiam militantem in
+<lb ed="#P" n="69"/>hominibus, an vero simpliciter totam 
+Eoecle<lb break="no" ed="#P" n="70"/>siam, ut ex Angelis et hominibus constat, et
+<lb ed="#P" n="71"/>partim militat, partim triumphat; doctrina
+<lb ed="#P" n="72"/>enim articuli in utroque sensu vera est, et ad
+<lb ed="#P" n="73"/>utrumque accommodari posse videtur; si 
+ta<lb break="no" ed="#P" n="74"/>men D. Thomas attente legatur in hoc et 
+se<lb break="no" ed="#P" n="75"/>quentibus articulis, non obscure intelligi 
+po<lb break="no" ed="#P" n="76"/>ierit, eum de Ecclesia in posteriori sensu
+<lb ed="#P" n="77"/>fuisse locutum; ex hoc enim principio hic
+<lb ed="#P" n="78"/>stabilito, scilicet, quod Christus est caput 
+Ee<lb break="no" ed="#P" n="79"/>clesim, infert in sequentibus esse caput 
+ho<lb break="no" ed="#P" n="80"/>minum et Angelorum, ut expresse videri 
+po<lb break="no" ed="#P" n="81"/>test in art. 4; et hoc modo loquitur Paulus de
+<lb ed="#P" n="82"/>Ecclesia, loco hic citato in argumento Seg
+<lb ed="#P" n="83"/>conira est, ad Ephes. 1, cum inquit : Z7 ipsum
+<lb ed="#P" n="84"/>dedit caput supra omnem Hcclesiam ; 
+praemise<lb break="no" ed="#P" n="85"/>rat enim Christum esse constitutum supra
+<lb ed="#P" n="86"/>omnes prineipatus, ete.
+</p>
+               <p xml:id="szstco-k56590-d1e232">
+                  <lb ed="#P" n="87"/>2. Explicato titulo, responsio est facilis,
+<lb ed="#P" n="88"/>Christum, scilicet, esse caput totius Eeclesic,
+<lb ed="#P" n="89"/>cujus asserlionis probatio in articulo clara
+<lb ed="#P" n="90"/>est. Solum in prima conditione advertere
+<lb ed="#P" n="91"/>oportet, quod D. Thomas ait, gratiam Christi
+<lb ed="#P" n="92"/>esse priorem non tempore, sed secundum
+<lb ed="#P" n="93"/>propinquitatem ad Deum, per quam 
+propin<lb break="no" ed="#P" n="94"/>quitatem non videtur intelhgere specialem
+<lb ed="#P" n="95"/>conjunctionem per gratiam unionis, sed 
+prio<lb break="no" ed="#P" n="96"/>ritatem in ordine intentionis, quia, scilicet,
+<lb ed="#P" n="97"/>gratia Chris in mente et intentione divina
+<lb ed="#P" n="98"/>fuit prior; hoc enim probat ratio, quam sí
+a<lb break="no" ed="#P" n="99"/>tim subdit, quia omnes alii, nimirum Angeli
+<lb ed="#P" n="100"/>ei homines (juxta expositionem datam), 
+rece<lb break="no" ed="#P" n="101"/>perunt gratiam per respeetum ad gratiam 
+ip<lb break="no" ed="#P" n="102"/>sius. Unde fit etiam tertiam conditionem, 
+sci<lb break="no" ed="#P" n="103"/>licet, quod habeat virtutem influendi in 
+om<lb break="no" ed="#P" n="104"/>nia membra Ecclesie , eodem modo esse 
+in<lb break="no" ed="#P" n="105"/>telligendam, quanquam testimonia, quibus D.
+<pb ed="#P" n="639"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Thomas utitur, de solis hominibus sufficienter
+<lb ed="#P" n="2"/>exponi posse videantur, scilicet ad Rom. 8 :
+<lb ed="#P" n="3"/>Quos praescicit et. prae destinavit ; et Joan. 4 :
+<lb ed="#P" n="4"/>De plenitudine ejus omnes accepimus. Sed 
+pri<lb break="no" ed="#P" n="5"/>mum testimonium D. Thomas intelligere 
+vi<lb break="no" ed="#P" n="6"/>detur de omnibus praedestinatis; in posteriori
+<lb ed="#P" n="7"/>vero intelügi potest, Joannem loqui non ut
+<lb ed="#P" n="8"/>hominem tantum, sed ut membrum Ecclesie,
+<lb ed="#P" n="9"/>qua iota ex plenitudine Christi sanctificatur.
+</p>
+               <p xml:id="szstco-k56590-d1e300">
+                  <lb ed="#P" n="10"/>3. De solutione ad 1, dicendum est late 
+in<lb break="no" ed="#P" n="11"/>fra, q. 13, et q. 62, quomodo, scilicet, 
+Chris<lb break="no" ed="#P" n="12"/>ius vel per humanitatem suam, vel per 
+sacra<lb break="no" ed="#P" n="13"/>menta gratiam influat. ]
+</p>
+            </div>
+            <div xml:id="szstco-k56590-Dd1e312"><!--sua-p3-q8a2-->
+               <head xml:id="szstco-k56590-Hd1e315">Articulus 2</head>
+               <p xml:id="szstco-k56590-d1e317">
+                  <lb ed="#P" n="77" type="fixed=639"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k56590-d1e322">
+                  <lb ed="#P" n="78"/>1. Sensus hujus quaestionis, juxta dieta in
+<lb ed="#P" n="79"/>precedenti articulo est, an Christus ut auctor
+<lb ed="#P" n="80"/>gratie aliquid influat in corpora nostra.
+</p>
+               <p xml:id="szstco-k56590-d1e331">
+                  <lb ed="#P" n="81"/>2. Et respondet affirmando, nam quamdiu
+<lb ed="#P" n="82"/>hic vivimus , influit virtutem et auxilium , ut
+<lb ed="#P" n="83"/>corpora nostra justiti:e organa efficiantur, et
+<lb ed="#P" n="84"/>ut non solum cor,sed etiam caro in ipsum
+<lb ed="#P" n="85"/>exultet, ut sic facilius et virtutem operetur,
+<lb ed="#P" n="86"/>et passiones vel erucem sustineat; denique
+<lb ed="#P" n="87"/>omnia bona corporis, quae sunt media ulilia
+<lb ed="#P" n="88"/>ad salutem aeternam , propter Christum 
+dan<lb break="no" ed="#P" n="89"/>tur, et ad hunc influxum pertinent; in futura
+<lb ed="#P" n="90"/>autem vita influet corporum resurreciionem,
+<lb ed="#P" n="91"/>et vitam immortalem, et alias dotes corporis
+<lb ed="#P" n="92"/>gloriosi; est ergo Christus caput etiam 
+corpo<lb break="no" ed="#P" n="93"/>rum, quamvis secundario, quia bona gratis,
+<lb ed="#P" n="94"/>quibus corpus es! capax, secundaria sunt, et
+<lb ed="#P" n="95"/>minus principalia in illo ordine. Unde etiam
+<lb ed="#P" n="96"/>fit Christum secundum eorpus suum habere
+<lb ed="#P" n="97"/>rationem capitis, quia per corpus suum nos
+<lb ed="#P" n="98"/>redemit, et sanguine suo nos lavit, et in statu
+<pb ed="#P" n="640"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>gloriae per corpus suum beatificabit corpora
+<lb ed="#P" n="2"/>nostra, et per modum efficientis, et per 
+mo<lb break="no" ed="#P" n="3"/>dum objecti; non est tamen necesse ut 
+sem<lb break="no" ed="#P" n="4"/>per per actionem corporis influat in corpora,
+<lb ed="#P" n="5"/>et per actionem animae in animas, nam etiam
+<lb ed="#P" n="6"/>per actionem corporis potest influere in 
+ani<lb break="no" ed="#P" n="7"/>mam, ei per actum anime in corpus ; quod
+<lb ed="#P" n="8"/>quidem de influxu morali manifestum est,
+<lb ed="#P" n="9"/>nam per passionem corporis satisfecit, et 
+li<lb break="no" ed="#P" n="10"/>beravit animas a pomna, et per actus anime
+<lb ed="#P" n="11"/>meruit ipsis corporibus gloriam. De influxu
+<lb ed="#P" n="12"/>vero physico dicetur infra, q. 13, et hae 
+vi<lb break="no" ed="#P" n="13"/>dentur sufficere ad hujus articuli 
+expositio<lb break="no" ed="#P" n="14"/>nem.
+</p>
+            </div>
+            <div xml:id="szstco-k56590-Dd1e408"><!--sua-p3-q8a3-->
+               <head xml:id="szstco-k56590-Hd1e411">Articulus 3</head>
+               <p xml:id="szstco-k56590-d1e413">
+                  <lb ed="#P" n="22" type="fixed=641"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k56590-d1e418">
+                  <lb ed="#P" n="23"/>1. Distinguit D. Thomas omnes homines
+<lb ed="#P" n="24"/>qui a principio mundi usque ad finem futuri
+<lb ed="#P" n="25"/>sunt, in tres ordines, beatorum, viatorum et
+<lb ed="#P" n="26"/>damnatorum.
+</p>
+               <p xml:id="szstco-k56590-d1e429">
+                  <lb ed="#P" n="27"/>9. Christus est capul beatorum et viatorum
+<lb ed="#P" n="28"/>omniwn. -— Objectio.— Responsio.— Objectio.
+<lb ed="#P" n="29"/>— Responsio. — Et respondet Christum esse
+<lb ed="#P" n="30"/>caput beatorum et viatorum omnium , in 
+quo<lb break="no" ed="#P" n="31"/>cumque statu sint , non tamen damnatorum.
+<lb ed="#P" n="32"/>Cajetanus beatorum nomine comprehendi 
+pu<lb break="no" ed="#P" n="33"/>tat antiquos Patres, qui in sinu Abrahe 
+exis<lb break="no" ed="#P" n="34"/>tebant. Sed melius eos intelligimus sub 
+no<lb break="no" ed="#P" n="35"/>mine viatorum, quia per fidem adhuc 
+ambu<lb break="no" ed="#P" n="36"/>labant,et temporalem poenam damni, seu 
+ca<lb break="no" ed="#P" n="37"/>rentiam visionis Dei, saltem propter culpam
+<lb ed="#P" n="38"/>totius nature sustinebant ; etin eodem ordine
+<lb ed="#P" n="39"/>comprehenduntur sine ullo dubio anime 
+pur<lb break="no" ed="#P" n="40"/>gatorii, et ómnes qui in hac vita mortali 
+vi<lb break="no" ed="#P" n="41"/>vunt, sive sint praedestinali, sive reprobi,
+<lb ed="#P" n="42"/>sive justi, sive injusti, fideles vel infideles ;
+<lb ed="#P" n="43"/>omnes enim, dum hic vivunt, possunt salvari,
+<lb ed="#P" n="44"/>et Christi influxum suscipere. Dices : qui
+<lb ed="#P" n="45"/>fide carent non sunt membra, sunl enim bis
+<lb ed="#P" n="46"/>mortui, ut Judas dicit in sua Canonica, quia
+<lb ed="#P" n="47"/>neque spiritualem vitam, neque aliquem 
+il<lb break="no" ed="#P" n="48"/>lius motum participant. Dicetur fortasse haec
+<lb ed="#P" n="49"/>esse membra in potentia, sicut ea, quae fidem
+<lb ed="#P" n="50"/>habent, etnon charitatem, sunt membra 
+mor<lb break="no" ed="#P" n="51"/>tua actu, viva autem in potentia. Sed contra,
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="52"/>ergo Christus erit caput illorum in potentia,
+<lb ed="#P" n="53"/>non in actu. Respondetur negando 
+conse<lb break="no" ed="#P" n="54"/>quentiam, duo enim in capite considerari
+<lb ed="#P" n="55"/>possunt: aliud est ipsum esse capitis, aliud
+<lb ed="#P" n="56"/>est actualis unio membrorum ad ipsum. 
+Chri<lb break="no" ed="#P" n="57"/>stus igitur actu habet quidquid ad esse seu
+<lb ed="#P" n="58"/>constitutionem capitis pertinet, et de se 
+po<lb break="no" ed="#P" n="59"/>tens est ad influendum in omnia membra, et
+<lb ed="#P" n="60"/>sine ulla sui mutatione omnibus uniri potest,
+<lb ed="#P" n="61"/>si ipsa illi conjungi velint; interdum etiam
+<lb ed="#P" n="62"/>habet aliquam influentiam in eos qui tantum
+<lb ed="#P" n="63"/>sunt membra in potentia, in mittendo aliquas
+<lb ed="#P" n="64"/>illustrationes, seu inspirationes, ut eos 
+paula<lb break="no" ed="#P" n="65"/>tim ad suam fidem et amorem trahat; est
+<lb ed="#P" n="66"/>enim hoc caput ita efficax, ut possit agere in
+<lb ed="#P" n="67"/>membrum separatum, seu in potentia tantum,
+<lb ed="#P" n="68"/>ut illud sibi tandem conjungat.
+</p>
+               <p xml:id="szstco-k56590-d1e525">
+                  <lb ed="#P" n="69"/>3. Christus non est. caput damnatorum. —
+<lb ed="#P" n="70"/>Objtctio. — Responsio.—In tertio ordine 
+con<lb break="no" ed="#P" n="71"/>stituuntur damnati, et in eo 
+comprehendun<lb break="no" ed="#P" n="72"/>tur, tam illi qui propter actuale, quam qui
+<lb ed="#P" n="73"/>propter solum originale peccatum a regno
+<lb ed="#P" n="74"/>ceelorum exclusi sunt, et horum omnium 
+ne<lb break="no" ed="#P" n="75"/>gatur Christum esse caput, quia nullum 
+gra<lb break="no" ed="#P" n="76"/>tie influxum illis tribuit, neque illi sunt in
+<lb ed="#P" n="77"/>statu quo possint illum participare, quia pro
+<lb ed="#P" n="78"/>illis, ut in eo statu existentibus, Christus nec
+<lb ed="#P" n="79"/>sua merita, nec satisfactionem obtulit. Dices :
+<lb ed="#P" n="80"/>damnati in inferno puniuntur citra 
+condi<lb break="no" ed="#P" n="81"/>gnum; sed hoc beneficium confertur illis
+<lb ed="#P" n="82"/>propter Christi merita ; ergo jam sentiunt 
+ali<lb break="no" ed="#P" n="83"/>quem influxum a Christo. Pueri etiam qui in
+<lb ed="#P" n="84"/>solo originali mortui sunt, recipiuntaliquando
+<lb ed="#P" n="85"/>(ut credibile est) aliquam Dei cognitionem et
+<lb ed="#P" n="86"/>amorem, et aliquem modum felicitatis ; sed
+<lb ed="#P" n="87"/>hoc totum non immerito in Christum revocari
+<lb ed="#P" n="88"/>potest. Respondetur, hos omnes nullum 
+be<lb break="no" ed="#P" n="89"/>neficium sentire aut recipere ex meritis 
+Chri<lb break="no" ed="#P" n="90"/>sti perfectum, quia meritum Christi non 
+com<lb break="no" ed="#P" n="91"/>municatur alicui nisi per fidem, vel saltem 
+re<lb break="no" ed="#P" n="92"/>mote propter dispositionem aliquam ad fidem
+<lb ed="#P" n="93"/>obtinendam ordinatam, quai omnia tandem
+<lb ed="#P" n="94"/>ad charitatem et gloriam consequendam 
+re<lb break="no" ed="#P" n="95"/>feruntur; isti autem omnes sunt jam 
+incapa<lb break="no" ed="#P" n="96"/>ces fidei, et aliorum supernaturalium 
+bono<lb break="no" ed="#P" n="97"/>rum qua in illa fundantur, vel per eam 
+obti<lb break="no" ed="#P" n="98"/>nentur; illa ergo, si qua est, remissior pcena
+<lb ed="#P" n="99"/>in damnatis, non est ex meritis Christi, sed
+<lb ed="#P" n="100"/>ex quadam generali providentia, et 
+benigni<lb break="no" ed="#P" n="101"/>tate Dei; et simili modo, si bonum aliquod
+<lb ed="#P" n="102"/>conferendum est iis qui in solo originali 
+de<lb break="no" ed="#P" n="103"/>cedunt, illud solum erit naturalis ordinis, et
+<lb ed="#P" n="104"/>ad generalem providentiam pertinebit.
+</p>
+               <p xml:id="szstco-k56590-d1e607">
+                  <lb ed="#P" n="105"/>4. Reliqua, quae hoc loco a D. Thoma 
+in<lb break="no" ed="#P" n="106"/>sinuantur de membris Christi et Ecclesise,
+<pb ed="#P" n="642"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>qua sint, ef per quid constituantur, non sunt
+<lb ed="#P" n="2"/>hic disputanda, cum ad materiam de Ecclesia
+<lb ed="#P" n="3"/>pertineant, de qua in 2. 2, q. 1, disserendum
+<lb ed="#P" n="4"/>est.
+</p>
+            </div>
+            <div xml:id="szstco-k56590-Dd1e629"><!--sua-p3-q8a4-->
+               <head xml:id="szstco-k56590-Hd1e632">Articulus 4</head>
+               <p xml:id="szstco-k56590-d1e634">
+                  <lb ed="#P" n="92" type="fixed=642"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k56590-d1e639">
+                  <lb ed="#P" n="93"/>Affirmat D. Thom. et tota littera perspicua
+<lb ed="#P" n="94"/>est. Solum adverto, si doctrina hujus articuli
+<lb ed="#P" n="95"/>cum doctrina articuli primi conferatur, satis
+<pb ed="#P" n="643"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>ex mente D. Thom. constare Christum habere
+<lb ed="#P" n="2"/>influentiam gratiae in Angelos, nihil enim
+<lb ed="#P" n="3"/>aliud hic facit, quam respectu Augelorum 
+ap<lb break="no" ed="#P" n="4"/>plieare Christo tres conditiones capitis, quas
+<lb ed="#P" n="5"/>art. 1 posuerat. Cum ergo hic concludit de
+<lb ed="#P" n="6"/>influentia Christi, non tantum homines, sed
+<lb ed="#P" n="7"/>etiam Angelos recipere, nisi valde ambigue
+<lb ed="#P" n="8"/>et aequivoce loquatur, de influentia gratie
+<lb ed="#P" n="9"/>eum loqui necesse est. Ne vera quis existimet
+<lb ed="#P" n="10"/>eum locutum esse de influentia pertinente ad
+<lb ed="#P" n="11"/>ordinem gratiae , non tamen de primaria 
+in<lb break="no" ed="#P" n="12"/>fluentia ipsius gratiae, sed de secundaria 
+ali<lb break="no" ed="#P" n="13"/>cujus accidentalis perfectionis, hoc excludit
+<lb ed="#P" n="14"/>D. Thomas solutione ad primum, ubi, ut 
+os<lb break="no" ed="#P" n="15"/>tendat Christum secundum humanam 
+natu<lb break="no" ed="#P" n="16"/>ram esse caput Angelorum, etiamsi natura
+<lb ed="#P" n="17"/>humana corporea sit, inquit primariam 
+in<lb break="no" ed="#P" n="18"/>fluentiam hujus capitis super homines esse
+<lb ed="#P" n="19"/>quantum ad animas, in quibus sunt aliquo
+<lb ed="#P" n="20"/>modo similes Angelis, et ideo posse Christum
+<lb ed="#P" n="21"/>eamdem influentiam in illos habere, atque
+<lb ed="#P" n="22"/>adeo esse illorum caput; certum autem est
+<lb ed="#P" n="23"/>illam influentiam principalem, quam habet
+<lb ed="#P" n="24"/>Christus super homines quantum ad animas,
+<lb ed="#P" n="25"/>esse ipsius gratiae influxum seu donationem. Et
+<lb ed="#P" n="26"/>hee quantum attinet ad mentem D. Thom.;
+<lb ed="#P" n="27"/>nam de re ipsa non est animus disputandi
+<lb ed="#P" n="28"/>usque ad q. 19, ubi de Christi merito 
+agen<lb break="no" ed="#P" n="29"/>dum est.
+</p>
+            </div>
+            <div xml:id="szstco-k56590-Dd1e716"><!--sua-p3-q8a5-->
+               <head xml:id="szstco-k56590-Hd1e719">Articulus 5</head>
+               <p xml:id="szstco-k56590-d1e721">
+                  <lb ed="#P" n="31" type="fixed=644"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k56590-d1e726">
+                  <lb ed="#P" n="32"/>Peccatum originale proprie non fuit in 
+Ada<lb break="no" ed="#P" n="33"/>mo, sed in filiis. — Affirmat D. Thomas, quia
+<lb ed="#P" n="34"/>eadem est forma qua agens in se perficitur, et
+<lb ed="#P" n="35"/>agit in alios; et littera corporis articuli clara
+<lb ed="#P" n="36"/>est. Solum argumentum primum cum 
+solutio<lb break="no" ed="#P" n="37"/>ne indiget aliqua explicatione. Est ergo 
+argu<lb break="no" ed="#P" n="38"/>mentum, quia in Adamo aliud est peccatum
+<lb ed="#P" n="39"/>actuale ipsiusAde, aliud peccatum originale,
+<lb ed="#P" n="40"/>quod traduxit in posteros; ergo et in Christo
+<lb ed="#P" n="41"/>alia est gratia capitis, et alia gratia persone.
+<lb ed="#P" n="42"/>Respondet D. Thom. negando consequentiam.
+<lb ed="#P" n="43"/>Sed inantecedenti adverto peccatum originale
+<lb ed="#P" n="44"/>proprie non fuisse in Adamo, sed in filiis, ad
+<lb ed="#P" n="45"/>quos peccatum primi parentis per originem
+<lb ed="#P" n="46"/>derivatur ;et hoc modo sicut distinguitur 
+pec<lb break="no" ed="#P" n="47"/>catum originale a personali Ads, ita 
+distin<lb break="no" ed="#P" n="48"/>guitur justitia baptismalis seu Christiana, quo
+<lb ed="#P" n="49"/>per Christum ad nos derivatur, a propria 
+gra<lb break="no" ed="#P" n="50"/>tia et justitia, quae est in ipso Christo capite ;
+<lb ed="#P" n="51"/>sed non hoc sensu procedebat argumentum ;
+<lb ed="#P" n="52"/>quanquam enim in Adamo non fuerit 
+pecca<lb break="no" ed="#P" n="53"/>tum originale, id est, per originem contrac-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="54"/>tum, fuit tamen peccatum quasi habituale,
+<lb ed="#P" n="55"/>cul simile est originale peccatum, quod nos
+<lb ed="#P" n="56"/>ab illo trahimus, et hoc vocavit D. Thom.
+<lb ed="#P" n="57"/>peccatum originale in Adamo; quod tamen
+<lb ed="#P" n="58"/>etiam dici potest personale, quia per actum
+<lb ed="#P" n="59"/>proprium ipsius persone fuit contractum, et
+<lb ed="#P" n="60"/>ita in hoc proportionaliter convenit cum 
+gra<lb break="no" ed="#P" n="61"/>tia Christi ; quia sicut gratia capitalis in 
+Chri<lb break="no" ed="#P" n="62"/>slo necessario est etiam personalis, ita 
+pec<lb break="no" ed="#P" n="63"/>catum illud simul et capitale fuit et personale;
+<lb ed="#P" n="64"/>lamen D. Thomas ipsum actuale peccatum
+<lb ed="#P" n="65"/>Ade videtur proprie vocare personale, ei hoc
+<lb ed="#P" n="66"/>distinguit ab ipso habituali peccato, et hoc
+<lb ed="#P" n="67"/>modo constituit differentiam inter Adamum
+<lb ed="#P" n="68"/>et Christum, quod in Adamo peccatum ipsum
+<lb ed="#P" n="69"/>habituale, quod fuit veluti totius nature 
+de<lb break="no" ed="#P" n="70"/>ordinatio, ortum est ex peccato actuali, et ita
+<lb ed="#P" n="71"/>corrupla est natura per actionem persone;
+<lb ed="#P" n="72"/>natura vero sic corrupta communicatur filiis
+<lb ed="#P" n="73"/>Ade,et cum natura communicatur etiam 
+cul<lb break="no" ed="#P" n="74"/>pa; et hoc modo distinguitur in Adamo 
+pec<lb break="no" ed="#P" n="75"/>catum nature a peccato persona ; at vero in
+<lb ed="#P" n="76"/>Christo gratia communicatur humans nature
+<lb ed="#P" n="77"/>assumpte, non per aliquam actionem ipsius
+<lb ed="#P" n="78"/>nature, sed immediate a Deo propter 
+digni<lb break="no" ed="#P" n="79"/>tatem persone ; ipse vero Christus 
+communi<lb break="no" ed="#P" n="80"/>cat nobis gratiam, non per actionem seu 
+com<lb break="no" ed="#P" n="81"/>municationem nature, sed per propriam 
+per<lb break="no" ed="#P" n="82"/>sonalem actionem suam ; et ideo iu eo non
+<lb ed="#P" n="83"/>distinguitur personalis gratia a capilali. 
+Po<lb break="no" ed="#P" n="84"/>test etiam alia differentia inter Adamum et
+<lb ed="#P" n="85"/>Christum excogitari, quia in Adamo solum
+<lb ed="#P" n="86"/>unum peccatuin, scilicet, esus cibi prohibiti,
+<lb ed="#P" n="87"/>fuit, ut ita dicam, capitale; alia vero, si que
+<lb ed="#P" n="88"/>commisit, fuerunt tantum personalia ; at vero
+<lb ed="#P" n="89"/>in Christo omnis gratia personalis fuit etiam
+<lb ed="#P" n="90"/>capitalis, et omne opus ab illa procedens fuit
+<lb ed="#P" n="91"/>non solum in se bonum, sed etiam utile ac
+<lb ed="#P" n="92"/>meritorium aliis, quo sensu dici potest omne
+<lb ed="#P" n="93"/>opus Christi fuisse opus capitis. Ratio vero
+<lb ed="#P" n="94"/>hujus differentie est, quia Christus per se
+<lb ed="#P" n="95"/>propter excellentiam persone sus est caput
+<lb ed="#P" n="96"/>hominum, et ideo omnis gratia illius est 
+gra<lb break="no" ed="#P" n="97"/>lia capitis, quia est diffusiva sus virtutis ad
+<lb ed="#P" n="98"/>alios. Et similiter omnis actio illius est 
+suffi<lb break="no" ed="#P" n="99"/>ciens ad perficiendum alios; at vero Adain
+<lb ed="#P" n="100"/>non habuit ex intrinseca suce persone 
+con<lb break="no" ed="#P" n="101"/>ditione, ut peccatum ejus esset peccatum 
+to<lb break="no" ed="#P" n="102"/>tius nature, sed quatenus ex peculiari lege et
+<lb ed="#P" n="103"/>pacto Dei acceperat illud peculiare 
+praece<lb break="no" ed="#P" n="104"/>ptum veluti nomine totius nature, et 
+tan<lb break="no" ed="#P" n="105"/>quam principium totam illam in se continens,
+<lb ed="#P" n="106"/>et ideo illa transgressio fuit, ut ita dicam, 
+ca<lb break="no" ed="#P" n="107"/>pitalis, non tamen omnis alia. Reliqua 
+argu<lb break="no" ed="#P" n="108"/>menta clara sunt.
+</p>
+            </div>
+            <div xml:id="szstco-k56590-Dd1e899"><!--sua-p3-q8a6-->
+               <head xml:id="szstco-k56590-Hd1e902">Articulus 6</head>
+               <p xml:id="szstco-k56590-d1e904">
+                  <pb ed="#P" n="646"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1" type="fixed=646"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k56590-d1e913">
+                  <lb ed="#P" n="2"/>1. Titulus articuli. — Hoc quaestio, ut ex
+<lb ed="#P" n="3"/>superioribus constat, solum movetur de 
+in<lb break="no" ed="#P" n="4"/>fluentia capitis, nam de duabus aliis 
+condi<lb break="no" ed="#P" n="5"/>tionibus, satis ex superioribus constat inventas
+<lb ed="#P" n="6"/>esse in Christo, proprio quodam et singulari
+<lb ed="#P" n="7"/>modo : et ita D. Thomas in hoc articulo solum
+<lb ed="#P" n="8"/>de influentia respondet.
+</p>
+               <p xml:id="szstco-k56590-d1e931">
+                  <lb ed="#P" n="9"/>9. Responsio. — Dicitur igitur internam 
+gra<lb break="no" ed="#P" n="10"/>tie influentiam esse propriam Christi capitis;
+<lb ed="#P" n="11"/>externam vero, qua est per gubernationem
+<lb ed="#P" n="12"/>seu jurisdictionem , interdum communicari
+<lb ed="#P" n="13"/>aliis secundum quamdam capitis 
+participatio<lb break="no" ed="#P" n="14"/>nem. Qua distinctio difficultate non caret;
+<lb ed="#P" n="15"/>nam, si est sermo de influxu externo 
+ejus<lb break="no" ed="#P" n="16"/>dem perfectionis et excellentie cum influxu
+<lb ed="#P" n="17"/>ipsius Christi, hoc modo nullus habet 
+influ<lb break="no" ed="#P" n="18"/>xum capitis, nisi Christus ; si vero sit sermo
+<lb ed="#P" n="19"/>de influxu participato, et dependente a 
+Chris<lb break="no" ed="#P" n="20"/>to, sic etiam internus influxus gratiae 
+commu<lb break="no" ed="#P" n="21"/>nicatur aliis; nam remissio peccatorum ad
+<lb ed="#P" n="22"/>hune influxum pertinet, et haec sacerdotibus
+<lb ed="#P" n="23"/>communicatur. Respondetur primo, 
+sermo<lb break="no" ed="#P" n="24"/>nem D. Thom: esse praecipue de influxu 
+gra<lb break="no" ed="#P" n="25"/>tie, qui est per modum meriti et 
+redemptio<lb break="no" ed="#P" n="26"/>nis ; hic enim est qui proprie convenit in 
+Chri<lb break="no" ed="#P" n="27"/>stum, ut est caput Ecclesie, et hic non 
+com<lb break="no" ed="#P" n="28"/>municatur aliis, qui aliquam rationem capitis
+<lb ed="#P" n="29"/>participant. Deinde potestas regendi 
+Eccle<lb break="no" ed="#P" n="30"/>siam, quie communicaturaliis, qui aliquo 
+mo<lb break="no" ed="#P" n="31"/>do sunt capita, licet sit inferior potestate 
+Chri<lb break="no" ed="#P" n="32"/>sti, ef ab illa manans, tamen, in suo genere,
+<lb ed="#P" n="33"/>est propria et quasi principalis, sicut potestas
+<lb ed="#P" n="34"/>aut virtus causae secunde, vel sicut potestas
+<lb ed="#P" n="35"/>regia et dominativa, est in suo ordine propria
+<lb ed="#P" n="36"/>et principalis, quamvis a Deo derivetur; et
+<lb ed="#P" n="37"/>ideo per hanc potestatem vere constituuntur
+<lb ed="#P" n="38"/>Pastores Ecclesie, superiores, et veluti capita
+<lb ed="#P" n="39"/>in suo genere, quoad hunc influxum 
+exter<lb break="no" ed="#P" n="40"/>num; at vero potestas influendi gratiam vel
+<lb ed="#P" n="41"/>dandiremissionem peccati, omnino est quasi
+<lb ed="#P" n="42"/>instrumentaria, et ideo non censetur proprie
+<lb ed="#P" n="43"/>exerceri a ministro ut capite, sed ut ab 
+in<lb break="no" ed="#P" n="44"/>strumento ipsius capitis ; Christus vero habet.
+<lb ed="#P" n="45"/>potestatem hanc tanquam caput, quia, licet
+<lb ed="#P" n="46"/>ejus humanitas non possit gratiam eflicere 
+ni<lb break="no" ed="#P" n="47"/>si ut instrumentum Verbi, tamen nihilominus
+<lb ed="#P" n="48"/>hoe illi est debitum ratione sus excellentis
+<lb ed="#P" n="49"/>personalis, et propter suum infinitum 
+meri<lb break="no" ed="#P" n="50"/>tum; et ideo est veluti causa principalis 
+hu<lb break="no" ed="#P" n="51"/>jus influxus, ut quaestione 13 explicabitur.
+</p>
+            </div>
+            <div xml:id="szstco-k56590-Dd1e1028"><!--sua-p3-q8a6-d23-->
+               <head xml:id="szstco-k56590-Hd1e1031">Disputatio 23</head>
+               <head xml:id="szstco-k56590-Hd1e1033">De dignitate et gratia capitis, quae est in Christo</head>
+               <p xml:id="szstco-k56590-d1e1035">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="52" type="fixed=646"/>DISPUTATIO XXIII.
+<lb ed="#P" n="53"/>DE DIGNITATE ET GRATIA CAPITIS, QUAE EST IN
+<lb ed="#P" n="54"/>CHRISTO.
+</p>
+               <p xml:id="szstco-k56590-d1e1046">
+                  <lb ed="#P" n="55"/>Si hoc loco tractanda essent omnia quie sub
+<lb ed="#P" n="56"/>hac metaphora capitis comprehendi possunt,
+<lb ed="#P" n="57"/>oporteret quaestiones multas, quas D. Thom.
+<lb ed="#P" n="58"/>insequentibus tractat, huc revocare ; quia (ut
+<lb ed="#P" n="59"/>diximus) hoc nomine praecipue indicatur 
+po<lb break="no" ed="#P" n="60"/>testas Superioris ad influendum in omnes
+<lb ed="#P" n="61"/>eos qui sunt veluti partes ejusdem corporis
+<lb ed="#P" n="62"/>mystici seu politie1; unde in praesenti materia
+<lb ed="#P" n="63"/>ad dignitatem capitis Christi pertinere potest
+<lb ed="#P" n="64"/>potestas ferendi leges, condendi Ecclesiam, 
+il<lb break="no" ed="#P" n="65"/>luminandi, sanctificandi, etc. Et ita sub 
+digni<lb break="no" ed="#P" n="66"/>tate capitis continetur non tantum dignitas
+<lb ed="#P" n="67"/>Redemptoris et Sanctificatoris, sed etiam 
+di<lb break="no" ed="#P" n="68"/>gnitas Sacerdotis summi, regis, legislatoris,
+<lb ed="#P" n="69"/>Doctoris, et si qui sunt ali:e similes. Hoc 
+ve<lb break="no" ed="#P" n="70"/>ro loco non agimus de dignitate capitis Christi
+<lb ed="#P" n="71"/>sub tota hac amplitudine, sed solum in 
+ratio<lb break="no" ed="#P" n="72"/>ne Sanetificatoris, seu Justificatoris, quia 
+so<lb break="no" ed="#P" n="73"/>lum agimus de hac dignitate in ordine ad
+<lb ed="#P" n="74"/>gratiam Christi explicandam. Quia vero haec
+<lb ed="#P" n="75"/>quaestio hoc sensu explicata omnino pendet
+<lb ed="#P" n="76"/>ex cognitione meritorum Christi, ideo , ne
+<lb ed="#P" n="77"/>materias confundamus, brevissime illam 
+ex<lb break="no" ed="#P" n="78"/>pediemus, duo tantum explicando, scilicet,
+<lb ed="#P" n="79"/>hane dignitatem convenire Christo respectu
+<lb ed="#P" n="80"/>omnium creaturarum, eo modo quo ille sunt
+<lb ed="#P" n="81"/>capaces effectus hujus potestatis, et quae sit
+<lb ed="#P" n="82"/>gratia quae Christo ut capiti conveniat.
+</p>
+               <div xml:id="szstco-k56590-Dd1e1109">
+                  <head xml:id="szstco-k56590-Hd1e1111">Sectio 1</head>
+                  <head xml:id="szstco-k56590-Hd1e1113" type="question-title">Utrum Christus sit totius universi caput, praesertim
+        hominum et Angelorum</head>
+                  <p xml:id="szstco-k56590-d1e1116">
+                     <lb ed="#P" n="83" type="fixed=646"/>SECTIO I.
+<lb ed="#P" n="84"/>Utrum Christus sit totius universi caput, praesertim
+<lb ed="#P" n="85"/>hominum et Angelorum.
+</p>
+                  <p xml:id="szstco-k56590-d1e1125">
+                     <lb ed="#P" n="86"/>1. Sensus quaestionis est de Christo 
+homi<lb break="no" ed="#P" n="87"/>ne, ut homo est, seu secundum humanitatem
+<lb ed="#P" n="88"/>specificative, ut aiunt, id est, an inipsa 
+huma<lb break="no" ed="#P" n="89"/>nitaie habeat hanc dignitatem, et per eam
+<lb ed="#P" n="90"/>munus capitis exerceat; de qua tres 
+senteu<lb break="no" ed="#P" n="91"/>tie referri possunt. Prima affirmat Christum
+<lb ed="#P" n="92"/>esse caput. hominum tantum, non 
+Angelo<lb break="no" ed="#P" n="93"/>rum, nec aliarum creaturarum. Ita Altisiod.,
+<lb ed="#P" n="94"/>lib. 3 Sum., tract. 4, e. 4, q. 2 ; Gabriel 
+indi<lb break="no" ed="#P" n="95"/>cat in 3, dist. 13, art. 3, dub. 2, ubi dicit
+<lb ed="#P" n="96"/>Christum ut hominem non esse caput 
+Ange<lb break="no" ed="#P" n="97"/>lorum, nisi quoad excellentiam.et 
+perfectio<lb break="no" ed="#P" n="98"/>nem gratie. Idem tenet Driedo, tract. 2, de
+<lb ed="#P" n="99"/>Captiv. et redemp. gen. human., c. 2, p. 3,
+<lb ed="#P" n="100"/>art. 5, prop. 4, fol. 514 ; Soto, in 4, dist. 49, -
+<lb ed="#P" n="101"/>q. 4, art. 2, in fine, cui sententic videntur fa-
+<pb ed="#P" n="647"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>vere multi Patres, qui, ubieumque Paulus 
+di<lb break="no" ed="#P" n="2"/>cit Christum esse caput hominum et 
+Angelo<lb break="no" ed="#P" n="3"/>rum, explicant hominum esse caput 
+secun<lb break="no" ed="#P" n="4"/>dum humanitatem, Angelorum vero 
+secun<lb break="no" ed="#P" n="5"/>dum divinitatem, quos infra adducam. 
+Fun<lb break="no" ed="#P" n="6"/>damentum vero hujus sententie potest esse
+<lb ed="#P" n="7"/>duplex. Primum, quia Christus, ut homo, non
+<lb ed="#P" n="8"/>est ejusdem nature cum Angelis; caput 
+au<lb break="no" ed="#P" n="9"/>iem debet esse homogeneum. Secundum ,
+<lb ed="#P" n="10"/>quia Christus non meruit gratiam Angelis. 
+Se<lb break="no" ed="#P" n="11"/>cunda sententia est, Christum esse caput 
+om<lb break="no" ed="#P" n="12"/>nium hominum et Angelorum, quia in omnes
+<lb ed="#P" n="13"/>potest influere gratiam vel supernaturale 
+ali<lb break="no" ed="#P" n="14"/>quod donum, non vero aliarum creaturarum,
+<lb ed="#P" n="15"/>quia ille non sunt capaces hujus influxus.
+<lb ed="#P" n="16"/>Hac videtur esse D. Thome sententia in his
+<lb ed="#P" n="17"/>articulis, nam primam illius partem aperte 
+do<lb break="no" ed="#P" n="18"/>cet, secundam vero satis indicat, art. 2, ad 9.
+<lb ed="#P" n="19"/>Idem Alexand. Alens., 3 p., q. 12, m. 2, art.
+<lb ed="#P" n="20"/>1; et alii Doctores, in 3, dist. 13; Richard.,
+<lb ed="#P" n="21"/>art. 2, q. 3; Palud., q. 4, art. 3; Durand., q.
+<lb ed="#P" n="22"/>2; Turrecrem., lib. 1 Sum. Eoccles., cap. 45
+<lb ed="#P" n="23"/>et sequentibus. Tertia sententia est, Christum
+<lb ed="#P" n="24"/>esse caput non solum hominum et Angelorum,
+<lb ed="#P" n="25"/>sed etiam creaturarum omnium. Hanc late
+<lb ed="#P" n="26"/>iraetat Galat., lib. 7 de Arcanis cathol. verit.,
+<lb ed="#P" n="27"/>c. 9 et sequent. ; et Catherin., lib. de Eximia
+<lb ed="#P" n="28"/>Christi praedest., quibus favere videtur Orig.,
+<lb ed="#P" n="29"/>hom. 2 in Ps. 36, col. 2, dicens: Christus 
+cu<lb break="no" ed="#P" n="30"/>jus omne hominum genus, imo fortasse totius
+<lb ed="#P" n="31"/>creature universitas corpus est, etc. Et 
+Hi<lb break="no" ed="#P" n="32"/>lar. , in lib. de $ynodis, ubi ex Conc. Sirm.
+<lb ed="#P" n="33"/>refert, Christum esse caput omnium, caput
+<lb ed="#P" n="34"/>autem Christi esse Deum. Quod necessario 
+vi<lb break="no" ed="#P" n="35"/>detur intelligendum de Christo homine, nam
+<lb ed="#P" n="36"/>Christus, ut Deus, licet habeat principium,
+<lb ed="#P" n="37"/>scilicet Patrem, non tamen potest dici caput
+<lb ed="#P" n="38"/>ejus, cum non sit quid perfectius.
+</p>
+                  <p xml:id="szstco-k56590-d1e1249">
+                     <lb ed="#P" n="39"/>9. Prima conclusio. — Objectio. — Solutio.
+<lb ed="#P" n="40"/>Hesse caput. Ecclesiae proprius accommodatur
+<lb ed="#P" n="41"/>Christo, guam esse cor illius.— Dieo primo,
+<lb ed="#P" n="42"/>Christum esse caput totius Eeclesie, qua ex
+<lb ed="#P" n="43"/>hominibus constat, sive in terra militantis ,
+<lb ed="#P" n="44"/>sive in ccelo regnantis. Haec conclusio est de
+<lb ed="#P" n="45"/>fide; probatur ex Paul., ad Ephes. 1 : 7psum
+<lb ed="#P" n="46"/>dedit cagué super omnem Ecclesiam, quae est
+<lb ed="#P" n="47"/>corpus ipsius. Ubi constat sermonem esse de
+<lb ed="#P" n="48"/>Christo homine ; premiltit enim : S'uscitans
+<lb ed="#P" n="49"/>eum a moriuis,et constituens ad dexteram suam
+<lb ed="#P" n="50"/>in calestibus , el. omnia subjecit sub pedibus
+<lb ed="#P" n="51"/>ejus ; Christus enim non ut Deus, sed ut homo
+<lb ed="#P" n="52"/>suscitatus est, et illi non tantum ut Deo (quod
+<lb ed="#P" n="53"/>jain per se habebat), sed etiam ut homini 
+om<lb break="no" ed="#P" n="54"/>nia subjecta sunt. Unde Anselm. non 
+incom<lb break="no" ed="#P" n="55"/>mode, ibi inquit significatam esse humanita-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>tem, quia sicut pes, inferior pars corporis
+<lb ed="#P" n="57"/>est, ita humanitas est inferior Christi natura.
+<lb ed="#P" n="58"/>Ac denique Ecclesia non dicitur corpus 
+Chri<lb break="no" ed="#P" n="59"/>sti ut Dei, sed ut hominis ; ergo similiter 
+Chri<lb break="no" ed="#P" n="60"/>stus est caput ejus, non tantum ut Deus, sed
+<lb ed="#P" n="61"/>ut homo; unde c. 4: Veritatem facientes ia
+<lb ed="#P" n="62"/>charitate, erescamus dn illo per omnia, qui est
+<lb ed="#P" n="63"/>caput Christus ; et c. 5: Vir caput est 
+au<lb break="no" ed="#P" n="64"/>Lieris, sicut. Christus caput est .Eoclesiee, ipse
+<lb ed="#P" n="65"/>S'aleator corporis ejus , etc. Et ita 
+interpre<lb break="no" ed="#P" n="66"/>tantur haecloca Chrysost., Hierony., Ambros.,
+<lb ed="#P" n="67"/>'"Theodoret., Theophyl., et alii Patres. Simile
+<lb ed="#P" n="68"/>est illud ad Colos. 1 : E pse est caput 
+corpo<lb break="no" ed="#P" n="69"/>vis Ecclesie, quem locum tractans Hilar., 8 de
+<lb ed="#P" n="70"/>Trinit., sub fine, inquit : O0 dispensationem
+<lb ed="#P" n="71"/>corporis mosiri ipse esi caput ; et idem. docet
+<lb ed="#P" n="72"/>Basil., lib. de Spiritu Sanet., c. 5; Auguslin.,
+<lb ed="#P" n="73"/>optime, prefatione ad 2 Enarrationem Psalm.
+<lb ed="#P" n="74"/>29, et ad Psalm. 139, et serm. 50 de Verbis
+<lb ed="#P" n="75"/>Dom., et epist. 50, in fine, et 57, in fine, ubi
+<lb ed="#P" n="76"/>ait , aliter habitare Deum in Christo ut in 
+ca<lb break="no" ed="#P" n="77"/>pite, et aliter in caeteris membris, et lib. 4 de
+<lb ed="#P" n="78"/>'Trinit., c. 19, dicit Christum secundum 
+for<lb break="no" ed="#P" n="79"/>mam servi esse caput Ecclesie. Ratio vero est
+<lb ed="#P" n="80"/>quam supra, circa art. 1 D. Thome, 
+explica<lb break="no" ed="#P" n="81"/>tam reliquimus. Et potest confirmari ex 
+Pau<lb break="no" ed="#P" n="82"/>lo, 4 ad Cor. 19, et aliis locis, ubi Ecclesiam
+<lb ed="#P" n="83"/>dicit esse unum corpus habens diversa 
+mem<lb break="no" ed="#P" n="84"/>bra, quorum diversa sunt munera seu 
+minis<lb break="no" ed="#P" n="85"/>teria; ergo oportet ut hoc corpus unum 
+ha<lb break="no" ed="#P" n="86"/>beat caput, non tantum quasi extrinsecum ,
+<lb ed="#P" n="87"/>quod est Deus, sed etiam veluti intrinsecum,
+<lb ed="#P" n="88"/>et quasi homogeneum ; hoc autem non potest
+<lb ed="#P" n="89"/>esse nisi Christus, qui inter omnia hujus 
+Ec<lb break="no" ed="#P" n="90"/>clesie membra eminet, et in omnia influit.
+<lb ed="#P" n="91"/>Dices: pari ratione posset dici cor Ecclesie,
+<lb ed="#P" n="92"/>quia etiam cor influit, et est membrum 
+prin<lb break="no" ed="#P" n="93"/>cipale. Respondetur: quanquam 
+concedere<lb break="no" ed="#P" n="94"/>tur totum, non esset magnum inconveniens;
+<lb ed="#P" n="95"/>negatur tamen consequentia cum D. Thoma
+<lb ed="#P" n="96"/>art. 1, ad 3, quia cordis influentia est occulta
+<lb ed="#P" n="97"/>et invisibilis, et ideo in Ecclesia potius 
+Spiri<lb break="no" ed="#P" n="98"/>iui Sancto accommodatur ; caputautem habet
+<lb ed="#P" n="99"/>eminentiam inter alia membra, et influentiam
+<lb ed="#P" n="100"/>magis visibilem ; et ideo hsc metaphora 
+ma<lb break="no" ed="#P" n="101"/>gis accommodatur Christo homini, qui in
+<lb ed="#P" n="102"/>natura assumpta est caput visibile. Sed 
+obji<lb break="no" ed="#P" n="103"/>cies, quia Christus, ut homo, non habuit 
+suf<lb break="no" ed="#P" n="104"/>ficientem vim ad intfluendum in alios; ergo
+<lb ed="#P" n="105"/>ut sic non potest esse caput. Antecedens 
+pa<lb break="no" ed="#P" n="106"/>let, tum quia alias omnes homines haberent
+<lb ed="#P" n="107"/>hane vim ; tum etiam quia sola humanitas
+<lb ed="#P" n="108"/>non potestesse principium tam perfecti 
+me<lb break="no" ed="#P" n="109"/>riti. Respondeturnon esse sermonem de 
+Chri<lb break="no" ed="#P" n="110"/>sto ut homine reduplicative, sed specificali-
+<pb ed="#P" n="648"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>ve. Unde non excluditur dignitas suppositi
+<lb ed="#P" n="2"/>divini, sed illa est veluti radix hujus 
+dignita<lb break="no" ed="#P" n="3"/>üis, quae in humanitate et per humanitatem
+<lb ed="#P" n="4"/>exercetur.
+</p>
+                  <p xml:id="szstco-k56590-d1e1424">
+                     <lb ed="#P" n="5"/>3. Christus solum in hac vita est caput 
+ve<lb break="no" ed="#P" n="6"/>proborum , perpetuo iamen pradestimatorum.
+<lb ed="#P" n="7"/>— Et ex hac conclusione infertur, Christum
+<lb ed="#P" n="8"/>esse caput omnium hominum, qui recipiunt,
+<lb ed="#P" n="9"/>vel possunt recipere influxum ejus , ut circa
+<lb ed="#P" n="10"/>art. 3 satis explicatum est; et quia omnes 
+ho<lb break="no" ed="#P" n="11"/>mines pro aliquo saltem tempore sunt in 
+sta<lb break="no" ed="#P" n="12"/>iu in quo possunt recipere hunc Christi 
+in<lb break="no" ed="#P" n="13"/>fluxum, ideo simpliciter omnium illorum 
+ca<lb break="no" ed="#P" n="14"/>put est; aliquorum quidem solum ad tempus,
+<lb ed="#P" n="15"/>quamdiu in hac vita degunt, scilicet 
+reprobo<lb break="no" ed="#P" n="16"/>rum; aliorum vero perpetuo, scilicet 
+praedes<lb break="no" ed="#P" n="17"/>tinatorum, quamvis ipsi non semper illi 
+eo<lb break="no" ed="#P" n="18"/>dem modo conjungantur; aliquando enim
+<lb ed="#P" n="19"/>sunt membra illius viva, aliquando mortua,
+<lb ed="#P" n="20"/>donec ad statum patrie perveniunt, ubi 
+per<lb break="no" ed="#P" n="21"/>fectissime illi conjunguntur.
+</p>
+                  <p xml:id="szstco-k56590-d1e1463">
+                     <lb ed="#P" n="22"/>4. Sed dubitari hic potest primo de 
+infan<lb break="no" ed="#P" n="23"/>tibus qui in uteris maternis moriuntur, quia
+<lb ed="#P" n="24"/>illi nunquam videntur esse membra Christi;
+<lb ed="#P" n="25"/>non enim postquam moriuntur, ut supra 
+dic<lb break="no" ed="#P" n="26"/>tum est, nec vero dum vivunt in utero 
+ma<lb break="no" ed="#P" n="27"/>terno, quia etiam ibi non possunt recipere
+<lb ed="#P" n="28"/>influxum a Christo capite. Hoc dubium tangit
+<lb ed="#P" n="29"/>gravem difficultatem, alienam vero ab hoc
+<lb ed="#P" n="30"/>loco, et in materia de baptismo vel de 
+prae<lb break="no" ed="#P" n="31"/>destinatione disputandam. Ideo breviter dico,
+<lb ed="#P" n="32"/>statim ac homo incipit vivere etiam in utero
+<lb ed="#P" n="33"/>materno, posse dici membrum Christi, quia,
+<lb ed="#P" n="34"/>per se loquendo, potest recipere influxum
+<lb ed="#P" n="35"/>ejus, quamvis per accidens interdum 
+impe<lb break="no" ed="#P" n="36"/>diatur; aliqui etiam in utero sanctificati sunt
+<lb ed="#P" n="37"/>per merita Christi, et aliqui etiam, praesertim
+<lb ed="#P" n="38"/>predestinati, recipiunt aliquod auxilium per
+<lb ed="#P" n="39"/>specialem providentiam, saltem mediis 
+pa<lb break="no" ed="#P" n="40"/>rentibus; hoc ergo satis est ut Christus vere
+<lb ed="#P" n="41"/>sit eorum caput.
+</p>
+                  <p xml:id="szstco-k56590-d1e1509">
+                     <lb ed="#P" n="42"/>9. Secundo, dubitari potest an Christus sit
+<lb ed="#P" n="43"/>vel fuerit caput Ade pro statu innocentic.
+<lb ed="#P" n="44"/>Nonnulli enim Thomistae negant; D. Thomas
+<lb ed="#P" n="45"/>auteni, art. 3, expresse dicit Christum esse
+<lb ed="#P" n="46"/>caput omnium hominum, accipiendo 
+genera<lb break="no" ed="#P" n="47"/>liter secundum totum tempus mundi; sub hoc
+<lb ed="#P" n="48"/>vero tempore includitur etiam Adam in statu
+<lb ed="#P" n="49"/>innocentis, et est expressa sententia 
+Augus<lb break="no" ed="#P" n="50"/>üni, cujus verba statim referam. Dico igitur
+<lb ed="#P" n="51"/>etiam in eo statu fuisse Adam membrum
+<lb ed="#P" n="52"/>Christi, quia tunc habuit fidem ejus, ut supra,
+<lb ed="#P" n="53"/>q. 1, art. 3, late ostendi.
+</p>
+                  <p xml:id="szstco-k56590-d1e1538">
+                     <lb ed="#P" n="54"/>6. Secunda conclusio.—Dico secundo : 
+Chri<lb break="no" ed="#P" n="55"/>sius ut homo etiam est caput Angelorum. Hanc
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>docent Theologi supra in opinione secunda
+<lb ed="#P" n="57"/>citati. Et probatur primo eisdem testimoniis
+<lb ed="#P" n="58"/>citatis ex Paulo, praesertim ad Eph. 1, ubi
+<lb ed="#P" n="59"/>dicit Christum esse constitutum caput super
+<lb ed="#P" n="60"/>omnem Ecclesiam ; ita enim legit nostra 
+Vul<lb break="no" ed="#P" n="61"/>gata Latina, et frequentius Latini expositores,
+<lb ed="#P" n="62"/>et Gregor. , hom. 7 in Ezech. Igitur si super
+<lb ed="#P" n="63"/>omnem Ecclesiam, ergo super angelicam et
+<lb ed="#P" n="64"/>humanam, vel super totam universalem 
+Ec<lb break="no" ed="#P" n="65"/>clesiam, ex Angelis et hominibus constantem,
+<lb ed="#P" n="66"/>ut manifeste ibi exponit Hieronymus. 
+Pre<lb break="no" ed="#P" n="67"/>terea, ad Colos. 2 : Z's£is, inquit, in àl/o repleti,
+<lb ed="#P" n="68"/>qui est caput omnis principatus et potestatis ,
+<lb ed="#P" n="69"/>etc.; aperte loquitur de Christo homine in
+<lb ed="#P" n="70"/>ulroque loco, ut in superioribus, praesertim
+<lb ed="#P" n="71"/>disp. 5, satis ostensum est. Tertio, est heec
+<lb ed="#P" n="72"/>communis sententia Patrum. ÁÀug., conc. 3
+<lb ed="#P" n="73"/>in Psal. 36, inquit : Caput nostrum Christus
+<lb ed="#P" n="74"/>est, corpus capitis illius mos sumus , numquid
+<lb ed="#P" n="75"/>solü nos? Et non etiam illi qui fuerunt aute
+<lb ed="#P" n="76"/>10s? Omnes qui ab initio seculi fuerunt justi,
+<lb ed="#P" n="77"/>adjunclis etiam legionibus et exercitibus 
+Ange<lb break="no" ed="#P" n="78"/>lorum, ut illa una civitas fiat sub uno Rege, et
+<lb ed="#P" n="79"/>wna provincia sub uno Imperatore; Hilar., Psal.
+<lb ed="#P" n="80"/>139, circa illa verba : Caput circuitus eorum -
+<lb ed="#P" n="81"/>Ul in, omnibus, inquit, Sanctis caput Christus
+<lb ed="#P" n="82"/>est, $n, omnibus iniquis caput diabolus est. Et
+<lb ed="#P" n="83"/>similia habet Aug. , in Expos. ejusdem 
+Psal<lb break="no" ed="#P" n="84"/>mi, circa illa verba : Qui cogitaverunt 
+sup<lb break="no" ed="#P" n="85"/>plantare gressus meos, etc. Unde potest sumi
+<lb ed="#P" n="86"/>confirmatio, nam demon, eo modo quo est
+<lb ed="#P" n="87"/>caput malorum , non tantum est caput 
+malo<lb break="no" ed="#P" n="88"/>rum Angelorum, sed etiam malorum 
+homi<lb break="no" ed="#P" n="89"/>num .; ergo multo magis Christus non tantum
+<lb ed="#P" n="90"/>est caput bonorum hominum, sed etiam 
+An<lb break="no" ed="#P" n="91"/>gelorum.
+</p>
+                  <p xml:id="szstco-k56590-d1e1625">
+                     <lb ed="#P" n="92"/>7. Ratio vero est, quia ex Angelis et 
+ho<lb break="no" ed="#P" n="93"/>minibus una Ecclesia, qu:e est veluti una 
+spi<lb break="no" ed="#P" n="94"/>ritualis respublica, constituitur ; sed huic 
+Ec<lb break="no" ed="#P" n="95"/>clesie toti Christus praeest, et poiestatem
+<lb ed="#P" n="96"/>habet super omnia membra illius; ergo est
+<lb ed="#P" n="97"/>caput omnium , tam Angelorum quam 
+homi<lb break="no" ed="#P" n="98"/>num. Major receptissima est, ut constat ex
+<lb ed="#P" n="99"/>Hieronymo supra, et August., in Ench., c. 56,
+<lb ed="#P" n="100"/>et collatione 3 contra Donat. Et in ejus 
+con<lb break="no" ed="#P" n="101"/>firmationem nonnulla congerit Turrian. , lib.
+<lb ed="#P" n="102"/>2 de Dogmat. caracter., non longe a 
+princi<lb break="no" ed="#P" n="103"/>pio, ubi adducit canonem Concilii Niceni
+<lb ed="#P" n="104"/>dicentis, unam esse Ecclesiam in ccelis et in
+<lb ed="#P" n="105"/>lerra. Hinc etiam Sancti frequenter dicunt,
+<lb ed="#P" n="106"/>homines assumptos esse ad sedes Angelorum
+<lb ed="#P" n="107"/>reparandas, utpote unum cum eis regnum,
+<lb ed="#P" n="108"/>unamque Ecclesiam componentes. Minor
+<lb ed="#P" n="109"/>etiam est certa, nam imprimis per sese ma--
+<lb ed="#P" n="110"/>xime decet ut unum politicum corpus unum
+<pb ed="#P" n="649"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>habeat caput a quo regatur, ut Augustinus
+<lb ed="#P" n="2"/>citatis verbis egregie declaravit ; et alia 
+simi<lb break="no" ed="#P" n="3"/>lia refert Turrianus supra, ex Theophane,
+<lb ed="#P" n="4"/>Episcopo Nyss. Denique est hoc maxime 
+de<lb break="no" ed="#P" n="5"/>bitum Christo Domino, et humanitati ejus,
+<lb ed="#P" n="6"/>tum ratione unionis, tum ratione infinitorum
+<lb ed="#P" n="7"/>meritorum. Tandem probatur ex ipso usu,
+<lb ed="#P" n="8"/>namimprimis Angeli obediunt Christo, et sunt
+<lb ed="#P" n="9"/>ministri ejus, unde in Evangelio legimus illi
+<lb ed="#P" n="10"/>ministrasse; et Paulus ait, omaes esse 
+admi<lb break="no" ed="#P" n="11"/>aisiratorios spiritus, propter eos quà 
+heredita<lb break="no" ed="#P" n="12"/>tem capiunt salutis; in hoc autem ministerio
+<lb ed="#P" n="13"/>Christo homini parent, qui est nostre salutis
+<lb ed="#P" n="14"/>auctor, et totius Ecclesie gubernator. Unde
+<lb ed="#P" n="15"/>D. Thomas infra, q. 56, art. 6, dicit Christum
+<lb ed="#P" n="16"/>judieaturum Angelos, sallem quoad ea que
+<lb ed="#P" n="17"/>pertinent ad gubernationem Ecclesise. Deinde
+<lb ed="#P" n="18"/>Christus homo illuminat Angelos, ut Theologi
+<lb ed="#P" n="19"/>fatentur cum Dion., 7 c. de Cel. hierar. 
+De<lb break="no" ed="#P" n="20"/>nique quod illis meruerit gratiam et gloriam,
+<lb ed="#P" n="21"/>et consequenter quod in illis habeat 
+perfec<lb break="no" ed="#P" n="22"/>tum influxum capitis in genere gratis, 
+osten<lb break="no" ed="#P" n="23"/>demus infra, q. 19.
+</p>
+                  <p xml:id="szstco-k56590-d1e1723">
+                     <lb ed="#P" n="24"/>8. Objectio. — Solutio. — Sed contra, nam
+<lb ed="#P" n="25"/>August., in Enchirid., c. 56, solum dicit 
+Chri<lb break="no" ed="#P" n="26"/>stum esse caput Ecclesie, quae est in 
+homi<lb break="no" ed="#P" n="27"/>nibus. Sed hoc difficultatem non habet, quia,
+<lb ed="#P" n="28"/>licet Augustinus ibi hoc tantum affirmaverit,
+<lb ed="#P" n="29"/>non tamen aliud negavit, quod aliis locis 
+ex<lb break="no" ed="#P" n="30"/>presse asseruit, ut vidimus. Major difficultas
+<lb ed="#P" n="31"/>est in Chrys., homil. 14, super ad Ephes. 1,
+<lb ed="#P" n="32"/>circa finem, quem Theophylact. sequitur, qui
+<lb ed="#P" n="33"/>exponunt Christum esse caput hominum et
+<lb ed="#P" n="34"/>Angelorum; hominum, secundum carnem,
+<lb ed="#P" n="35"/>Angelorum vero, ut est Deus Verbum. Unde
+<lb ed="#P" n="36"/>quod ibi dicit Paulus, Christum datum esse
+<lb ed="#P" n="37"/>caput super omnem Ecclesiam, intelligunt de
+<lb ed="#P" n="38"/>Ecclesia hominum , quie omnis Ecclesia 
+dici<lb break="no" ed="#P" n="39"/>tur, vel propier partiales Ecclesias, vel 
+pro<lb break="no" ed="#P" n="40"/>pter illam quae ex Gentibus et Judeis 
+congre<lb break="no" ed="#P" n="41"/>gatur. Quanquam alii non legant: Super 
+om<lb break="no" ed="#P" n="42"/>nem Ecclesiam, sed : Super omnia Ecclesie, id
+<lb ed="#P" n="43"/>est, super omnia Eeclesi:e membra ; vel certe
+<lb ed="#P" n="44"/>dieitur datus caput Eeclesie? super omnia, id
+<lb ed="#P" n="45"/>est, utomnibus bonis eam repleat, ut Anselm.
+<lb ed="#P" n="46"/>exponit. Denique quod ad Colos. 2 dicitur,
+<lb ed="#P" n="47"/>Christum esse caput principatuum, etc., de
+<lb ed="#P" n="48"/>Christo ut Deo ab eisdem Grecis exponitur.
+<lb ed="#P" n="49"/>Respondetur: propter hujusmodi testimonia
+<lb ed="#P" n="50"/>ei expositiones conclusio non est de fide, est
+<lb ed="#P" n="51"/>tamen multo probabilior propter ea quae 
+ad<lb break="no" ed="#P" n="52"/>duximus. Et fortasse Chrysostomus non 
+in<lb break="no" ed="#P" n="53"/>tendit negare , Christum esse caput 
+Angelo<lb break="no" ed="#P" n="54"/>rum in humanitate ipsa, sed assignat causam
+<lb ed="#P" n="55"/>propter quam est eorum caput, scilicet, quia
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>est Deus; hominum enim posset esse caput,
+<lb ed="#P" n="57"/>etiamsi tantum homo esset, quamvis non tam
+<lb ed="#P" n="58"/>perfecte et proprie sicut modo esl; respectu
+<lb ed="#P" n="59"/>vero Angelorum, cum natura humana sit 
+in<lb break="no" ed="#P" n="60"/>ferior illis , elevata est ad dignitatem capitis
+<lb ed="#P" n="61"/>solum ratione divine naturse, seu persone
+<lb ed="#P" n="62"/>infinite illi conjuncta.
+</p>
+                  <p xml:id="szstco-k56590-d1e1813">
+                     <lb ed="#P" n="63"/>9. Tertia conclusio. — Dico tertio : Christus
+<lb ed="#P" n="64"/>aliquo modo dici potest caput creaturarum
+<lb ed="#P" n="65"/>omnium, non vero eo modo quo Angelorum
+<lb ed="#P" n="66"/>et hominum. Prior pars declaratur breviter
+<lb ed="#P" n="67"/>ex illo ad Colos. 4 , ubi Christus dicitur, 
+Pi<lb break="no" ed="#P" n="68"/>4nogenitus omnis creature , quia dignitate et
+<lb ed="#P" n="69"/>propinquitate ad Deum antecedit omnes,
+<lb ed="#P" n="70"/>nam et in mente et voluntate Dei fuit primus
+<lb ed="#P" n="71"/>omnium, ut supra, q. 4, art. 3, ostendimus ;
+<lb ed="#P" n="72"/>et perfectione etiam ac dignitate primus est,
+<lb ed="#P" n="73"/>ut per se constat. Quod vero ad influentiam
+<lb ed="#P" n="74"/>altinet, quidam existimant Deum per 
+huma<lb break="no" ed="#P" n="75"/>nitatem Christi, et ob illius merita, influere in
+<lb ed="#P" n="76"/>res omnes ipsum esse et naturalem 
+perfec<lb break="no" ed="#P" n="77"/>tionem. Sed non est hoc verisimile, nec 
+pro<lb break="no" ed="#P" n="78"/>babili fundamento niti potest ; quia, si 
+intelli<lb break="no" ed="#P" n="79"/>gatur de influxu physico, non est cur 
+finga<lb break="no" ed="#P" n="80"/>mus Deum per humanitatem conservare res
+<lb ed="#P" n="81"/>omnes, aut ad omnium actiones concurrere,
+<lb ed="#P" n="82"/>quia hocnec pertinet ad dignitatem assumpti
+<lb ed="#P" n="83"/>humanitatis, nec est necessarium ad 
+manifes<lb break="no" ed="#P" n="84"/>tationem nominis Christi, ut dicetur q. 13. Si
+<lb ed="#P" n="85"/>vero sit sermo de influxu per modum meriti,
+<lb ed="#P" n="86"/>solum meruit quae ad sanctitatem vel 
+beatitu<lb break="no" ed="#P" n="87"/>dinem pertinent, aut conferunt; nam haec
+<lb ed="#P" n="88"/>sunt bona ad quae merita ordinantur, non ad
+<lb ed="#P" n="89"/>naturalia bona , ut talia sunt; unde Aug.,
+<lb ed="#P" n="90"/>epist. 105, circa med. : Meruit , inquit, nobis
+<lb ed="#P" n="91"/>Christus ut justi essemus, non ut homines vel
+<lb ed="#P" n="92"/>Liberi essemus.
+</p>
+                  <p xml:id="szstco-k56590-d1e1881">
+                     <lb ed="#P" n="93"/>10. Qua ratione dicitur Christus influere iu
+<lb ed="#P" n="94"/>ves omnes.— Solum ergo potest dici Christum
+<lb ed="#P" n="95"/>inffuere in res omnes, et omnium esse caput,
+<lb ed="#P" n="96"/>vel quatenus omnibus dominatur, et omnia
+<lb ed="#P" n="97"/>subjecta sunt sub pedibus ejus, ut Psalm. 8
+<lb ed="#P" n="98"/>dicitur, et de Christo exponitur a Paulo, ad
+<lb ed="#P" n="99"/>Ephes. 4, et ad Hebr. 2; et hoc modo dixit
+<lb ed="#P" n="100"/>Hier., ad Ephes., Christum esse caput etiam
+<lb ed="#P" n="101"/>daemonum, quia est illorum dominus et 
+prin<lb break="no" ed="#P" n="102"/>ceps, et illis potest imperare; vel quatenus
+<lb ed="#P" n="103"/>per Christi incarnationem res omnes 
+quam<lb break="no" ed="#P" n="104"/>dam dignitatem aut nobilitatem suscipiunt, ut
+<lb ed="#P" n="105"/>supra, q. 1, explicatum est; vel certe 
+quate<lb break="no" ed="#P" n="106"/>nus omnibus uti potest ad bonorum salutem ;
+<lb ed="#P" n="107"/>et praesertim quia post diem judieii per 
+Chri<lb break="no" ed="#P" n="108"/>stum omnia renovabuntur, et quemdam
+<lb ed="#P" n="109"/>splendorem et incorruptionem accipient, 
+pro<lb break="no" ed="#P" n="110"/>pter quod dicitur ad Rom. 8, quod expectatio
+<pb ed="#P" n="650"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>creatura revelationem filiorum, Dei expectat ,
+<lb ed="#P" n="2"/>nam liberabitur a. servitute corruptionis in 
+li<lb break="no" ed="#P" n="3"/>beriatem, glorie filiorum. Dei. Propter quod
+<lb ed="#P" n="4"/>heodoret. et OEcum., exponentes illud ad
+<lb ed="#P" n="5"/>Hebr. 2: Uf pro omnibus gustaret morlem, 
+di<lb break="no" ed="#P" n="6"/>cunt, Christi mortem omnibus creaturis 
+attu<lb break="no" ed="#P" n="7"/>lisse emolumentum. Et ex his facilis est. 
+se<lb break="no" ed="#P" n="8"/>cunda pars conclusionis, nam influxus, quem
+<lb ed="#P" n="9"/>habet Christus in creaturas rationales, multo
+<lb ed="#P" n="10"/>est alterius rationis et excellentior, quam sit
+<lb ed="#P" n="11"/>influxus in creaturas irrationales. Deinde 
+Ec<lb break="no" ed="#P" n="12"/>clesia tantum ex Angelis et hominibus 
+con<lb break="no" ed="#P" n="13"/>stans dicitur proprie corpus mysticum Christi,
+<lb ed="#P" n="14"/>ad quod non pertinent res alie inferiores
+<lb ed="#P" n="15"/>tanquam membra vel partes ejus, quia non
+<lb ed="#P" n="16"/>vivunt spirituali vita hujus corporis, nec ad
+<lb ed="#P" n="17"/>finem ulümum hujus reipublice ordinantur,
+<lb ed="#P" n="18"/>quia revera non sunt capaces ejus, sed sunt
+<lb ed="#P" n="19"/>quasi res vel bona externa huic corpori seu
+<lb ed="#P" n="20"/>Reipubliee deservientia. Proprie ergo 
+Chris<lb break="no" ed="#P" n="21"/>tus est caput hujus Ecclesie, aliarum vero
+<lb ed="#P" n="22"/>rerum dicetur dominus aut princeps magis
+<lb ed="#P" n="23"/>quam caput; sicut rex in regno, vel 
+paterfa<lb break="no" ed="#P" n="24"/>milias in. domo, proprie dicitur caput 
+homi<lb break="no" ed="#P" n="25"/>num regni, vel familie, aliarum autem 
+re<lb break="no" ed="#P" n="26"/>rum, quibus illi homines utuntur, potius 
+di<lb break="no" ed="#P" n="27"/>citur dominus vel gubernator.
+</p>
+                  <p xml:id="szstco-k56590-d1e1985">
+                     <lb ed="#P" n="28"/>11. Sed hoc loco non immerito dubitabit
+<lb ed="#P" n="29"/>aliquis an , sicut Christus dicitur caput hujus
+<lb ed="#P" n="30"/>corporis, ita etiam possit dici membrum ejus.
+<lb ed="#P" n="31"/>Solet enim caput esse membrum toiius 
+cor<lb break="no" ed="#P" n="32"/>poris. Quidam Theologi ita loquuntur, quia,
+<lb ed="#P" n="33"/>considerando totam Ecclesiam ut constantem
+<lb ed="#P" n="34"/>ex omnibus aliis membris, et suo capite, 
+ni<lb break="no" ed="#P" n="35"/>hil obstare videtur quin Christus vocetur
+<lb ed="#P" n="36"/>membrum hujus corporis primum et 
+princi<lb break="no" ed="#P" n="37"/>pale; sic enim videtur loqui Paulus, 4 ad 
+Co<lb break="no" ed="#P" n="38"/>rint. 12, dicens : Vos estis corpus Christi, et
+<lb ed="#P" n="39"/>membra de membro, id est, de principali 
+mem<lb break="no" ed="#P" n="40"/>bro, quod est Christus. Ita D. Thomas ibi, et
+<lb ed="#P" n="41"/>in 4, d. 49, q. 4, art. 3, ad A4; Altisiod., lib. 3,
+<lb ed="#P" n="42"/>lract. 4, c. 4, q. 65; Turrecrem., lib. 1 Sum.
+<lb ed="#P" n="43"/>Eccl., c. 4T. Aliis autem non placet ille 
+mo<lb break="no" ed="#P" n="44"/>dus loquendi , quia ratio membri videtur
+<lb ed="#P" n="45"/>quamdam imperfectionem includere, quam
+<lb ed="#P" n="46"/>non includit ratio capitis, nimirum 
+depen<lb break="no" ed="#P" n="47"/>dentiam aliquam ab aliis membris, et 
+partici<lb break="no" ed="#P" n="48"/>palionem alicujus virtutis seu influxus, sicut
+<lb ed="#P" n="49"/>naturale caput recipit ab aliis membris 
+ali<lb break="no" ed="#P" n="50"/>mentum et alia subsidia; Christus vero ita est
+<lb ed="#P" n="51"/>caput, ut nihil a suis membris recipiat, neque
+<lb ed="#P" n="52"/>ab illis ullo modo pendeat. Neque est 
+incon<lb break="no" ed="#P" n="53"/>veniens in his metaphoricis locutionibus 
+ae<lb break="no" ed="#P" n="54"/>commodari unum nomen , quod 
+imperfectio<lb break="no" ed="#P" n="55"/>nem non includit, non vero aliud, propter
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>imperfectionem importatam; et hic modus
+<lb ed="#P" n="57"/>loquendi mihi magis probatur cum D. Thoma,
+<lb ed="#P" n="58"/>in 9, dist. 13, q. 2, art. 4, ad ult. ; Alens.,3p.,
+<lb ed="#P" n="59"/>q. 12, memb. 2, art. 1; Marsil., in 3, q. 10.
+<lb ed="#P" n="60"/>Nee Paulus alio modo loquitur in illo loco ad:
+<lb ed="#P" n="61"/>Corinth.; tribus enim aliis modis exponitur.
+<lb ed="#P" n="62"/>Primo : Zstis membra Christi de membro , id
+<lb ed="#P" n="63"/>est, per ministerium alterius membri, scilicet,
+<lb ed="#P" n="64"/>ipsius Pauli, per quem Christo uniti fuerant.
+<lb ed="#P" n="65"/>Ita Anselm. ibi, quamvis non ad litteram.
+<lb ed="#P" n="66"/>Alia ergo et magis litteralis expositio est :
+<lb ed="#P" n="67"/>Vos estis corpus Christi, e membra ad 
+invi<lb break="no" ed="#P" n="68"/>cem, seu vicissim; hanc enim vim habet vox
+<lb ed="#P" n="69"/>graca, x uépovc; ita indicant ibi Ambros. et
+<lb ed="#P" n="70"/>Hieron., Claud. et Gagne., et consonant 
+ver<lb break="no" ed="#P" n="71"/>ba séquentia , scilicet : .Z£ quosdam posuit
+<lb ed="#P" n="72"/>Apostolos, etc. Tertia expositio et satis etiam
+<lb ed="#P" n="73"/>consentanea litter: est : Z'stis corpus Christi,
+<lb ed="#P" n="74"/>et membra em parte, id est, non integrum 
+cor<lb break="no" ed="#P" n="75"/>pus, neque omnia membra, sed ex parte :
+<lb ed="#P" n="76"/>Ecclesia enim Corinthiorum non erat 
+inte<lb break="no" ed="#P" n="77"/>erum corpus Christi, nec continebat omnia
+<lb ed="#P" n="78"/>Christi membra , sed ex parte, et hoc 
+signifi<lb break="no" ed="#P" n="79"/>cat magis proprie vox greca, éx uégovc. Et ita
+<lb ed="#P" n="80"/>etiam vertit Vulgata, ut in margine notatur ;
+<lb ed="#P" n="81"/>sieut ad Rom. 15 : Si vobis ex parte fruitus
+<lb ed="#P" n="82"/>fuero, greece habetur, apo merous et ità 
+expo<lb break="no" ed="#P" n="83"/>nunt Chrys., Theoph. et Greci, quos 
+Cajeta<lb break="no" ed="#P" n="84"/>nus sequitur.
+</p>
+                  <p xml:id="szstco-k56590-d1e2113">
+                     <lb ed="#P" n="85"/>12. Ad duo fundamenta prioris sententie
+<lb ed="#P" n="86"/>respondetur breviter: ad primum dicitur,
+<lb ed="#P" n="87"/>non oportere caput mysticum esse omnino
+<lb ed="#P" n="88"/>ejusdem speciei cum omnibus membris; nam
+<lb ed="#P" n="89"/>demon caput est malorum hominum, et
+<lb ed="#P" n="90"/>Deus, ut Deus, est caput Christi hominis et
+<lb ed="#P" n="91"/>Angelorum; non ergo oportet ut caput 
+mys<lb break="no" ed="#P" n="92"/>ticum sit ejusdem nature specifice, sed satis
+<lb ed="#P" n="93"/>est ut in gradu intellectuali conveniant, et in
+<lb ed="#P" n="94"/>fine seu beatitudine ad quam tendunt; ita
+<lb ed="#P" n="95"/>vero conveniunt natura humana et angelica,
+<lb ed="#P" n="96"/>quas in ordine ad supernaturalia bona quasi
+<lb ed="#P" n="97"/>ejusdem nature sunt, eamdemque gratiam
+<lb ed="#P" n="98"/>et gloriam participant; et ideo dicuntur 
+ho<lb break="no" ed="#P" n="99"/>mines futuri in beatitudine sicut Angeli; hoc
+<lb ed="#P" n="100"/>ergo satis est ut. verissime Christus sit caput
+<lb ed="#P" n="101"/>Augelorum.
+</p>
+                  <p xml:id="szstco-k56590-d1e2152">
+                     <lb ed="#P" n="102"/>13. Dices : esto non sit necessarium ut 
+ca<lb break="no" ed="#P" n="103"/>put sit ejusdem nature, necessarium tamen
+<lb ed="#P" n="104"/>videtur ut sit vel equalis, vel superioris 
+na<lb break="no" ed="#P" n="105"/>ture , quod Christo ut homini non competit ;
+<lb ed="#P" n="106"/>nam in hoc minoratus est ab Angelis, Psal. 8,
+<lb ed="#P" n="107"/>ad Hebr. 2. Respondeo, neque id esse 
+neces<lb break="no" ed="#P" n="108"/>sarium, quando exeellentia persone ianta
+<lb ed="#P" n="109"/>est, ut naturam sibi unitam ad superioris
+<lb ed="#P" n="110"/>perfectionis ordinem elevet. Imo, sola excel-
+<pb ed="#P" n="651"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>lentia grati: create posset sufficere, quia
+<lb ed="#P" n="2"/>Ecclesie perfectio magis ex gratia quam ex
+<lb ed="#P" n="3"/>natura pensatur.
+</p>
+                  <p xml:id="szstco-k56590-d1e2185">
+                     <lb ed="#P" n="4"/>14. Ad secundum, quod est de merito
+<lb ed="#P" n="5"/>Christi respectu Angelorum, primo negatur
+<lb ed="#P" n="6"/>assumptum, de quo infra dicetur. Secundo
+<lb ed="#P" n="7"/>etiam qui hoc negant, non propterea negabunt
+<lb ed="#P" n="8"/>Christum esse caput; dicent enim sufficere
+<lb ed="#P" n="9"/>quod influat aliquid pertinens ad 
+accidenta<lb break="no" ed="#P" n="10"/>lem gloriam , vel supernaturalem 
+cognitio<lb break="no" ed="#P" n="11"/>nem. Hi vero, qui ita opinantur, non dicent
+<lb ed="#P" n="12"/>fortasse Angelos fuisse membra Christi etiam
+<lb ed="#P" n="13"/>ante incarnationem ejus, quia pro eotempore
+<lb ed="#P" n="14"/>nihil in eos influebat, quia tunc tantum 
+in<lb break="no" ed="#P" n="15"/>fluere poterat ratione meriti; hoc autem mihi
+<lb ed="#P" n="16"/>non probatur, quia tota Ecclesia in omnibus
+<lb ed="#P" n="17"/>membris suis semper fuit Christo conjuncta
+<lb ed="#P" n="18"/>per fidem vel charitatem, et illius influxum
+<lb ed="#P" n="19"/>participavit. 
+</p>
+               </div>
+               <div xml:id="szstco-k56590-Dd1e2224">
+                  <head xml:id="szstco-k56590-Hd1e2226">Sectio 2</head>
+                  <head xml:id="szstco-k56590-Hd1e2228" type="question-title">Quae fuerit in Christo gratia capitis</head>
+                  <p xml:id="szstco-k56590-d1e2231">
+                     <lb ed="#P" n="20" type="fixed=651"/>SECTIO II.
+<lb ed="#P" n="21"/>Quae fuerit in Christo gratia capitis.
+</p>
+                  <p xml:id="szstco-k56590-d1e2238">
+                     <lb ed="#P" n="22"/>4. Duplex influxus gratiae in Christo. —Ex
+<lb ed="#P" n="23"/>dictis in praecedenti sectione, constat hanc
+<lb ed="#P" n="24"/>dignitatem capitis non esse distinctam a 
+di<lb break="no" ed="#P" n="25"/>gnitate Redemptoris vel Sanctificatoris , quia
+<lb ed="#P" n="26"/>solum consideramus nunc rationem capitis
+<lb ed="#P" n="27"/>quoad influxum gratiae, qui convenit Christo,
+<lb ed="#P" n="28"/>prout est aliorum Sanctifieator. Duplex autem
+<lb ed="#P" n="29"/>influxus gratiae intelligi potest in Christo :
+<lb ed="#P" n="30"/>primus est proprie ac physice effectivus, qui
+<lb ed="#P" n="31"/>pertinet ad potestatem faciendi opera 
+super<lb break="no" ed="#P" n="32"/>naturalia, de qua dicemus q. 13; alius est per
+<lb ed="#P" n="33"/>modum meriti, et qui per se ac proprie 
+perti<lb break="no" ed="#P" n="34"/>net ad rationem hujus capitis; unde, quia
+<lb ed="#P" n="35"/>principium omnis meriti est gratia, ideo 
+gra<lb break="no" ed="#P" n="36"/>lia Christi, qua est principium hujus meriti,
+<lb ed="#P" n="37"/>dicilur gratia capitis; quam propterea omnes
+<lb ed="#P" n="38"/>"Theologi supponunt esse in Christo, tanquam
+<lb ed="#P" n="39"/>certum, quia necessario sequitur ex dignitate
+<lb ed="#P" n="40"/>capitis, et ex dicto merito, si tantum vocis 
+si<lb break="no" ed="#P" n="41"/>gnifieatio, ut jam explicata est, intelligatur.
+</p>
+                  <p xml:id="szstco-k56590-d1e2284">
+                     <lb ed="#P" n="42"/>9. Dubium. — Dubitant vero quid sit ista
+<lb ed="#P" n="43"/>gratia; in quo iriplex potest esse dicendi 
+mo<lb break="no" ed="#P" n="44"/>dus. Primus est hanc gratiam esse formam
+<lb ed="#P" n="45"/>seu rem aliquam distinctam a gratia unionis,
+<lb ed="#P" n="46"/>et gratia habituali. Sed hic modus neque 
+ul<lb break="no" ed="#P" n="47"/>lum habet auctorem, nec probabile 
+funda<lb break="no" ed="#P" n="48"/>mentum ; et ideo omnino rejiciendus est;
+<lb ed="#P" n="49"/>gratia enim, qua est principium meriti, non
+<lb ed="#P" n="50"/>est alia ab illa per quam homo sanctificatur ,
+<lb ed="#P" n="51"/>et operatur; imo, ideo requiritur gratia ad
+<lb ed="#P" n="52"/>meritum, quia requiritur ad sanctificandam
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="53"/>personam, quod necessarium est ut sit capax
+<lb ed="#P" n="54"/>meriti, vel ad operandum; ergo in Christo
+<lb ed="#P" n="55"/>eadem gratia, per quam humanitas ejus 
+san<lb break="no" ed="#P" n="56"/>clificatur et operatur, est principium 
+meren<lb break="no" ed="#P" n="57"/>di; illa vero est gratia unionis, vel habitualis,
+<lb ed="#P" n="58"/>ut in superioribus ostensum est; eadem ergo
+<lb ed="#P" n="59"/>fuit principium merendi; ergo illa fuit gratia
+<lb ed="#P" n="60"/>capitis, quia (ut dixi) nihil aliud est gratia
+<lb ed="#P" n="61"/>capitis quam gratia quae est principium 
+me<lb break="no" ed="#P" n="62"/>rendi aliis, et in Christo eadem gratia fuit
+<lb ed="#P" n="63"/>principium merendi sibi, et aliis, quia 
+quod<lb break="no" ed="#P" n="64"/>libet meritum Christi habuit valorem et 
+effi<lb break="no" ed="#P" n="65"/>caciam ad utrumque.
+</p>
+                  <p xml:id="szstco-k56590-d1e2342">
+                     <lb ed="#P" n="66"/>3. Secundus modus dicendi est, hanc 
+gra<lb break="no" ed="#P" n="67"/>tiam capitis esse ipsammet gratiam 
+habitua<lb break="no" ed="#P" n="68"/>lem, quae secundum essentiam suam, et prout
+<lb ed="#P" n="69"/>sanctificat animam Christi, et est principium
+<lb ed="#P" n="70"/>operandi, dicitur gratia habitualis seu 
+perso<lb break="no" ed="#P" n="71"/>nalis; prout vero fuit principium sanctificandi
+<lb ed="#P" n="72"/>alios, dicitur gratia capitis. Haec est 
+commu<lb break="no" ed="#P" n="73"/>nis sententia Theologorum , D. 'Thom. hic,
+<lb ed="#P" n="74"/>art. 5, et aliorum, in 3, dist. 13, ubi Bonav.,
+<lb ed="#P" n="75"/>art. 2, q. 2; Richard., art. 3, q. 95; Gab., art.
+<lb ed="#P" n="76"/>3, in fine; Almai., q. 4, in fine ; Marsil., q. 10,
+<lb ed="#P" n="77"/>art. 1, dub. 3; Alens., 3 p., q. 11, memb. 3;
+<lb ed="#P" n="78"/>et fundamentum est supra tactum , quia 
+ea<lb break="no" ed="#P" n="79"/>dem est gratia sanctificans, et qua est 
+prin<lb break="no" ed="#P" n="80"/>cipium meriti.
+</p>
+                  <p xml:id="szstco-k56590-d1e2377">
+                     <lb ed="#P" n="81"/>4. Tertia vero sententia esse potest, 
+gra<lb break="no" ed="#P" n="82"/>tiam capitis esse ipsam gratiam unionis. Qus
+<lb ed="#P" n="83"/>sumi videtur ex D. Thoma, art. 6, ubi dicit
+<lb ed="#P" n="84"/>proprium esse Christo esse caput Ecclesie
+<lb ed="#P" n="85"/>simpliciter et proprie secundum influxum
+<lb ed="#P" n="86"/>gratiae, quia ejus humanitas, ex hoc quod est
+<lb ed="#P" n="87"/>divinitati conjuncta, habet virtutem 
+justifi<lb break="no" ed="#P" n="88"/>candi; et videtur etiam sequi ex his quae 
+su<lb break="no" ed="#P" n="89"/>pra diximus, animam Christi per gratiam
+<lb ed="#P" n="90"/>unionis perfectissime sanctificari ; sed gratia
+<lb ed="#P" n="91"/>illa est principium meriti, quae est forma 
+sanc<lb break="no" ed="#P" n="92"/>lificans ; imo ut D. Thomas dixit, art. 4, sicut
+<lb ed="#P" n="93"/>non quzlibet forma, quae dat esse, est 
+prin<lb break="no" ed="#P" n="94"/>cipium perficiendi alios, sed illa quae est 
+for<lb break="no" ed="#P" n="95"/>ma excellens et perfecta, ita non quaslibet
+<lb ed="#P" n="96"/>gratia sanctificans personam est principium
+<lb ed="#P" n="97"/>merendi aliis, seu justificandi alios, sed illa
+<lb ed="#P" n="98"/>quae est excellens et perfectissima ; sed 
+hu<lb break="no" ed="#P" n="99"/>jusmodi est in Christo gratia unionis, potius
+<lb ed="#P" n="100"/>quam habitualis. Unde confirmatur, nam 
+gra<lb break="no" ed="#P" n="101"/>tia habitualis secundum se, quantumvis sit
+<lb ed="#P" n="102"/>intensa et perfecta ex suo genere, non est
+<lb ed="#P" n="103"/>principium merendi aliis, neque ad hoc ex
+<lb ed="#P" n="104"/>natura sua ordinatur; si autem in Christo 
+ha<lb break="no" ed="#P" n="105"/>bet hanc vim, est propter conjunctionem ad
+<lb ed="#P" n="106"/>gratiam unionis, et propter dignitatem quam
+<lb ed="#P" n="107"/>in esse gratiae inde accipit, ut supra declara-
+<pb ed="#P" n="652"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>tum est, et videtur intellexisse Cajetanus, in
+<lb ed="#P" n="2"/>art. 5 ; ergo, etc.
+</p>
+                  <p xml:id="szstco-k56590-d1e2447">
+                     <lb ed="#P" n="3"/>5. Gratia capitis quid sit. — Inter has 
+opi<lb break="no" ed="#P" n="4"/>niones non invenio differentiam, quae ad 
+dis<lb break="no" ed="#P" n="5"/>putationem de re ipsa pertineat ; rationes
+<lb ed="#P" n="6"/>enim facte in favorem ultima sententie 
+con<lb break="no" ed="#P" n="7"/>cludunt, hanc dignitatem capitis potissimum
+<lb ed="#P" n="8"/>deberi Christo ratione unionis, atque adeo
+<lb ed="#P" n="9"/>gratiam unionis per se, et ratione excellentis
+<lb ed="#P" n="10"/>quam de se habet, esse sufficiens principium
+<lb ed="#P" n="11"/>sanctificandi alios, gratiam vero habitualem
+<lb ed="#P" n="12"/>participare hanc virtutem ex conjunctione ad
+<lb ed="#P" n="13"/>unionem. Unde non immerito dici potest 
+gra<lb break="no" ed="#P" n="14"/>tia unionis quasi principium principale 
+me<lb break="no" ed="#P" n="15"/>riti, nam ab illa oritur pricipuus et infinitus
+<lb ed="#P" n="16"/>valor, ac efficacia, et influxus in alios, ut ex
+<lb ed="#P" n="17"/>dictis in 4 disp. satis constat; gratia autem
+<lb ed="#P" n="18"/>habitualis est quasi principium proximum
+<lb ed="#P" n="19"/>ejusdem meriti, unde fit utramque posse dici
+<lb ed="#P" n="20"/>gratiam capitis, unamquamque in suo 
+ordi<lb break="no" ed="#P" n="21"/>ne. Unde posset etiam distingui gratia , qua
+<lb ed="#P" n="22"/>caput ipsum constituitur in esse capitis, a
+<lb ed="#P" n="23"/>gratia qua datur capiti, ut eliciat actiones
+<lb ed="#P" n="24"/>capitis, per quas iniluat in alios; prior est
+<lb ed="#P" n="25"/>gralia unionis, qua sine dubio potest hoc 
+mo<lb break="no" ed="#P" n="26"/>do vocari gratia capitis; posterior vero est
+<lb ed="#P" n="27"/>gratia habitualis, quae proprie etiam vocatur
+<lb ed="#P" n="28"/>in sua ratione gratia capitis. Et de hac 
+potis<lb break="no" ed="#P" n="29"/>sime loquuntur D. Thomas et alii Theologi ;
+<lb ed="#P" n="30"/>supponunt enim tanquam clarum, Christum,
+<lb ed="#P" n="31"/>ex vi suae unionis esse et singularem 
+homi<lb break="no" ed="#P" n="32"/>nem, et caput aliorum hominum ; et inde 
+in<lb break="no" ed="#P" n="33"/>ferunt indigere accidentali gratia, qua et 
+na<lb break="no" ed="#P" n="34"/>turam ejus bene disponat et perficiat , ut sit
+<lb ed="#P" n="35"/>principium operandi ad sanctificationem 
+al1o<lb break="no" ed="#P" n="36"/>rum, quia gratia unionis (ut supra dictum
+<lb ed="#P" n="37"/>est) non est principium proximum, seu ratio
+<lb ed="#P" n="38"/>operandi; et hoc sensu recte concludunt 
+eam<lb break="no" ed="#P" n="39"/>dem gratiam kabitualem esse personalem et
+<lb ed="#P" n="40"/>capitis ; loquimur autem generatim de gratia
+<lb ed="#P" n="41"/>habituali , ut includit totam anime justitiam
+<lb ed="#P" n="42"/>et habitus etiam potentiarum.
+</p>
+                  <p xml:id="szstco-k56590-d1e2536">
+                     <lb ed="#P" n="43"/>6. Gratia capitis Christo propria. — Ex his
+<lb ed="#P" n="44"/>intelligitur, gratiam et dignitatem capitis ita
+<lb ed="#P" n="45"/>esse Christo propriam, ut nulli alteri 
+commu<lb break="no" ed="#P" n="46"/>nicata sit, imo nec communicari possit pure
+<lb ed="#P" n="47"/>creature, saltem quoad perfectionem, et 
+mo<lb break="no" ed="#P" n="48"/>dum influendi gratiam in alios ex perfecta
+<lb ed="#P" n="49"/>justitia, quia hoc non convenit nisi ratione
+<lb ed="#P" n="50"/>gratie unionis, ut dicta disp. 4 late dictum
+<lb ed="#P" n="51"/>est. Quoad alia etiam quae ad potestatem 
+ex<lb break="no" ed="#P" n="52"/>cellentie pertinent, ut est sacramentorum
+<lb ed="#P" n="53"/>institutio, etc. , nemini etiam communicata
+<lb ed="#P" n="54"/>fuit hiec dignitas, ut infra q. 22, latius 
+expli<lb break="no" ed="#P" n="55"/>cabimus,
+</p>
+                  <p xml:id="szstco-k56590-d1e2567">
+                     <cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>7. Quod vero hic aliqui disputant, an alius
+<lb ed="#P" n="57"/>praeter Christum possit dici caput Ecclesise,
+<lb ed="#P" n="58"/>ad hunc locum non pertinet ; constat enim
+<lb ed="#P" n="59"/>eo modo, quo est Christus, nullum aliud esse
+<lb ed="#P" n="60"/>caput; tamen sub Christo, et dependenter
+<lb ed="#P" n="61"/>ab illo, Vicarius ejus potest dici caput 
+Ec<lb break="no" ed="#P" n="62"/>clesia militantis, tanquam supremus 
+guber<lb break="no" ed="#P" n="63"/>nator, et dispensator mysteriorum Dei ab 
+eo<lb break="no" ed="#P" n="64"/>dem Christo constitutus.
+</p>
+               </div>
+            </div>
+            <div xml:id="szstco-k56590-Dd1e2593"><!--sua-p3-q8a7-->
+               <head xml:id="szstco-k56590-Hd1e2596">Articulus 7</head>
+               <p xml:id="szstco-k56590-d1e2598">
+                  <lb ed="#P" n="47" type="fixed=653"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k56590-d1e2603">
+                  <lb ed="#P" n="48"/>1. Hic et sequens articulus tantum per
+<lb ed="#P" n="49"/>occasionem a D. Thoma positi sunt, et ideo,
+<lb ed="#P" n="50"/>praeterea qui ad mentem ejus intelligendam
+<lb ed="#P" n="51"/>pertinent, nihil de re ipsa disputabo. Cajeta-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="52"/>nus ergo circa finem articuli sequentis non
+<lb ed="#P" n="53"/>bene exponit hunc titulum ; dicit enim 
+no<lb break="no" ed="#P" n="54"/>mine diaboli hoc loco non intelligi aliquem
+<lb ed="#P" n="55"/>singularem Angelum malum, scilicet 
+Luci<lb break="no" ed="#P" n="56"/>ferum, sed tolum ordinem diabolicum, et
+<lb ed="#P" n="57"/>consequenter nomine omnium malorum 
+tan<lb break="no" ed="#P" n="58"/>tum intelligi homines malos, quia articulus
+<lb ed="#P" n="59"/>sequens ita necessario intelligendus videtur,
+<lb ed="#P" n="60"/>et de eisdem malis est sermo in utroque, ut
+<lb ed="#P" n="61"/>ex contextu patet.
+</p>
+               <p xml:id="szstco-k56590-d1e2638">
+                  <lb ed="#P" n="62"/>2. Quid nomine diaboli D. Thomas intelligat.
+<lb ed="#P" n="63"/>— Sed mihi non videtur hoc verisimile, sed
+<lb ed="#P" n="64"/>D. Thomam loqui de principe demoniorum,
+<lb ed="#P" n="65"/>qui per antonomasiam solet in Scriptura 
+vo<lb break="no" ed="#P" n="66"/>cari diabolus, eumque comparare ad omnes
+<lb ed="#P" n="67"/>malos, tam demones quam homines; 
+om<lb break="no" ed="#P" n="68"/>nium enim est caput, quia omnes superat
+<lb ed="#P" n="69"/>malitia, et omnes aliquo modo ad peccatum
+<lb ed="#P" n="70"/>induxit, vel per se, vel per alios, ut traditur
+<lb ed="#P" n="71"/>partim in 4 p., q. 63, art. 8, et q. 109 et 114,
+<lb ed="#P" n="72"/>partim in 4. 2, q. 80, propter quod Princeps
+<lb ed="#P" n="73"/>hujus mundi dicitur, Joan. 12 et 14; et hic
+<lb ed="#P" n="74"/>sensus aperte colligitur ex argumento 
+secun<lb break="no" ed="#P" n="75"/>do cum solutione, ubi D. Thomas declarat
+<lb ed="#P" n="76"/>quomodo diabolus fuerit causa peccandi et
+<lb ed="#P" n="77"/>demonibus, et hominibus. Cetera, qua hic
+<lb ed="#P" n="78"/>dici possent de modo quo demon est causa
+<lb ed="#P" n="79"/>peccandi aliis, in citatis locis tractanda sunt,
+<lb ed="#P" n="80"/>et videri potest Gregorius, 32 Mor., c. 24 et
+<lb ed="#P" n="81"/>25; et Cassian., collat. 8.
+</p>
+            </div>
+            <div xml:id="szstco-k56590-Dd1e2685"><!--sua-p3-q8a8-->
+               <head xml:id="szstco-k56590-Hd1e2688">Articulus 8</head>
+               <p xml:id="szstco-k56590-d1e2690">
+                  <lb ed="#P" n="58" type="fixed=654"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k56590-d1e2695">
+                  <lb ed="#P" n="59"/>1. Dubium. — Responsio. — Respondet D.
+<lb ed="#P" n="60"/>Thomas Antichristum posse dici caput solum
+<lb ed="#P" n="61"/>quoad perfectionem et abundantiam malitiae.
+<lb ed="#P" n="62"/>Ubi statim occurrit inquirendum, quomodo
+<lb ed="#P" n="63"/>possit hoc esse verum respectu demonum.
+<lb ed="#P" n="64"/>Propterea Cajetanus dicit in hoc titulo, 
+no<lb break="no" ed="#P" n="65"/>mine omnium malorum intelligendos esse
+<lb ed="#P" n="66"/>solos homines, quia fieri, inquit, non potest
+<lb ed="#P" n="67"/>ut Antichristus malitia superet demones,
+<lb ed="#P" n="68"/>cum illi sint ita obstinati in malo, ut nec 
+con<lb break="no" ed="#P" n="69"/>verti possint, nec bene operari, Antichristus
+<lb ed="#P" n="70"/>autem futurus sit viator. Quae ratio (si quid
+<lb ed="#P" n="71"/>valet) etiam probat, neque omnes malos 
+ho<lb break="no" ed="#P" n="72"/>mines posse in hoc titulo intelligi, quia etiam
+<lb ed="#P" n="73"/>damnati homines habent voluntates 
+obstina<lb break="no" ed="#P" n="74"/>tas, sicut demones. Ratio ergo inefficax est,
+<lb ed="#P" n="75"/>quia, licet probet, ratione status, 
+damnato<lb break="no" ed="#P" n="76"/>rum statum excedere in malitia statum, etoc.,
+<lb ed="#P" n="77"/>cujuslibet viatoris , tamen in intensione, vel
+<lb ed="#P" n="78"/>multitudine malitie superare interdum 
+po<lb break="no" ed="#P" n="79"/>test viator damnatum. Et ideo probabile 
+vi<lb break="no" ed="#P" n="80"/>detur hunc articulum intelligi de omnibus
+<lb ed="#P" n="81"/>malis, etiam comprehendendo demones 
+pre<lb break="no" ed="#P" n="82"/>ter Luciferum, ut titulus hujus articuli et 
+pre<lb break="no" ed="#P" n="83"/>cedenlis eodem modo intelligantur; tum
+<lb ed="#P" n="84"/>etiam quia ita D. Thomas insinuat in 
+solu<lb break="no" ed="#P" n="85"/>tionibus argumentorum, ubi dicit 
+Antichris<lb break="no" ed="#P" n="86"/>tum esse quasi primarium membrum diaboli,
+<lb ed="#P" n="87"/>et caput aliorum malorum. An vero hoc ita sit,
+<lb ed="#P" n="88"/>incerta res est. Sed de Antichristo integra 
+dis<lb break="no" ed="#P" n="89"/>putatio tradenda est infra, in fine hujus 
+mate<lb break="no" ed="#P" n="90"/>rise, ubi de secundo Christi adventu disputa-.
+<lb ed="#P" n="91"/>bimus.
+</p>
+               <p xml:id="szstco-k56590-d1e2769">
+                  <lb ed="#P" n="92"/>2. Quaeri vero hic potest an. Adam possit
+<lb ed="#P" n="93"/>etiam vocari caput malorum hominum ; sed
+<lb ed="#P" n="94"/>non oportet in haec immorari; non est tamen
+<lb ed="#P" n="95"/>ita vocandus, quia nec malitia superat alios,
+<lb ed="#P" n="96"/>nec ex direeta intentione sua alios ad malum
+<lb ed="#P" n="97"/>inducit, sicut ddemon.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

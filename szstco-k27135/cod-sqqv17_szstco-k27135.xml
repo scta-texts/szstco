@@ -1,0 +1,2207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#FranciscoSuarez">Francisco Suarez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2025-04-27">April 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-sqqv17">Paris 1860, v. 17</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-04-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="496"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="szstco-k27135">
+            <head xml:id="szstco-k27135-Hd1e96">Quaestio 4</head>
+            <div xml:id="szstco-k27135-Dd1e98"><!--sua-p3-q4prae-->
+               <head xml:id="szstco-k27135-Hd1e101">Praeambulum</head>
+               <p xml:id="szstco-k27135-d1e103">
+                  <lb ed="#P" n="67" type="fixed=494"/>Agit D. Thomas in hae quaestione de altero
+<lb ed="#P" n="68"/>extremo hujus unionis, scilicet de natura 
+as<lb break="no" ed="#P" n="69"/>sumpta, et fere in tota quaestione solum 
+trac<lb break="no" ed="#P" n="70"/>tat de mysterio, prout factum est ; obiter 
+ta<lb break="no" ed="#P" n="71"/>men indicat aliquid de possibili: in quas duas
+<lb ed="#P" n="72"/>partes hanc et sequentem quaestionem 
+divide<lb break="no" ed="#P" n="73"/>mus, sicut in praecedenti quaestione fecimus.
+<lb ed="#P" n="74"/>Premittenda vero esset hoc loeo disputatio
+<lb ed="#P" n="75"/>de subsistentia , seu personalitate creata ,
+<lb ed="#P" n="76"/>quam Cajetanus, art. 2, latissime iractat, nisi
+<lb ed="#P" n="77"/>de hae re, ut in superioribus dixi, in 
+dispu<lb break="no" ed="#P" n="78"/>tationibus metaphysicis tractatum esset.
+</p>
+            </div>
+            <div xml:id="szstco-k27135-Dd1e133"><!--sua-p3-q4a1-->
+               <head xml:id="szstco-k27135-Hd1e136">Articulus 1</head>
+               <p xml:id="szstco-k27135-d1e138">
+                  <lb ed="#P" n="3" type="fixed=496"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k27135-d1e143">
+                  <lb ed="#P" n="4"/>1. Duobus modis dicitur natura 
+assumnpti<lb break="no" ed="#P" n="5"/>bilis.— Ad intelligendam mentem D. Thom«e,
+<lb ed="#P" n="6"/>oportet advertere, dupliciter naturam 
+ali<lb break="no" ed="#P" n="7"/>quam assumptibilem denominari posse : 
+pri<lb break="no" ed="#P" n="8"/>mo denominatione extrinseca ab 
+omnipoten<lb break="no" ed="#P" n="9"/>üa Dei, cui ex parte creaturarum solum 
+res<lb break="no" ed="#P" n="10"/>pondet potentia obedientalis, seu non 
+repu<lb break="no" ed="#P" n="11"/>gnantia; de qua ratione assumptibilis D. 
+Tho<lb break="no" ed="#P" n="12"/>mas nec quaestionem movit, nec mentionem
+<lb ed="#P" n="13"/>feeit iu toto articulo, ut ex sequenti 
+consta<lb break="no" ed="#P" n="14"/>bit.
+</p>
+               <p xml:id="szstco-k27135-d1e169">
+                  <lb ed="#P" n="15"/>2. Alio modo potest haec denominatio esse
+<lb ed="#P" n="16"/>intrinseca aliquo modo, id est, sumpta ex
+<lb ed="#P" n="17"/>aliqua intrinseca proprietate rei, et hoc
+<lb ed="#P" n="18"/>modo sumitur in hoc titulo, et eodem 
+sen<lb break="no" ed="#P" n="19"/>su dicitur in corpore articuli , dupliciter
+<lb ed="#P" n="20"/>posse naturam dici assumptibilem, scilicet,
+<lb ed="#P" n="21"/>vel secundum potentiam passivam 
+natura<lb break="no" ed="#P" n="22"/>lem, vel secundum aliquam congruentiam
+<lb ed="#P" n="23"/>fundatum in aliqua proprietate vel 
+condi<lb break="no" ed="#P" n="24"/>tione ipsius rei; qui divisio non esset 
+sufli<lb break="no" ed="#P" n="25"/>ciens, nisi D. Thomas in dicto sensu 
+loquere<lb break="no" ed="#P" n="26"/>tur. Et eodem sensu negat D. Thomas, in 
+so<lb break="no" ed="#P" n="27"/>lutione ad primum , naturam irrationalem
+<lb ed="#P" n="28"/>esse assumptibilem, scilicet secundum 
+intrin<lb break="no" ed="#P" n="29"/>secam congruentiam, et propterea in eadem
+<lb ed="#P" n="30"/>solutione, praemittit creaturam  denominari
+<lb ed="#P" n="31"/>talem, ex eo quod competit ei secundum 
+pro<lb break="no" ed="#P" n="32"/>priam causam, et non ex denominatione ab
+<lb ed="#P" n="33"/>omnipotentia Dei, quando ex hujusmodi 
+eau<lb break="no" ed="#P" n="34"/>sis diversis sumi possunt denominationes 
+ali<lb break="no" ed="#P" n="35"/>quo modo opposite, ut Cajetanus adnotavit,
+<lb ed="#P" n="36"/>et D. Thomas optime explicuit exemplo 
+mor<lb break="no" ed="#P" n="37"/>bi, qui dicitur curabilis, vel incurabilis, non
+<lb ed="#P" n="38"/>per denominationem ab omnipotentia Dei,
+<lb ed="#P" n="39"/>sed secundum aliquam intrinsecam 
+conditio<lb break="no" ed="#P" n="40"/>nem ejus. Et eodem modo, in solutione ad
+<lb ed="#P" n="41"/>quartum, negat totum universum fuisse 
+as<lb break="no" ed="#P" n="42"/>sumptibile, scilicet, secundum intrinsecam
+<lb ed="#P" n="43"/>congruentiam, nam seeundum extrinsecam
+<lb ed="#P" n="44"/>omnipoientiam Dei, licet totum. universum
+<lb ed="#P" n="45"/>non sit unum suppositum, non tamen 
+repu<lb break="no" ed="#P" n="46"/>gnaret assumi in uno supposito Verbi, ut 
+pa<lb break="no" ed="#P" n="47"/>tet ex dictis disputatione praecedenti.
+</p>
+               <p xml:id="szstco-k27135-d1e243">
+                  <lb ed="#P" n="48"/>3. Respondet ergo D. Thomas humanam
+<lb ed="#P" n="49"/>naturam fuisse maxime assumptibilem, non
+<lb ed="#P" n="50"/>quidem secundum capacitatem | naturalem
+<lb ed="#P" n="51"/>(hoc enim modo nulla natura assumplibilis
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="52"/>est), sed secundum congruentiam ad 
+unio<lb break="no" ed="#P" n="53"/>nem, quae ex duplici capite consurgit, 
+pri<lb break="no" ed="#P" n="54"/>mum ex dignitate intellectualis seu rationalis
+<lb ed="#P" n="55"/>nature, qua sit capax ipsius Dei, et per 
+ope<lb break="no" ed="#P" n="56"/>rationem ipsum attingat; deinde ex 
+necessi<lb break="no" ed="#P" n="57"/>tate et indigentia redemptionis, qua duo in
+<lb ed="#P" n="58"/>sola humana natura ita concurrunt, ut 
+red<lb break="no" ed="#P" n="59"/>dant eam maxime assumptibilem.
+</p>
+               <p xml:id="szstco-k27135-d1e275">
+                  <lb ed="#P" n="60"/>4. Objectio. — Responsio. — Sed dubitabit
+<lb ed="#P" n="61"/>aliquis, quia ad congruentiam simpliciter 
+hu<lb break="no" ed="#P" n="62"/>jus assumptionis sufficit dignitas 
+intellectua<lb break="no" ed="#P" n="63"/>lis nature, quia indigentia redemptionis non
+<lb ed="#P" n="64"/>est simpliciter necessaria, ut supra, q. 1, a.
+<lb ed="#P" n="65"/>3, dictum est; sed illa dignitas multo major
+<lb ed="#P" n="66"/>reperitur in angelica, quam in. humana naà-
+<lb ed="#P" n="67"/>iura, adeo ut, licet necessitas redemptionis
+<lb ed="#P" n="68"/>aliquid conferat ad hanc congruentiam, 
+ma<lb break="no" ed="#P" n="69"/>gis conferre videatur excessus perfectionis et
+<lb ed="#P" n="70"/>dignitatis angelie: nature, quia haec dignitas
+<lb ed="#P" n="71"/>perse magis confert ad hanc congruentiam.
+<lb ed="#P" n="72"/>Et confirmatur, quia in Angelis etiam 
+repe<lb break="no" ed="#P" n="73"/>ritur necessitas et indigentia ex peccato 
+con<lb break="no" ed="#P" n="74"/>tracta. Sed hoc ultimum facile expeditur,
+<lb ed="#P" n="75"/>peccatum enim angelicum non facit 
+congruen<lb break="no" ed="#P" n="76"/>liam ad unionem, quia juxta modum 
+provi<lb break="no" ed="#P" n="77"/>denti: consentaneum illi nature, et 
+conside<lb break="no" ed="#P" n="78"/>rata intrinseca conditione ejus, peccatum 
+il<lb break="no" ed="#P" n="79"/>lius est irreparabile. Ad priorem vero partem
+<lb ed="#P" n="80"/>respondetur, D. Thomam in hoc discursu
+<lb ed="#P" n="81"/>supponere hanc congruentiam ad unionem
+<lb ed="#P" n="82"/>consurgere ex utroque illo capite simul 
+sum<lb break="no" ed="#P" n="83"/>pto, prissertim loquendo de congruentia qua
+<lb ed="#P" n="84"/>movit Deum àd perficiendum hoc mysterium,
+<lb ed="#P" n="85"/>etideo, deficiente altera conditione, negat
+<lb ed="#P" n="86"/>esse congruentiam simpliciter, etiamsi alia in
+<lb ed="#P" n="87"/>suo genere major sit.
+</p>
+               <p xml:id="szstco-k27135-d1e338">
+                  <lb ed="#P" n="88"/>5. Objectio secunda. — Responsio. — 
+Objec<lb break="no" ed="#P" n="89"/>4i0.—Dices: ergo, juxta sententiam D. Thoma
+<lb ed="#P" n="90"/>sic explicatam, natura angelica simplieiter
+<lb ed="#P" n="91"/>dicenda est. inassumptibilis, sicut irrationalis
+<lb ed="#P" n="92"/>natura; in utraque enim absolute loquendo
+<lb ed="#P" n="93"/>deest intrinseca congruentia, quanquam iu
+<lb ed="#P" n="94"/>altera tantum ex uno capite, in altera vero
+<lb ed="#P" n="95"/>ex duobus. Respondetur ex D. Thome 
+solu<lb break="no" ed="#P" n="96"/>tione ad tertium (et est explicatio solutionis
+<lb ed="#P" n="97"/>prius date), ad congruentiam simpliciter non
+<lb ed="#P" n="98"/>esse omnino necessarium ut duplex illa ratio
+<lb ed="#P" n="99"/>congruitatis supra posita simul concurrat,
+<lb ed="#P" n="100"/>quia utraque per se confert aliquam 
+congrui<lb break="no" ed="#P" n="101"/>tatem, diverse tamen rationis; nam dignitas
+<lb ed="#P" n="102"/>nature praecise confert congruitatem 
+quam<lb break="no" ed="#P" n="103"/>dam, indigentia vero redemptionis confert
+<lb ed="#P" n="104"/>quodammodo  congruentiam necessitatis ;
+<lb ed="#P" n="105"/>quia ergo prior ratio convenit angelice natu--
+<lb ed="#P" n="106"/>re, ideo potest simpliciter denominari assum-
+<pb ed="#P" n="497"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>ptibilis, in. quo differt a natura irrational;
+<lb ed="#P" n="2"/>humana vero natura dicitur simpliciter 
+as<lb break="no" ed="#P" n="3"/>sumplibilior, id est, pluribus titulis et 
+ratio<lb break="no" ed="#P" n="4"/>nibus quam aliqua alia natura. Qui tituli cum
+<lb ed="#P" n="5"/>sint diversarum rationum, ut dictum est, non
+<lb ed="#P" n="6"/>sunt proprie inter se comparabiles, neque
+<lb ed="#P" n="7"/>excessus in uno potest exequare alium, et
+<lb ed="#P" n="8"/>ita facile procedit discursus D. Thome; de
+<lb ed="#P" n="9"/>ipsa vero re latius infra dicemus. Solutiones
+<lb ed="#P" n="10"/>ad primum, tertium et quartum argumentum
+<lb ed="#P" n="11"/>ex dictis explicate sunt.
+</p>
+               <p xml:id="szstco-k27135-d1e410">
+                  <lb ed="#P" n="12"/>6. Argumentum secundum difficultatem
+<lb ed="#P" n="13"/>non habet; quod vero D. Thomas occasione
+<lb ed="#P" n="14"/>illius respondet, explicatione indiget ; probat
+<lb ed="#P" n="15"/>enim in creatura irrationali non esse 
+con<lb break="no" ed="#P" n="16"/>gruentiam ad hanc unionem, quia quod 
+defi<lb break="no" ed="#P" n="17"/>cit a minori, non habet congruitatem ad id
+<lb ed="#P" n="18"/>quod majus est; sed creatura irrationalis 
+de<lb break="no" ed="#P" n="19"/>ficitab unione ad Deum per operationem, qua
+<lb ed="#P" n="20"/>minor est quam per unionem personalem ;
+<lb ed="#P" n="21"/>ergo non potest habere congruitatem ad hanc
+<lb ed="#P" n="22"/>unionem. Ex quo discursu statim insurgit 
+dif<lb break="no" ed="#P" n="23"/>ficultas, nam eadem forma et proportione 
+ap<lb break="no" ed="#P" n="24"/>pliceando argumentum, concluderetur in 
+na<lb break="no" ed="#P" n="25"/>tura irrationali non esse capacitatem, nec
+<lb ed="#P" n="26"/>obedientialem ad hanc unionem, quia quod
+<lb ed="#P" n="27"/>deficit a minori, sicut non habet congruitatem
+<lb ed="#P" n="28"/>ad id quod majus est, ita nec capacitatem ;
+<lb ed="#P" n="29"/>nulla enim est major ratio de una quam de
+<lb ed="#P" n="30"/>alia. Unde exemplum, quo D. Thomas 
+con<lb break="no" ed="#P" n="31"/>firmat hoc principium, non solum de 
+congrui<lb break="no" ed="#P" n="32"/>tate, sed de capacitate procedit : Sicut corpus,
+<lb ed="#P" n="33"/>inquit, guod 2on est, aptum perffci anima 
+sea<lb break="no" ed="#P" n="34"/>sitiva, multo miuus aptum est. perfci anima
+<lb ed="#P" n="35"/>intellectiva.
+</p>
+               <p xml:id="szstco-k27135-d1e465">
+                  <lb ed="#P" n="36"/>7. Responsio.— Duplex vatio 
+subordinatio<lb break="no" ed="#P" n="37"/>nis. — Respondetur , illud principium, Quod
+<lb ed="#P" n="38"/>non potest in minus, nec potest in majus, 
+so<lb break="no" ed="#P" n="39"/>lum habere locum in iis qui sunt 
+subordina<lb break="no" ed="#P" n="40"/>ta, non vero in reliquis, ut constat ex 
+philo<lb break="no" ed="#P" n="41"/>sophia, et potest breviter exemplis declarari;
+<lb ed="#P" n="42"/>materia enim elementalis non est capax 
+for<lb break="no" ed="#P" n="43"/>mee colestis, et est capax superioris forms,
+<lb ed="#P" n="44"/>scilicet, rationalis; et homo non potest 
+gene<lb break="no" ed="#P" n="45"/>rare leonem, potest tamen generare 
+homi<lb break="no" ed="#P" n="46"/>nem, quod majus est. Fieri autem potest ut
+<lb ed="#P" n="47"/>quadam sint per se subordinata quoad 
+capa<lb break="no" ed="#P" n="48"/>citatem, alia vero solum quoad congruitatem,
+<lb ed="#P" n="49"/>ut cognitio et amor sunt per se subordinata
+<lb ed="#P" n="50"/>quoad capacitatem, quia nullus est capax
+<lb ed="#P" n="51"/>unius, qui non sit alterius ; at vero visio Dei
+<lb ed="#P" n="52"/>et unio personalis sunt per se ordinata quoad
+<lb ed="#P" n="53"/>congruitatem,non quoad capacitatem, et ideo
+<lb ed="#P" n="54"/>qui deficit a minore unione, qua est per 
+ope<lb break="no" ed="#P" n="55"/>rationem, nou habet congruitatem ad major
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="56"/>rem unionem, scilicet, personalem, ut D.
+<lb ed="#P" n="57"/>Thomas arguit. Nec in objectione facta de
+<lb ed="#P" n="58"/>capacitate est eadem proportio, quia illa duo
+<lb ed="#P" n="59"/>non sunt per se ordinata quoad capacitatem,
+<lb ed="#P" n="60"/>sed tantum quoad congruitatem ; seepe enim
+<lb ed="#P" n="61"/>accidit defectum minoris perfectionis facere
+<lb ed="#P" n="62"/>incongruitatem quamdam ad majorem 
+per<lb break="no" ed="#P" n="63"/>fectionem suscipiendam, quamvis non faciat
+<lb ed="#P" n="64"/>incapacitatem, ut mulier ignobilis non habet
+<lb ed="#P" n="65"/>congruitatem ut fiat uxor regis, non tamen
+<lb ed="#P" n="66"/>propterea habet incapacitatem.
+</p>
+            </div>
+            <div xml:id="szstco-k27135-Dd1e538"><!--sua-p3-q4a2-->
+               <head xml:id="szstco-k27135-Hd1e541">Articulus 2</head>
+               <p xml:id="szstco-k27135-d1e543">
+                  <lb ed="#P" n="25" type="fixed=498"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k27135-d1e548">
+                  <lb ed="#P" n="26"/>1. Tribus modis dici potest assumi persona:
+<lb ed="#P" n="27"/>primo, proprie et formaliter, ut si ipsamet
+<lb ed="#P" n="28"/>personalitas, atque adeo persona ut persona
+<lb ed="#P" n="29"/>intelligatur assumi, atque iterum terminari.
+<lb ed="#P" n="30"/>Secundo, minus proprie, et tantum 
+concomi<lb break="no" ed="#P" n="31"/>tanter, ut si.assumatur natura existens in
+<lb ed="#P" n="32"/>propria persona, conservata propria ejus 
+per<lb break="no" ed="#P" n="33"/>sonalitate.
+</p>
+               <p xml:id="szstco-k27135-d1e568">
+                  <lb ed="#P" n="34"/>2. Tertio adhue minus proprie, et solum
+<lb ed="#P" n="35"/>quasi extrinsece, ut si assumatur natura 
+exis<lb break="no" ed="#P" n="36"/>tens in propria persona, ita tamen ut per 
+as<lb break="no" ed="#P" n="37"/>sumptionem in illa esse desineret, et propriam
+<lb ed="#P" n="38"/>personalitatem amitteret : tunc diei posset 
+as<lb break="no" ed="#P" n="39"/>sumi persona quasi extrinsece, quia esset
+<lb ed="#P" n="40"/>lerminus a quo, praexistens assumptioni ; 
+si<lb break="no" ed="#P" n="41"/>cul per transsubstantiationem dicitur pauis
+<lb ed="#P" n="42"/>vel vinum consecrari , tanquam materia ex
+<lb ed="#P" n="43"/>qua fit transsubstantiatio. In hoc ergo titulo
+<lb ed="#P" n="44"/>omnes hos sensus videtur D. Thomas 
+com<lb break="no" ed="#P" n="45"/>plecti; omnibus enim in corpore articuli 
+sa<lb break="no" ed="#P" n="46"/>tisfacit, quamvis primus sensus tanquam 
+ma<lb break="no" ed="#P" n="47"/>gis proprius potissimum intendi videatur.
+</p>
+               <p xml:id="szstco-k27135-d1e601">
+                  <lb ed="#P" n="48"/>3. Respondet ergo D. Thomas Filium Dei
+<lb ed="#P" n="49"/>non assumpsisse personam. Probat, quia hac
+<lb ed="#P" n="50"/>assumptio non supponit personam, sed ad 
+il<lb break="no" ed="#P" n="51"/>lam potius terminata est; ergo non fuit as-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="52"/>sumpta persona. Antecedens probat, quia si
+<lb ed="#P" n="53"/>in Christi humanitate praecederet persona
+<lb ed="#P" n="54"/>creata ante assumptionem , vel illam 
+perso<lb break="no" ed="#P" n="55"/>nalitatem amitteret per assumptionem, vel
+<lb ed="#P" n="56"/>eam relüineret: si primum dicatur, sequitur
+<lb ed="#P" n="57"/>non potuisse humanitatem illam in eodem
+<lb ed="#P" n="58"/>instanti assumi, in quo fuit creata, quia non
+<lb ed="#P" n="59"/>potuit in eodem instanti habere 
+personalita<lb break="no" ed="#P" n="60"/>tem propriam, et illa carere; si vero dicatur
+<lb ed="#P" n="61"/>secundum, sequitür in Christo esse duas 
+per<lb break="no" ed="#P" n="62"/>sonas, creatam et inereatam, quod est contra
+<lb ed="#P" n="63"/>fidem ; quae ratio probat personam creatam
+<lb ed="#P" n="64"/>nec formaliter nec concomitanter mansisse
+<lb ed="#P" n="65"/>faeta assumptione. Primam vero 
+consequen<lb break="no" ed="#P" n="66"/>üam argumenti probat D. Thomas, quoniam
+<lb ed="#P" n="67"/>id, quod assumitur, supponilur assumptioni ;
+<lb ed="#P" n="68"/>qui propositio est valde notanda in hae 
+ma<lb break="no" ed="#P" n="69"/>teria, quam adeo per se notam D. Thomas
+<lb ed="#P" n="70"/>existimavit, ut nulla probatione, sed sola 
+ter<lb break="no" ed="#P" n="71"/>minorum explicatione indigere putaverit, 
+si<lb break="no" ed="#P" n="72"/>cut quod movetur, inquit, preintelligitur 
+mo<lb break="no" ed="#P" n="73"/>tui, est enim assumptio mutatio quaedam ejus
+<lb ed="#P" n="74"/>nature, qua assumitur, et ideo eam 
+suppo<lb break="no" ed="#P" n="75"/>nit, sicut mobile motus.
+</p>
+               <p xml:id="szstco-k27135-d1e667">
+                  <lb ed="#P" n="76"/>In solutionibus argumentorum nihil 
+notan<lb break="no" ed="#P" n="77"/>dum occurrit, tum quia per se clare sunt,
+<lb ed="#P" n="78"/>tum quia similia argumenta sepe in 
+superio<lb break="no" ed="#P" n="79"/>ribus tractavimus.
+</p>
+            </div>
+            <div xml:id="szstco-k27135-Dd1e679"><!--sua-p3-q4a3-->
+               <head xml:id="szstco-k27135-Hd1e682">Articulus 3</head>
+               <p xml:id="szstco-k27135-d1e684">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="46" type="fixed=499"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k27135-d1e691">
+                  <lb ed="#P" n="47"/>1. In hoc articulo non tractat D. Thomas
+<lb ed="#P" n="48"/>rem novam, sed illum proposuit ad 
+explican<lb break="no" ed="#P" n="49"/>das nonnullas Sanctorum loculiones, qua 
+in<lb break="no" ed="#P" n="50"/>terdum non adeo proprie et 
+rigoroseinve<lb break="no" ed="#P" n="51"/>niuntur.
+</p>
+               <p xml:id="szstco-k27135-d1e704">
+                  <lb ed="#P" n="52"/>9. Responsio. — Respondet igitur, non 
+pro<lb break="no" ed="#P" n="53"/>prie dici Deum assumpsisse hominem, quam
+<lb ed="#P" n="54"/>assertionem, in argumento Sed contra, 
+pro<lb break="no" ed="#P" n="55"/>bat testimonio Felicis Pape, quod habetur,
+<lb ed="#P" n="56"/>inquit, in Concilio Ephesino ; ubi notandum
+<lb ed="#P" n="57"/>est, neque in Concilio Ephesino, quod 
+habe<lb break="no" ed="#P" n="58"/>tur 1 tom. Conciliorum, neque in alio Concilio
+<lb ed="#P" n="59"/>Ephesino nuper edito, reperiri hoc 
+testimo<lb break="no" ed="#P" n="60"/>nium Felicis; tamen in Concilio 
+Chalcedo<lb break="no" ed="#P" n="61"/>nensi, Àct. 1, p. 81, post fidem Synodi 
+Ni<lb break="no" ed="#P" n="62"/>ccena, referri varia Patrum testimonia, qua
+<lb ed="#P" n="63"/>recitata fuisse dicuntur in Concilio Ephesino,
+<lb ed="#P" n="64"/>et octavo loco ponitur hoo testimonium. In
+<lb ed="#P" n="65"/>quo tamen est ulterius observandum , illum
+<lb ed="#P" n="66"/>non simpliciter negare Verbum assumpsisse
+<lb ed="#P" n="67"/>hominem, sed verba ejus sunt : Credimus in
+<lb ed="#P" n="68"/>Dominum nostrum. Jesum. Christum ex Maria
+<lb ed="#P" n="69"/>Virgine natum , quoniam ipse est eternus Dei
+<lb ed="#P" n="70"/>Filius et Verbum, et won homo a Deo susceptus,
+<lb ed="#P" n="71"/>ui alter esset prater ipsum ; neque enim. 
+hotni<lb break="no" ed="#P" n="72"/>«0, assumpsit Dei Filius, ut esset alter praeter
+<lb ed="#P" n="73"/>ipsum. Quibus verbis non videtur simpliciter
+<lb ed="#P" n="74"/>negare illam propositionem, sed cum illo 
+ad<lb break="no" ed="#P" n="75"/>dito, ut esset alter praeter ipsum; quanquam
+<lb ed="#P" n="76"/>dici possit, hoc verbum non esse additum ad
+<lb ed="#P" n="77"/>limitandam illam locutionem , sed potius ad
+<lb ed="#P" n="78"/>indieandam rationem , quare Christus non
+<lb ed="#P" n="79"/>possit diei homo assumptus, quia in hae 
+lo<lb break="no" ed="#P" n="80"/>culione significatur, Christum esse alterum
+<lb ed="#P" n="81"/>ab assumente, quia assumptus est alter ab
+<lb ed="#P" n="82"/>assumente.
+</p>
+               <p xml:id="szstco-k27135-d1e774">
+                  <lb ed="#P" n="83"/>3. Quam rationem indieavit Cyrillus , 
+ana<lb break="no" ed="#P" n="84"/>thematismo 8 recepto in Concilio Ephesino,
+<lb ed="#P" n="85"/>can. 8, ubi damnantur, qui hominem 
+assum<lb break="no" ed="#P" n="86"/>ptum, una cum Dei Verbo adorandum dicunt,
+<lb ed="#P" n="87"/>tanquam alterum in altero existentem. Et 
+de<lb break="no" ed="#P" n="88"/>fendendo illum anathematismum ab 
+objec<lb break="no" ed="#P" n="89"/>tione Orientalium , dicit idem Cyrillus non
+<lb ed="#P" n="90"/>esse faetam connexionem hominis cum Deo ;
+<lb ed="#P" n="91"/>et in defensione ejusdem contra Theodor. 
+di<lb break="no" ed="#P" n="92"/>cit: Von hominem assunptum dicimus a Deo
+<lb ed="#P" n="93"/>Verbo, et copulatum ili secundum habitudinem
+<lb ed="#P" n="94"/>quamdam, quae ectrinsecus iutelligatur, sed 
+ho<lb break="no" ed="#P" n="95"/>qnem factum esse dicimus. Et eamdem 
+ratio<lb break="no" ed="#P" n="96"/>nem indicat B. Joannes Maxen., dialog. 1
+<lb ed="#P" n="97"/>contra Nestorium , tom. 5 Bibliot., circa 
+fi<lb break="no" ed="#P" n="98"/>nem, dicens : Z'go a Deo susceptum hominem
+<pb ed="#P" n="500"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>nullatenus dicere audeo, sed. Dewmn factum. 
+ho<lb break="no" ed="#P" n="2"/>mineya fateor , ne sà susceptum a Deo hominem
+<lb ed="#P" n="3"/>dixero, duas videar. praedicare personas. Et ad
+<lb ed="#P" n="4"/>hane tendit etiam ratio D. Thom in articulo,
+<lb ed="#P" n="5"/>quia homo significat humanitatem ut 
+subsis<lb break="no" ed="#P" n="6"/>ientem ; sed Christus non assumpsit 
+humani<lb break="no" ed="#P" n="7"/>latem ut subsistentem ; ergo neque hominem;
+<lb ed="#P" n="8"/>minorem probat, quia quod assumitur, 
+sup<lb break="no" ed="#P" n="9"/>ponitur assumptioni ; sed humanitas ut 
+sub<lb break="no" ed="#P" n="10"/>sistens non supponitur assumptioni, sed 
+po<lb break="no" ed="#P" n="11"/>lius per assumptionem trahitur ad 
+subsisten<lb break="no" ed="#P" n="12"/>dum; ergo. Qus ratio ita etiam explicatur ,
+<lb ed="#P" n="13"/>quia quod assumitur, terminatur subsistentia
+<lb ed="#P" n="14"/>Verbi; non terminatur autem homo, sed 
+hu<lb break="no" ed="#P" n="15"/>manitas, quia homo significatur ut subsistens,
+<lb ed="#P" n="16"/>et ut persona.
+</p>
+               <p xml:id="szstco-k27135-d1e851">
+                  <lb ed="#P" n="17"/>4. In primo argumento objicit D. Thomas
+<lb ed="#P" n="18"/>testimonium Augustini , ex lib. de Agone
+<lb ed="#P" n="19"/>Christ., c. 11, ubi ita loquitur : Filius Dei 
+ho<lb break="no" ed="#P" n="20"/>minem assumpsit, que. locutio frequens est
+<lb ed="#P" n="21"/>apud illum, ut videre est l. 9 de Civit., c. 17
+<lb ed="#P" n="22"/>et 21, et 1. 10, c. 22 et 29, et ep. 66, et 
+enar<lb break="no" ed="#P" n="23"/>ratione Psalmi 4 et 29, et sepe alias, quem
+<lb ed="#P" n="24"/>imitata sunt Concilia Tolet. VI et XI, in 
+con<lb break="no" ed="#P" n="25"/>fessionibus fidei; et Anselm., lib. de Incarn.,
+<lb ed="#P" n="26"/>c. 55; citari etiam solet haec locutio ex 
+Conci<lb break="no" ed="#P" n="27"/>lio Ephes. , et ex sexta Synodo, Act. 11, sed
+<lb ed="#P" n="28"/>male, in illis enim locis non reperitur. Indicat
+<lb ed="#P" n="29"/>autem eam locutionem lIrenz., lib. 5 contra
+<lb ed="#P" n="30"/>haeres., c. 4 ; et Damasc., 1l. 3, c. 6. Ac 
+deni<lb break="no" ed="#P" n="31"/>que in Cantico Te Deum laudamus , quod ab
+<lb ed="#P" n="32"/>universa Ecclesia receptum est, dicitur : 7'z
+<lb ed="#P" n="33"/>ad liberandum suscepturus hominem, non 
+hor<lb break="no" ed="#P" n="34"/>vuisti Virginis uterum.
+</p>
+               <p xml:id="szstco-k27135-d1e893">
+                  <lb ed="#P" n="35"/>9. Propter quae nonnulli, et inter eos 
+Ludo<lb break="no" ed="#P" n="36"/>vicus Vives , 9 de Civit. , c. 17, reprehendunt
+<lb ed="#P" n="37"/>D. Thomam qui negat, eam locutionem in
+<lb ed="#P" n="38"/>rigore et proprietate sermonis esse veram.
+<lb ed="#P" n="39"/>Sed D. Thome sententia communis est 
+Theo<lb break="no" ed="#P" n="40"/>logorum, in 3, d. 6; et eamdem sequitur
+<lb ed="#P" n="41"/>Alensis, 3 p., q. 4, memb. 7, ad finem, et
+<lb ed="#P" n="42"/>sufficientissime probata est; et ideo ad 
+Au<lb break="no" ed="#P" n="43"/>gustinum ( et idem est de aliis Patribus ) 
+res<lb break="no" ed="#P" n="44"/>pondet D. Thomas in hac solutione , eam 
+lo<lb break="no" ed="#P" n="45"/>eutionem, ubi inventa fuerit, non esse 
+exten<lb break="no" ed="#P" n="46"/>dendam, sed pie explicandam. Adhibet vero
+<lb ed="#P" n="47"/>duas explicationes : prima est, ut homo 
+dica<lb break="no" ed="#P" n="48"/>tur assumptus, quia ejus natura assumpta
+<lb ed="#P" n="49"/>est, et hanc indicavit supra Anselmus, qui
+<lb ed="#P" n="50"/>tamen addit hanc esse veram, Deus assumpsit
+<lb ed="#P" n="51"/>hominem, quia terminus communis solam 
+na<lb break="no" ed="#P" n="52"/>turam significat ; hanc vero falsam, Deus 
+as<lb break="no" ed="#P" n="53"/>sumpsit hunc hominem, quia jam designatur
+<lb ed="#P" n="54"/>persona. Que tamen differentia non videtur
+<lb ed="#P" n="55"/>admodum necessaria, quia in proprietate 
+ser<cb ed="#P" n="b"/>
+                  <lb break="no" ed="#P" n="56"/>monis etiam homo significat naturam, vel
+<lb ed="#P" n="57"/>subsistentem; si autem improprie loquamur,
+<lb ed="#P" n="58"/>etiam hic homo potest significare hanc 
+huma<lb break="no" ed="#P" n="59"/>nitatem. Secunda explicatio D. Thome est,
+<lb ed="#P" n="60"/>ut Deus dicatur assumpsisse hominem , quia
+<lb ed="#P" n="61"/>assumplio terminata est, ut Deus sit homo;
+<lb ed="#P" n="62"/>in qua significatione verbum assumendi non
+<lb ed="#P" n="63"/>significat actionem, ut est mutatio rei 
+assum<lb break="no" ed="#P" n="64"/>pte, sed ut est veluti productio termini 
+resul<lb break="no" ed="#P" n="65"/>tantis ex unione. Alis expositiones adhiberi
+<lb ed="#P" n="66"/>solent, sed illas omitto, utpote non ita 
+pro<lb break="no" ed="#P" n="67"/>prias.
+</p>
+               <p xml:id="szstco-k27135-d1e969">
+                  <lb ed="#P" n="68"/>6. Alia argumenta, et solutiones eorum
+<lb ed="#P" n="69"/>clare sunt, et a Cajetano sufficienter 
+expli<lb break="no" ed="#P" n="70"/>cantur. Collige tamen obiter ex solutione ad
+<lb ed="#P" n="71"/>secundum , cum expositione Cajetani, magis
+<lb ed="#P" n="72"/>impropriam esse hanc locutionem, Homo 
+as<lb break="no" ed="#P" n="73"/>sumptus est a Verbo, quam hanc, Verbum
+<lb ed="#P" n="74"/>assumpsit hominem, quia subjecta magis
+<lb ed="#P" n="75"/>stant materialiter quam praedicata, et ideo 
+ma<lb break="no" ed="#P" n="76"/>gis in priori locutione significatur suppositum
+<lb ed="#P" n="77"/>vel personam hominis esse assumptam, quam
+<lb ed="#P" n="78"/>in posteriori hoc indicetur, si proprie verbo
+<lb ed="#P" n="79"/>assumptionis utamur, quod in rigore 
+suppo<lb break="no" ed="#P" n="80"/>nit, ut subjectum , totum id quod assumi 
+di<lb break="no" ed="#P" n="81"/>citur.
+</p>
+            </div>
+            <div xml:id="szstco-k27135-Dd1e1004"><!--sua-p3-q4a4-->
+               <head xml:id="szstco-k27135-Hd1e1007">Articulus 4</head>
+               <p xml:id="szstco-k27135-d1e1009">
+                  <lb ed="#P" n="83" type="fixed=501"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k27135-d1e1014">
+                  <lb ed="#P" n="84"/>1. Cajetanus exponit, in hoc titulo non
+<lb ed="#P" n="85"/>quari an hoc fieri potuerit, sed an fuerit 
+ex<lb break="no" ed="#P" n="86"/>pediens, unde explicando litteram articuli 
+di<lb break="no" ed="#P" n="87"/>cit, propterea D. Thomam non tantum 
+do<lb break="no" ed="#P" n="88"/>cuisse fuisse impossibile humanitatem sic 
+ab<lb break="no" ed="#P" n="89"/>stractam assumi, sed etiam non debuisse ita
+<lb ed="#P" n="90"/>assumi, etiamsi fuisset possibile. Sed ego
+<lb ed="#P" n="91"/>existimo D. Thomam voluisse docere illum
+<lb ed="#P" n="92"/>modum incarnationis, et secundum se fuisse
+<lb ed="#P" n="93"/>impossibilem , et ad finem incarnationis, qui
+<lb ed="#P" n="94"/>est redemptio nostra, esse ineptum et 
+discon<lb break="no" ed="#P" n="95"/>venientem, et ideo titulum articuli sub illis
+<lb ed="#P" n="96"/>verbis proposuisse.
+</p>
+               <p xml:id="szstco-k27135-d1e1045">
+                  <lb ed="#P" n="97"/>2. Ex qua tituli intelligentia, tam clara 
+re<lb break="no" ed="#P" n="98"/>linquitur responsio D. Thom , ut fere nulla
+<lb ed="#P" n="99"/>indigeat expositione. Quoniam vero Cajetanus
+<pb ed="#P" n="502"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>quaedam circa illam commentatur parum 
+ve<lb break="no" ed="#P" n="2"/>ra, minus utilia, valde autem obscura, ut ea
+<lb ed="#P" n="3"/>intelligatur, et non sit deceptionis occasio,
+<lb ed="#P" n="4"/>pauca notanda sunt, praesertim circa primam
+<lb ed="#P" n="5"/>ejus dubitationem. Probat enim D. Thomas
+<lb ed="#P" n="6"/>hanc conditionalem propositionem : etiamsi
+<lb ed="#P" n="7"/>natura humana esset separata ab individuis,
+<lb ed="#P" n="8"/>non esset conveniens , ut a Verbo 
+assumere<lb break="no" ed="#P" n="9"/>tur: quia assumptio terminatur ad personam;
+<lb ed="#P" n="10"/>est autem contra rationem forme communis,
+<lb ed="#P" n="11"/>ut in persona sit. Sed contra, inquit Cajetanus,
+<lb ed="#P" n="12"/>quia si talis forma existeret, necessario esset
+<lb ed="#P" n="13"/>indjvidua, et non esset universalis in essendo,
+<lb ed="#P" n="14"/>sed in causando, seu in ratione causae 
+exem<lb break="no" ed="#P" n="15"/>plaris; ergo non esset contra rationem ejus,
+<lb ed="#P" n="16"/>ut assumeretur in persona. Quod confirmat
+<lb ed="#P" n="17"/>exemplo form: angelice, quae licet sit forma
+<lb ed="#P" n="18"/>separata, nihilominus est in persona. In quo
+<lb ed="#P" n="19"/>dubio, et solutione ejus, supponit Cajetanus,
+<lb ed="#P" n="20"/>in naturis perfectis seu completis et 
+spiritua<lb break="no" ed="#P" n="21"/>libus, existere naturam specificam quasi 
+se<lb break="no" ed="#P" n="22"/>paratam et abstractam , et nihilominus esse
+<lb ed="#P" n="23"/>lerminatam per subsistentiam, seu 
+persona<lb break="no" ed="#P" n="24"/>litatem, quod dicit repugnare materiali 
+natu<lb break="no" ed="#P" n="25"/>rG ; fortasse quia existimat in rebus 
+materia<lb break="no" ed="#P" n="26"/>libus individuam naturam addere aliquid 
+su<lb break="no" ed="#P" n="27"/>pra naturam specificam, non vero in 
+spiri<lb break="no" ed="#P" n="28"/>tualibus. Unde concludit, rationem D. Thomas
+<lb ed="#P" n="29"/>non probare esse impossibile , formam 
+sepa<lb break="no" ed="#P" n="30"/>ratam assumi in persona, sed solum non esse
+<lb ed="#P" n="31"/>eonveniens, quanquam statim videatur 
+con<lb break="no" ed="#P" n="32"/>trarium docere; constituit enim differentiam
+<lb ed="#P" n="33"/>inter naturam humanam abstractam , et 
+na<lb break="no" ed="#P" n="34"/>turam angelicam, quia in Angelis, inquit, 
+li<lb break="no" ed="#P" n="35"/>cet natura sit abstracta , lamen in eis non
+<lb ed="#P" n="36"/>tantum est natura, sed etiam habens 
+natu<lb break="no" ed="#P" n="37"/>ram; si autem humanitas esset abstracta, 
+es<lb break="no" ed="#P" n="38"/>set solum natura et humanitas, et non posset
+<lb ed="#P" n="39"/>respectu illius esse aliquod habens naturam,
+<lb ed="#P" n="40"/>et ideo esset impossibile assumi. Quc 
+respon<lb break="no" ed="#P" n="41"/>sio, ut dixi, videtur contraria priori, et 
+om<lb break="no" ed="#P" n="42"/>nino voluntaria, nam qui fingit speciem 
+hu<lb break="no" ed="#P" n="43"/>manam existere abstractam ab individuis, non
+<lb ed="#P" n="44"/>lantum fingeret humanitatem , sed etiam 
+ho<lb break="no" ed="#P" n="45"/>minem abstracte existere.
+</p>
+               <p xml:id="szstco-k27135-d1e1156">
+                  <lb ed="#P" n="46"/>3. Dicendum est ergo D. Thomam in hae
+<lb ed="#P" n="47"/>parte arüculi voluisse ostendere, 
+impossibi<lb break="no" ed="#P" n="48"/>]em esse assumptionem talis nature 
+abstrac<lb break="no" ed="#P" n="49"/>te, non solum quia impossibile est naturam
+<lb ed="#P" n="50"/>ilam sic existere (hoc enim jam egerat in
+<lb ed="#P" n="51"/>prima parte artieuli), sed etiam quia haberet
+<lb ed="#P" n="52"/>specialem repugnantiam cum assumptione,
+<lb ed="#P" n="53"/>qiia natura in communi, etiamsi fingatur
+<lb ed="#P" n="54"/>existens, tantum posset esse subsistens 
+sub<lb break="no" ed="#P" n="55"/>sistentia in communi, et non certa ei deter-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="56"/>minata personalitate ; quia in persona 
+indivi<lb break="no" ed="#P" n="57"/>dua non potest esse nisi natura individua,
+<lb ed="#P" n="58"/>assumptio autem terminata est ad certam et
+<lb ed="#P" n="59"/>determinatam personam. Neque contra hunc
+<lb ed="#P" n="60"/>sensum procedit dubitatio Cajetani, nam, 
+po<lb break="no" ed="#P" n="61"/>sita hypothesi, illa natura esset universalis,
+<lb ed="#P" n="62"/>non tantum in causando, sed etiam in 
+essen<lb break="no" ed="#P" n="63"/>do et praedicando, et consequenter , licet 
+se<lb break="no" ed="#P" n="64"/>quatur fore individuam quia existentem , 
+ta<lb break="no" ed="#P" n="65"/>men etiam sequitur non fore individuam, quia
+<lb ed="#P" n="66"/>abstractam et universalem ; haec enim 
+impli<lb break="no" ed="#P" n="67"/>calio sequitur ex illa hypothesi ; et ex 
+poste<lb break="no" ed="#P" n="68"/>riori membro sequitur , illam naturam ut sic
+<lb ed="#P" n="69"/>non esse assumptibilem, nec personabilem,
+<lb ed="#P" n="70"/>nec principium operationum particularium ,
+<lb ed="#P" n="71"/>ete. Denique contra hoc nihil facit objectio de
+<lb ed="#P" n="72"/>angelica natura, supponit enim falsam 
+doc<lb break="no" ed="#P" n="73"/>trinam, cum illa revera non existat separata
+<lb ed="#P" n="74"/>seu abstracta a singularibus, sed sit quedam
+<lb ed="#P" n="75"/>individua et singularis natura, non minus
+<lb ed="#P" n="76"/>quam hae humanitas ; quoad enim nulla est
+<lb ed="#P" n="77"/>differentia inter naturam spiritualem et 
+ma<lb break="no" ed="#P" n="78"/>terialem , ut in alio loco latius disputandum
+<lb ed="#P" n="79"/>est.
+</p>
+            </div>
+            <div xml:id="szstco-k27135-Dd1e1235"><!--sua-p3-q4a5-->
+               <head xml:id="szstco-k27135-Hd1e1238">Articulus 5</head>
+               <p xml:id="szstco-k27135-d1e1240">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="53" type="fixed=503"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k27135-d1e1247">
+                  <lb ed="#P" n="54"/>Littera non eget explicatioue, de ipsa vero
+<lb ed="#P" n="55"/>re sufficienter dictum est supra, 
+disputatio<lb break="no" ed="#P" n="56"/>ne prima.
+</p>
+            </div>
+            <div xml:id="szstco-k27135-Dd1e1257"><!--sua-p3-q4a6-->
+               <head xml:id="szstco-k27135-Hd1e1260">Articulus 6</head>
+               <p xml:id="szstco-k27135-d1e1262">
+                  <lb ed="#P" n="41" type="fixed=504"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-k27135-d1e1267">
+                  <lb ed="#P" n="42"/>Respondet D. Thomas affirmando, et 
+con<lb break="no" ed="#P" n="43"/>eruentie, quas adducit, sunt optimc. 
+Argu<lb break="no" ed="#P" n="44"/>menta autem in contrarium facilia sunt, et
+<lb ed="#P" n="45"/>ideo nihil in explicanda littera immorari 
+opor<lb break="no" ed="#P" n="46"/>tet. Rem vero ipsam tractabimus infra, 
+quas<lb break="no" ed="#P" n="47"/>lio 31, ubi de Christi genealogia ejusque 
+con<lb break="no" ed="#P" n="48"/>ceptione disseritur.
+</p>
+            </div>
+            <div xml:id="szstco-k27135-Dd1e1286"><!--sua-p3-q4a6-d14-->
+               <head xml:id="szstco-k27135-Hd1e1289">Disputatio 14</head>
+               <head xml:id="szstco-k27135-Hd1e1291" type="question-title">
+      Quid poterit a deo assumi per quamcumque 
+      unionem hypostaticam possibilem
+    </head>
+               <p xml:id="szstco-k27135-d1e1294">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="49" type="fixed=504"/>DISPUTATIO XIV,
+<lb ed="#P" n="50"/>In quatuor sectiones distributa.
+<lb ed="#P" n="51"/>QUID POTERIT A DEO ASSUMI PER QUAMCUNQUE
+<lb ed="#P" n="52"/>UNIONEM HYPOSTATICAM POSSIBILEM.
+</p>
+               <p xml:id="szstco-k27135-d1e1307">
+                  <lb ed="#P" n="53"/>Quoniam ea, quae pertinent ad naturam
+<lb ed="#P" n="54"/>assumptam per incarnationem jam factam,
+<lb ed="#P" n="55"/>et facilia sunt, et cum his connexa qua 
+se<lb break="no" ed="#P" n="56"/>quenti quaestione tractat D. Thomas, ideo 
+illo<lb break="no" ed="#P" n="57"/>rum disputationem differimus, et hanc de 
+pos<lb break="no" ed="#P" n="58"/>sibili praemittimus, quae nonnihil etiam 
+confe<lb break="no" ed="#P" n="59"/>ret ad intelligendum ea quas jam facta sunt.
+<lb ed="#P" n="60"/>Quatuor vero sunt quae hic possunt in 
+dispu<lb break="no" ed="#P" n="61"/>tationem venire. Primo , suppositum 
+crea<lb break="no" ed="#P" n="62"/>tum,seu naLurain proprio supposito existens.
+<lb ed="#P" n="63"/>Secundo, natura integra substantialis. Tertio,
+<lb ed="#P" n="64"/>partes ejus. Quarto, accidentia ; praeter haec
+<lb ed="#P" n="65"/>enim nihil est in rebus creatis, de quo hic
+<lb ed="#P" n="66"/>disputari possit. De natura autem, vel 
+perso<lb break="no" ed="#P" n="67"/>na increata nihil dicendum est, cum per se
+<lb ed="#P" n="68"/>notum sit non posse assumi.
+</p>
+               <div xml:id="szstco-k27135-Dd1e1344">
+                  <head xml:id="szstco-k27135-Hd1e1346">Sectio 1</head>
+                  <head xml:id="szstco-k27135-Hd1e1348" type="question-title">Utrum natura existens in propria persona potuerit
+        assumi</head>
+                  <p xml:id="szstco-k27135-d1e1351">
+                     <lb ed="#P" n="69" type="fixed=504"/>SECTIO I.
+<lb ed="#P" n="70"/>Utrum natura existens in propria persona potuerit
+<lb ed="#P" n="71"/>assumi.
+</p>
+                  <p xml:id="szstco-k27135-d1e1360">
+                     <lb ed="#P" n="72"/>1. Suppositis variis sensibus hujus 
+quaestio<lb break="no" ed="#P" n="73"/>nis, quos circa articulum secundum D. '
+Tho<lb break="no" ed="#P" n="74"/>mo explicavimus, duo sunt certa. Primum
+<lb ed="#P" n="75"/>est, personam creatam formaliter, et ut 
+per<lb break="no" ed="#P" n="76"/>sona est, non esse assumptibilem, in quo 
+con<lb break="no" ed="#P" n="77"/>veniunt omnes Doctores, in 3, d. 4 et 5; 
+Sco<lb break="no" ed="#P" n="78"/>tus, in Quodlib., quaest., 19, art. 3; Aureol.,
+<lb ed="#P" n="79"/>apud Capreol.. in 3, d. 5, art. 2, in arg. 
+con<lb break="no" ed="#P" n="80"/>ira secundam conclusionem. Est enim clara
+<lb ed="#P" n="81"/>implicatio contradietionis, quia vel persona
+<lb ed="#P" n="82"/>in suo conceptu formaliter includit 
+negatio<lb break="no" ed="#P" n="83"/>nem existendi in alio ut supposito, ut Scot. et
+<lb ed="#P" n="84"/>alii volunt ; vel certe includit modum per se
+<lb ed="#P" n="85"/>existendi incommunieabiliter, ex quo modo
+<lb ed="#P" n="86"/>immediate oritur illa negatio ; etideo illi 
+mo<lb break="no" ed="#P" n="87"/>do directe repugnat in alio esse, seu ab alio
+<lb ed="#P" n="88"/>terminari, est enim manifesta implicatio 
+con<lb break="no" ed="#P" n="89"/>tradietionis ; sicut in accidenti quamvis 
+pos<lb break="no" ed="#P" n="90"/>sit Deus accidens per se constituere, tamen
+<lb ed="#P" n="91"/>quod ipsa actualis inhaerentia accidentis in
+<lb ed="#P" n="92"/>subjeeto per se sit, est manifesta 
+repugnan<lb break="no" ed="#P" n="93"/>lia, quia ille modus inhaerentie includit 
+for<lb break="no" ed="#P" n="94"/>maliter vel radicaliter negationem modi 
+es<lb break="no" ed="#P" n="95"/>sendi per se ; et hac ratione dicitur 
+persona<lb break="no" ed="#P" n="96"/>litas ultimus terminus nature, quia in suo
+<lb ed="#P" n="97"/>conceptu includit, ut persona per illam 
+con<lb break="no" ed="#P" n="98"/>stituta in se et perse sit, cui directe repugnat
+<pb ed="#P" n="505"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>quod ab alio sustentetur vel assumatur. 
+Pra<lb break="no" ed="#P" n="2"/>terea hac ratione non potest esse unio 
+sub<lb break="no" ed="#P" n="3"/>stantialis inter duas personas, quia non 
+po<lb break="no" ed="#P" n="4"/>lest fieri ex illis una persona, et ideo etiam
+<lb ed="#P" n="5"/>neutra potest aliam assumere. Confirmatur ,
+<lb ed="#P" n="6"/>quia, ut. supra dicebam, disp. 11, sect. 3, de
+<lb ed="#P" n="7"/>ratione personalitatis est incommunicabilitas,
+<lb ed="#P" n="8"/>imo ad hoc potissimum poni videtur, ut ita
+<lb ed="#P" n="9"/>terminet naturam, quod eam sic terminatam
+<lb ed="#P" n="10"/>reddat incommunicabilem, et ideo dicitur 
+es<lb break="no" ed="#P" n="11"/>se ultimus nature terminus ; ergo est aperta
+<lb ed="#P" n="12"/>implicatio, talem terminum amplius 
+termina<lb break="no" ed="#P" n="13"/>ri, seu constitutum per talem terminum alteri
+<lb ed="#P" n="14"/>hypostatice uniri. De ratione enim hujus 
+ter<lb break="no" ed="#P" n="15"/>mini, ut supra dicebam, non est quod sit 
+in<lb break="no" ed="#P" n="16"/>communicabilis nature ut sic ; nam potius est
+<lb ed="#P" n="17"/>modus ac terminus ejus; est ergo 
+incommuni<lb break="no" ed="#P" n="18"/>cabilis persone, et interminabilis altero simili
+<lb ed="#P" n="19"/>termino. Sicut etiam linea non potest 
+termi<lb break="no" ed="#P" n="20"/>nari alia linea, nec punctus alio puncto, nec
+<lb ed="#P" n="21"/>unum ubi formaliter alio ubi, nec una actio
+<lb ed="#P" n="22"/>alia actione; et in universum una forma non
+<lb ed="#P" n="23"/>potest suum veluti formalem effectum per
+<lb ed="#P" n="24"/>aliam formani recipere, ut calor fieri nequit
+<lb ed="#P" n="25"/>calidus alio calore ; ita ergo nec personalitas
+<lb ed="#P" n="26"/>ut sic potest alia personalitate personari seu
+<lb ed="#P" n="27"/>terminari,
+</p>
+                  <p xml:id="szstco-k27135-d1e1484">
+                     <lb ed="#P" n="28"/>2. Secundo est certum, naturam 
+praexis<lb break="no" ed="#P" n="29"/>tentem in propria persona posse assumi, si
+<lb ed="#P" n="30"/>per assumptionem et unionem ad aliam 
+per<lb break="no" ed="#P" n="31"/>sonam, privetur propria personalitate ; hoc
+<lb ed="#P" n="32"/>videtur per se evidens, quia non involvit 
+ma<lb break="no" ed="#P" n="33"/>jorem repugnantiam, si assumatur natura
+<lb ed="#P" n="34"/>preexistens in propria persona, et privetur
+<lb ed="#P" n="35"/>personalitate propria, quam quod a principio
+<lb ed="#P" n="36"/>assumatur, impediendo personalitatem 
+pro<lb break="no" ed="#P" n="37"/>priam ; illa enim unio, quae impedit 
+persona<lb break="no" ed="#P" n="38"/>litatem propriam, potest etiam formaliter 
+ex<lb break="no" ed="#P" n="39"/>pellere praexistentem ; virtus autem Dei,
+<lb ed="#P" n="40"/>cum sit infinita, non minus potest 
+elfecti<lb break="no" ed="#P" n="41"/>ve expellere praexistentem personalitatem ,
+<lb ed="#P" n="42"/>quam, ne sequatur, impedire. Et 
+confirma<lb break="no" ed="#P" n="43"/>tur, nam potest Deus accidens prius 
+inhe<lb break="no" ed="#P" n="44"/>rens in subjecto privare modo inherentie,
+<lb ed="#P" n="45"/>et per se constituere, et humanitatem jam
+<lb ed="#P" n="46"/>existentem in Verbo posset privare modo
+<lb ed="#P" n="47"/>unionis, et propriam personalitatem illi 
+con<lb break="no" ed="#P" n="48"/>ferre ; ergo et e contrario. Neque ullam 
+ra<lb break="no" ed="#P" n="49"/>tionem video quare possit de hoc dubitari ;
+<lb ed="#P" n="50"/>quanquam D. Thomas, 4 contra gent., c. 4,
+<lb ed="#P" n="51"/>videtur contrarium indicare, dicens non 
+pos<lb break="no" ed="#P" n="52"/>se naturam humanam in propria persona 
+pra<lb break="no" ed="#P" n="53"/>existentem assumi, nisi per corruptionem 
+ta<lb break="no" ed="#P" n="54"/>lis personae ; et ideo, inquit, oportuisset illum
+<lb ed="#P" n="55"/>hominem corrumpi, quia unioni praextitis-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>set, et per consequens humanam naturam in
+<lb ed="#P" n="57"/>eo existentem. Sed haec ratio parum 
+conclu<lb break="no" ed="#P" n="58"/>dit: oportuisset enim personam corrumpi,
+<lb ed="#P" n="59"/>seu desinere esse formaliter quoad modum
+<lb ed="#P" n="60"/>personalitatis ; inde tamen non fit, ipsam 
+hu<lb break="no" ed="#P" n="61"/>manitatem quoad substantiam suam 
+corrum<lb break="no" ed="#P" n="62"/>pi, sed mutare tantum modum existendi ; 
+si<lb break="no" ed="#P" n="63"/>cut e contrario, si Verbum nunc dimitteret
+<lb ed="#P" n="64"/>humanitatem , destrueretur in humanitate
+<lb ed="#P" n="65"/>modus unionis, non tamen substantia ipsius
+<lb ed="#P" n="66"/>nature. Unde etiam proprie et in rigore non
+<lb ed="#P" n="67"/>sequitur necessarium fore, tunc corrumpi
+<lb ed="#P" n="68"/>hunc hominem, sed tantum hanc personam
+<lb ed="#P" n="69"/>humanam, ut, ex supra dietis 
+disputatio<lb break="no" ed="#P" n="70"/>ne 13, constat. Et ita existimo Div. 
+Tho<lb break="no" ed="#P" n="71"/>mam hic art. 2 mutasse sententiam , non
+<lb ed="#P" n="72"/>enim dixitimpossibile esse humanitatem 
+pre<lb break="no" ed="#P" n="73"/>existere in propria persona, sed dicit frustra
+<lb ed="#P" n="74"/>id futurum fuisse.
+</p>
+                  <p xml:id="szstco-k27135-d1e1592">
+                     <lb ed="#P" n="75"/>3. Tertio est certum, ad humanitatis 
+as<lb break="no" ed="#P" n="76"/>sumptionem ex natura rei sequi ut propria
+<lb ed="#P" n="77"/>personalitate privetur, et hoc, ut minimum,
+<lb ed="#P" n="78"/>probabunt rationes statim adducenda. Quod
+<lb ed="#P" n="79"/>etiam sufficienter persuadet incarnationis
+<lb ed="#P" n="80"/>mysterium. Cur enim privata fuisset Christi
+<lb ed="#P" n="81"/>humanitas propria personalitate, nisiid saltem
+<lb ed="#P" n="82"/>ex natura rei ad assumptionem esset 
+conse<lb break="no" ed="#P" n="83"/>cutum ? Tandem humanitas ipsa, cum 
+limita<lb break="no" ed="#P" n="84"/>ta sit, propria personalitate adequate 
+termi<lb break="no" ed="#P" n="85"/>natur; ergo saltem ex natura rei non 
+admit<lb break="no" ed="#P" n="86"/>lit aliam ; ergo, hoc ipso quod ei datur alia,
+<lb ed="#P" n="87"/>ex vi illius actionis consequitur ut altera 
+pri<lb break="no" ed="#P" n="88"/>vetur.
+</p>
+                  <p xml:id="szstco-k27135-d1e1625">
+                     <lb ed="#P" n="89"/>4. Quartum ergo disputandum relinquitur,
+<lb ed="#P" n="90"/>utrum natura terminata propria personalitate
+<lb ed="#P" n="91"/>possit assumi, conservata propria 
+personali<lb break="no" ed="#P" n="92"/>tate, ita ut nec personalitas assumatur, sed
+<lb ed="#P" n="93"/>sola natura, nec tamen corrumpatur, sed. 
+con<lb break="no" ed="#P" n="94"/>comitanter maneat terminans eamdem 
+natu<lb break="no" ed="#P" n="95"/>ram. Sicut natura divina, cum per eternam
+<lb ed="#P" n="96"/>generationem communicatur Filio, in illo 
+ter<lb break="no" ed="#P" n="97"/>minatur propria Filii personalitate, non 
+amit<lb break="no" ed="#P" n="98"/>tendo personalitatem Patris ; vel sicut, si 
+ea<lb break="no" ed="#P" n="99"/>dem humanitas, quae nunc est assumpta a
+<lb ed="#P" n="100"/>Verbo, conservata unione assumeretur etiam
+<lb ed="#P" n="101"/>a Patre. Et hoc exemplum est, quod 
+diftici<lb break="no" ed="#P" n="102"/>lem reddit hanc quaestionem, quia eadem 
+na<lb break="no" ed="#P" n="103"/>tura existens in una persona aliena, potest
+<lb ed="#P" n="104"/>assumi et terminari in alia, non amittendo
+<lb ed="#P" n="105"/>priorem personalitatem ; ergo eadem ratione
+<lb ed="#P" n="106"/>natura existens in propria persona potest 
+as<lb break="no" ed="#P" n="107"/>sumi et terminari ab aliena persona, 
+conser<lb break="no" ed="#P" n="108"/>vata propria personalitate. Quam illationem
+<lb ed="#P" n="109"/>ita constantem existimavit Scol., in 3, d. 4,
+<lb ed="#P" n="110"/>quest, 2, ut, ne concederet consequens, ne-
+<pb ed="#P" n="506"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>gaverit antecedens, et ex contradictorio 
+an<lb break="no" ed="#P" n="2"/>tecedentis intulerit contradictorium 
+conse<lb break="no" ed="#P" n="3"/>quentis. Alii vero, qui nullam etiam 
+sufficien<lb break="no" ed="#P" n="4"/>lem rationem differenti:te assignari posse
+<lb ed="#P" n="5"/>existimant, de praesenti quaestione opinantur,
+<lb ed="#P" n="6"/>non esse impossibile eamdem naturam simul
+<lb ed="#P" n="7"/>esse in supposito proprio et alieno, sicut non
+<lb ed="#P" n="8"/>repugnat simul esse in duobus alienis, vel 
+si<lb break="no" ed="#P" n="9"/>eut eadem natura divina simul esse potest
+<lb ed="#P" n="10"/>in tribus propriis, nulla enim hic specialis
+<lb ed="#P" n="11"/>contradictio assignari potest. Quam 
+senten<lb break="no" ed="#P" n="12"/>tiam non invenio apud aliquem auctorem,
+<lb ed="#P" n="13"/>solum audivi doctos aliquos viros ita 
+sentien<lb break="no" ed="#P" n="14"/>tes et publice docentes, et revera non possunt
+<lb ed="#P" n="15"/>ralione convincente impugnari.
+</p>
+                  <p xml:id="szstco-k27135-d1e1712">
+                     <lb ed="#P" n="16"/>5. Contraria vero sententia est communis
+<lb ed="#P" n="17"/>Theologorum, supponentium eam magis quam
+<lb ed="#P" n="18"/>probantium, ut videre est in Scoto supra, et
+<lb ed="#P" n="19"/>Durand. 4, q. 3, ad 2; Palud., q. 3, art. 2 ;
+<lb ed="#P" n="20"/>Mars., in 3, q. 2, art. 3, dub. 4, ad 5 ; Capr.
+<lb ed="#P" n="21"/>d. 4, ad 4 Scoti contra secundam concl.;
+<lb ed="#P" n="22"/>Cajet. supra, q. 3, art. 6 ; Palacios, in 3, d. 1,
+<lb ed="#P" n="23"/>disp. 3, ad finem; Henr., Quodl. 6, q. 7; qui
+<lb ed="#P" n="24"/>tamen in assignanda ratione et implicatione
+<lb ed="#P" n="25"/>contradictionis multum inter se discrepant.
+<lb ed="#P" n="26"/>Prima sumitur ex Scot., quia natura creata
+<lb ed="#P" n="27"/>non potest simul esse in multis personis, vel
+<lb ed="#P" n="28"/>quia finita est, vel quia pendet a personis in
+<lb ed="#P" n="29"/>quibus existit, et non potest simul pendere a
+<lb ed="#P" n="30"/>multis. Sed hic ratio supponit falsum, et 
+su<lb break="no" ed="#P" n="31"/>pra soluta est, cum definivimus eamdem 
+hu<lb break="no" ed="#P" n="32"/>manitatem posse simul assumi a duabus 
+per<lb break="no" ed="#P" n="33"/>sonis divinis, cujus contrarium illa ratio 
+pro<lb break="no" ed="#P" n="34"/>baret, si efficax esset. Et ideo alii auctores
+<lb ed="#P" n="35"/>conantur repugnantiam ostendere,assignando
+<lb ed="#P" n="36"/>differentiam inter naturam terminatam 
+pro<lb break="no" ed="#P" n="37"/>pria personalitate, et assumptam a Verbo.
+</p>
+                  <p xml:id="szstco-k27135-d1e1762">
+                     <lb ed="#P" n="38"/>6., Secunda ergo ratio ex Cajetano sit, quia
+<lb ed="#P" n="39"/>natura assumpta terminatur ab aliena 
+perso<lb break="no" ed="#P" n="40"/>na intensive, non tamen extensive ; al, vero
+<lb ed="#P" n="41"/>per propriam personalitatem terminatur 
+in<lb break="no" ed="#P" n="42"/>tensive et extensive, et ideo h:oc personalitas
+<lb ed="#P" n="43"/>propria non-admittit consortium alterius 
+per<lb break="no" ed="#P" n="44"/>sonalitatis. Sed haec ratio, nisi aliud addatur,
+<lb ed="#P" n="45"/>potius est petitio principii quam probatio;
+<lb ed="#P" n="46"/>per illa enim verba nihil aliudfit quam 
+obscu<lb break="no" ed="#P" n="47"/>riusrepetereipsam conclusionem ; dicere enim
+<lb ed="#P" n="48"/>naturam terminari personalitate propria 
+in<lb break="no" ed="#P" n="49"/>tensive et extensive, nihil aliud est quam 
+di<lb break="no" ed="#P" n="50"/>cere ita terminari, ut non possit simul ab alia
+<lb ed="#P" n="51"/>persona terminari; haec autem est assertio
+<lb ed="#P" n="52"/>eujus rationem indagamus. Addit ergo 
+Caje<lb break="no" ed="#P" n="53"/>tanus naturam existentem in propria persona
+<lb ed="#P" n="54"/>constituere illam vi sua, quia secum affert
+<lb ed="#P" n="55"/>propriam personalitatem , velut a se manan-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>tem ; et ideo non potest hoc modo 
+constitue<lb break="no" ed="#P" n="57"/>re nisi unam personam ; unde fit consequens,
+<lb ed="#P" n="58"/>ut dum ita subsistit, non possit ab alia 
+perso<lb break="no" ed="#P" n="59"/>na assumi, quia sequitur implicatio 
+contra<lb break="no" ed="#P" n="60"/>dictionis, nimirum, quod esset una persona,
+<lb ed="#P" n="61"/>et non esset unà persona cum assumente.
+<lb ed="#P" n="62"/>Sed neque vim hujus rationis satis percipio,
+<lb ed="#P" n="63"/>quia ex illa solum habetur, naturam creatam
+<lb ed="#P" n="64"/>solum posse constituere unam personam,
+<lb ed="#P" n="65"/>tanquam proprium et connaturale  
+princi<lb break="no" ed="#P" n="66"/>pium, atque adeo ut sibi intriusecam et 
+con<lb break="no" ed="#P" n="67"/>naturalem. Quod vero natura constituens hoc
+<lb ed="#P" n="68"/>modo unam personam non possit assumi ut
+<lb ed="#P" n="69"/>alio modo componat cum assumente aliam
+<lb ed="#P" n="70"/>personam humanam, non potest illa ratione
+<lb ed="#P" n="71"/>concludi; quia, hoc posito, non sequitur illa
+<lb ed="#P" n="72"/>contradictio, sed tunc esset una persona 
+con<lb break="no" ed="#P" n="73"/>naturalis, et alia assumens, et persona 
+assu<lb break="no" ed="#P" n="74"/>mens esset una et eadem cum persona 
+com<lb break="no" ed="#P" n="75"/>posita resultante ex unione seu assumptione,
+<lb ed="#P" n="76"/>quod solum est de intrinseca ratione unionis
+<lb ed="#P" n="77"/>hypostaticee ; non tamen esset una et eadem
+<lb ed="#P" n="78"/>cum persona qua concomitanter tantum 
+sup<lb break="no" ed="#P" n="79"/>ponitur assumptioni; quod non videtur esse
+<lb ed="#P" n="80"/>contra rationem unionis hypostatiee, ut suo
+<lb ed="#P" n="81"/>modo patet in casu supra posito de natura
+<lb ed="#P" n="82"/>assumpta a duobus personis.
+</p>
+                  <p xml:id="szstco-k27135-d1e1864">
+                     <lb ed="#P" n="83"/>7. Et ideo addit ulterius Cajetanus, ex illo
+<lb ed="#P" n="84"/>modo, quo humanitas terminatur propria
+<lb ed="#P" n="85"/>personalitate, sequi ut, dum sic terminata
+<lb ed="#P" n="86"/>est, non possit assumi quin assumatur 
+ta<lb break="no" ed="#P" n="87"/>lis personalitas, propter naturalem 
+conne<lb break="no" ed="#P" n="88"/>xionem quam inter se habent; hoc tamen
+<lb ed="#P" n="89"/>non sequitur, quando natura est terminata in
+<lb ed="#P" n="90"/>aliena persona, qua est quodammodo 
+extrin<lb break="no" ed="#P" n="91"/>seca, et non connexa cum ipsa natura. Sed
+<lb ed="#P" n="92"/>adhue non cogit ratio, quia cum personalitas
+<lb ed="#P" n="93"/>Sit, vel res, vel modus ex natura rei 
+distinc<lb break="no" ed="#P" n="94"/>tus, nihil videtur repugnare humanitatem 
+as<lb break="no" ed="#P" n="95"/>sumi, qu:e est capax assumptionis, manente
+<lb ed="#P" n="96"/>personalitate non assumpta, quia est incapax
+<lb ed="#P" n="97"/>talis, assumptionis; sicut supra dicebamus
+<lb ed="#P" n="98"/>naturam unitam uni persone posse assumi
+<lb ed="#P" n="99"/>ab alia, non assumpto modo unionis cum
+<lb ed="#P" n="100"/>priori persona, quia ille modus est 
+inassum<lb break="no" ed="#P" n="101"/>ptibilis, et licet sit in ipsa natura, tamen 
+dis<lb break="no" ed="#P" n="102"/>tinguitur ab illa ex natura rei. In Trinitate
+<lb ed="#P" n="103"/>etiam videmus eamdem naturam, ultimo 
+ter<lb break="no" ed="#P" n="104"/>minatam in persona Patris, rursus terminari
+<lb ed="#P" n="105"/>per relationem Filii, quamvis una 
+personali<lb break="no" ed="#P" n="106"/>tas non terminet personaliter aliam ; ad hunc
+<lb ed="#P" n="107"/>ergo modum potest facilius intelligi, Verbum
+<lb ed="#P" n="108"/>assumere et terminare naturam personatam,
+<lb ed="#P" n="109"/>et non personalitatem ejus, cum inter haec
+<lb ed="#P" n="110"/>sit distinctio ex natura rei, quae non reperi-
+<pb ed="#P" n="507"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>tur inter essentiam et personalitates 
+divi<lb break="no" ed="#P" n="2"/>nas.
+</p>
+                  <p xml:id="szstco-k27135-d1e1936">
+                     <lb ed="#P" n="3"/>8. Preterea, licet in eodem Christi corpore
+<lb ed="#P" n="4"/>sit praesentia localis in coelo, et sacramentalis
+<lb ed="#P" n="5"/>in Eucharistia, et unaqueque afficiat Christi
+<lb ed="#P" n="6"/>corpus, illudque faciat alicubi praesens, tamen
+<lb ed="#P" n="7"/>neutra afficit alteram, neque facit praesentem,
+<lb ed="#P" n="8"/>quia et ex natura rei distinguuntur a corpore,
+<lb ed="#P" n="9"/>et inter se habent oppositionem, neque una
+<lb ed="#P" n="10"/>est capax effectus formalis alterius; atque
+<lb ed="#P" n="11"/>idem erit quotiescumque opposita vel 
+dispa<lb break="no" ed="#P" n="12"/>rata in eodem tertio conjuncta fuerint ; ut si
+<lb ed="#P" n="13"/>albedo et nigredo essent in eodem subjecto,
+<lb ed="#P" n="14"/>illud quidem afficerent, inter se autem nihil
+<lb ed="#P" n="15"/>commmniearent quoad suos effectus 
+forma<lb break="no" ed="#P" n="16"/>les; sic ergo esset in praesenti casu, si 
+sub<lb break="no" ed="#P" n="17"/>sistentia propria et aliena eamdem naturam
+<lb ed="#P" n="18"/>terminarent, non ideo sequi quod una 
+alte<lb break="no" ed="#P" n="19"/>ram affieeret autterminaret. Ratio denique a
+<lb ed="#P" n="20"/>priori est, quia posset natura pendere a 
+plu<lb break="no" ed="#P" n="21"/>ribus et singulis personalitatibus, licet una
+<lb ed="#P" n="22"/>personalitas ab alia non. penderet; quia 
+ne<lb break="no" ed="#P" n="23"/>que una personalitas indigeret alia, neque
+<lb ed="#P" n="24"/>haberet influxum ullum vel habitudinem ad
+<lb ed="#P" n="25"/>ilam, sed mere concomitanter se haberent.
+</p>
+                  <p xml:id="szstco-k27135-d1e1989">
+                     <lb ed="#P" n="26"/>9. Quare addit ultimo Cajetanus, personam
+</p>
+                  <p xml:id="szstco-k27135-d1e1994">
+                     <lb ed="#P" n="27"/>divinam esse infinitam, et supra capacitatem
+<lb ed="#P" n="28"/>nature humans, personalitatem autem 
+crea<lb break="no" ed="#P" n="29"/>tam esse finitam, et quasi ade quatam ipsi 
+hu<lb break="no" ed="#P" n="30"/>manitati. Sed hoc nihil ad praesentem 
+quaestio<lb break="no" ed="#P" n="31"/>nem referre video ; quanquam enim humana
+<lb ed="#P" n="32"/>natura existens in propria persona 
+suflficien<lb break="no" ed="#P" n="33"/>ter et adequate terminetur, ita ut neque 
+na<lb break="no" ed="#P" n="34"/>tura sua appetat aliam personalitatem, neque
+<lb ed="#P" n="35"/>habeat naturalem capacitatem ejus, non inde
+<lb ed="#P" n="36"/>fit implicare contradictionem, ut supra 
+natu<lb break="no" ed="#P" n="37"/>ram excellentiori modo terminetur per 
+infini<lb break="no" ed="#P" n="38"/>tam personam Verbi. Cur enim non dicemus
+<lb ed="#P" n="39"/>hoec posse Verbum propter infinitatem suam ?
+<lb ed="#P" n="40"/>Etenim cum persona Verbi non solum 
+adce<lb break="no" ed="#P" n="41"/>quate, sed etiam excellenter terminet 
+natu<lb break="no" ed="#P" n="42"/>ram humanam, et nihilominus possit simul
+<lb ed="#P" n="43"/>terminari ab alia persona, cur eadem natuca,
+<lb ed="#P" n="44"/>lieet adequata terminetur propria 
+persona<lb break="no" ed="#P" n="45"/>litate, non poterit simul terminari ab 
+excellen<lb break="no" ed="#P" n="46"/>tiori persona ?
+</p>
+                  <p xml:id="szstco-k27135-d1e2040">
+                     <lb ed="#P" n="47"/>10. Tertia ergo ratio sumitur ex Durando
+<lb ed="#P" n="48"/>et Capreolo, scilicet, quia una natura non 
+po<lb break="no" ed="#P" n="49"/>test simul terminari duabus personalitatibus,
+<lb ed="#P" n="50"/>quae non tantum in propria ratione 
+persona<lb break="no" ed="#P" n="51"/>litatis et incommunicabilitatis , sed etiam in
+<lb ed="#P" n="52"/>ralione subsistendi distinguantur , quia non
+<lb ed="#P" n="53"/>potest una natura, nisi unica subsistentia 
+sub<lb break="no" ed="#P" n="54"/>sistere; jet ideo natura divina potest tribus
+<lb ed="#P" n="55"/>relationibus terminari, quia ille» non distin-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>guuntur in ratione subsistendi, sed in sola 
+in<lb break="no" ed="#P" n="57"/>communicabilitate; et propter eamdem 
+cau<lb break="no" ed="#P" n="58"/>sam potest eadem natura creata eisdem 
+rela<lb break="no" ed="#P" n="59"/>tionibus divinis simul terminari , non vero
+<lb ed="#P" n="60"/>potest simul terminari propria personalitate
+<lb ed="#P" n="61"/>el divina, quia hae non solum in 
+incommuni<lb break="no" ed="#P" n="62"/>cabilitate , sed in ratione subsistendi 
+distin<lb break="no" ed="#P" n="63"/>guuntur. Sed hae ratio primum supponit 
+fal<lb break="no" ed="#P" n="64"/>sum, quia relationes divinae re vera 
+distin<lb break="no" ed="#P" n="65"/>guuntur in propria ratione subsistendi ; et
+<lb ed="#P" n="66"/>quamvis conveniant in communi et absoluta
+<lb ed="#P" n="67"/>subsistentia , possunt tamen proxime et 
+im<lb break="no" ed="#P" n="68"/>mediate assumere eamdem naturam , et 
+ter<lb break="no" ed="#P" n="69"/>minare illam , solum per proprias 
+subsisten<lb break="no" ed="#P" n="70"/>tias. Deinde non ostendit repugnantiam , cur
+<lb ed="#P" n="71"/>non posset eadem natura pluribus 
+subsisten<lb break="no" ed="#P" n="72"/>liis subsistere, vel propriis, vel alienis, vel
+<lb ed="#P" n="73"/>altera propria, et altera aliena, sicut potest
+<lb ed="#P" n="74"/>ignis simul esse calidus duplici calore, altero
+<lb ed="#P" n="75"/>innato, altero adventitio.
+</p>
+                  <p xml:id="szstco-k27135-d1e2108">
+                     <lb ed="#P" n="76"/>11. Quarta ratio sit, quia natura existens in
+<lb ed="#P" n="77"/>propria persona , existit existentia creata, in
+<lb ed="#P" n="78"/>persona autem Verbi existit existentia 
+in<lb break="no" ed="#P" n="79"/>creata; repugnat autem eamdem naturam 
+si<lb break="no" ed="#P" n="80"/>mul existere per creatam etincreatam 
+existen<lb break="no" ed="#P" n="81"/>tiam. Sed haec ratio et falsum supponit , quia
+<lb ed="#P" n="82"/>natura nunquam existit extra causas, nisi
+<lb ed="#P" n="83"/>per existentiam creatam; et illo admisso, non
+<lb ed="#P" n="84"/>ostendit cur repugnet eamdem naturam illis
+<lb ed="#P" n="85"/>duabus existentiis simul existere; vel enim 
+re<lb break="no" ed="#P" n="86"/>pugnaret solum quia duc sunt, et hoc non,
+<lb ed="#P" n="87"/>alias nec posset eadem natura simul existere
+<lb ed="#P" n="88"/>duabus existentiis relativis increatis; vel 
+re<lb break="no" ed="#P" n="89"/>pugnat, quia una est creata et altera increata,
+<lb ed="#P" n="90"/>et oporteret ostendere specialem 
+implicatio<lb break="no" ed="#P" n="91"/>nem qua hinc sequatur, nulla enim apparet.
+</p>
+                  <p xml:id="szstco-k27135-d1e2145">
+                     <lb ed="#P" n="92"/>12. Quinta ratio additur a quibusdam ,
+<lb ed="#P" n="93"/>quod personalitas propria est intrinseca , et
+<lb ed="#P" n="94"/>ideo non secum compaltitur aliam 
+extrinse<lb break="no" ed="#P" n="95"/>cam; dus autem personalitates connaturales
+<lb ed="#P" n="96"/>et intrinsece , ut sunt in natura divina , vel
+<lb ed="#P" n="97"/>dus etiam extrinsece, ut essent respectu 
+hu<lb break="no" ed="#P" n="98"/>manitatis duae personae divinae, si illam 
+assu<lb break="no" ed="#P" n="99"/>merent, non habent praedictam 
+repugnan<lb break="no" ed="#P" n="100"/>tiam. Sed haec ratio, ex hoc praecise quod
+<lb ed="#P" n="101"/>una sit intrinseca, et alia extrinseca , nullam
+<lb ed="#P" n="102"/>sufficientem repugnantiam declarat. Nam, si
+<lb ed="#P" n="103"/>intrinsecum dicatur, quod est intime 
+conjunc<lb break="no" ed="#P" n="104"/>tum,etiam personajassumens naturam est 
+inti<lb break="no" ed="#P" n="105"/>me conjuncta, et unio ad illam est maxime 
+in<lb break="no" ed="#P" n="106"/>trinseca. Unde inter uniones ad plures 
+perso<lb break="no" ed="#P" n="107"/>nas esset eadem repugnantia. Item hoc modo
+<lb ed="#P" n="108"/>dux forme inherentes sunt intrinsecs 
+sub<lb break="no" ed="#P" n="109"/>jecto, et duo ubi seu duae praesentiae, et tamen
+<lb ed="#P" n="110"/>Deus conjungit hee, etiamsi alioqui disparata
+<pb ed="#P" n="508"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>sint, vel opposita in eodem subjecto. Si 
+au<lb break="no" ed="#P" n="2"/>tem intrinsecum dicatur quod est 
+connatu<lb break="no" ed="#P" n="3"/>rale, extrinsecum vero quod adventitium est,
+<lb ed="#P" n="4"/>sicut Deus conservat in eodem subjecto duas
+<lb ed="#P" n="5"/>formas, vel duo ubi praeternaturalia et 
+ex<lb break="no" ed="#P" n="6"/>trinseca, ita potest conservare unum 
+natura<lb break="no" ed="#P" n="7"/>le, et aliud adventitium. Neque hoc refert
+<lb ed="#P" n="8"/>quicquam ad repugnantiam , si alioqui inter
+<lb ed="#P" n="9"/>effectus formales talium formarum vel 
+modo<lb break="no" ed="#P" n="10"/>rum non declaretur repugnantia.
+</p>
+                  <p xml:id="szstco-k27135-d1e2215">
+                     <lb ed="#P" n="11"/>13. Sexta ratio sumitur ex Paludano et
+<lb ed="#P" n="12"/>Durando, quia personalitas relativa non 
+ex<lb break="no" ed="#P" n="13"/>cludit consortium alterius personalitatis 
+rela<lb break="no" ed="#P" n="14"/>live ab eadem natura; at vero personalitas
+<lb ed="#P" n="15"/>absoluta excludit conjunctionem seu 
+consor<lb break="no" ed="#P" n="16"/>tium cujuscumque alterius personalitatis; quia
+<lb ed="#P" n="17"/>ergo personalitas propria est absoluta, ideo
+<lb ed="#P" n="18"/>natura, qua per illam terminata est, non 
+po<lb break="no" ed="#P" n="19"/>test per aliam personalitatem simul 
+termina<lb break="no" ed="#P" n="20"/>ri; quia vero natura assumpta ab una 
+perso<lb break="no" ed="#P" n="21"/>na divina solum per relativam personalitatem
+<lb ed="#P" n="22"/>terminata est, ideo potest simul ab alia 
+per<lb break="no" ed="#P" n="23"/>sona divina assumi. Haec ratio est probabilis,
+<lb ed="#P" n="24"/>tamen non satis ostendit cur implicet 
+contra<lb break="no" ed="#P" n="25"/>dictionem , personalitatem absolutam simul
+<lb ed="#P" n="26"/>conjungi in eadem natura cum relativa ; quia,
+<lb ed="#P" n="27"/>licet verum sit personalitatem absolutam esse
+<lb ed="#P" n="28"/>limitatam, et natura sua non admittere aliam,
+<lb ed="#P" n="29"/>non tamen inde sequitur hoc non posse fieri
+<lb ed="#P" n="30"/>virtute divina. Nam etiam una forma natura
+<lb ed="#P" n="31"/>sua non admittit aliam in eodem subjecto, et
+<lb ed="#P" n="32"/>tamen Deus potest facere ut simul existant.
+<lb ed="#P" n="33"/>Et confirmatur, quia si fieri posset ut 
+suppo<lb break="no" ed="#P" n="34"/>situm creatum, verbi gralia, angelicum , 
+ter<lb break="no" ed="#P" n="35"/>minaret humanam naturam, illo posito , 
+na<lb break="no" ed="#P" n="36"/>iura humana terminata ab Angelo posset 
+si<lb break="no" ed="#P" n="37"/>mulassumi a Verbo, et lamen personalitas
+<lb ed="#P" n="38"/>Angeli absoluta est. Antecedens quamvis a
+<lb ed="#P" n="39"/>Paludano consequenter negetur, videtur per
+<lb ed="#P" n="40"/>se satis elarum, et contrarium non esse 
+veri<lb break="no" ed="#P" n="41"/>simile, supposito quod eadem natura potest
+<lb ed="#P" n="42"/>esse in duplici supposito alieno, quia non 
+po<lb break="no" ed="#P" n="43"/>test ibi ostendi specialis repugnantia.
+</p>
+                  <p xml:id="szstco-k27135-d1e2290">
+                     <lb ed="#P" n="44"/>14. Responderi potest ex Henrico supra,
+<lb ed="#P" n="45"/>personalitatem relativam non excludere 
+con<lb break="no" ed="#P" n="46"/>sortium alterius relatives personalitatis ab 
+ea<lb break="no" ed="#P" n="47"/>dem natura per identitatem cum illa, que
+<lb ed="#P" n="48"/>non potest esse cum personalitate absoluta.
+<lb ed="#P" n="49"/>Sed hoc non videtur referre, nam illa duo
+<lb ed="#P" n="50"/>supposita relativa realiter distinguuntur ab
+<lb ed="#P" n="51"/>humanitate, quam terminare simul possunt ;
+<lb ed="#P" n="52"/>ergo, quod in alia natura sint idem, nihil 
+re<lb break="no" ed="#P" n="53"/>fert, cum non terminent per id in quo sunt
+<lb ed="#P" n="54"/>idem, sed in quo distinguuntur. Item illa 
+ra<lb break="no" ed="#P" n="55"/>tio ad summum probat , duas personas abso-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>lutas, vel absolutam et relativam, non posse
+<lb ed="#P" n="57"/>esse connaturales eidem nature, non vero
+<lb ed="#P" n="58"/>quod de potentia absoluta non possint illam
+<lb ed="#P" n="59"/>ierminare, quia ad hoc non est necessaria
+<lb ed="#P" n="60"/>identitas persone terminantis vel assumentis
+<lb ed="#P" n="61"/>cum natura terminata vel assumpta; ergo
+<lb ed="#P" n="62"/>omnis alia identitas est impertinens et per
+<lb ed="#P" n="63"/>accidens. —
+</p>
+                  <p xml:id="szstco-k27135-d1e2338">
+                     <lb ed="#P" n="64"/>15. Ultima ergo ratio, quae mihi maxime
+<lb ed="#P" n="65"/>satisfacit, est, quia propria et creata 
+sub<lb break="no" ed="#P" n="66"/>sistentia solum est modus quidam intrinseeus
+<lb ed="#P" n="67"/>per se existendi ; hic autem modus habet 
+for<lb break="no" ed="#P" n="68"/>malem et immediatam repugnantiam cum
+<lb ed="#P" n="69"/>illo modo unionis, quem habet natura 
+as<lb break="no" ed="#P" n="70"/>sumpta in alieno supposito, quia esse per se,
+<lb ed="#P" n="71"/>et in alio, sunt modi ita repugnantes inter se,
+<lb ed="#P" n="72"/>ut unus proxime includat negationem alterius.
+<lb ed="#P" n="73"/>Quod exemplo sumpto ex aliis modis similibus
+<lb ed="#P" n="74"/>bene explicari potest; fieri enim non potest
+<lb ed="#P" n="75"/>quod eadem virga simul sit recta et curva ,
+<lb ed="#P" n="76"/>quia illi modi, licet positivi sint , includunt
+<lb ed="#P" n="77"/>immediatam repugnantiam. Et simili ratione,
+<lb ed="#P" n="78"/>idem accidens non potest simul per se esse ,
+<lb ed="#P" n="79"/>et actualiter inhzrere, et sic de aliis. Et ex
+<lb ed="#P" n="80"/>hac ratione facile sumitur ratio differentiae,
+<lb ed="#P" n="81"/>cur eadem natura possit simul esse in 
+dua<lb break="no" ed="#P" n="82"/>bus personis extrinsecis, non vero in propria
+<lb ed="#P" n="83"/>et aliena ; quia, scilicet, magis repugnant 
+in<lb break="no" ed="#P" n="84"/>ter se modus existendi per se et in alio, quam
+<lb ed="#P" n="85"/>duo modi existendi in alio, quia illi duo modi
+<lb ed="#P" n="86"/>ita se habent, ut unus includat negationem
+<lb ed="#P" n="87"/>alterius, isti vero minime, sed sunt prorsus
+<lb ed="#P" n="88"/>disparati; sicut idem accidens potest simul
+<lb ed="#P" n="89"/>esse in duobus subjectis, non tamen simul per
+<lb ed="#P" n="90"/>se et in alio. Et eadem ratione intelligitur 
+fa<lb break="no" ed="#P" n="91"/>cile cur possit eadem natara divina esse in
+<lb ed="#P" n="92"/>tribus personis, scilicet, quia in omnibus illis
+<lb ed="#P" n="93"/>est per se, et omnes illae personalitates sunt
+<lb ed="#P" n="94"/>veluti modi per se existendi, et non dicunt
+<lb ed="#P" n="95"/>unionem ad extrinsecam personam ; modi
+<lb ed="#P" n="96"/>autem per se existendi inter se comparati
+<lb ed="#P" n="97"/>non includunt illam repugnantiam , et 
+nega<lb break="no" ed="#P" n="98"/>tionem mutuam, quam includunt modi per
+<lb ed="#P" n="99"/>se et in alio.
+</p>
+                  <p xml:id="szstco-k27135-d1e2419">
+                     <lb ed="#P" n="100"/>16. Dices: etiam humanitas assumpta a
+<lb ed="#P" n="101"/>Verbo per se existit in Verbo, quia in illo 
+sub<lb break="no" ed="#P" n="102"/>sistit. Cur enim magis dicetur esse per se per
+<lb ed="#P" n="103"/>propriam subsistentiam , quam per alienam,
+<lb ed="#P" n="104"/>cum ab utraque distinguatur, et in utraque
+<lb ed="#P" n="105"/>suo modo nitatur vel sustenletur? Nam quod
+<lb ed="#P" n="106"/>alteri uniatur per modum distinctum , alteri
+<lb ed="#P" n="107"/>vero non, videtur nihil referre. Respondetur,
+<lb ed="#P" n="108"/>longe aliter esse naturam in propria persona
+<lb ed="#P" n="109"/>etin aliena, nam in propria est quasi sibi
+<lb ed="#P" n="110"/>ipsi innitens , in aliena est quasi sustentaía
+<pb ed="#P" n="509"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>ab illa, et ideo modus proprie subsistentis
+<lb ed="#P" n="2"/>oppositam omnino rationem habet cum modo
+<lb ed="#P" n="3"/>unionis. Àc denique in hoc sensu natura 
+as<lb break="no" ed="#P" n="4"/>sumpía non est proprie per se, nec subsistit
+<lb ed="#P" n="5"/>in se , sed in alio quod proprie dicitur 
+subsis<lb break="no" ed="#P" n="6"/>tere in illa.
+</p>
+                  <p xml:id="szstco-k27135-d1e2463">
+                     <lb ed="#P" n="7"/>17. Objectio. — Responsio. — Potest 
+deni<lb break="no" ed="#P" n="8"/>que hae ratio, et simul communis haec 
+Theo<lb break="no" ed="#P" n="9"/>logorum sententia confirmari ex doctrina, et
+<lb ed="#P" n="10"/>modo loquendi Conciliorum et Sanetorum de
+<lb ed="#P" n="11"/>hoc mysterio ; quia enim in Christo Domino
+<lb ed="#P" n="12"/>facta est substantialis unio hypostatica inter
+<lb ed="#P" n="13"/>humanam naturam, et divinam personam ,
+<lb ed="#P" n="14"/>definiunt omnes esse in Christi humanitate
+<lb ed="#P" n="15"/>unicam tantum personam increatam et 
+divi<lb break="no" ed="#P" n="16"/>nam, illamque solam in illa humanitate 
+sub<lb break="no" ed="#P" n="17"/>sistere; sentiunt ergo illum modum unionis
+<lb ed="#P" n="18"/>humanitatis ad Verbum repugnare cum 
+per<lb break="no" ed="#P" n="19"/>sona creata, illamque formaliter excludere ;
+<lb ed="#P" n="20"/>quomodo interdum Saneti dicunt, personam
+<lb ed="#P" n="21"/>consumpsisse personam, ut supra vidimus.
+<lb ed="#P" n="22"/>Dicetur fortasse, ex natura rci verum esse
+<lb ed="#P" n="23"/>illos duos modos inter se repugnare, et hoc
+<lb ed="#P" n="24"/>satis esse ut in Christi humanitate non 
+per<lb break="no" ed="#P" n="25"/>manserit personalitas creata, non tamen 
+ne<lb break="no" ed="#P" n="26"/>cessarium esse ut contradictionem implicet.
+<lb ed="#P" n="27"/>Sic enim in materia de Eucharistia, ex 
+pra<lb break="no" ed="#P" n="28"/>sentia corporis Christi sub speciebus inferunt
+<lb ed="#P" n="29"/>Concilia absentiam substantie panis, quia ex
+<lb ed="#P" n="30"/>natura rei sequitur, licet oppositum non 
+re<lb break="no" ed="#P" n="31"/>pugnet. Sed hoc mihi non satisfacit, quia
+<lb ed="#P" n="32"/>cum hoc mysterium omnino sit 
+supernatura<lb break="no" ed="#P" n="33"/>le, et in eo tota ratio facti sit potentia 
+facien<lb break="no" ed="#P" n="34"/>lis, si de potentia absoluta fieri potuit, ut 
+hu<lb break="no" ed="#P" n="35"/>manitas assumeretur sine privatione su: 
+per<lb break="no" ed="#P" n="36"/>sonalitatis, non esset ratio sufficiens ad 
+ne<lb break="no" ed="#P" n="37"/>gandum ita factum esse, cum illud non 
+repu<lb break="no" ed="#P" n="38"/>gnet alicui perfectioni Christi, vel hujus 
+unio<lb break="no" ed="#P" n="39"/>nis. Et deinde, quia si illi duo modi ex natura
+<lb ed="#P" n="40"/>rei repugnant, inde fit (non ratione form,
+<lb ed="#P" n="41"/>sed saltem ratione materie) ut simpliciter et
+<lb ed="#P" n="42"/>de potentia absoluta repugnent; scilicet, quia
+<lb ed="#P" n="43"/>illi duo modi non repugnant ut forms 
+con<lb break="no" ed="#P" n="44"/>trarie, sed ut modi proxime includentes 
+ne<lb break="no" ed="#P" n="45"/>cationem mutuam, seu contradictioném, ut
+<lb ed="#P" n="46"/>explicatum est.
+</p>
+                  <p xml:id="szstco-k27135-d1e2552">
+                     <lb ed="#P" n="47"/>18. Neque exemplum de Eucharistia est
+<lb ed="#P" n="48"/>ad rem : quia Concilia non colligunt 
+absen<lb break="no" ed="#P" n="49"/>liam panis ex naturali repugnantia cum 
+pra<lb break="no" ed="#P" n="50"/>sentia corporis Christi, quae fortasse nulla est,
+<lb ed="#P" n="51"/>sed colligunt ex veritate verborum quibus fit
+<lb ed="#P" n="52"/>consecratio, ut suo loco dicetur. Cum qua 
+ve<lb break="no" ed="#P" n="53"/>ritate , supposita signilicatione verborum ,
+<lb ed="#P" n="54"/>quam propriam et genuinam esse intellexit
+<lb ed="#P" n="55"/>ac declaravit Ecclesia, omnino repugnat sub-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>stantiam panis manere cum corpore Christi,
+<lb ed="#P" n="57"/>Sie ergo in praesente, ex locutionibus 
+Scri<lb break="no" ed="#P" n="58"/>pture, quibus de Christo Deo homine 
+loqui<lb break="no" ed="#P" n="59"/>iur ut de una et eadem persona, intellexit
+<lb ed="#P" n="60"/>Ecclesia non esse in Christo Domino 
+perso<lb break="no" ed="#P" n="61"/>nam humanam creatam; ergo intellexit 
+veri<lb break="no" ed="#P" n="62"/>tatem illarum locutionum non posse 
+consis<lb break="no" ed="#P" n="63"/>tere cum persona creata. Ai vero, si esset
+<lb ed="#P" n="64"/>possibile humanitatem assumptam simul 
+sub<lb break="no" ed="#P" n="65"/>sistere in propria persona , ille omnes 
+locu<lb break="no" ed="#P" n="66"/>tiones essent vere, etiamsi in Christo esset
+<lb ed="#P" n="67"/>duplex persona; non ergo habuisset Ecclesia
+<lb ed="#P" n="68"/>sufficiens fundamentum ex quo veritatem
+<lb ed="#P" n="69"/>persone Christi colligeret. Non ignoro 
+con<lb break="no" ed="#P" n="70"/>jecturam hanc posse habere probabilem 
+res<lb break="no" ed="#P" n="71"/>pousionem, nimirum ex illis locutionibus 
+im<lb break="no" ed="#P" n="72"/>mediate inferri, personam ipsam increatam
+<lb ed="#P" n="73"/>in humanitate subsistere , et quia in Scriptura
+<lb ed="#P" n="74"/>vel tota fidei doctrina nulla fit mentio 
+alte<lb break="no" ed="#P" n="75"/>rius persons in illa humanitate subsistentis,
+<lb ed="#P" n="76"/>hane esse virtualem exclusionem seu 
+nega<lb break="no" ed="#P" n="77"/>lionem alterius persone, sicut quia non 
+re<lb break="no" ed="#P" n="78"/>velantur nobis nisi tres persone Trinitatis,
+<lb ed="#P" n="79"/>ibi virtute revelatur non esse quatuor. Sic 
+er<lb break="no" ed="#P" n="80"/>go Scriptura cum nobis tantum revelet unam
+<lb ed="#P" n="81"/>Christi personam, virtute negat plures esse
+<lb ed="#P" n="82"/>in Christo personas. Et ad hoc etiam conducit
+<lb ed="#P" n="83"/>naturalis repugnantia, etiamsi de potentia
+<lb ed="#P" n="84"/>absoluta non esset. Quare etiam oppositam
+<lb ed="#P" n="85"/>sententiam censeo probabilem , quam video
+<lb ed="#P" n="86"/>doctis viris non displicere; ratio etenim a 
+no<lb break="no" ed="#P" n="87"/>bis facta non est demonsiratio , sed. solvi
+<lb ed="#P" n="88"/>etiam potest. Nihilominus sententia proposita
+<lb ed="#P" n="89"/>magis probanda videtur, tum quod 
+commu<lb break="no" ed="#P" n="90"/>nis sit; tum etiam quod bd aptior ad fidei
+<lb ed="#P" n="91"/>Srcierium declarandum; tum demum quod
+<lb ed="#P" n="92"/>ratione satis probabili suadeatur.
+</p>
+                  <p xml:id="szstco-k27135-d1e2656">
+                     <lb ed="#P" n="93"/>19. Una vero superest difficultas, quia hac
+<lb ed="#P" n="94"/>raiio facta ad summum probat, humanitatem,
+<lb ed="#P" n="95"/>in uno et eodem loco existentem , non posse
+<lb ed="#P" n="96"/>simul habere illos duos modos existendi ; 
+ta<lb break="no" ed="#P" n="97"/>men si constituamus humanitatem esse in
+<lb ed="#P" n="98"/>duobus distinctis locis, nulla videtur 
+repu<lb break="no" ed="#P" n="99"/>gnantia quod in uno habeat personalitatem
+<lb ed="#P" n="100"/>propriam, et per se existat, in alio vero illa
+<lb ed="#P" n="101"/>careat, et existat in Verbo. Dici potest primo,
+<lb ed="#P" n="102"/>humanitatem iia uniri Verbo, ut ex vi illius
+<lb ed="#P" n="103"/>unionis necessario maneat illi unita, 
+ubicum<lb break="no" ed="#P" n="104"/>que existit, idque propter summam Verbi
+<lb ed="#P" n="105"/>simplieitatem, et ineffabilem modum illius
+<lb ed="#P" n="106"/>unionis, qua» abstrahit ab hoc et illo loco, et
+<lb ed="#P" n="107"/>fit ad ipsum Verbum secundum se; propter
+<lb ed="#P" n="108"/>hanc enim causam , quamvis Christus 
+secun<lb break="no" ed="#P" n="109"/>dum humanitatem localiter moveatur, ipso
+<lb ed="#P" n="110"/>Verbo secundum se immutato manente, sem-
+<pb ed="#P" n="510"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>per humanitas, ubicumque existit, manet 
+eo<lb break="no" ed="#P" n="2"/>dem modo unita Verbo ex vi ejusdem 
+unio<lb break="no" ed="#P" n="3"/>nis. Et in mysterio Eucharistie, per quod 
+hu<lb break="no" ed="#P" n="4"/>manitas Christi quodammodo iu multis locis
+<lb ed="#P" n="5"/>constituitur, in omnibus est unita Verbo ex
+<lb ed="#P" n="6"/>vi ejusdem unionis.
+</p>
+                  <p xml:id="szstco-k27135-d1e2716">
+                     <lb ed="#P" n="7"/>20. Sed nihilominus hoc mihi non 
+satisfa<lb break="no" ed="#P" n="8"/>cit, quia, licet ex natura rei verum sit 
+huma<lb break="no" ed="#P" n="9"/>nitatem unitam Verbo, ubicumque 
+constitua<lb break="no" ed="#P" n="10"/>tur, ferre secum suam unionem, quia est 
+in<lb break="no" ed="#P" n="11"/>trinsecus modus ejus, et a loco non pendens,
+<lb ed="#P" n="12"/>tamen cum hic modus ex natura rei ab ipsa
+<lb ed="#P" n="13"/>humanitate distinguatur , non videtur 
+impli<lb break="no" ed="#P" n="14"/>care contradictionem, ut existente humanitate
+<lb ed="#P" n="15"/>unita in uno loco, constituatur in alio quoad
+<lb ed="#P" n="16"/>substantiam suam, et non quoad modum
+<lb ed="#P" n="17"/>unionis; sicut non videtur contradictionem
+<lb ed="#P" n="18"/>involvere, quod eadem anima , quae in uno
+<lb ed="#P" n="19"/>loco est unita corpori , in alio ponatur sine
+<lb ed="#P" n="20"/>corpore, et sine modo unionis; et similiter
+<lb ed="#P" n="21"/>quod idem accidens alicubi inhereat 
+sub<lb break="no" ed="#P" n="22"/>jecto, alibi vero sine subjecto sit. Admisso
+<lb ed="#P" n="23"/>ergo hoc casu ut possibili, non videtur 
+incon<lb break="no" ed="#P" n="24"/>veniens concedere totum quod argumentum
+<lb ed="#P" n="25"/>intendit; quia illi duo modi non repugnant ,
+<lb ed="#P" n="26"/>nisi respectu ejusdem subjecti, ut habet 
+ra<lb break="no" ed="#P" n="27"/>lionem unius ; at vero humanitas constituta
+<lb ed="#P" n="28"/>in duobus locis habet vicem , seu modum
+<lb ed="#P" n="29"/>duplieis subjecti. Deinde contradictio, seu
+<lb ed="#P" n="30"/>repugnantia, quae includitur in illis modis,
+<lb ed="#P" n="31"/>solum est servatis omnibus circumstantiis ad
+<lb ed="#P" n="32"/>contradietionem requisitis , et consequenter
+<lb ed="#P" n="33"/>requiritur ut sit in eodem tempore et loco ;
+<lb ed="#P" n="34"/>unde , sicut pro diversis temporibus non sibi
+<lb ed="#P" n="35"/>repugnant , ità nec pro diversis locis 
+viden<lb break="no" ed="#P" n="36"/>tur pugnare. Quod denique exemplis 
+su<lb break="no" ed="#P" n="37"/>pra positis declaratur, quia unum accidens
+<lb ed="#P" n="38"/>potest in uno loeo inhaerere , et in alio per
+<lb ed="#P" n="39"/>se esse, et una linea in uno loco esse
+<lb ed="#P" n="40"/>recta, et in alio curva. Neque contra hoc 
+vi<lb break="no" ed="#P" n="41"/>deo quod objici possit; argumentum enim 
+su<lb break="no" ed="#P" n="42"/>pra factum ex unitate persone Christi, et 
+lo<lb break="no" ed="#P" n="43"/>cutionibus Sanctorum, contra hoc non 
+proce<lb break="no" ed="#P" n="44"/>dit; loquuntur enim de mysterio, ut factum
+<lb ed="#P" n="45"/>est; nune autem humanitas Christi, 
+ubieum<lb break="no" ed="#P" n="46"/>que est, est unita Verbo, non quia contrarium
+<lb ed="#P" n="47"/>implicet contradictionem , sed quia 
+ubieum<lb break="no" ed="#P" n="48"/>que est hic homo , est verus Deus; et quia
+<lb ed="#P" n="49"/>facta unione hoc est illi debitum et 
+connatu<lb break="no" ed="#P" n="50"/>rale, et maxime pertinens ad perfectionem
+<lb ed="#P" n="51"/>ejus. Sieut etiam ubicumque nunc est caro
+<lb ed="#P" n="52"/>Christi, est unita animae, non quia contrarium
+<lb ed="#P" n="53"/>implicet contradictionem, sed quia hoc 
+perti<lb break="no" ed="#P" n="54"/>net ad majorem perfectionem, et esi magis
+<lb ed="#P" n="55"/>connaturale.
+</p>
+                  <p xml:id="szstco-k27135-d1e2825">
+                     <cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>21. Alia hic posset esse quaestio, an possit
+<lb ed="#P" n="57"/>Deus eamdem naturam conservare in duplici
+<lb ed="#P" n="58"/>persona, non aliena, sed propria; faciendo,
+<lb ed="#P" n="59"/>videlicet, ut natura habeai duos proprios 
+mo<lb break="no" ed="#P" n="60"/>dos subsistenticte. Et ratio dubii est, quia in
+<lb ed="#P" n="61"/>eis non procedit repugnantia posita, nam per
+<lb ed="#P" n="62"/>eos non esset per se et in alio, sed per 
+utrum<lb break="no" ed="#P" n="63"/>que esset per se ; ergo ex hoc capile non est
+<lb ed="#P" n="64"/>repugnantia. Nec vero ex sola pluralitate, quia
+<lb ed="#P" n="65"/>non repugnat has subsistentias multiplicari
+<lb ed="#P" n="66"/>in eadem natura successive ; posset enim
+<lb ed="#P" n="67"/>Deus subsistentiam, quam nunc habeo, a me
+<lb ed="#P" n="68"/>auferre, vel aliquo tempore impedire, 
+aliam<lb break="no" ed="#P" n="69"/>que loco illius tribuere; ergo etiam simul
+<lb ed="#P" n="70"/>posset utramque ponere in mea natura. 
+Tan<lb break="no" ed="#P" n="71"/>dem accidenti posset simul conferre duplicem
+<lb ed="#P" n="72"/>inherentiam, vel in diversis, vel etiam in 
+eo<lb break="no" ed="#P" n="73"/>dem subjecto. Nec vero hine sequitur 
+infini<lb break="no" ed="#P" n="74"/>tas in natura, tum quia non esset ille modus
+<lb ed="#P" n="75"/>subsistendi, in pluribus suppositis propriis,
+<lb ed="#P" n="76"/>connaturalis,nec debitus; tum etiam quia non
+<lb ed="#P" n="77"/>esset per identilatem in illis, sed per unionem.
+<lb ed="#P" n="78"/>Fateor me nune non invenire in hoc 
+repu<lb break="no" ed="#P" n="79"/>gnantiam, nec inconveniens aliquod, sed 
+for<lb break="no" ed="#P" n="80"/>tasse in Metaphysica praessius dubitationem
+<lb ed="#P" n="81"/>hane examinabo. Hoc enim loco, non expedit
+<lb ed="#P" n="82"/>in ea diutius immorari.
+</p>
+               </div>
+               <div xml:id="szstco-k27135-Dd1e2890">
+                  <head xml:id="szstco-k27135-Hd1e2892">Sectio 2</head>
+                  <head xml:id="szstco-k27135-Hd1e2894" type="question-title">Utrum alia substantialis natura praeter humanam
+        sit assumptibilis a persona divina</head>
+                  <p xml:id="szstco-k27135-d1e2897">
+                     <lb ed="#P" n="83" type="fixed=510"/>SECTIO II.
+<lb ed="#P" n="84"/>Utrum alia substantialis natura praeter humanam
+<lb ed="#P" n="85"/>sit assumptibilis a persona divina.
+</p>
+                  <p xml:id="szstco-k27135-d1e2906">
+                     <lb ed="#P" n="86"/>1. Hic non agimus de natura assumptibili
+<lb ed="#P" n="87"/>solum ex intrinseca congruentia , sed 
+simpli<lb break="no" ed="#P" n="88"/>citer de potentia obedientiz: , seu non 
+repu<lb break="no" ed="#P" n="89"/>gnantia; neque agimus de humana natura,
+<lb ed="#P" n="90"/>satis enim ex mysterio facto constat 
+assum<lb break="no" ed="#P" n="91"/>ptibllem esse. Neque audiendus est error
+<lb ed="#P" n="92"/>Wicleph, quem refert Walden., lib. 4 
+Doetri<lb break="no" ed="#P" n="93"/>nalis Fidei antique, c. 44, qui asseruit, 
+nul<lb break="no" ed="#P" n="94"/>lam aliam humanitatem fuisse a Verbo 
+assum<lb break="no" ed="#P" n="95"/>ptibilem, praeter eam singularem et 
+indivi<lb break="no" ed="#P" n="96"/>duam quam assumpsit. Est enim hoc plane
+<lb ed="#P" n="97"/>absurdum, et sine fundamento dictum, quia
+<lb ed="#P" n="98"/>non est major ratio , vel repugnantia in una
+<lb ed="#P" n="99"/>quam in alia, cum in substantia et specie
+<lb ed="#P" n="100"/>ejusdem rationis sint, et consequenter 
+eam<lb break="no" ed="#P" n="101"/>dem capacitatem habeant substantialem , ut
+<lb ed="#P" n="102"/>Verbo uniantur. Et ideo Augustinus, 13 de
+<lb ed="#P" n="103"/>Trinit., c. 18, ut per se notum supponit, 
+po<lb break="no" ed="#P" n="104"/>tuisse Verbum assumere humanitatem 
+aliun<lb break="no" ed="#P" n="105"/>de quam ex stirpe Ada, et ideo de Predest.
+<lb ed="#P" n="106"/>Sanct., c. 15, dicit ex sola Dei gratuita 
+elec<lb break="no" ed="#P" n="107"/>fione, et non ex alicujus meritis, factum esse
+<pb ed="#P" n="511"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>ut illa potius humanitas quam alia Verbo
+<lb ed="#P" n="2"/>jungeretur. Itaque in boe nullus unquam 
+Ca<lb break="no" ed="#P" n="3"/>tholicus dubitare potuit. Omissa ergo humana
+<lb ed="#P" n="4"/>natura, quaetio esse potest vel de natura
+<lb ed="#P" n="5"/>superiori, ut est angelica, vel de inferiori, ut
+<lb ed="#P" n="6"/>est irrationalis, vel insensibilis natura.
+</p>
+                  <p xml:id="szstco-k27135-d1e2974">
+                     <lb ed="#P" n="7"/>2. Prima sententia esse potest, negans 
+an<lb break="no" ed="#P" n="8"/>gelicam seu spiritualem naturam esse 
+assum<lb break="no" ed="#P" n="9"/>ptibilem. Ita tenet Albertus, in 3, dist. 2, art.
+<lb ed="#P" n="10"/>9. Et fundamentum esse potest, quia in 
+na<lb break="no" ed="#P" n="11"/>tura immateriali suppositum nihil addit supra
+<lb ed="#P" n="12"/>naturam ipsam, sed ipsa natura per se ipsam
+<lb ed="#P" n="13"/>formaliter est quo est, et quod est; inde enim
+<lb ed="#P" n="14"/>fit non esse magis assumptibilem talem 
+na<lb break="no" ed="#P" n="15"/>Iuram quam suppositum. Quod fundamentum
+<lb ed="#P" n="16"/>videtur doceri a D. Thoma, A contra gent.,
+<lb ed="#P" n="17"/>e. 55, ad 4, et 1 part. , q. 3, ad 3, ubi 
+gene<lb break="no" ed="#P" n="18"/>raliter dicit, in separalis a materia non 
+dis<lb break="no" ed="#P" n="19"/>tingui suppositum a natura.
+</p>
+                  <p xml:id="szstco-k27135-d1e3006">
+                     <lb ed="#P" n="20"/>3. Secunda sententia negat irrationalem
+<lb ed="#P" n="21"/>naturam esse assumptibilem, nisi aliquem 
+or<lb break="no" ed="#P" n="22"/>dinem habeat ad rationalem. Heec iribuitur
+<lb ed="#P" n="23"/>Alexand. Alens., 3 p., q. 2, memb. 7; et 
+Bo<lb break="no" ed="#P" n="24"/>nay., in 3, dist. 9, art. 1, q. 1. Sed his locis
+<lb ed="#P" n="25"/>non agunt de possibili simpliciter, sed de eo
+<lb ed="#P" n="26"/>quod maxime decet. Magis hoc insinuat idem
+<lb ed="#P" n="27"/>Alensis, q. 11, memb. 1, et quaest. 12, memb.
+<lb ed="#P" n="28"/>1, artie. 1. Et sequitur ex alia ejus doctrina,
+<lb ed="#P" n="29"/>in q. 7, memb. 2, art. 1, scilicet, naturam
+<lb ed="#P" n="30"/>non esse assumptibilem, nisi mediante gratia
+<lb ed="#P" n="31"/>habituali, cujus eum irrationalis natura capax
+<lb ed="#P" n="32"/>non sit, sequitur neque hujus unionis esse
+<lb ed="#P" n="33"/>capacem. Expressius tenuit hanc sententiam
+<lb ed="#P" n="34"/>Henrie., Quodlib. 13, q. 5; Carthus., dist. 2,
+<lb ed="#P" n="35"/>q. 2, articul. 3; Pieus Mirandol., in Apolog.,
+<lb ed="#P" n="36"/>conclus. 4, et eam ut probabilem defendunt
+<lb ed="#P" n="37"/>Richard., dist. 2, art. 14, q. 25; Gabriel, dist. 2,
+<lb ed="#P" n="38"/>q. 2; Marsil., in 3, q. 3. Fundamenta infra
+<lb ed="#P" n="39"/>videbimus.
+</p>
+                  <p xml:id="szstco-k27135-d1e3052">
+                     <lb ed="#P" n="40"/>4. Dico primo, potuisse Deum assumere,
+<lb ed="#P" n="41"/>sibique hypostatice unire naturam angelicam.
+<lb ed="#P" n="42"/>Hoc est D. Thome hic, art. 1, ad 3, et 4 
+con<lb break="no" ed="#P" n="43"/>tra gent., cap. 55, ad 3 et 4, quibus locis 
+Ca<lb break="no" ed="#P" n="44"/>jet, Ferrar., et alii Thomiste id docent; et
+<lb ed="#P" n="45"/>est communior sententia Doctorum, in 3, dist.
+<lb ed="#P" n="46"/>2; et sumi potest ex verbis Pauli ad Hebr. 2 :
+<lb ed="#P" n="47"/>Nusquam Angelos apprehendit, sed semen
+<lb ed="#P" n="48"/>Abrahe apprehendit ; quae verba celare 
+suppo<lb break="no" ed="#P" n="49"/>nunt utrumque fuisse possibile, gratiam vero
+<lb ed="#P" n="50"/>Dei erga humanum genus in hoc 
+commenda<lb break="no" ed="#P" n="51"/>ri, quod in hac unione humanam naturam
+<lb ed="#P" n="52"/>angeliec praetulerit; et hoc modo expositores
+<lb ed="#P" n="53"/>omnes et Sancti haec verba interpretantur. Et
+<lb ed="#P" n="54"/>confirmatur , quia anima separata mansit
+<lb ed="#P" n="55"/>unita Verbo hypostatice; ergo, pari ratione,
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>etc. Ratio vero a priori sumenda est ex 
+fun<lb break="no" ed="#P" n="57"/>damento illi contrario , quod prima sententia
+<lb ed="#P" n="58"/>sumebat, scilicet etiam in naturis spiritualibus
+<lb ed="#P" n="59"/>suppositum ex natura rei a natura distingui,
+<lb ed="#P" n="60"/>quod in Metaphysiea, tractando de natura et
+<lb ed="#P" n="61"/>supposito, sufficienter disputatum est. Unde
+<lb ed="#P" n="62"/>quod Ferrarius, citato loco, dicit, quamvis in
+<lb ed="#P" n="63"/>Angelis non sit distinctio nature a persona,
+<lb ed="#P" n="64"/>non sequi esse impossibile assumi naturam
+<lb ed="#P" n="65"/>angelicam, et privari sua personalitate, sed
+<lb ed="#P" n="66"/>solum non esse congruum , non video 
+quo<lb break="no" ed="#P" n="67"/>modo intelligi possit. Nam si persona Angeli
+<lb ed="#P" n="68"/>non distinguitur a natura, ergo personalitas
+<lb ed="#P" n="69"/>Angeli nihil est praeter ipsam naturam ; quo.
+<lb ed="#P" n="70"/>modo ergo illa privari potest? Denique si ad
+<lb ed="#P" n="71"/>hane assumptionem non esset necessaria 
+dis<lb break="no" ed="#P" n="72"/>ünctio suppositi a natura, nunquam propter
+<lb ed="#P" n="73"/>hoc mysterium sancti Patres et Theologi hane
+<lb ed="#P" n="74"/>disunctionem docuissent, et quoad hoc non.
+<lb ed="#P" n="75"/>est major ratio de natura angelica quam
+<lb ed="#P" n="76"/>humana : et ideo melius Cajetanus hinc 
+colli<lb break="no" ed="#P" n="77"/>git etiam in Angelis personalitatem distingui
+<lb ed="#P" n="78"/>a natura.
+</p>
+                  <p xml:id="szstco-k27135-d1e3141">
+                     <lb ed="#P" n="79"/>5. Objectio.— Responsio.— Dices: ergo 
+pos<lb break="no" ed="#P" n="80"/>set nune Deus assumere naturam Angeli 
+cor<lb break="no" ed="#P" n="81"/>rumpendo personam ejus, quod videtur 
+re<lb break="no" ed="#P" n="82"/>pugnare, quia persona Angeli est 
+incorrupti<lb break="no" ed="#P" n="83"/>bilis. Respondetur, concedendo primo, posse
+<lb ed="#P" n="84"/>Deum assumere naturam Angeli 
+praexisten<lb break="no" ed="#P" n="85"/>tem in propria persona, juxta supra dicta,
+<lb ed="#P" n="86"/>sectione praecedenti. Secundo, necessarium
+<lb ed="#P" n="87"/>esse talem naturam privari personalitate, et
+<lb ed="#P" n="88"/>consequenter eamdem personalitatem , seu
+<lb ed="#P" n="89"/>personam ut sic,desinere esse, juxta dicta
+<lb ed="#P" n="90"/>etiam sectione praecedenti. An vero illa 
+de<lb break="no" ed="#P" n="91"/>sitio dicenda sit corruptio, quiestio est de 
+no<lb break="no" ed="#P" n="92"/>mine; magis vero proprie diceretur mutatio
+<lb ed="#P" n="93"/>quaedam in modo existendi , salva substantia
+<lb ed="#P" n="94"/>ipsius nature; sicut quando accidens 
+separa<lb break="no" ed="#P" n="95"/>tur a subjecto, mutat modum existendi, non
+<lb ed="#P" n="96"/>tamen proprie corrumpitur; quod si 
+inhze<lb break="no" ed="#P" n="97"/>rentia ipsa, vel in nostro proposito ipsa 
+per<lb break="no" ed="#P" n="98"/>sonalitas corrumpi dicatur, non propterea
+<lb ed="#P" n="99"/>persona angelica dieenda est corruptibilis ,
+<lb ed="#P" n="100"/>quia ex natura sua non est subjecta huic 
+mu<lb break="no" ed="#P" n="101"/>tationi, sed solum per divinam potentiam,
+<lb ed="#P" n="102"/>ilam potest suscipere.
+</p>
+                  <p xml:id="szstco-k27135-d1e3196">
+                     <lb ed="#P" n="103"/>6. Dico secundo : simpliciter loqueudo, non
+<lb ed="#P" n="104"/>implieat contradictionem, naturam 
+irrationa<lb break="no" ed="#P" n="105"/>lem vel insensibilem uniri Deo hypostatice.
+<lb ed="#P" n="106"/>Hec est sententia communior Theologorum,
+<lb ed="#P" n="107"/>in 3, dist. 2, ubi D. Thomas, q. 1, art. 1; et
+<lb ed="#P" n="108"/>Scot., q. 1, art. 2; Palud., q. 1; Durand., q.
+<lb ed="#P" n="109"/>4; Almai., q. 2; Marsil., q. 3, art. 1; Okam,
+<lb ed="#P" n="110"/>q. 1, articulo tertio et nono; Capreol., Cajet,
+<pb ed="#P" n="512"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>et omnes Thomistae. Et videtur aperta 
+sen<lb break="no" ed="#P" n="2"/>ientia Augustini, libr. de Vera relig., c. 16,
+<lb ed="#P" n="3"/>tom. 4, ubi ait, per hoc mysterium 
+demons<lb break="no" ed="#P" n="4"/>irasse Deum, quam excelsum locum inter
+<lb ed="#P" n="5"/>creaturas habeat humana natura, quod non
+<lb ed="#P" n="6"/>solum visibiliter, 42» 2d, inquit, poterat ei
+<lb ed="#P" n="7"/>in aliquo ethereo corpore, ad wostrorum 
+aspec<lb break="no" ed="#P" n="8"/>tuum, tolerantiam temperato , sed etiam, 
+homi<lb break="no" ed="#P" n="9"/>nibus in vero homine apparuit ; ipsa. enim 
+na<lb break="no" ed="#P" n="10"/>£ura suscipienda erat, quae liberanda. Idem
+<lb ed="#P" n="11"/>sentiunt Tertullianus et Gregorius Nyssen.,
+<lb ed="#P" n="12"/>infra citandi. Et ex his, quae facta sunt, 
+po<lb break="no" ed="#P" n="13"/>test haec sententia suaderi, primo, quia 
+cor<lb break="no" ed="#P" n="14"/>pus humanum et terrenum Verbo unitum
+<lb ed="#P" n="15"/>fuit. Dices, fuisse unitum mediante anima,
+<lb ed="#P" n="16"/>sine qua uniri non posset, ut expresse 
+affir<lb break="no" ed="#P" n="17"/>mat Origen. , 2 Periarch., c. 6, dicens : ZVon
+<lb ed="#P" n="18"/>enim possibile erat Dei naturam, corpori sine
+<lb ed="#P" n="19"/>4iedio, scilicet anima, «misceri. Sed contra:
+<lb ed="#P" n="20"/>nam, licet anima dicatur medium utl quo, seu
+<lb ed="#P" n="21"/>in ordine intentionis, non tamen fuit medium
+<lb ed="#P" n="22"/>physice, ut ita dicam, seu in ordine 
+execu<lb break="no" ed="#P" n="23"/>tionis, ut q. 6 explicabitur. Verbum enim 
+ip<lb break="no" ed="#P" n="24"/>sum immediate fuit unitum corpori et 
+mate<lb break="no" ed="#P" n="25"/>riae secundum se, quamvis in ordine ad 
+ani<lb break="no" ed="#P" n="26"/>mam, et propter animam. Deinde in triduo
+<lb ed="#P" n="27"/>mansit corpus sine anima , et tamen vere ac
+<lb ed="#P" n="28"/>substantialirler mansit unitum  hypostatice
+<lb ed="#P" n="29"/>Verbo; ergo informatio anime non erat 
+sim<lb break="no" ed="#P" n="30"/>pliciter necessaria ad hanc unionem. Unde
+<lb ed="#P" n="31"/>illa verba Origenis vel rejicienda sunt, vel
+<lb ed="#P" n="32"/>pie explicanda secundum quamdam 
+congrui<lb break="no" ed="#P" n="33"/>talem. Sed respondent aliqui, etiam corpus
+<lb ed="#P" n="34"/>fuisse unitum mediante anima, per 
+disposi<lb break="no" ed="#P" n="35"/>lionem qua in illo mansit. Sed hoc nihil 
+re<lb break="no" ed="#P" n="36"/>fert, quia in corpore non manent, nisi vel 
+ac<lb break="no" ed="#P" n="37"/>cidentia, quae per se non referunt ad unionem
+<lb ed="#P" n="38"/>hypostaticam, ut ex supra dictis patet, vel
+<lb ed="#P" n="39"/>ordo aut habitudo ad animam, quae in 
+cor<lb break="no" ed="#P" n="40"/>pore fuit, et postea iterum futura erat per
+<lb ed="#P" n="41"/>resurrectionem , quax potius est habitudo 
+ra<lb break="no" ed="#P" n="42"/>lionis, vel denominatio extrinseca, quam 
+ali<lb break="no" ed="#P" n="43"/>quid intrinsecum ipsi corpori; ergo intrinsece
+<lb ed="#P" n="44"/>ipsum corpus ratione suae substantie tuit 
+ca<lb break="no" ed="#P" n="45"/>pax hujus unionis; ergo, pari ratione, 
+queli<lb break="no" ed="#P" n="46"/>bet natura substantialis habet eamdem 
+capa<lb break="no" ed="#P" n="47"/>citatem. Tertio hoc suadetur, quia sanguis et
+<lb ed="#P" n="48"/>alii humores, ut infra dicetur, sunt uniti 
+Ver<lb break="no" ed="#P" n="49"/>bo hypostatice, cum non informentur anima
+<lb ed="#P" n="50"/>juxta probabiliorem sententiam; ergo eodem
+<lb ed="#P" n="51"/>modo poterat assumi quzlibet alia 
+substan<lb break="no" ed="#P" n="52"/>iialis natura inanimis. Quod si dicatur 
+san<lb break="no" ed="#P" n="53"/>guinem esse assumplum, ut partem 
+perti<lb break="no" ed="#P" n="54"/>nentem ad veritatem humane nature, hoc
+<lb ed="#P" n="55"/>quidem referre potest ad congruitatem, seu
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>decentiam unionis, non vero ad capacitatem
+<lb ed="#P" n="57"/>simpliciter, quia haec est intrinseca ipsi 
+sub<lb break="no" ed="#P" n="58"/>stantie, qua unitur, et proxime oritur ex hoc
+<lb ed="#P" n="59"/>quod est natura capax subsistentie. Unde
+<lb ed="#P" n="60"/>arguitur quarto (et haec est propria ratio 
+con<lb break="no" ed="#P" n="61"/>clusionis), quia unio hypostatica proxime et
+<lb ed="#P" n="62"/>per se terminatur ad subsistentiam ; sed 
+quae<lb break="no" ed="#P" n="63"/>libet natura substantialis est capax 
+subsis<lb break="no" ed="#P" n="64"/>tentiae ergo est capax hujus unionis. 
+Deni<lb break="no" ed="#P" n="65"/>que nulla contradictio, vel repugnantia 
+po<lb break="no" ed="#P" n="66"/>test vel probabiliter ostendi, ut patebit 
+ob<lb break="no" ed="#P" n="67"/>jectionibus satisfaciendo.
+</p>
+                  <p xml:id="szstco-k27135-d1e3368">
+                     <lb ed="#P" n="68"/>7. Objectio. — Responsio. — Prima objectio
+<lb ed="#P" n="69"/>est, quia irrationalis natura non est apta ad
+<lb ed="#P" n="70"/>constituendam personam; ergo non potest in
+<lb ed="#P" n="71"/>divina persona subsistere. Respondetur, 
+per<lb break="no" ed="#P" n="72"/>sonam et suppositum non differre in modo
+<lb ed="#P" n="73"/>incómmunicabiliter subsistendi, sed solum
+<lb ed="#P" n="74"/>differre in dignitate nature, quia persona 
+di<lb break="no" ed="#P" n="75"/>cit illum modum subsistendi, quasi extrinsece
+<lb ed="#P" n="76"/>limitatum, et contractum ad naturam 
+ratio<lb break="no" ed="#P" n="77"/>nalem. Quocirca, respectu hujus unionis 
+hy<lb break="no" ed="#P" n="78"/>postaticz nihil refert quod terminus per illam
+<lb ed="#P" n="79"/>resultans denominetur suppositum, vel 
+per<lb break="no" ed="#P" n="80"/>sona, hoc enim pendet ex conditione tantum
+<lb ed="#P" n="81"/>naturae assumpte; per se vero solum 
+neces<lb break="no" ed="#P" n="82"/>sarium est ut sit unio in subsistentia; et ideo
+<lb ed="#P" n="83"/>omnis natura capax subsistenti: est capax
+<lb ed="#P" n="84"/>hujus unionis. Ex quo expeditur facile, quod
+<lb ed="#P" n="85"/>a quibusdam quaeri solet, si Verbum uniretur
+<lb ed="#P" n="86"/>nature irrationali, an uniretur in ratione
+<lb ed="#P" n="87"/>persone, ut Okam supra contendit, vel 
+tan<lb break="no" ed="#P" n="88"/>tum in ratione suppositi , ut alii volunt. 
+Di<lb break="no" ed="#P" n="89"/>cendum est enim , quod Verbum in eo casu
+<lb ed="#P" n="90"/>uniretur tali nature per suam personalitatem,
+<lb ed="#P" n="91"/>sicut nunc unitur sanguini, vel sicut 
+nnieba<lb break="no" ed="#P" n="92"/>tur cadaveri in triduo; compositum tamen
+<lb ed="#P" n="93"/>resultans ex illa unione, licet esset 
+supposi<lb break="no" ed="#P" n="94"/>tum talis nature, ut sic tamen non 
+denomi<lb break="no" ed="#P" n="95"/>naretur persona, quia illa natura non esset
+<lb ed="#P" n="96"/>rationalis, sicut cadaver Christi ut sic non
+<lb ed="#P" n="97"/>erat persona, quanquam illud idem 
+supposi<lb break="no" ed="#P" n="98"/>ium, ut subsistit in natura divina, persona
+<lb ed="#P" n="99"/>sit.
+</p>
+                  <p xml:id="szstco-k27135-d1e3440">
+                     <lb ed="#P" n="100"/>8. Objectio. — Responsio.— Objectio.— 
+Jes<lb break="no" ed="#P" n="101"/>gonsio.—Secunda, et communis objectio est,
+<lb ed="#P" n="102"/>quia natura irrationalis non est capax 
+unio<lb break="no" ed="#P" n="103"/>nis divine, neque alicujus operationis 
+divi<lb break="no" ed="#P" n="104"/>né; ergo nec divini esse, quod per hanc
+<lb ed="#P" n="105"/>unionem communicatur; cum enim esse sit
+<lb ed="#P" n="106"/>propter operari, teste Aristotele, quod est 
+in<lb break="no" ed="#P" n="107"/>capax operationis alicujus naturae, est etiam
+<lb ed="#P" n="108"/>incapax esse, seu subsisientie talis nature.
+<lb ed="#P" n="109"/>Unde Damascenus, lib. 3 de Fide, c. 17, dicit
+<lb ed="#P" n="110"/>carnem Christi simul cum divina substantia
+<pb ed="#P" n="513"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>actiones divinas participasse. Et c. 48 : Mens,
+<lb ed="#P" n="2"/>inquit , sapientia et operatione destituta, nulla
+<lb ed="#P" n="3"/>unguam esse queat ; uam si torpida, alque 
+im<lb break="no" ed="#P" n="4"/>mobilis est, mec quidem, omnino est. 
+Responde<lb break="no" ed="#P" n="5"/>tur negando consequentiam ; quia visio beata
+<lb ed="#P" n="6"/>non est propria operatio consequens hane
+<lb ed="#P" n="7"/>unionem ; communicatur enim sine illa, et
+<lb ed="#P" n="8"/>per se, ac ex natura sua solum in gratia 
+fun<lb break="no" ed="#P" n="9"/>datur; est enim gratia participatio diving 
+na<lb break="no" ed="#P" n="10"/>ture, cui respondet participatio divin: 
+ope<lb break="no" ed="#P" n="11"/>rationis. Unio vero hypostatica, si proprie ac
+<lb ed="#P" n="12"/>physice loquamur, non habet operationem
+<lb ed="#P" n="13"/>hoc modo propriam, quia gratia unionis non
+<lb ed="#P" n="14"/>est formalis communicatio ipsius nature 
+di<lb break="no" ed="#P" n="15"/>vine, qua est principium operationum 
+divi<lb break="no" ed="#P" n="16"/>narum; sed est communicatio subsistentis
+<lb ed="#P" n="17"/>divine, qua constituit personam operantem,
+<lb ed="#P" n="18"/>non vero est principium formale operandi.
+<lb ed="#P" n="19"/>Debetur autem naturse assumpte, ratione
+<lb ed="#P" n="20"/>hujus unionis, perfectus modus operandi
+<lb ed="#P" n="21"/>juxta ipsius nature capacitatem, et 
+conse<lb break="no" ed="#P" n="22"/>quenter debetur gratia creata, et visio Dei,
+<lb ed="#P" n="23"/>si natura sit capax ejus; non tamen sunt he
+<lb ed="#P" n="24"/>perfectiones accidentarie, simpliciter 
+neces<lb break="no" ed="#P" n="25"/>sari? ad hanc unionem, ut supra, q. 2, dictum
+<lb ed="#P" n="26"/>est, et in sequentibus sepius dicetur. Cum -
+<lb ed="#P" n="27"/>ergo dicitur esse communicari propter 
+ope<lb break="no" ed="#P" n="28"/>rationem, proprie et formaliter intelligendum
+<lb ed="#P" n="29"/>est de esse nature seu essentiali , et de esse
+<lb ed="#P" n="30"/>existentie , quod est proprium operationis
+<lb ed="#P" n="31"/>nature; esse autem subsistentie?, proxime et
+<lb ed="#P" n="32"/>intrinsece solum est propter subsistendum,
+<lb ed="#P" n="33"/>remote vero eL extrinsece potest ordinari ad
+<lb ed="#P" n="34"/>operandum, juxta nature capacitatem; et ita
+<lb ed="#P" n="35"/>posset Deus, si assumeret irrationalem 
+natu<lb break="no" ed="#P" n="36"/>ram, illam elevare ad actiones miraculosas,
+<lb ed="#P" n="37"/>quas Dionysius et Damascenus divinas 
+vo<lb break="no" ed="#P" n="38"/>cant; quamvis hoc etiam extrinsecum sit ipsi
+<lb ed="#P" n="39"/>unioni, et ex voluntate Dei pendeat. Cur 
+au<lb break="no" ed="#P" n="40"/>tem irrationalis natura sit capax hujus 
+unio<lb break="no" ed="#P" n="41"/>nis, non autem visionis beate, cum iamen
+<lb ed="#P" n="42"/>illa sit major perfectio quam hsc, tractatum
+<lb ed="#P" n="43"/>est supra, disput. 9, sect. 2. Ratio enim est,
+<lb ed="#P" n="44"/>quia haec unio ordinatur ad quamdam 
+sub<lb break="no" ed="#P" n="45"/>stantiae seu subsistentie compositionem, et
+<lb ed="#P" n="46"/>ideo capacitas ejus solum fundatur in 
+com<lb break="no" ed="#P" n="47"/>muni ratione nature substantialis ; visio vero
+<lb ed="#P" n="48"/>est operatio vit:e, cujus sola natura 
+intellec<lb break="no" ed="#P" n="49"/>tualis est capax per facultatem, qu:xe non 
+con<lb break="no" ed="#P" n="50"/>sequitur naturam substantialem ut sic, sed
+<lb ed="#P" n="51"/>certum gradum ejus. Tertia objectio est, quia
+<lb ed="#P" n="52"/>natura irrationalis est incapax 
+sanctificatio<lb break="no" ed="#P" n="53"/>nis, propter quod est etiam incapax gralie
+<lb ed="#P" n="54"/>habitualis. Respondetur, in hac voce 
+sancti<lb break="no" ed="#P" n="55"/>ficationis posse multa includi, qua faciunt
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>sensum ambiguum et equivocum, ut infra,
+<lb ed="#P" n="57"/>q. 7, latius exponam. Si ergo nomine 
+sancti<lb break="no" ed="#P" n="58"/>ficationis intelligatur rectitudo aliqua et 
+per<lb break="no" ed="#P" n="59"/>fectio in actibus studiosis, vel meritoriis, seu
+<lb ed="#P" n="60"/>liberis, non est de ratione hujus unionis ut
+<lb ed="#P" n="61"/>conferat hanc sanctificationem cuicumque
+<lb ed="#P" n="62"/>nature, sed solum nature libere, et capaci
+<lb ed="#P" n="63"/>illius; non est enim hic effectus quasi 
+forma<lb break="no" ed="#P" n="64"/>lis hujus unionis, sed solum ex illa resultat
+<lb ed="#P" n="65"/>juxta nature capacitatem. Si autem nomine
+<lb ed="#P" n="66"/>sanctificationis intelligitur deificatio quedam
+<lb ed="#P" n="67"/>nature assumpte, per intimam unionem et
+<lb ed="#P" n="68"/>presentiam divin: persone, sic omnis natura
+<lb ed="#P" n="69"/>unita Verbo Dei, etiamsi irrationalis sit, est
+<lb ed="#P" n="70"/>deificata et sanctificata; unde et speciali 
+ado<lb break="no" ed="#P" n="71"/>ratione digna est ratione unionis, et, ut 
+die<lb break="no" ed="#P" n="72"/>tum est, illi debetur perfecta operatio juxta
+<lb ed="#P" n="73"/>suam capacitatem.
+</p>
+                  <p xml:id="szstco-k27135-d1e3632">
+                     <lb ed="#P" n="74"/>9. Objectio. — Responsio. — Quarta 
+objec<lb break="no" ed="#P" n="75"/>tio, quia videtur per se indignum et indecens
+<lb ed="#P" n="76"/>divinam personam, ut his imperfectis et 
+infe<lb break="no" ed="#P" n="77"/>rioribus naturis uniatur; quod autem 
+hujus<lb break="no" ed="#P" n="78"/>modi est, absolute repuguat fieri a Deo, qui
+<lb ed="#P" n="79"/>summa prudentia et sapientia omnia 
+opera<lb break="no" ed="#P" n="80"/>tur. Qua ratio fundata est in Ansel., lib. 2
+<lb ed="#P" n="81"/>Cur Deus homo, c. 4 et 5. Respondetur 
+pri<lb break="no" ed="#P" n="82"/>mo, solum probari hoc argumento, quod D.
+<lb ed="#P" n="83"/>"Thomas, supra dixit, non esse in natura 
+irra<lb break="no" ed="#P" n="84"/>tionali intrinsecam congruentiam, ut 
+assuma<lb break="no" ed="#P" n="85"/>tur, et ideo Deus nunquam aliquid 
+hujusmo<lb break="no" ed="#P" n="86"/>di assumpsit, nisi in ordine ad rationalem 
+na<lb break="no" ed="#P" n="87"/>turam, Secundo vero dicitur, quamvis 
+natu<lb break="no" ed="#P" n="88"/>re irrationali desit haec congruentia, non 
+ta<lb break="no" ed="#P" n="89"/>men propterea esse vere ae proprie indecens
+<lb ed="#P" n="90"/>ut assumatur, quia si Deus hoc faceret, 
+con<lb break="no" ed="#P" n="91"/>tra nullam virtutem faceret, nec deesset illi
+<lb ed="#P" n="92"/>modus et ratio propter quam decenter et 
+sa<lb break="no" ed="#P" n="93"/>pienter id faceret; ad ostendendam, verbi
+<lb ed="#P" n="94"/>gratia, potentiam suam, et sapientiam 
+huma<lb break="no" ed="#P" n="95"/>nam confundendam, ut in simili dixit Tertul.,
+<lb ed="#P" n="96"/>in lib. de Carne Christi, e. 4, arguens contra
+<lb ed="#P" n="97"/>Marcion., qui Deo indignum judicabat, ut de
+<lb ed="#P" n="98"/>femina carnem assumeret : 7Zoc enim, inquit
+<lb ed="#P" n="99"/>Tertullianus, (a cidebitur, si ves humano 
+seu<lb break="no" ed="#P" n="100"/>su ponderetur, non autem si divino, quia 
+siul<lb break="no" ed="#P" n="101"/>ta mundi elegit Deus , ut confundat sapientes.
+<lb ed="#P" n="102"/>JE t idem esset , inquit, si de lupa seu de cacca
+<lb ed="#P" n="103"/>prodire voluisset. Et ad eumdem modum 
+lo<lb break="no" ed="#P" n="104"/>quitur Gregorius Nyss., in Oratione magna
+<lb ed="#P" n="105"/>catechetica, c. 97, ubi inquit, posse Deum
+<lb ed="#P" n="106"/>sine indecentia quamcunque naturam 
+sume<lb break="no" ed="#P" n="107"/>re, quia omnes a Deo infinite distant, unde
+<lb ed="#P" n="108"/>respectu ilius fere nihil inter se distant.
+<lb ed="#P" n="109"/>Quamvis negandum non sit, in una natura
+<lb ed="#P" n="110"/>majorem congruentiam reperiri quam in alia,
+<pb ed="#P" n="514"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>ut diligenter consideranti non apparet 
+obscu<lb break="no" ed="#P" n="2"/>rum. 
+</p>
+                  <p xml:id="szstco-k27135-d1e3723">
+                     <lb ed="#P" n="3"/>10. Responsio.—Ultima et obscurior 
+diffieul<lb break="no" ed="#P" n="4"/>tasin hac sententia est, an hac unio ad 
+irratio<lb break="no" ed="#P" n="5"/>nalemnaturamsit possibilis ratione solius 
+ma<lb break="no" ed="#P" n="6"/>Lteri:, veletiam ratione forms, seutotius 
+natu<lb break="no" ed="#P" n="7"/>re composite ex materia etforma. Et est ratio
+<lb ed="#P" n="8"/>dubitandi, quia forma hujusmodi nature non
+<lb ed="#P" n="9"/>est forma subsistens, cum in suo esse 
+pen<lb break="no" ed="#P" n="10"/>deat a materia, tanquam a sustentante ; ergo
+<lb ed="#P" n="11"/>illa non est capax hujus unionis, quae tantum
+<lb ed="#P" n="12"/>est ad subsistendum ; ergo unio solum potest
+<lb ed="#P" n="13"/>fieri in materia, ratione cujus iste res 
+mate<lb break="no" ed="#P" n="14"/>riales subsistunt, ut sumitur ex D. 'Thoma 
+in<lb break="no" ed="#P" n="15"/>fra, q. 6, art. 1, ad 2, et clarius q. 2, de 
+Po<lb break="no" ed="#P" n="16"/>tent.Dei, art. 1. Haec dubitatio pendet ex 
+me<lb break="no" ed="#P" n="17"/>taphysicis quaestionibus, de modo 
+subsisten<lb break="no" ed="#P" n="18"/>tie harum naturarum, quae ex materia et
+<lb ed="#P" n="19"/>forma materiali constant, an sit idem cum 
+so<lb break="no" ed="#P" n="20"/>la materia, seu illam tantum proxime et 
+im<lb break="no" ed="#P" n="21"/>mediate afficiat, et ab illa denominetur totum
+<lb ed="#P" n="22"/>compositum ; an vero sit idem cum tota 
+na<lb break="no" ed="#P" n="23"/>tura constante materia et forma, et illam
+<lb ed="#P" n="24"/>adequate afficiat, atque adeo veluti 
+partiali<lb break="no" ed="#P" n="25"/>ter identificetur realiter cum materia et 
+for<lb break="no" ed="#P" n="26"/>ma, et utramque afficiat. De qua re dixi in
+<lb ed="#P" n="27"/>Disputationibus Metaphysieis, agens de 
+natu<lb break="no" ed="#P" n="28"/>ra et supposito, et infra, in q. 6, iterum 
+oc<lb break="no" ed="#P" n="29"/>curret. Supponendo ergo posteriorem 
+mo<lb break="no" ed="#P" n="30"/>dum tanquam probabiliorem, dicendum 
+con<lb break="no" ed="#P" n="31"/>sequenter est, naturam irrationalem ita esse
+<lb ed="#P" n="32"/>assumptibilem a Verbo, ut per unionem 
+Ver<lb break="no" ed="#P" n="33"/>bum proxime et immediate uniatur et toti
+<lb ed="#P" n="34"/>naturse, et materie, et forme ipsi; quamvis
+<lb ed="#P" n="35"/>forme non uniatur secundum se, sed solum
+<lb ed="#P" n="36"/>ut componit totam naturam. Ita enim 
+omni<lb break="no" ed="#P" n="37"/>no censendum est fuisse unitum sanguini, et
+<lb ed="#P" n="38"/>de cadavere Christi in triduo estid 
+probabi<lb break="no" ed="#P" n="39"/>lius, quamvis non sil ita certum, quod 
+perti<lb break="no" ed="#P" n="40"/>netad unionem ipsius forme cadaveris. 
+Ra<lb break="no" ed="#P" n="41"/>lio vero est, quia tota natura est quae trahitur
+<lb ed="#P" n="42"/>ad subsistendum, et non tantum materia.
+</p>
+                  <p xml:id="szstco-k27135-d1e3812">
+                     <lb ed="#P" n="43"/>11. Neque obstat quod forma hujus nature
+<lb ed="#P" n="44"/>non sit subsistens, inde enim solum habetur
+<lb ed="#P" n="45"/>non uniri secundum se, sed prout componit
+<lb ed="#P" n="46"/>unam naturam aptam ad subsistendum ; differt
+<lb ed="#P" n="47"/>autem inter formam unitam secundum se,
+<lb ed="#P" n="48"/>vel solum ratione totius nature, quod quando
+<lb ed="#P" n="49"/>priori modo unitur, ex vi illius unionis 
+ma<lb break="no" ed="#P" n="50"/>nebit unita Verbo, etiamsi intellimatur non
+<lb ed="#P" n="51"/>componere totam naturam; quomodo 
+dice<lb break="no" ed="#P" n="52"/>mus infra uniri animam rationalem, quia est
+<lb ed="#P" n="53"/>subsistens; at vero quando unitur ratione
+<lb ed="#P" n="54"/>totius, habet modum unionis pendentem a
+<lb ed="#P" n="55"/>toto, et ideo non unitur ut quod subsistit, sed
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>solum ut quo tota natura constituitur, et est
+<lb ed="#P" n="57"/>apta ad subsistendum.
+</p>
+               </div>
+               <div xml:id="szstco-k27135-Dd1e3850">
+                  <head xml:id="szstco-k27135-Hd1e3852">Sectio 3</head>
+                  <head xml:id="szstco-k27135-Hd1e3854" type="question-title">
+  Utrum partes substantiales possint hypostatice
+  uniri divine persona
+</head>
+                  <p xml:id="szstco-k27135-d1e3857">
+                     <lb ed="#P" n="58" type="fixed=514"/>SECTIO III.
+<lb ed="#P" n="59"/>Utrum partes substantiales possint hypostatice
+<lb ed="#P" n="60"/>uniri divine persona.
+</p>
+                  <p xml:id="szstco-k27135-d1e3866">
+                     <lb ed="#P" n="61"/>1. Questio haec intelligi debet de partibus
+<lb ed="#P" n="62"/>precise sumptis, an assumi possint absque
+<lb ed="#P" n="63"/>unione totius nature, nam de unione ipsarum
+<lb ed="#P" n="64"/>in toto satis dictum est in praecedenti 
+sectio<lb break="no" ed="#P" n="65"/>ne. Versari autem potest quaestio de partibus
+<lb ed="#P" n="66"/>integralibus vel essentialibus physicis; 
+me<lb break="no" ed="#P" n="67"/>taphysiee enim partes nihil ad rem 
+perti<lb break="no" ed="#P" n="68"/>nent, quia cum ille in re non habeant 
+dis<lb break="no" ed="#P" n="69"/>tinetam entitatem nec inter se, nec a toto,
+<lb ed="#P" n="70"/>non aliter possunt assumi quam in tota 
+na<lb break="no" ed="#P" n="71"/>tura.
+</p>
+                  <p xml:id="szstco-k27135-d1e3892">
+                     <lb ed="#P" n="72"/>2. Materia prima dupliciter ger se 
+assus<lb break="no" ed="#P" n="73"/>plibilis sine forma. — Dico primo : materia
+<lb ed="#P" n="74"/>prima per se assumptibilis est sine forma,
+<lb ed="#P" n="75"/>atque adeo sine natura integra et completa.
+<lb ed="#P" n="76"/>Duobus modis potest intelligi hoc fieri; 
+pri<lb break="no" ed="#P" n="77"/>mo, conservando materiam existentem in 
+re<lb break="no" ed="#P" n="78"/>rum natura sine ulla forma, et hoc modo
+<lb ed="#P" n="79"/>uniendo illam Verbo; et hic modus supponit
+<lb ed="#P" n="80"/>illam quaestionem physicam, an materia 
+pos<lb break="no" ed="#P" n="81"/>sit conservari sine forma, in qua ego sentio,
+<lb ed="#P" n="82"/>multo probabilius esse, posse hoc fieri; quia
+<lb ed="#P" n="83"/>re vera nulla est repugnantia, nec probabilis
+<lb ed="#P" n="84"/>contradictio, quod breviter declaro : quia
+<lb ed="#P" n="85"/>materia prima omni forma substantiali 
+ca<lb break="no" ed="#P" n="86"/>rens, licet. non habeat actum formalem, et
+<lb ed="#P" n="87"/>hoc sensu dicatur pura potentia, habet tamen
+<lb ed="#P" n="88"/>suum actum enlitativum, ef partialem 
+exis<lb break="no" ed="#P" n="89"/>tentiam, in qua potest conservari sine forma,
+<lb ed="#P" n="90"/>quia, licet fortasse secundum ordinem 
+natu<lb break="no" ed="#P" n="91"/>re a forma pendeat, non tamen pendet ab
+<lb ed="#P" n="92"/>ipsa, ut causa intrinsece ac formaliter 
+con<lb break="no" ed="#P" n="93"/>stituente entitatem ejus. Et ideo potest Deus
+<lb ed="#P" n="94"/>effective supplere illam dependeniiam, sicut
+<lb ed="#P" n="95"/>supplet in accidente dependentiam a 
+subjec<lb break="no" ed="#P" n="96"/>to, quando separatum illud conservat. Posito
+<lb ed="#P" n="97"/>autem hoc casu, per se evidens est materiam
+<lb ed="#P" n="98"/>sic existentem posse uniri hypostatice Verbo,
+<lb ed="#P" n="99"/>quia talis materia esset subsistens, quamvis
+<lb ed="#P" n="100"/>subsistentia partiali; hoc autem satis est. ut
+<lb ed="#P" n="101"/>póssit hypostatice assumi, sicut anima 
+ratio<lb break="no" ed="#P" n="102"/>nalis separata assumi potuit, quia subsistens
+<lb ed="#P" n="103"/>est, licet per modum parlis. Imo non desunt
+<lb ed="#P" n="104"/>qui putent ita factum esse in corpore Christi
+<lb ed="#P" n="105"/>in triduo; quod ego non probo, ut suo loco
+<lb ed="#P" n="106"/>dicam.
+</p>
+                  <p xml:id="szstco-k27135-d1e3971">
+                     <lb ed="#P" n="107"/>3. Secundo modo posset intelligi casus
+<lb ed="#P" n="108"/>hujus conclusionis de ipsa materia existente
+<pb ed="#P" n="515"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>in toto, et actu informata per formam, ita ut
+<lb ed="#P" n="2"/>quamvis materia sit actualiter pars alicujus
+<lb ed="#P" n="3"/>nature, nihilominus Deus uniatur soli 
+mate<lb break="no" ed="#P" n="4"/>rie, et non immediate ipsi forme, nec toti
+<lb ed="#P" n="5"/>nature ut sic, sed tantum ratione materic.
+<lb ed="#P" n="6"/>Et hoc etiam existimo esse possibile, quia
+<lb ed="#P" n="7"/>materia, etiam cum actu componit totum, et
+<lb ed="#P" n="8"/>informatur forma, est entitas subsistens 
+pro<lb break="no" ed="#P" n="9"/>pria subsistentia partiali, quam semper 
+reti<lb break="no" ed="#P" n="10"/>net, quamvis forma varietür; sicut retinet
+<lb ed="#P" n="11"/>suam partialem existentiam, quae non est
+<lb ed="#P" n="12"/>existentia in alio sustentante, sed in se et per
+<lb ed="#P" n="13"/>se ; talis enim modus existendi fuit 
+necessa<lb break="no" ed="#P" n="14"/>rius ipsi materie, ut posset eadem substare
+<lb ed="#P" n="15"/>transmutationi formarum ; cum ergo materia
+<lb ed="#P" n="16"/>sit distincta a forma, etiamsi sitilli conjuncta,
+<lb ed="#P" n="17"/>nulla est repugnantia quod Deus solam 
+ma<lb break="no" ed="#P" n="18"/>teriam assumat ad subsistendum, non 
+assum<lb break="no" ed="#P" n="19"/>pta forma, et consequenter non assumpta 
+to<lb break="no" ed="#P" n="20"/>ta nalura. Quin potius in corpore Christi in
+<lb ed="#P" n="21"/>triduo existimant aliqui, non improbabiliter,
+<lb ed="#P" n="22"/>ita factum esse, quia non videtur illis 
+neces<lb break="no" ed="#P" n="23"/>sarium ut forma cadaveris imperfectissima,
+<lb ed="#P" n="24"/>et qua statim abjicienda erat, immediate
+<lb ed="#P" n="25"/>uniretur hypostasi Verbi Dei, sed tantum 
+ra<lb break="no" ed="#P" n="26"/>tione materie, de quo infra dicetur.
+</p>
+                  <p xml:id="szstco-k27135-d1e4039">
+                     <lb ed="#P" n="27"/>2. De assumptione forme sime aleria.—
+<lb ed="#P" n="28"/>Dico secundo: forma substantialis separata
+<lb ed="#P" n="29"/>a materia uniri potest hypostatice Verbo Dei.
+<lb ed="#P" n="30"/>Hsec conclusio explicari potest illis duobus
+<lb ed="#P" n="31"/>modis, quibus praecedens explicata est. 
+Pri<lb break="no" ed="#P" n="32"/>mo, ut forma substantialis actu informans
+<lb ed="#P" n="33"/>materiam praeise assumatur, non assumpia
+<lb ed="#P" n="34"/>materia proxime et immediate, et 
+conse<lb break="no" ed="#P" n="35"/>quenter nec tota natura; et hic modus est
+<lb ed="#P" n="36"/>quidem possibilis in anima rationali, quia est
+<lb ed="#P" n="37"/>forma subsistens, etiam cum actu informat
+<lb ed="#P" n="38"/>corpus, ut infra dicam, et ita procedit illa
+<lb ed="#P" n="39"/>ratio superius facta de materia; at vero in
+<lb ed="#P" n="40"/>aliis formis materialibus est res difficilior,
+<lb ed="#P" n="41"/>et videtur certe probabile non posse iia 
+as<lb break="no" ed="#P" n="42"/>sumi, quia, cum non sint per se 
+subsisten<lb break="no" ed="#P" n="43"/>tes, non possunt per se assumi ad 
+subsis<lb break="no" ed="#P" n="44"/>tendum, nisi per se constituantur separate
+<lb ed="#P" n="45"/>a materia, ut infra dicam; quamdiu autem
+<lb ed="#P" n="46"/>sunt unit? materie, non videntur capaces
+<lb ed="#P" n="47"/>subsistenti:|, quia ile modus unionis et
+<lb ed="#P" n="48"/>informationis intrinsece et essentialiter 
+in<lb break="no" ed="#P" n="49"/>cludit dependentiam forme informantis a
+<lb ed="#P" n="50"/>materia, tanquam a sustentante, et ideo non
+<lb ed="#P" n="51"/>potest forma materialis simul ita informare
+<lb ed="#P" n="52"/>materiam, et per se subsistere, sicut. supra
+<lb ed="#P" n="53"/>dicebam non posse accidens simul per se
+<lb ed="#P" n="54"/>esse et inherere; pari ergo ratione, hac 
+for<lb break="no" ed="#P" n="55"/>ma actu informans non videtur per se capax
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>propriae unionis hypostatice, sed tantum in
+<lb ed="#P" n="57"/>toto, seu ratione totius nature. Et haec 
+sen<lb break="no" ed="#P" n="58"/>tentia est satis probabilis, quamvis opposita
+<lb ed="#P" n="59"/>eiiam possit probabiliter defendi, eo modo
+<lb ed="#P" n="60"/>quem statim subjiciam.
+</p>
+                  <p xml:id="szstco-k27135-d1e4117">
+                     <lb ed="#P" n="61"/>5. Secundo ergo potest conclusio intelligi
+<lb ed="#P" n="62"/>de forma substantiali, separata a materia, et
+<lb ed="#P" n="63"/>perse constituta, et sic de anima rationali
+<lb ed="#P" n="64"/>omnino certum et de fide est, separatam
+<lb ed="#P" n="65"/>posse uniri hypostatice Verbo; ita enim in
+<lb ed="#P" n="66"/>iriduo factum est, quia illa, natura sua, est
+<lb ed="#P" n="67"/>per se subsistens ; quod vero illa non 
+subsis<lb break="no" ed="#P" n="68"/>tat ut perfecta natura, sed ut pars tantum, et
+<lb ed="#P" n="69"/>consequenter quod ejus subsistentia natura]is
+<lb ed="#P" n="70"/>imperfecta sit, et quasi partialis, non impedit
+<lb ed="#P" n="71"/>quin Verbo uniri possit, quia illa imperfectio
+<lb ed="#P" n="72"/>est per accidens ad rationem subsistendi ut
+<lb ed="#P" n="73"/>sic, et solum se tenet ex parte ipsius nature.
+<lb ed="#P" n="74"/>Et hinc probabilius concluditur, idem fieri
+<lb ed="#P" n="75"/>posse de potentia absoluta in quacumque 
+for<lb break="no" ed="#P" n="76"/>ma substantiali, si per se conservetur extra
+<lb ed="#P" n="77"/>materiam, ut omnes fieri posse concedunt,
+<lb ed="#P" n="78"/>multo facilius quam accidentia conservantur
+<lb ed="#P" n="79"/>extra subjectum. Et ratio est, quia forma
+<lb ed="#P" n="80"/>substantialis sic separata haberet modum
+<lb ed="#P" n="81"/>per se existendi, qui modus substantialis 
+es<lb break="no" ed="#P" n="82"/>set, atque adeo ejusdem rationis cum 
+subsis<lb break="no" ed="#P" n="83"/>tentia; quamvis ergo haec forma natura sua
+<lb ed="#P" n="84"/>non sit subsistens, tamen, de potentia 
+absolu<lb break="no" ed="#P" n="85"/>ta, separata, est capax ver: subsistentiae ; 
+er<lb break="no" ed="#P" n="86"/>go eadem ratione posset uniri hypostatice
+<lb ed="#P" n="87"/>Verbo. Et hinc fit, si eadem forma in diversis
+<lb ed="#P" n="88"/>locis constituatur, posse in uno, actu 
+infor<lb break="no" ed="#P" n="89"/>mare materiam, in alio vero, per se esse, vel
+<lb ed="#P" n="90"/>hypostatice assumi. Addo denique, quia for-:
+<lb ed="#P" n="91"/>ma vel natura assumpta non omnino per se
+<lb ed="#P" n="92"/>est, sed habet modum unionis ad personam
+<lb ed="#P" n="93"/>assumentem, ideo probabile esse hanc 
+unio<lb break="no" ed="#P" n="94"/>nem non ita repugnare cum actuali 
+informa<lb break="no" ed="#P" n="95"/>tione materie, sicut repugnat modus per se
+<lb ed="#P" n="96"/>essendi; et ideo probabile est hanc formam,
+<lb ed="#P" n="97"/>hoc ipso quod capax est hujus unionis 
+hypo<lb break="no" ed="#P" n="98"/>staticze, posse ad illam assumi, etiam si actu
+<lb ed="#P" n="99"/>informet, quamvis fortasse propriam 
+subsis<lb break="no" ed="#P" n="100"/>tentiam, seu per se existentiam habere non
+<lb ed="#P" n="101"/>possit, dum actu informat, in eodem, scilicet
+<lb ed="#P" n="102"/>tempore et loco, etc. Sic enim supra diceeba--
+<lb ed="#P" n="103"/>mus, non posse eamdem naturam simul per
+<lb ed="#P" n="104"/>se esse, et uniri alteri persone, quamvis 
+pos<lb break="no" ed="#P" n="105"/>sit simul duabus personis uniri; et hoc modo
+<lb ed="#P" n="106"/>potest facile defendi prior sensus hujus 
+con<lb break="no" ed="#P" n="107"/>clusionis.
+</p>
+                  <p xml:id="szstco-k27135-d1e4221">
+                     <lb ed="#P" n="108"/>6. Dico tertio : pars integralis, ut cor, 
+ca<lb break="no" ed="#P" n="109"/>put, etc., assumi potest sine aliis partibus.
+<lb ed="#P" n="110"/>Hee conclusio intelligi debet de parte actu
+<pb ed="#P" n="516"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>unita; nam si sit actu divisa, jam non est
+<lb ed="#P" n="2"/>pars, sed aliqua completa natura, unde non
+<lb ed="#P" n="3"/>est dubium quin possit assumi. Probatur 
+er<lb break="no" ed="#P" n="4"/>go conclusio, quia hac pars subsistit in tolo,
+<lb ed="#P" n="5"/>saltem partialiter ; habet enim suam 
+partia<lb break="no" ed="#P" n="6"/>lem modum per se essendi, qui solum 
+pro<lb break="no" ed="#P" n="7"/>pter continuationem cum alia parte non est
+<lb ed="#P" n="8"/>integra subsistentia; ergo potest illa pars
+<lb ed="#P" n="9"/>uniri Verbo, et amittere illum partialem 
+mo<lb break="no" ed="#P" n="10"/>dum per se essendi; et Verbum poterit 
+ter<lb break="no" ed="#P" n="11"/>minare, et quasi sustentare partem illam ,
+<lb ed="#P" n="12"/>non terminando reliquas. Neque propterea
+<lb ed="#P" n="13"/>Verbum esset pars, sicut nec dicitur esse 
+ani<lb break="no" ed="#P" n="14"/>ma aut sanguis, quia denominatio partis non
+<lb ed="#P" n="15"/>est denominatio suppositi, sed natur: 
+incom<lb break="no" ed="#P" n="16"/>plete. Neque etiam subsistentia Verbi 
+deno<lb break="no" ed="#P" n="17"/>minaretur partialis, quia ipsa non 
+continua<lb break="no" ed="#P" n="18"/>retur, nec per se uniretur cum subsistentia
+<lb ed="#P" n="19"/>aliarum partium ; sed solum esset subsistentia
+<lb ed="#P" n="20"/>unius partis, quae continuaretur et uniretur
+<lb ed="#P" n="21"/>cum aliis partibus, ad componendam unam
+<lb ed="#P" n="22"/>naturam , non ad componendam unam 
+sub<lb break="no" ed="#P" n="23"/>sistentiam. Contra has conclusiones nullas 
+vi<lb break="no" ed="#P" n="24"/>deo objectiones alicujus momenti, et ideo
+<lb ed="#P" n="25"/>praetermitto nonnulla, qua hic inculcari 
+pos<lb break="no" ed="#P" n="26"/>sent; sunt enim parum utilia, et non difficile
+<lb ed="#P" n="27"/>expediri possunt, perceptis his quas dicta
+<lb ed="#P" n="28"/>sunt.
+</p>
+               </div>
+               <div xml:id="szstco-k27135-Dd1e4296">
+                  <head xml:id="szstco-k27135-Hd1e4298">Sectio 4</head>
+                  <head xml:id="szstco-k27135-Hd1e4300" type="question-title">
+  Utrum forma accidentalis possit uniri Verbo 
+  hypostatice
+</head>
+                  <p xml:id="szstco-k27135-d1e4303">
+                     <lb ed="#P" n="29" type="fixed=516"/>SECTIO IV.
+<lb ed="#P" n="30"/>Utrum forma accidentalis possit uniri Verbo 
+hy<lb break="no" ed="#P" n="31"/>postatice.
+</p>
+                  <p xml:id="szstco-k27135-d1e4312">
+                     <lb ed="#P" n="32"/>1. Duplex ratio unionis, secundum 
+hyposta<lb break="no" ed="#P" n="33"/>sim et n hypostasi. — Duobus modis intelligi
+<lb ed="#P" n="34"/>possunt accidentia assumi: uno modo 
+proxi<lb break="no" ed="#P" n="35"/>me et perse, ita ut vel immediate existant
+<lb ed="#P" n="36"/>per ipsammet existentiam persons 
+assumen<lb break="no" ed="#P" n="37"/>tis, vel saltem ipsum Verbum per se terminet
+<lb ed="#P" n="38"/>aliquo modo immediate et proxime 
+existen<lb break="no" ed="#P" n="39"/>tiam ipsorum accidentium. Secundo modo
+<lb ed="#P" n="40"/>possunt assumi tantum mediate, quia, 
+vide<lb break="no" ed="#P" n="41"/>licet, insunt in natura assumpta, quamvis non
+<lb ed="#P" n="42"/>habeant immediatam aliquam unionem cum
+<lb ed="#P" n="43"/>Verbo; et hic modus vocari potest, ut supra,
+<lb ed="#P" n="44"/>q. 2, dicebamus, unio in hypostasi, prior vero
+<lb ed="#P" n="45"/>secundum hypostasim ; de unione ergo in 
+hy<lb break="no" ed="#P" n="46"/>postasi, non est dubium quin sit possibilis,
+<lb ed="#P" n="47"/>quia de facto ita fuit in Christo, ut infra 
+di<lb break="no" ed="#P" n="48"/>cetur; quaestio ergo hic est de unione 
+secun<lb break="no" ed="#P" n="49"/>dum hypostasim, et communiter tractatur de
+<lb ed="#P" n="50"/>accidente separato a subjecto; et hoc sensu
+<lb ed="#P" n="51"/>prius definietur, et inde facile constabit quid
+<lb ed="#P" n="52"/>dicendum sit de accidente actu inheerente.
+</p>
+                  <p xml:id="szstco-k27135-d1e4360">
+                     <lb ed="#P" n="53"/>2. Prima ergo sententia affirmat posse
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>Deum sibi hypostatice unire accidens 
+sepa<lb break="no" ed="#P" n="55"/>ratum a subjecto. Tta tenet Marsil., in 3, q. 3,
+<lb ed="#P" n="56"/>art. 4, quamvis sub dubio. Idem Almain.,
+<lb ed="#P" n="57"/>dist. 2, q. 2; Major, q. 3; Gabriel , dist. 4,
+<lb ed="#P" n="58"/>q. 2, art. 2, ad 7, dicit, si Deus potest 
+assu<lb break="no" ed="#P" n="59"/>mere irralionalem naturam, posse etiam 
+as<lb break="no" ed="#P" n="60"/>sumere accidentalem. Fundamentum est,
+<lb ed="#P" n="61"/>quia accidens separatum habet modum per
+<lb ed="#P" n="62"/>se essendi, similem subsistentic; ergo potest
+<lb ed="#P" n="63"/>Deus accidens sibi unire ad supplendum illum
+<lb ed="#P" n="64"/>modum , non per inherentiam, sed per 
+mo<lb break="no" ed="#P" n="65"/>dum hypostatice unionis; sic enim 
+susten<lb break="no" ed="#P" n="66"/>tare accidens, nullam imperfectionem dicit
+<lb ed="#P" n="67"/>in sustentante, sed supponit potius 
+perfectio<lb break="no" ed="#P" n="68"/>nem. Nec potest facile assignari repugnantia,
+<lb ed="#P" n="69"/>vel implicatio quam hic modus involvat. Et
+<lb ed="#P" n="70"/>confirmari hoc potest in opinione eorum qui
+<lb ed="#P" n="71"/>existimant hanc unionem fieriad existendum;
+<lb ed="#P" n="72"/>si enim Deus facit ut anima existat existentia
+<lb ed="#P" n="73"/>increata, cur non poterit facere ut eadem 
+al<lb break="no" ed="#P" n="74"/>bedo existentia existat? Neque enim 
+propter<lb break="no" ed="#P" n="75"/>ea existentia divina fieret accidentalis , sicut
+<lb ed="#P" n="76"/>neque fit existentia creata aut materialis,
+<lb ed="#P" n="77"/>etiamsi formam creatam vel materialem 
+as<lb break="no" ed="#P" n="78"/>sumat. Nec sequitur in eo casu Deum 
+deno<lb break="no" ed="#P" n="79"/>minari album, vel quid simile, sicut nec 
+de<lb break="no" ed="#P" n="80"/>nominatur animatus, etiamsi animam 
+hypos<lb break="no" ed="#P" n="81"/>tatice unitam habeat , quia illa denominatio
+<lb ed="#P" n="82"/>sumitur a forma, utinformante vel inherente,
+<lb ed="#P" n="83"/>non ut subsistente. Neque etiam diceretur
+<lb ed="#P" n="84"/>albedo, quia hoc est nomen naturse, non 
+sup<lb break="no" ed="#P" n="85"/>positi, sicut supra in simili dicebamus.
+</p>
+                  <p xml:id="szstco-k27135-d1e4437">
+                     <lb ed="#P" n="86"/>3. Accidens separatum quamvis per se sit,
+<lb ed="#P" n="87"/>«on, subsistit neque assumi potest. — 
+Nihilomi<lb break="no" ed="#P" n="88"/>nus probabilius mihi videtur, formam 
+acei<lb break="no" ed="#P" n="89"/>dentalem non posse uniri hypostatice Verbo.
+<lb ed="#P" n="90"/>Hanc sententiam tenet Basolis, in 3, dist. 2,
+<lb ed="#P" n="91"/>q. 4, art. 2; et Palacios, q. 14, qui afferunt
+<lb ed="#P" n="92"/>plures rationes, quibus omissis , ita breviter
+<lb ed="#P" n="93"/>illam probo: quia imprimis non potest forma
+<lb ed="#P" n="94"/>accidentalis assumi ad existendum existentia
+<lb ed="#P" n="95"/>Verbi, quia hic modus unionis omni nature
+<lb ed="#P" n="96"/>repugnat, tam accidentali quam substantiali,
+<lb ed="#P" n="97"/>ut infra, q. 17, late probabitur; quanquam
+<lb ed="#P" n="98"/>fortasse quoad hoc non sit specialis 
+repu<lb break="no" ed="#P" n="99"/>enantia in forma accidentali, ut quzedam 
+con<lb break="no" ed="#P" n="100"/>firmatio supra facta probabiliter ostendit. 
+De<lb break="no" ed="#P" n="101"/>inde accidens existens non potest quoad 
+mo<lb break="no" ed="#P" n="102"/>dum existendi terminari subsistentia divina ;
+<lb ed="#P" n="103"/>quia quamvis accidens separatum per se 
+ali<lb break="no" ed="#P" n="104"/>quo modo constituatur, tamen ille modus per
+<lb ed="#P" n="105"/>se essendi non est vera subsistentia, sed est
+<lb ed="#P" n="106"/>modus in se accidentalis, quia entitas 
+acci<lb break="no" ed="#P" n="107"/>dentalis non est capax modi substantialis;
+<lb ed="#P" n="108"/>ergo forma accidentalis est omnino incapax
+<pb ed="#P" n="517"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>subsistentivae et consequenter etiam est 
+in<lb break="no" ed="#P" n="2"/>capax substantialis unionis; ergo nou potest
+<lb ed="#P" n="3"/>ad illam fieri unio secundum subsistentiam,
+<lb ed="#P" n="4"/>qua intrinsece et essentialiter substantialis
+<lb ed="#P" n="5"/>est. Et confirmatur et explicatur variis modis.
+<lb ed="#P" n="6"/>Primo, quia accidens non potest uniri ad
+<lb ed="#P" n="7"/>componendum unum per se, et multo minus
+<lb ed="#P" n="8"/>ad componendam unam personam; at vero
+<lb ed="#P" n="9"/>unio cujuscumque nature create cum Deo
+<lb ed="#P" n="10"/>tantüm esse potest per modum unius 
+subsis<lb break="no" ed="#P" n="11"/>tentie vel person:. Secundo, quia substantia
+<lb ed="#P" n="12"/>non potest ulla ratione poni in alio per 
+mo<lb break="no" ed="#P" n="13"/>dum inhzrentis, quia hoc pugnat cum natura
+<lb ed="#P" n="14"/>substantia, qua omnino est incapax talis 
+mo<lb break="no" ed="#P" n="15"/>di essendi ( et ideo licet humanitas sit in 
+Ver<lb break="no" ed="#P" n="16"/>bo divino, non tamen iuhsrendo , sed alio
+<lb ed="#P" n="17"/>modo accommodato substantie); ergo, pari
+<lb ed="#P" n="18"/>ratione, natura accidentalis non potest trahi
+<lb ed="#P" n="19"/>ad subsistendum. Tertio, intelligi non potest
+<lb ed="#P" n="20"/>punctum immediate terminare corpus et 
+su<lb break="no" ed="#P" n="21"/>perficiem, quia non est proportio nec 
+capaci<lb break="no" ed="#P" n="22"/>tas; ergo, simili modo, etc. Et per haec 
+satis<lb break="no" ed="#P" n="23"/>factum est fundamento contrari: sententie,
+<lb ed="#P" n="24"/>jam enim ostensum est hypostaticam 
+unio<lb break="no" ed="#P" n="25"/>nem repugnare accidenti, quia non est capax
+<lb ed="#P" n="26"/>substantialis unionis. Quod autem ibi dicitur,
+<lb ed="#P" n="27"/>sustentare pertinere ad perfectionem, 
+respon<lb break="no" ed="#P" n="28"/>detur hoc esse quoddam commune et 
+analo<lb break="no" ed="#P" n="29"/>gum, quod in re poni non potest, nisi in 
+ali<lb break="no" ed="#P" n="30"/>qua specie, seu particulari modo sustentandi;
+<lb ed="#P" n="31"/>si ergo unum sustentet aliud per modum 
+sub<lb break="no" ed="#P" n="32"/>jecti, imperfectum quid et potentiale esse 
+ne<lb break="no" ed="#P" n="33"/>cesse est, et ideo non potest hic modus 
+con<lb break="no" ed="#P" n="34"/>venire divin? persone; si autem sustentet
+<lb ed="#P" n="35"/>per modum suppositi, est quidem hic 
+perfec<lb break="no" ed="#P" n="36"/>ius modus, excedit tamen imperfectam 
+na<lb break="no" ed="#P" n="37"/>turam aecidentis, qua non est capax illius;
+<lb ed="#P" n="38"/>alius autem modus sustentandi , qui sit per
+<lb ed="#P" n="39"/>veram unionem et intrinsecam, nec intelligi,
+<lb ed="#P" n="40"/>nec fingi potest.
+</p>
+                  <p xml:id="szstco-k27135-d1e4580">
+                     <lb ed="#P" n="41"/>4. Et ex his a fortiori colligitur accidens
+<lb ed="#P" n="42"/>actu inhserens subjecto multo minus posse
+<lb ed="#P" n="43"/>immediate uniri persone divine, quia et 
+ra<lb break="no" ed="#P" n="44"/>lione imperfect: nature non est capax hujus
+<lb ed="#P" n="45"/>unionis, ut dictum est, et ratione actualis 
+in<lb break="no" ed="#P" n="46"/>herentie habet majorem quamdam 
+repu<lb break="no" ed="#P" n="47"/>gnantiam cum hujusmodi unione.
+</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
