@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 24</title>
+            <author ref="#FranciscoSuarez">Francisco Suarez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 24</title>
+               <date when="2025-05-27">May 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-sqqv18">Paris 1860, v. 17</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-05-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="527"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="szstco-l01262"><!-- szstco-p3q24 -->
+            <head xml:id="szstco-l01262-Hd1e97">Quaestio 24</head>
+            <div xml:id="szstco-l01262-Dd1e99"><!-- szstco-p3q24prae -->
+               <head xml:id="szstco-l01262-Hd1e102">Praeambulum</head>
+               <p xml:id="szstco-l01262-d1e104">
+                  <lb ed="#P" n="92" type="fixed=524"/>Supponenda sunt hoc loco, quae de 
+prae<lb break="no" ed="#P" n="93"/>destinatione in communi, 1 p. , q. 23, doceri
+<lb ed="#P" n="94"/>solent, et abstinendo ab aliis opinionibus, 
+cer<lb break="no" ed="#P" n="95"/>tum est praedestinationem vel supponere, vel
+<lb ed="#P" n="96"/>includere actum intellectus et voluntatis;
+<lb ed="#P" n="97"/>supponit enim voluntatem efficacem Dei, et
+<lb ed="#P" n="98"/>dicit rationem mediorum per quae voluntas
+<lb ed="#P" n="99"/>ila implenda est. Unde quia voluntas est
+<lb ed="#P" n="100"/>quasi radix totius praedestinationis , de illa
+<lb ed="#P" n="101"/>semper loquemur, et in ea explicabimus 
+doc<lb break="no" ed="#P" n="102"/>trinam hanc de praedestinatione Christi.
+</p>
+            </div>
+            <div xml:id="szstco-l01262-Dd1e131"><!-- szstco-p3q24a1 -->
+               <head xml:id="szstco-l01262-Hd1e134">Articulus 1</head>
+               <p xml:id="szstco-l01262-d1e136">
+                  <lb ed="#P" n="37" type="fixed=526"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01262-d1e141">
+                  <lb ed="#P" n="38"/>Circa titulum, et ad intelligenda omnia quae
+<lb ed="#P" n="39"/>disputanda sunt, observare oportet, 
+duplici<lb break="no" ed="#P" n="40"/>ter aliquem posse dici praedestinatum. Primo,
+<lb ed="#P" n="41"/>praecise non explicando terminum ad quem
+<lb ed="#P" n="42"/>praedestinatus est. Secundo, addendo et 
+ex<lb break="no" ed="#P" n="43"/>plicando illum terminum, ut si dicas Christum
+<lb ed="#P" n="44"/>esse praedestinatum, vel esse praedestinatum
+<lb ed="#P" n="45"/>ut sit Filius Dei naturalis. Unde tria in hac
+<lb ed="#P" n="46"/>locutione considerari possunt. Primum est
+<lb ed="#P" n="47"/>actus Dei praedestinantis. Secundum est res
+<lb ed="#P" n="48"/>quae praedestinata dicitur, quae solet esse 
+ob<lb break="no" ed="#P" n="49"/>iectum praedestinationis, et res ad quam 
+prae<lb break="no" ed="#P" n="50"/>destinatur , quae terminus praedestinationis
+<lb ed="#P" n="51"/>appellatur; et actus quidem praedestinatio-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="52"/>nis supponit cognitionem objecti et termini
+<lb ed="#P" n="53"/>praedestinationis quatenus possibilia sunt ;
+<lb ed="#P" n="54"/>praecedit autem ea quatenus futura sunt,
+<lb ed="#P" n="55"/>quia per ipsum actum praedestinationis ad
+<lb ed="#P" n="56"/>existendum ordinantur. Inter objectum etiam
+<lb ed="#P" n="57"/>et terminum (si distincta sint) quidam
+<lb ed="#P" n="58"/>ordo reperitur, nam objectum supponitur
+<lb ed="#P" n="59"/>termino per modum- subjecti, ordinatur 
+au<lb break="no" ed="#P" n="60"/>tem ad terminum tanquam ad finem et 
+tan<lb break="no" ed="#P" n="61"/>quam ad suam perfectionem, aut alio simili
+<lb ed="#P" n="62"/>modo. In hoc ergo titulo praesentis articuli,
+<lb ed="#P" n="63"/>D. Thomas priori modo quaestionem proponit
+<lb ed="#P" n="64"/>de praedestinatione Christi praecise, non 
+expli<lb break="no" ed="#P" n="65"/>cato termino ejus. Et eodem modo illam 
+de<lb break="no" ed="#P" n="66"/>finit, quanquam obiter in solutione ad 
+secun<lb break="no" ed="#P" n="67"/>dum, et tertium, nonnihil de termino 
+attin<lb break="no" ed="#P" n="68"/>gat. Et ex his satis intelligi potest littera 
+to<lb break="no" ed="#P" n="69"/>tius articuli, quae per se clara est. De 
+reau<lb break="no" ed="#P" n="70"/>tem ipsa statim latius disputandum erit.
+</p>
+            </div>
+            <div xml:id="szstco-l01262-Dd1e218"><!-- szstco-p3q24a2 -->
+               <head xml:id="szstco-l01262-Hd1e221">Articulus 2</head>
+               <p xml:id="szstco-l01262-d1e223">
+                  <lb ed="#P" n="79" type="fixed=527"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01262-d1e228">
+                  <lb ed="#P" n="80"/>1. Inquirit hic D. Thomas terminum hujus
+<lb ed="#P" n="81"/>praedestinationis, et quaestionem intelligit de
+<lb ed="#P" n="82"/>Filio Dei naturali propriissime et personaliter,
+<lb ed="#P" n="83"/>eo modo quo hic homo Christus est Filius
+<lb ed="#P" n="84"/>Dei naturalis per aeternam generationem ; ita
+<lb ed="#P" n="85"/>ut sensus sit, an Christus in quantum homo
+<lb ed="#P" n="86"/>sit praedestinatus fore ipsum Verbum Dei,
+<lb ed="#P" n="87"/>quem sensum satis explicuit D. Thom. in 
+ar<lb break="no" ed="#P" n="88"/>gumento 1, cum solutione.
+</p>
+               <p xml:id="szstco-l01262-d1e250">
+                  <lb ed="#P" n="89"/>2. Respondet autem in corpore, illam 
+1o<lb break="no" ed="#P" n="90"/>cutionem non esse falsam, sed veram : 
+Chris<lb break="no" ed="#P" n="91"/>tus, in quantum homo, est praedestinatus esse
+<lb ed="#P" n="92"/>Filius Dei, quia hoc convenit illi ratione 
+hu<lb break="no" ed="#P" n="93"/>manae naturae, cui in tempore gratia unionis
+<lb ed="#P" n="94"/>facta est, quae ab aeterno fuerat praedestinata,
+<lb ed="#P" n="95"/>et per eam effectum est ut hic homo esset
+<lb ed="#P" n="96"/>Filius Dei naturalis. Non explicat autem D.
+<lb ed="#P" n="97"/>Thom. an haec locutio tantum sit vera cum
+<lb ed="#P" n="98"/>illo addito, in quantum homo, vel an etiam
+<lb ed="#P" n="99"/>simpliciter dici possit: Christus est 
+preedesti<lb break="no" ed="#P" n="100"/>natus esse Filius Dei; indicat tamen, solum
+<pb ed="#P" n="528"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>cum illo addito veram esse propositionem 
+il<lb break="no" ed="#P" n="2"/>lam, dum inquit, solum ratione humanae 
+na<lb break="no" ed="#P" n="3"/>turae, praedestinationem competere Christo.
+<lb ed="#P" n="4"/>Sed hoc statim latius disputandum est. Ubi
+<lb ed="#P" n="5"/>etiam explicabuntur solutiones ad 1 et 3. 
+So<lb break="no" ed="#P" n="6"/>lutio vero ad 2 facilis est.
+</p>
+            </div>
+            <div xml:id="szstco-l01262-Dd1e297"><!-- szstco-p3q24a3 -->
+               <head xml:id="szstco-l01262-Hd1e300">Articulus 3</head>
+               <p xml:id="szstco-l01262-d1e302">
+                  <lb ed="#P" n="75" type="fixed=528"/>COMMENTABIUS.
+</p>
+               <p xml:id="szstco-l01262-d1e307">
+                  <lb ed="#P" n="76"/>Affirmat D. Thom. cum August., lib. de
+<lb ed="#P" n="77"/>Praedest., cap. 15, et de Bono perseverantiae,
+<lb ed="#P" n="78"/>cap. ult., cui consentiunt caeteri Theologi, in
+<lb ed="#P" n="79"/>3, dist. 10, ubi Albert., dub. ult.; Durand.,
+<lb ed="#P" n="80"/>q. 2; Palud., q. 3; Bonav., dist. 11, art. 1.
+<lb ed="#P" n="81"/>q. 1; et Alens., 3 par., q. 3, memb. 5; et in
+<lb ed="#P" n="82"/>superioribus satis declarata est hec D. Thom.
+<lb ed="#P" n="83"/>conclusio, disp. 5, sect. 9. Neque hoc loco
+<lb ed="#P" n="84"/>oportet plura addere, quia res est facilis.
+</p>
+            </div>
+            <div xml:id="szstco-l01262-Dd1e331"><!-- szstco-p3q24a4 -->
+               <head xml:id="szstco-l01262-Hd1e334">Articulus 4</head>
+               <p xml:id="szstco-l01262-d1e336">
+                  <lb ed="#P" n="40" type="fixed=529"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01262-d1e341">
+                  <lb ed="#P" n="41"/>Hic articulus etiam est in superioribus 
+ex<lb break="no" ed="#P" n="42"/>plicatus, nam de duplici genere causae potest
+<lb ed="#P" n="43"/>haec quaestio intelligi, finali et meritoria, et
+<lb ed="#P" n="44"/>de finali diximus in disp. 5, sect. 2, Christum
+<lb ed="#P" n="45"/>esse causam finalem nostrae praedestinationis,
+<lb ed="#P" n="46"/>quod ex modo loquendi Scripturae, 
+Concilio<lb break="no" ed="#P" n="47"/>rum, et Patrum ostendimus. De causa autem
+<lb ed="#P" n="48"/>meritoria, in disp. 41, dum esset sermo de
+<lb ed="#P" n="49"/>Christi merito, fuse satis disputatum est.
+</p>
+            </div>
+            <div xml:id="szstco-l01262-Dd1e364"><!-- szstco-p3q24-d50 -->
+               <head xml:id="szstco-l01262-Hd1e367">Disputatio 50</head>
+               <head xml:id="szstco-l01262-Hd1e369" type="question-title">
+De modo loquendi circa praedestinationem
+christi
+</head>
+               <p xml:id="szstco-l01262-d1e372">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="50" type="fixed=529"/>DISPUTATIO L,
+<lb ed="#P" n="51"/>In quatuor sectiones distributa.
+<lb ed="#P" n="52"/>DE MODO LOQUENDI CIRCA PRAEDESTINATIONEM
+<lb ed="#P" n="53"/>CHRISTI.
+</p>
+               <p xml:id="szstco-l01262-d1e385">
+                  <lb ed="#P" n="54"/>Propono disputationem hanc sub hoc titulo,
+<lb ed="#P" n="55"/>quia de praedestinatione Christi quoad rem
+<lb ed="#P" n="56"/>ipsam nulla mihi superest disputatio, his 
+sup<lb break="no" ed="#P" n="57"/>positis quae in disp. 5 tradita sunt. Unum
+<lb ed="#P" n="58"/>enim certa fide indubitatum est, scilicet 
+sub<lb break="no" ed="#P" n="59"/>stantialem unionem duarum naturarum, 
+di<lb break="no" ed="#P" n="60"/>vina et humanae, in una persona Filii Dei,
+<lb ed="#P" n="61"/>fuisse ab aeterno praedestinatam aDeo, ut recte
+<lb ed="#P" n="62"/>hic D. Th., art. 1, docuit, etcolligitur ex Paulo,
+<lb ed="#P" n="63"/>1 ad Corint. 2, dicente: Loguimur Dei 
+sapien<lb break="no" ed="#P" n="64"/>tiam in mysterio, que abscondita est, quam
+<lb ed="#P" n="65"/>praedestinavit Deus ante secula in gloriam 
+nos<lb break="no" ed="#P" n="66"/>tram ; et ideo, ad Ephes. 1, hoc mysterium
+<lb ed="#P" n="67"/>vocat sacramentum voluntatis Dei, et c. 3 
+vo<lb break="no" ed="#P" n="68"/>cat sacramentum absconditum a seculis in Dec.
+<lb ed="#P" n="69"/>Et ratio clara est, quia praedestinatio, 
+quam<lb break="no" ed="#P" n="70"/>vis ad omnes efrtectus divinae voluntatis 
+ac<lb break="no" ed="#P" n="71"/>commodari possit, ex usu tamen 
+Theologo<lb break="no" ed="#P" n="72"/>rum potissimum esse dicitur in operibus 
+gra<lb break="no" ed="#P" n="73"/>tie ct gloria ; sed haec unio est maximum
+<lb ed="#P" n="74"/>opus divinae gratia, quod Deus absoluta et
+<lb ed="#P" n="75"/>efficaci voluntate ab aeterno voluit, ut in 
+tem<lb break="no" ed="#P" n="76"/>pore fieret; ergo ab aeterno fuit hoc opus
+<lb ed="#P" n="77"/>praedestinatum et praeordinatum a Deo. In
+<lb ed="#P" n="78"/>quo autem signo rationis nostro modo 
+intel<lb break="no" ed="#P" n="79"/>ligendi praeordinatum fuerit, etpropterquam
+<lb ed="#P" n="80"/>praecipue rationem, et quem gradum vel 
+ra<lb break="no" ed="#P" n="81"/>tionem causee teneat inter alia divina opera,
+<lb ed="#P" n="82"/>in citato loco fuse explicatum est. Solum ergo
+<lb ed="#P" n="83"/>superest ut dicamus de variis locutionibus,
+<lb ed="#P" n="84"/>quibus haec eadem res explicari potest, 
+vello<lb break="no" ed="#P" n="85"/>quendo de Christo, seu de hoc homine, aut
+<lb ed="#P" n="86"/>de Verbo, seu divino supposito, aut de 
+hu<lb break="no" ed="#P" n="87"/>mana natura, vel in ordine ad 
+praedestina<lb break="no" ed="#P" n="88"/>tionem praecise dictam, vel cum relatione ad
+<lb ed="#P" n="89"/>aliquem certum terminum, de quibus 
+sigilla<lb break="no" ed="#P" n="90"/>tim dicendum est.
+</p>
+               <div xml:id="szstco-l01262-Dd1e468"><!-- szstco-p3q24-d50s1 -->
+                  <head xml:id="szstco-l01262-Hd1e471">Sectio 1</head>
+                  <head xml:id="szstco-l01262-Hd1e473" type="question-title">
+an simpliciter verum sit christum, aut filium
+dei, ab aeterno esse praedestinatum
+</head>
+                  <p xml:id="szstco-l01262-d1e476">
+                     <lb ed="#P" n="91" type="fixed=529"/>SECTIO I.
+<lb ed="#P" n="92"/>An simpliciter verum sit Christum, aut Filium
+<lb ed="#P" n="93"/>Dei, ab aeterno esse praedestinatum.
+</p>
+                  <p xml:id="szstco-l01262-d1e485">
+                     <lb ed="#P" n="94"/>1. Nonnulli Theologi negant ita nobis esse
+<lb ed="#P" n="95"/>simpliciter loquendum. Et ratio reddi potest,
+<lb ed="#P" n="96"/>quia quod non potest absolute dici de Filio
+<lb ed="#P" n="97"/>Dei, nec de Christo potest simpliciter dici;
+<lb ed="#P" n="98"/>sed Verbum, vel Filius Dei non potest 
+simpli<lb break="no" ed="#P" n="99"/>citer dici praedestinatus , quia haec vox prae-
+<pb ed="#P" n="530"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>destinatus , prout est in usu Theologorum,
+<lb ed="#P" n="2"/>quando de aliquo absolute dicitur, significat
+<lb ed="#P" n="3"/>illum per divinam voluntatem esse ab aeterno
+<lb ed="#P" n="4"/>ordinatum ad aliquod esse divinum, seu ad
+<lb ed="#P" n="5"/>suam beatitudinem ; hoc autem dici non 
+po<lb break="no" ed="#P" n="6"/>test de Filio Dei, qui suam beatitudinem non
+<lb ed="#P" n="7"/>habet ex praedestinatione, sed per aeternam
+<lb ed="#P" n="8"/>generationem.
+</p>
+                  <p xml:id="szstco-l01262-d1e522">
+                     <lb ed="#P" n="9"/>2. Dico primo : Christus, in quantum homo,
+<lb ed="#P" n="10"/>est ab aeterno praedestinatus. Est communis
+<lb ed="#P" n="11"/>et certa conclusio. Et probatur facile, quia
+<lb ed="#P" n="12"/>Christus, in quantum homo, ab aeterno est a
+<lb ed="#P" n="13"/>Deo dilectus, et ordinatus ad perfectissima
+<lb ed="#P" n="14"/>dona gratiae et gloriae, quae illi ut homini ab
+<lb ed="#P" n="15"/>aeterno praeparata sunt ; propriissime ergo et
+<lb ed="#P" n="16"/>perfectissime potest dici praedestinatus, multo
+<lb ed="#P" n="17"/>magis quam alii homines electi. Et 
+confirma<lb break="no" ed="#P" n="18"/>tur, quia Christus, in quantum homo, est 
+Fi<lb break="no" ed="#P" n="19"/>Iius Dei naturalis ratione gratiae unionis ; 
+si<lb break="no" ed="#P" n="20"/>cut ergo haec unio ab aeterno praedestinata
+<lb ed="#P" n="21"/>est, ita et Christus, ut homo, est 
+praedestina<lb break="no" ed="#P" n="22"/>tus.
+</p>
+                  <p xml:id="szstco-l01262-d1e556">
+                     <lb ed="#P" n="23"/>3. Christus ab aeterno predestinatus.— Dico
+<lb ed="#P" n="24"/>secundo : Christus Dominus absolute, et sine
+<lb ed="#P" n="25"/>alia determinatione in subjecto vel praedicato
+<lb ed="#P" n="26"/>posita , vere ac proprie dici potest 
+praedest<lb break="no" ed="#P" n="27"/>natus. Haec est mens D. Thomae hic, in art. 1,
+<lb ed="#P" n="28"/>et aliorum Theologorum, in 3, dist. 7; Alens.,
+<lb ed="#P" n="29"/>3 part., quaest. 3, et est fere aperta sententia
+<lb ed="#P" n="30"/>August.. de Praedestinat. Sanct., c. 15, et de
+<lb ed="#P" n="31"/>Bono perseverant., c. ult., et tr. 105 inJoan.,
+<lb ed="#P" n="32"/>et colligitur ex Petr., c. 1, 1 Canon., ubi hoc
+<lb ed="#P" n="33"/>sensu vocat Christum : Agnum immaculatum,
+<lb ed="#P" n="34"/>pracogniium quidem ante anundi 
+constitutio<lb break="no" ed="#P" n="35"/>nem, manifestatum autem novissimis 
+tempori<lb break="no" ed="#P" n="36"/>bus ; et ex Paul., 1ad Cor. 2, ubiloquens de 
+sa<lb break="no" ed="#P" n="37"/>pientia incarnata , quam nemo principum 
+ha<lb break="no" ed="#P" n="38"/>jus seculi cognovit, dicit, eam praedestinasse
+<lb ed="#P" n="39"/>Deum anate tempora secularia, ut ibi Chrysost.
+<lb ed="#P" n="40"/>et alii exponunt; unde Concilium Tolet. XI
+<lb ed="#P" n="41"/>sic de Christo loquens inquit : Per hoc quod
+<lb ed="#P" n="42"/>de Maria Virgine natus est . e pradestinatus
+<lb ed="#P" n="43"/>esse credendus est. hauione probatur, quia
+<lb ed="#P" n="44"/>Christus significat quid subsistens in duabus
+<lb ed="#P" n="45"/>naturis, divina et humana ; sed hoc ipsum,
+<lb ed="#P" n="46"/>ut Christus subsistat in duabus naturis, 
+prae<lb break="no" ed="#P" n="47"/>destinatum est ab aeterno; ergo et Christus
+<lb ed="#P" n="48"/>simpliciter dici potest ab aeterno 
+praedesti<lb break="no" ed="#P" n="49"/>natus. Secundo , Christus simpliciter 
+dici<lb break="no" ed="#P" n="50"/>tur glorificatus , exaltatus , etc.; cur ergo
+<lb ed="#P" n="51"/>non poterit dici praedestinatus, cum omnia
+<lb ed="#P" n="52"/>haec praedicata dicantur de Christo ratione 
+as<lb break="no" ed="#P" n="53"/>sumptae naturae ? Tertio, cum aliquis dicitur
+<lb ed="#P" n="54"/>praedestinatus simpliciter , vel intelligi potest
+<lb ed="#P" n="55"/>ratione beatitudinis, ad quam cst electus et
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>ordinatus, vel ratione existentiee, quia, 
+scili<lb break="no" ed="#P" n="57"/>cet, ordinatus est ut sit in rerum natura; sed
+<lb ed="#P" n="58"/>Christus maxime cst electus ad beatitudinem,
+<lb ed="#P" n="59"/>et ordinatus est ut subsistat in duabus 
+natu<lb break="no" ed="#P" n="60"/>ris, quod est esse Christum, ut dictum cst ;
+<lb ed="#P" n="61"/>ergo.
+</p>
+                  <p xml:id="szstco-l01262-d1e645">
+                     <lb ed="#P" n="62"/>4. Objectio. — Responsio. — Dices : 
+subsis<lb break="no" ed="#P" n="63"/>tere in duabus naturis , pertinet quasi ad 
+ip<lb break="no" ed="#P" n="64"/>sam Christi constitutionem et compositionem;
+<lb ed="#P" n="65"/>sed quae pertinent ad constitutionem rei, non
+<lb ed="#P" n="66"/>cadunt sub praedestinationem cjus, ut notavit
+<lb ed="#P" n="67"/>D. Thom., lectione 3, super ad Rom. 1; ergo.
+<lb ed="#P" n="68"/>Respondetur : quando compositio vel 
+consti<lb break="no" ed="#P" n="69"/>tulio rei est mere naturalis, illa non proprie
+<lb ed="#P" n="70"/>cadit sub praedestinationem tanquam 
+termi<lb break="no" ed="#P" n="71"/>nus ejus , quia praedestinatio, ut nunc 
+loqui<lb break="no" ed="#P" n="72"/>mur , respicit supernaturalia bona ; at vero
+<lb ed="#P" n="73"/>in Christo ipsamet illius constitutio , et quasi
+<lb ed="#P" n="74"/>compositio, non est mere naturalis, et ideo
+<lb ed="#P" n="75"/>vere ac proprie praedestinata est , et ab illa
+<lb ed="#P" n="76"/>potest Christus simpliciter praedestinatus 
+de<lb break="no" ed="#P" n="77"/>nominari.
+</p>
+                  <p xml:id="szstco-l01262-d1e682">
+                     <lb ed="#P" n="78"/>5. Dico tertio : Verbum, seu Filius Dei non
+<lb ed="#P" n="79"/>potest simpliciter dici praedestinatus , proprie
+<lb ed="#P" n="80"/>loquendo. Hanc conclusionem pono propter
+<lb ed="#P" n="81"/>rauonem dubitandi in principio positam, et
+<lb ed="#P" n="82"/>est communis Theologorum, in 3, dist. 7,
+<lb ed="#P" n="83"/>Bonav., Richard., Durand. et Palud., quia,
+<lb ed="#P" n="84"/>licet Verbum aliquid in humanitate habeat ex
+<lb ed="#P" n="85"/>divina praedestinatione, non tamen ex illa 
+ha<lb break="no" ed="#P" n="86"/>bet ea quae pertinent ad esse simpliciter, vel
+<lb ed="#P" n="87"/>beatitudinem simpliciter ipsius Verbi, sicut
+<lb ed="#P" n="88"/>per illam locutionem absolute dictam 
+signifi<lb break="no" ed="#P" n="89"/>catur. Unde ex principiis dialecticae potest 
+as<lb break="no" ed="#P" n="90"/>signari differentia inter has propositiones :
+<lb ed="#P" n="91"/>Verbum, aut Christus est predestinatus, nam
+<lb ed="#P" n="92"/>praedestinatio cum significet actum animae,
+<lb ed="#P" n="93"/>applicat suum significatum subjecto 
+formali<lb break="no" ed="#P" n="94"/>ter sumpto; unde, cum de Christo dicitur,
+<lb ed="#P" n="95"/>cadit in ipsum, ut subsistens est in duabus
+<lb ed="#P" n="96"/>naturis, quia, ut sic, vere est praedestinatus ;
+<lb ed="#P" n="97"/>cum vero dicitur de Filio Dei, videtur illi 
+tri<lb break="no" ed="#P" n="98"/>bui secundum se, et ideo in rigore non est
+<lb ed="#P" n="99"/>vera locutio, nisi addatur determinatio , in
+<lb ed="#P" n="100"/>quantum homo.
+</p>
+                  <p xml:id="szstco-l01262-d1e734">
+                     <lb ed="#P" n="101"/>6. Dico quarto : cum relatione ad aliquem
+<lb ed="#P" n="102"/>terminum dici potest Verbum, seu Filius Dei
+<lb ed="#P" n="103"/>esse praedestinatus ab aeterno, ut in tempore
+<lb ed="#P" n="104"/>fiat homo. Ita docet D. Thom. hic, art. 2, ad
+<lb ed="#P" n="105"/>secundum ; Alensis, Scot., et alii supra citati.
+<lb ed="#P" n="106"/>Et ratio est, quia designando illum terminum,
+<lb ed="#P" n="107"/>satis explicatur Verbum non simpliciter ad 
+es<lb break="no" ed="#P" n="108"/>se, vel ad beatitudinem Verbi, sed secundum
+<lb ed="#P" n="109"/>quid esse praedestinatum, ut sit homo, sicut
+<lb ed="#P" n="110"/>etiam dici potest praeeordinatam, ut uniatur
+<pb ed="#P" n="531"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>humanitati. Et confirmatur, nam proprie 
+di<lb break="no" ed="#P" n="2"/>citur Verbum factum homo ; ergo et 
+praedes<lb break="no" ed="#P" n="3"/>tinatum ut sit homo.
+</p>
+                  <p xml:id="szstco-l01262-d1e769">
+                     <lb ed="#P" n="4"/>7. Objectio. — Responsio. — Sed contra,
+<lb ed="#P" n="5"/>quia nomen praedestinationis significat, 
+prae<lb break="no" ed="#P" n="6"/>destiuatum, esse ordinatum ad aliquod 
+bene<lb break="no" ed="#P" n="7"/>ficium, vel gratiam suscipiendam ; respectu
+<lb ed="#P" n="8"/>autem Verbi , non est beneficium aut gratia,
+<lb ed="#P" n="9"/>quod fiat homo. Propter hoc Durandus dixit,
+<lb ed="#P" n="10"/>ilam locutionem in rigore esse falsam; D.
+<lb ed="#P" n="11"/>Thom. vero solum dixit esse minus propriam.
+<lb ed="#P" n="12"/>Unde respondetur, in rigore ad veritatem 
+il<lb break="no" ed="#P" n="13"/>lius locutionis , non esse necessarium ut 
+gra<lb break="no" ed="#P" n="14"/>tia fiat ei qui denominatur praedestinatus, sed
+<lb ed="#P" n="15"/>satis esse ut ex gratia, quae alteri facienda
+<lb ed="#P" n="16"/>praedestinatur, alius quasi per 
+denominatio<lb break="no" ed="#P" n="17"/>nem extrinsecam praedestinatus ad talem 
+ter<lb break="no" ed="#P" n="18"/>minum dicatur. Quod exemplo accommodate
+<lb ed="#P" n="19"/>declaratur, nam Verbum dicitur factum caro,
+<lb ed="#P" n="20"/>non per mutationem in ipso factam, sed
+<lb ed="#P" n="21"/>per mutationem humanitatis , ex qua 
+re<lb break="no" ed="#P" n="22"/>sultat in Verbo talis denominatio ; sic igitur
+<lb ed="#P" n="23"/>poterit Verbum dici praedestinatum ut fiat
+<lb ed="#P" n="24"/>homo, non quia ex vi praedestinationis sit illi
+<lb ed="#P" n="25"/>aliqua gratia conferenda, sed humanitati, vel
+<lb ed="#P" n="26"/>huic homini, quatenus objectum est hujus
+<lb ed="#P" n="27"/>praedestinationis, ut jam explicabimus. Et
+<lb ed="#P" n="28"/>ideo merito dixit D. Thom., illam locutionem
+<lb ed="#P" n="29"/>esse minus propriam , quia in illa ponitur
+<lb ed="#P" n="30"/>Verbum, ut objectum hujus praedestinationis,
+<lb ed="#P" n="31"/>cum tamen non Verbum secundum se, sed
+<lb ed="#P" n="32"/>ut est Christus , seu hic homo , habeat 
+ratio<lb break="no" ed="#P" n="33"/>nem talis objecti , ut in sequenti sectione 
+di<lb break="no" ed="#P" n="34"/>cetur.
+</p>
+               </div>
+               <div xml:id="szstco-l01262-Dd1e841"><!-- szstco-p3q24-d50s2 -->
+                  <head xml:id="szstco-l01262-Hd1e844">Sectio 2</head>
+                  <head xml:id="szstco-l01262-Hd1e846" type="question-title">
+an dici possit christus praedestinatus ut sit filius
+dei naturalis
+</head>
+                  <p xml:id="szstco-l01262-d1e849">
+                     <lb ed="#P" n="35" type="fixed=531"/>SECTIO II.
+<lb ed="#P" n="36"/>An dici possit Christus praedestinatus ut sit Filius
+<lb ed="#P" n="37"/>Dei naturalis.
+</p>
+                  <p xml:id="szstco-l01262-d1e858">
+                     <lb ed="#P" n="38"/>1. Locus Pauli ad Roin. 41. — 
+Fundamen<lb break="no" ed="#P" n="39"/>tum hujus quaestionis sumptum est a '
+TTheolo<lb break="no" ed="#P" n="40"/>sis ex verbis Pauli a Rom 1 : Paulus, servus
+<lb ed="#P" n="41"/>Jesu Christi, vocatus Apostolus, segregatus in
+<lb ed="#P" n="42"/>E'vangelium Dei , quod ante promiserat per
+<lb ed="#P" n="43"/>Prophetas suos in Scripturis sanctis de Filio
+<lb ed="#P" n="44"/>suo, qui fuctus est ei es semine David secundum
+<lb ed="#P" n="45"/>carnem ; qui predestinatus est Filius Dei in
+<lb ed="#P" n="46"/>virtute secundum Spiritum sanctificationis ez
+<lb ed="#P" n="47"/>resurrectione mortuorum Jesu Christi Domini
+<lb ed="#P" n="48"/>aostri ; et ideo haec verba Pauli prius 
+diligen<lb break="no" ed="#P" n="49"/>ter explicanda sunt, et deinde scholastica
+<lb ed="#P" n="50"/>controversia terminanda,
+</p>
+                  <p xml:id="szstco-l01262-d1e889">
+                     <lb ed="#P" n="51"/>2. Prima expositio. — Est igitur prima
+<lb ed="#P" n="52"/>Sanctorum Graecorum expositio , qui non de
+<lb ed="#P" n="53"/>Christi praedestinatione, sed de ejus manifes-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>tatione hunc locum intelligunt; ucn enim 
+le<lb break="no" ed="#P" n="55"/>gunt, Qui praedestinatus est, sed. Qui 
+declara<lb break="no" ed="#P" n="56"/>tus est. Graeca enim exemplaria non habent
+<lb ed="#P" n="57"/>hoc loco verbum moooptte, quo solet Paulus
+<lb ed="#P" n="58"/>praedestinandi actum significare, ut constat
+<lb ed="#P" n="59"/>ad Roman. S, et 1 ad Cor. 2, ad Eph. 1; sed
+<lb ed="#P" n="60"/>habet verbum 6sito, quod per verbum 
+de<lb break="no" ed="#P" n="61"/>clarandi optime verti potest ; id enim proprie
+<lb ed="#P" n="62"/>significat, et optime quadrat contextui, et
+<lb ed="#P" n="63"/>reddit facilem ac expeditum sensum, 
+videli<lb break="no" ed="#P" n="64"/>cet, licet Christus sit factus secundum 
+car<lb break="no" ed="#P" n="65"/>nem, tamen declaratum esse Filium Dei , 
+pri<lb break="no" ed="#P" n="66"/>mo in virtute patrandi miracula; secundo,
+<lb ed="#P" n="67"/>in spiritu sanctificandi homines per 
+doctri<lb break="no" ed="#P" n="68"/>nam, per imperium efticax, per meritum et
+<lb ed="#P" n="69"/>satisfactionem suam, denique per virtutem
+<lb ed="#P" n="70"/>mittendi Spiritum Sanctum; tertio, per suam
+<lb ed="#P" n="71"/>resurrectionem ex mortuis. Ita legunt et 
+ex<lb break="no" ed="#P" n="72"/>ponunt Chrys. , Theophyl. et Theod., et alii
+<lb ed="#P" n="73"/>Graeci expositores , ad Rom. 1; Cyril., lib. 1
+<lb ed="#P" n="74"/>de Fide ad Regin.; Damasc., lib. 4 de Fide,
+<lb ed="#P" n="75"/>c. 19. Quae sane expositio satis probabilis est,
+<lb ed="#P" n="76"/>supposita praesertim illa lectione, seu 
+signifi<lb break="no" ed="#P" n="77"/>catione vocis. Non tamen nobis est 
+relinquen<lb break="no" ed="#P" n="78"/>da vulgata lectio, sed omnino retinenda. 
+Pri<lb break="no" ed="#P" n="79"/>mo , propter illius auctoritatem. Secundo,
+<lb ed="#P" n="80"/>quia antiqui Patres Latini ita legunt, et de
+<lb ed="#P" n="81"/>propria praedestinatione verbum illud 
+inter<lb break="no" ed="#P" n="82"/>pretantur. Ambros., Hieron., Anselm. ibi ;
+<lb ed="#P" n="83"/>August., lib. 12 de Trinitate, c. 6, et de 
+Prae<lb break="no" ed="#P" n="84"/>dest. Sanct., c. 15, de Bono perseverant.,
+<lb ed="#P" n="85"/>c. ult., et tract. 105 in Joan. ; Hilar., lib. 7
+<lb ed="#P" n="86"/>de Trinit. ; Irenae. (si inter Latinos 
+numeran<lb break="no" ed="#P" n="87"/>dus est), lib. 3 contra haeres. , cap. 18 et 32.
+<lb ed="#P" n="88"/>Tertio, quia verbum óíto, propriissime 
+signi<lb break="no" ed="#P" n="89"/>ficat animo statuere, proponere, seu definire ;
+<lb ed="#P" n="90"/>ut Actor. 2, ubi ait l'etrus, Aunc definito 
+con<lb break="no" ed="#P" n="91"/>silio, etc., Graeca lectio habet ópwyéva Gonn ,
+<lb ed="#P" n="92"/>et c. 17, definiens statuta tempora. greece óptcac.
+<lb ed="#P" n="93"/>Unde Tertul., contra Praxeam, legit in hoc
+<lb ed="#P" n="94"/>loco Pauli ad Hom. 1: Qui definitus est. Ft
+<lb ed="#P" n="95"/>codem modo videtur legisse, et interpretatus
+<lb ed="#P" n="96"/>sse Origen., lib. 1 super ad Roman., ubi, 
+li<lb break="no" ed="#P" n="97"/>cet differentiam constituat inter verbum 
+des<lb break="no" ed="#P" n="98"/>lino ct pradestino, tamen, relata ad actum
+<lb ed="#P" n="99"/>mentis divina, idem prorsus significant, quia
+<lb ed="#P" n="100"/>ea, quae Deus fieri definit, etiam praedefinit,
+<lb ed="#P" n="101"/>cum ejus definitio semper antecedat; est
+<lb ed="#P" n="102"/>enim aeterna, res autem definita in temporc
+<lb ed="#P" n="103"/>fit. Unde Dionss., c. 5 de Divin. nom., circa
+<lb ed="#P" n="104"/>finem: Divinas, inquit, coluntates, eorum qute
+<lb ed="#P" n="105"/>sunt definitivas, predestinationes Theologia
+<lb ed="#P" n="106"/>vocat.
+</p>
+                  <p xml:id="szstco-l01262-d1e1016">
+                     <lb ed="#P" n="107"/>3. Secunda expositio. — Retenta igitur 
+vul<lb break="no" ed="#P" n="108"/>gata lectione, est secunda lectio et expositio,
+<pb ed="#P" n="532"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>quae aftirmat participium gradestinatus , non
+<lb ed="#P" n="2"/>ex parte praedicati, sed ex parte subjecti 
+con<lb break="no" ed="#P" n="3"/>stituendum esse, ita ut non dicatur Christus
+<lb ed="#P" n="4"/>praedestinatus esse Filius Dei, sed potius ille,
+<lb ed="#P" n="5"/>qui est factus et praedestinatus secundum 
+car<lb break="no" ed="#P" n="6"/>nem, dicatur esse Filius Dei. Juxta quam 
+lec<lb break="no" ed="#P" n="7"/>tionem et expositionem Christus in eo loco
+<lb ed="#P" n="8"/>appellatur praedestinatus absolute ; non 
+ta<lb break="no" ed="#P" n="9"/>men explicatur terminus ad quem 
+preaedesti<lb break="no" ed="#P" n="10"/>natus est ; nam, licet ille praedestinatus 
+dica<lb break="no" ed="#P" n="11"/>tur esse Filius Dei, non tamen dicitur hoc
+<lb ed="#P" n="12"/>esse Filii Dei, esse terminum illius 
+praedesti<lb break="no" ed="#P" n="13"/>nationis. Hanc expositionem refert hic 
+Caje<lb break="no" ed="#P" n="14"/>tanus ex Origene, et non improbat, sed potius
+<lb ed="#P" n="15"/>ita refert ut approbare videatur. Sed non 
+pla<lb break="no" ed="#P" n="16"/>cet. Primo, quia est contra omnium Patrum
+<lb ed="#P" n="17"/>ac expositorum lectionem ac sensum. 
+Se<lb break="no" ed="#P" n="18"/>cundo , quia non quadrat contextui , sed illi
+<lb ed="#P" n="19"/>potius vim infert , ut clarius patet ex textu
+<lb ed="#P" n="20"/>graeco, qui, ad litteram translatus, sic habet:
+<lb ed="#P" n="21"/>De Filio suo facto ec semine David secundun
+<lb ed="#P" n="22"/>carnem, definito Filio Dei iu virtute ; ex quo
+<lb ed="#P" n="23"/>contextu clare satis constat, illud participium
+<lb ed="#P" n="24"/>definito, seu praedestinato, adjective, non 
+sub<lb break="no" ed="#P" n="25"/>stantive teneri, atque adeo non habere 
+ratio<lb break="no" ed="#P" n="26"/>nem subjecti , sed praedicati, sicut et 
+partici<lb break="no" ed="#P" n="27"/>pium iillud , factus , praesertim cum eodem
+<lb ed="#P" n="28"/>modo dicatur, qui pradestinatus est, sicut,
+<lb ed="#P" n="29"/>qui factus est. Denique nisi participium illud,
+<lb ed="#P" n="30"/>predestinatus , conjungatur cum verbis 
+se<lb break="no" ed="#P" n="31"/>quentibus, vix possunt commode explicari, ut
+<lb ed="#P" n="32"/>ex sequentibus magis constabit. Concludamus
+<lb ed="#P" n="33"/>igitur, in hoc loco dici Christum ut hominem
+<lb ed="#P" n="34"/>esse praedestinatum Filium Dei, seu ut esset
+<lb ed="#P" n="35"/>Filius Dei ; quo autem sensu hoc dicatur, non
+<lb ed="#P" n="36"/>codem incdo ab omnibus esponitur.
+</p>
+                  <p xml:id="szstco-l01262-d1e1105">
+                     <lb ed="#P" n="37"/>4. Tertia expositio. — Est ergo tertia 
+ex<lb break="no" ed="#P" n="38"/>positio, quae hanc praedestunationem refert ad
+<lb ed="#P" n="39"/>humanitatem quae praedestinata dicitur, ut sit
+<lb ed="#P" n="40"/>unita Filio Dei: ita Aymo, et Hugo in Paulum.
+<lb ed="#P" n="41"/>Sed quidquid sit de re ipsa, seu de 
+praedesti<lb break="no" ed="#P" n="42"/>natione humanitatis, de qua infra dicam, 
+ta<lb break="no" ed="#P" n="43"/>men (ut recte D. Thomas hic, art. 1, ad2,
+<lb ed="#P" n="44"/>dixit) haec expositio nullo modo potest verbis
+<lb ed="#P" n="45"/>Pauli accommodari. Tum quia evidenter 
+con<lb break="no" ed="#P" n="46"/>stare potest ex ipso contextu objectum hujus
+<lb ed="#P" n="47"/>pradestinationis esse Filium Dei, vel 
+Chri<lb break="no" ed="#P" n="48"/>stum ut hominem, illum enim refert 
+relati<lb break="no" ed="#P" n="49"/>vum illud. qui ; tum etiam quia dicitur 
+prae<lb break="no" ed="#P" n="50"/>destinatus ut sit Filius Dei ; at vero 
+humani<lb break="no" ed="#P" n="51"/>tas neque est Filius Dei, neque praedestinata
+<lb ed="#P" n="52"/>est ut sit Filius Dei.
+</p>
+                  <p xml:id="szstco-l01262-d1e1142">
+                     <lb ed="#P" n="53"/>5. Quarta expositio. — Est igitur quarta
+<lb ed="#P" n="54"/>expositio, Christum, vel Filium Dei, dici 
+prae<lb break="no" ed="#P" n="55"/>destinatum , non tamen absolute et simplici-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>ter, ut sit Filius Dei, sed ut esset a2 virtute
+<lb ed="#P" n="57"/>secundum Spiritum sanctificationis, id est, ut
+<lb ed="#P" n="58"/>ad nos descenderet cum potestate et 
+efficaci<lb break="no" ed="#P" n="59"/>tate ad sanctificandos homines ez 
+resurrec<lb break="no" ed="#P" n="60"/>tione mortuorum, id est, moriendo, et 
+resur<lb break="no" ed="#P" n="61"/>gendo pro hominibus, quis mortuus est 
+pro<lb break="no" ed="#P" n="62"/>pter delicta nosira, et resurrevit aropter 
+justi<lb break="no" ed="#P" n="63"/>ficationem nostram. Nel, secundum Spiritum
+<lb ed="#P" n="64"/>sanctificationis, quem ex mortuis resurgendo
+<lb ed="#P" n="65"/>ad nos misit, non enim fuit Spiritus datus,
+<lb ed="#P" n="66"/>donec Jesus fuit glorificatus ; vel denique quia
+<lb ed="#P" n="67"/>praedestinatus est ut nos sanctificaret 
+sancti<lb break="no" ed="#P" n="68"/>ficatione perfecta et consummata qualem 
+ha<lb break="no" ed="#P" n="69"/>bebunt Sancti, quando in Christo ex mortuis
+<lb ed="#P" n="70"/>resurgent. Hanc expositionem indicavit 
+Cy<lb break="no" ed="#P" n="71"/>ril., dicto lib. 1 ad Reg. ; et placuit 
+Augus<lb break="no" ed="#P" n="72"/>tino, in expositione inchoata epistolaee ad 
+Ro<lb break="no" ed="#P" n="73"/>mau., quem sequitur Titelm., in camdem
+<lb ed="#P" n="74"/>epistolam, collat. 1 ; et Cajet. ibid. Et est sane
+<lb ed="#P" n="75"/>probabilis, nam illud relativum, qui 
+pradesti<lb break="no" ed="#P" n="76"/>natus est, aperte videtur referre ipsum 
+Fi<lb break="no" ed="#P" n="77"/>lium Dei, de quo sermo praecesserat, quia, 
+si<lb break="no" ed="#P" n="78"/>cut dicitur qui factus est, ita dicitur, gui 
+pra<lb break="no" ed="#P" n="79"/>destinatus est ; sed in priori parte refertur 
+Fi<lb break="no" ed="#P" n="80"/>lius Dei ; ergo et in posteriori. Unde sicut in
+<lb ed="#P" n="81"/>priori additur illa particula secundum carnev,
+<lb ed="#P" n="82"/>ad limitandum et explicandum terminum 
+il<lb break="no" ed="#P" n="83"/>lius effectionis , ita in posteriori additur illa
+<lb ed="#P" n="84"/>particula, secundumn Spiritum sanctificationis,
+<lb ed="#P" n="85"/>ad indicandum et limitandum terminum illius
+<lb ed="#P" n="86"/>praedestinationis : Filius enim Dei cum sit
+<lb ed="#P" n="87"/>aeternus, et per se beatus, non potest 
+simpli<lb break="no" ed="#P" n="88"/>citer dici praedestinatus, ut supra etiam 
+dixi<lb break="no" ed="#P" n="89"/>mus, sed praedestinatus est, ut assumeret 
+hu<lb break="no" ed="#P" n="90"/>manitatem, in qua virtutem ac potestatem 
+ha<lb break="no" ed="#P" n="91"/>beret sanctificandi homines. Denique hoc
+<lb ed="#P" n="92"/>maxime quadrat cum textu graeco, qui non
+<lb ed="#P" n="93"/>habet relativum qui, sed per adjectiva dicitur
+<lb ed="#P" n="94"/>hoc modo: Facto secundum carnem, 
+aradesti<lb break="no" ed="#P" n="95"/>nato Filio Dei in virtute secundum Spiritum
+<lb ed="#P" n="96"/>sanctificationis. Solum potest contra hanc 
+ex<lb break="no" ed="#P" n="97"/>positionem objici, quia propria et perfecta 
+ra<lb break="no" ed="#P" n="98"/>tio praedestinationis refertur ad illud bonum,
+<lb ed="#P" n="99"/>quod excellentius est in praedestinato, et ideo
+<lb ed="#P" n="100"/>in puris creaturis praedestinatio dicitur in 
+or<lb break="no" ed="#P" n="101"/>dine ad beatitudinem, quia hoc est 
+perfectis<lb break="no" ed="#P" n="102"/>simum bonum earum; at vero respectu 
+Chri<lb break="no" ed="#P" n="103"/>sti Dommi, esse sanctificatorem hominum,
+<lb ed="#P" n="104"/>non est excellentius bonum ejus; majus enim
+<lb ed="#P" n="105"/>est esse Filium Dei ; ergo. Sed haec objectio
+<lb ed="#P" n="106"/>non est magni momenti, tum quia non est
+<lb ed="#P" n="107"/>necesse Paulum loqui de perfectissimo 
+ter<lb break="no" ed="#P" n="108"/>mino praedestinationis; tum etiam quia, si
+<lb ed="#P" n="109"/>ipse Filius Dei est objectum talis 
+praedestina<lb break="no" ed="#P" n="110"/>tionis, ut dicta expositio supponit, non pote-
+<pb ed="#P" n="533"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>rit tam proprie dici praedestinatus , ut sit 
+Fi<lb break="no" ed="#P" n="2"/>lius Dei, quam ut sit homo habens virtutem
+<lb ed="#P" n="3"/>ad sanctificandos homines. Sit igitur haec 
+ex<lb break="no" ed="#P" n="4"/>positio probabilis.
+</p>
+                  <p xml:id="szstco-l01262-d1e1285">
+                     <lb ed="#P" n="5"/>6. Quinta expositio. —- Quinta tamen 
+expo<lb break="no" ed="#P" n="6"/>sitio est, ut Christus dicatur praedestinatus
+<lb ed="#P" n="7"/>esse Filius Dei, non quidem Filius naturalis,
+<lb ed="#P" n="8"/>qualis est per aeternam generationem, sed ex
+<lb ed="#P" n="9"/>resurrectione mortuorum, nam sicut Psalm. 2
+<lb ed="#P" n="10"/>loquitur Pater ad Filium dicens : F'ilius aeus
+<lb ed="#P" n="11"/>es iu , ego hodie genui te, quod dictum esse 
+ra<lb break="no" ed="#P" n="12"/>tione resurrectionis exponit Faul., Actor. 13,
+<lb ed="#P" n="13"/>ita dici potest Christus praedestinatus PFilius
+<lb ed="#P" n="14"/>Dei ex resurrectione mortuorum ; est enim 
+re<lb break="no" ed="#P" n="15"/>surrectio veluti generatio quaedam, propter
+<lb ed="#P" n="16"/>quod etiam ad Ephes. 1 vocatur Christus 
+pri<lb break="no" ed="#P" n="17"/>mogenitus ez mortuis. Quae expositio non 
+dis<lb break="no" ed="#P" n="18"/>plicet Augustino in citata expositione 
+in<lb break="no" ed="#P" n="19"/>choata, et eam indicat Hieronymus, super ad
+<lb ed="#P" n="20"/>Rom. 1; et clarius docent Anselm. et Primas.
+<lb ed="#P" n="21"/>Mihi tamen non admodum placet, primo,
+<lb ed="#P" n="22"/>quia Paulus aperte loquitur de Filio Dei 
+natu<lb break="no" ed="#P" n="23"/>rali per aeternam generationem, cum inquit:
+<lb ed="#P" n="24"/>De Filio suo, qui factus est ei en semine David
+<lb ed="#P" n="25"/>secundum carnem ; ergo eodem modo loquitur
+<lb ed="#P" n="26"/>de Filio Dei , cum subdit : Qui pradestinatus
+<lb ed="#P" n="27"/>est Filius Dei ; alias in eodem brevi contextu
+<lb ed="#P" n="28"/>sequivoce uteretur illa voce; quod sine causa
+<lb ed="#P" n="29"/>evidenti admittendum non videtur. Deinde,
+<lb ed="#P" n="30"/>quia juxta hanc expositionem oportet 
+con<lb break="no" ed="#P" n="31"/>jungere illa verba , qgui praedestinatus est 
+Fr<lb break="no" ed="#P" n="32"/>lius Dei, cum illis, ez resurrectione 
+mortuo<lb break="no" ed="#P" n="33"/>rum , praetermissis intermediis, scilicet, in
+<lb ed="#P" n="34"/>virtute secundum Spiritum sanctificationis ;
+<lb ed="#P" n="35"/>quae tamen constructio duriuscula est; 
+pro<lb break="no" ed="#P" n="36"/>pter quod (ut dixi) non omnino placet, 
+quam<lb break="no" ed="#P" n="37"/>vis non sit contemnenda haec interpretatio .
+<lb ed="#P" n="38"/>praesertim si alias non excludat.
+</p>
+                  <p xml:id="szstco-l01262-d1e1361">
+                     <lb ed="#P" n="39"/>1. Sexta expositio. — Sexto ergo exponitur
+<lb ed="#P" n="40"/>Christum dici esse praedestinatum Filium Dei
+<lb ed="#P" n="41"/>verum ac naturalem , non quia sit 
+praedesti<lb break="no" ed="#P" n="42"/>natus, ut sit, sed ut cognoscatur esse Filius
+<lb ed="#P" n="43"/>Dei , juxta usitatam phrasim Scriptura , qua
+<lb ed="#P" n="44"/>interdum dicitur tunc aliquid fieri, cum 
+ma<lb break="no" ed="#P" n="45"/>nifestatur, ut Apocalyp. 5 dicitur : Dignus est
+<lb ed="#P" n="46"/>Agnus, qui occisus est, accipere diinitatem ,
+<lb ed="#P" n="47"/>non in re, hoc enim non cecidit sub meritum,
+<lb ed="#P" n="48"/>sed in aliorum cognitione et manifestatione.
+<lb ed="#P" n="49"/>Ad hunc ergo modum , dici potest 
+praedesti<lb break="no" ed="#P" n="50"/>natus Filius Dei, non ut filiationem in re ipsa
+<lb ed="#P" n="51"/>accipiat, sed illius cognitionem et 
+manifesta<lb break="no" ed="#P" n="52"/>tionem, quae facta est per virtutem 
+miraculo<lb break="no" ed="#P" n="53"/>rum, per Spiritum sanctificationis, et 
+resur<lb break="no" ed="#P" n="54"/>rectionem Christi ex mortuis. Quae expositio
+<lb ed="#P" n="55"/>eadem est cum expositione Graecorum, et ad
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>eam accommodat verba vulgatae editionis,
+<lb ed="#P" n="57"/>illamque amplectuntur Ambrosius , et Gloss.
+<lb ed="#P" n="58"/>ordinaria , et ex Scholasticis, Durand. et 
+Pa<lb break="no" ed="#P" n="59"/>lud. Et est probabilis, solumque illud obstare
+<lb ed="#P" n="60"/>potest, quia minus proprie interpretatur verba
+<lb ed="#P" n="61"/>Pauli, cum tamen omnis verborum proprietas
+<lb ed="#P" n="62"/>servanda sit, quoad fieri possit.
+</p>
+                  <p xml:id="szstco-l01262-d1e1418">
+                     <lb ed="#P" n="63"/>8. Septima expositio et propria. — Ultimo
+<lb ed="#P" n="64"/>ergo exponitur hic locus cum omni verborum
+<lb ed="#P" n="65"/>proprietate, ut ille idem homo, qui factus 
+di<lb break="no" ed="#P" n="66"/>citur secundum carnem, dicatur 
+praedestina<lb break="no" ed="#P" n="67"/>tus ab aeterno, ut in tempore vere ac proprie
+<lb ed="#P" n="68"/>sit Filius Dei naturalis. Haec est expositio 
+Au<lb break="no" ed="#P" n="69"/>gustini locis in principio citatis; quam indicat
+<lb ed="#P" n="70"/>etiam Bernardus, 1. 5 de Consideratione, 
+cir<lb break="no" ed="#P" n="71"/>ca finem, dicens : Divinitas hominem illum
+<lb ed="#P" n="72"/>qvà praedestinatus est Filius Dei, sibi copulavi t
+<lb ed="#P" n="73"/>ct eam approbant Beda, et Glossa interlinea .
+<lb ed="#P" n="74"/>lis, et Lyran., Chartus., et Adamus, in Paul.;
+<lb ed="#P" n="75"/>et ibidem D. Thomas, et hic, et in 3, d. 7, ubi
+<lb ed="#P" n="76"/>Magister, et fere alii Scholastici eamdem 
+se<lb break="no" ed="#P" n="77"/>quuntur; Bonav., art. 2, q. 3; Richard., a.2,
+<lb ed="#P" n="78"/>q. 2; Scotus, q. 3; Alensis, 3 p., q. 3, memb.
+<lb ed="#P" n="79"/>2 et 3; Marsil., q. 7, a. 1. Ad quam 
+senten<lb break="no" ed="#P" n="80"/>tiam exponendam duo agenda sunt. Primo
+<lb ed="#P" n="81"/>enim explicare oportet, quo sensu illa locutio
+<lb ed="#P" n="82"/>vera ac propria esse possit. Deinde quomodo
+<lb ed="#P" n="83"/>accommodari possit ad litteram seu verba
+<lb ed="#P" n="84"/>D. Paul.
+</p>
+                  <p xml:id="szstco-l01262-d1e1469">
+                     <lb ed="#P" n="85"/>9. Tota vero difficultas in explicanda hac
+<lb ed="#P" n="86"/>locutione, Christus est praedestinatus Filius
+<lb ed="#P" n="87"/>Dei, in hoc posita est, quia objectum 
+praedes<lb break="no" ed="#P" n="88"/>tinationis non debet includere terminum 
+ejus<lb break="no" ed="#P" n="89"/>dem praedestinationis ; ut homo dicitur 
+prae<lb break="no" ed="#P" n="90"/>destinatus ad gloriam, quia gloria non 
+inclu<lb break="no" ed="#P" n="91"/>ditur in conceptu hominis; at vero non 
+dici<lb break="no" ed="#P" n="92"/>tur praedestinatus, ut habeat animam 
+ratio<lb break="no" ed="#P" n="93"/>nalem , quia homo ut sic includit hujusmodi
+<lb ed="#P" n="94"/>animam ; Christus autem Dominus in suo 
+con<lb break="no" ed="#P" n="95"/>ceptu includit divinum suppositum Filii Dei ;
+<lb ed="#P" n="96"/>ergo nullo modo potest dici praedestinatus,
+<lb ed="#P" n="97"/>ut sit Filius Dei naturalis. Propter similem
+<lb ed="#P" n="98"/>enim rationem negavimus supra, q. 16, 
+Chri<lb break="no" ed="#P" n="99"/>stum, vel hominem factum esse Deum , vel
+<lb ed="#P" n="100"/>Filium Dei, quia, scilicet, Christus, vel hic
+<lb ed="#P" n="101"/>homo, includit divinum suppositum ; ergo
+<lb ed="#P" n="102"/>eadem ratione negandum est esse 
+praedesti<lb break="no" ed="#P" n="103"/>natum Filium Dei. Unde Durand., dist. 7, q.3,
+<lb ed="#P" n="104"/>quem ibidem Palud. , q. etiam 3, et alii 
+sc<lb break="no" ed="#P" n="105"/>quuntur, negat illam propositionem esse 
+ve<lb break="no" ed="#P" n="106"/>ram in sensu rigoroso, sed explicandam esse
+<lb ed="#P" n="107"/>in sensu improprio; ita ut participium illud
+<lb ed="#P" n="108"/>praedestinatus, cadat in totam propositionem.
+<lb ed="#P" n="109"/>Sicut superius dicebamus de hoc, homo factus
+<lb ed="#P" n="110"/>est Deus , quia factum est ut verum sit, ha-
+<pb ed="#P" n="534"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>minem esse Deum; eodem enim modo 
+prae<lb break="no" ed="#P" n="2"/>destinatum est hunc hominem esse Filium
+<lb ed="#P" n="3"/>Dei, praedestinando, scilicet, ipsam unionem
+<lb ed="#P" n="4"/>humanitatis ad Deum.
+</p>
+                  <p xml:id="szstco-l01262-d1e1541">
+                     <lb ed="#P" n="5"/>10. Alii vero dicunt proprium sensum 
+il<lb break="no" ed="#P" n="6"/>lius locutionis esse, Verbum incarnatum, ut
+<lb ed="#P" n="7"/>sic, praedestinatum esse, ut existens in 
+huma<lb break="no" ed="#P" n="8"/>nitate sit Filius Dei naturalis. Ita Cajetanus
+<lb ed="#P" n="9"/>hic, qui addit objectum hujus 
+praedestinatio<lb break="no" ed="#P" n="10"/>nis esse Verbum incarnatum, ut abstrahit a
+<lb ed="#P" n="11"/>vera et substantiali incarnatione, et a ficta
+<lb ed="#P" n="12"/>incarnatione quam haeretici fingunt; 
+termi<lb break="no" ed="#P" n="13"/>num vero hujus praedestinationis dicit esse
+<lb ed="#P" n="14"/>Verbum substantialiter incarnatum. Sed haec
+<lb ed="#P" n="15"/>inibi non probantur, tum quia illud objectum
+<lb ed="#P" n="16"/>talis praedestinationis est gratis confictum, et
+<lb ed="#P" n="17"/>praeter mentem Pauli, et D. Thomae; tum
+<lb ed="#P" n="18"/>etiam quia terminus illius praedestinationis
+<lb ed="#P" n="19"/>revera non est hominem esse Filium Dei, sed
+<lb ed="#P" n="20"/>potius est Deum esse verum hominem per
+<lb ed="#P" n="21"/>veram et substantialem incarnationem; tum
+<lb ed="#P" n="22"/>denique quia in illo objecto hujus 
+praedesti<lb break="no" ed="#P" n="23"/>nationis includitur ipse Filius Dei; ergo non
+<lb ed="#P" n="24"/>praedestinatur ut sit Filius Dei , sed potius ut
+<lb ed="#P" n="25"/>sit verus homo. Et eadem ratione etiam non
+<lb ed="#P" n="26"/>satisfacit quod alii dicunt, sequentes fere
+<lb ed="#P" n="27"/>eumdem sensum , videlicet objectum hujus
+<lb ed="#P" n="28"/>praedestinationis esse Filium Dei et 
+humani<lb break="no" ed="#P" n="29"/>tatem, quatenus praeintelliguntur unioni, 
+ter<lb break="no" ed="#P" n="30"/>minum vero esse Filium Dei ad hoc 
+praedesti<lb break="no" ed="#P" n="31"/>natum, ut sub humanitate existens sit Filius
+<lb ed="#P" n="32"/>Dei. Contra hoc enim procedit eodem modo
+<lb ed="#P" n="33"/>ratio facta , quia in illo objecto semper 
+sup<lb break="no" ed="#P" n="34"/>ponitur includi Filius Dei, et ideo non potest
+<lb ed="#P" n="35"/>vere ac proprie pertinere ad terminum 
+ejus<lb break="no" ed="#P" n="36"/>dem praedestinationis. Quod aperte 
+confirma<lb break="no" ed="#P" n="37"/>tur, quia quod Filius Dei sub humanitate
+<lb ed="#P" n="38"/>existens sit Filius Dei, non habet ex 
+praedes<lb break="no" ed="#P" n="39"/>iinatione, sed ex natura sua; habet quidem
+<lb ed="#P" n="40"/>ex praedestinatione quod sub humanitate
+<lb ed="#P" n="41"/>existat, quod autem sub illa retineat 
+filiatio<lb break="no" ed="#P" n="42"/>nem divinam, hoc veluti naturale est. Sicut,
+<lb ed="#P" n="43"/>licet homo ex praedestinatione habeat quod
+<lb ed="#P" n="44"/>beatus sit, tamen quod sub beatitudine, seu
+<lb ed="#P" n="45"/>beatus existens sit etiam homo, hoc non est
+<lb ed="#P" n="46"/>proprie ex praedestinatione, neque ad 
+termi<lb break="no" ed="#P" n="47"/>num ejus pertinet. Unde non dicitur aliquis
+<lb ed="#P" n="48"/>vere et proprie praedestinari, ut sub 
+beatitu<lb break="no" ed="#P" n="49"/>dine sit homo , sed e converso praedestinatur
+<lb ed="#P" n="50"/>homo, ut beatus sit. Sic ergo Verbum divinum
+<lb ed="#P" n="51"/>simul cum humanitate praeconceptum ante
+<lb ed="#P" n="52"/>unionem, praedestinari dici poterit, ut sub 
+hu<lb break="no" ed="#P" n="53"/>manitate existat ; non tamen proprie ut sit 
+Fi<lb break="no" ed="#P" n="54"/>lius Dei,loquendo propriissime de Filio Dei per
+<lb ed="#P" n="55"/>eeternam generationem, ut nunc loquimur.
+</p>
+                  <p xml:id="szstco-l01262-d1e1654">
+                     <lb ed="#P" n="56"/>11. Christus quomodo sit predestinatus 
+Fi<lb break="no" ed="#P" n="57"/>lius Dei. — Quocirca, verus ac proprius 
+sen<lb break="no" ed="#P" n="58"/>sus hujus locutionis est, Christum, ut est hic
+<lb ed="#P" n="59"/>homo, praedestinatum esse ut sit Filius Dei
+<lb ed="#P" n="60"/>naturalis. Cujus praedestinationis objectum
+<lb ed="#P" n="61"/>est hic homo ut sic, in cujus proprio 
+con<lb break="no" ed="#P" n="62"/>ceptu non includitur suppositum Fili Dei,
+<lb ed="#P" n="63"/>sed solum id quod subsistit in hac 
+humani<lb break="no" ed="#P" n="64"/>tate ; quia (ut supra, q. 3 dictum est) de 
+ra<lb break="no" ed="#P" n="65"/>tione hujus hominis non est hoc suppositum,
+<lb ed="#P" n="66"/>sed solum subsistens in hac humanitate ut sic.
+<lb ed="#P" n="67"/>Terminus autem hujus praedestinationis est
+<lb ed="#P" n="68"/>esse Filii Dei, quia suppositum Filii Dei non
+<lb ed="#P" n="69"/>includitur in praeedicto obiecto, seu conceptu
+<lb ed="#P" n="70"/>hujus hominis. Praeconcipitur igitur hic 
+ho<lb break="no" ed="#P" n="71"/>mo, ut sic, prius ratione, quam concipiatur
+<lb ed="#P" n="72"/>esse Filius Dei, et per divinam 
+praedestinatio<lb break="no" ed="#P" n="73"/>nem ordinatur, ut sit ipsemet Filius Det 
+na<lb break="no" ed="#P" n="74"/>turalis, quae est suprema dignitas hujus 
+ho<lb break="no" ed="#P" n="75"/>minis, quam ex sua ratione et proprio 
+con<lb break="no" ed="#P" n="76"/>ceptu non habet, sed ex gratia et ordinatione
+<lb ed="#P" n="77"/>divina; ab aeterno enim decrevit Deus, ut
+<lb ed="#P" n="78"/>subsistens in hac humanitate esset ipse Filius
+<lb ed="#P" n="79"/>Dei naturalis. Et hic ordo rationis sufficit ad
+<lb ed="#P" n="80"/>hanc praedestinationem intelligendam, quia
+<lb ed="#P" n="81"/>non oportet ut objectum praedestinationis in
+<lb ed="#P" n="82"/>re ipsa prius natura existat quam habeat illud
+<lb ed="#P" n="83"/>esse, seu formam quae est terminus 
+praedesti<lb break="no" ed="#P" n="84"/>nationis ; sed satis est ut in ratione sua 
+for<lb break="no" ed="#P" n="85"/>mali, et conceptu veluti objectivo, sit prius,
+<lb ed="#P" n="86"/>quia praedestinatio est actus mentis includens
+<lb ed="#P" n="87"/>decretum divinae voluntatis, ut dictum est.
+</p>
+                  <p xml:id="szstco-l01262-d1e1726">
+                     <lb ed="#P" n="88"/>12. Et hinc facile solvitur difficultas in
+<lb ed="#P" n="89"/>principio tacta, quia in conceptu hujus 
+homi<lb break="no" ed="#P" n="90"/>nis, ut sic, non includitur divinum suppositum.
+<lb ed="#P" n="91"/>Quod si urgeas, quia a parte rei convenit
+<lb ed="#P" n="92"/>huic homini ut sit Filius Dei naturalis per 
+na<lb break="no" ed="#P" n="93"/>turam, et ideo non posse ad hoc praedestinari,
+<lb ed="#P" n="94"/>respondetur, in hoc homine a parte rei 
+exis<lb break="no" ed="#P" n="95"/>tente, posse considerari id quod requirit in
+<lb ed="#P" n="96"/>quantum hic homo est, et id quod habet 
+ra<lb break="no" ed="#P" n="97"/>tione talis subsistentiae. Si hoc posteriori 
+mo<lb break="no" ed="#P" n="98"/>do consideretur, ex se habet quod sit Filius
+<lb ed="#P" n="99"/>Dei naturalis ; tamen consideratus priori 
+mo<lb break="no" ed="#P" n="100"/>do, hoc habet ex praedestinatione, et per
+<lb ed="#P" n="101"/>gratiam unionis huic humanitati factam. Quod
+<lb ed="#P" n="102"/>satis est ut hic homo, ut sic, dici possit 
+prae<lb break="no" ed="#P" n="103"/>destinatus Filius Dei, quia (ut praecedenti 
+sec<lb break="no" ed="#P" n="104"/>tione dicebam), licet praedestinatio sit ad
+<lb ed="#P" n="105"/>opus gratiae, non tamen oportet ut gratia fiat
+<lb ed="#P" n="106"/>illi qui praedestinatus denominatur, secundum
+<lb ed="#P" n="107"/>omnem rationem, qua sic denominatur; sed
+<lb ed="#P" n="108"/>satis est ut gratia fiat naturae, ut inde possit
+<lb ed="#P" n="109"/>denominatio in suppositum, seu individuum
+<lb ed="#P" n="110"/>talis naturae redundare.
+</p>
+                  <p xml:id="szstco-l01262-d1e1778">
+                     <pb ed="#P" n="535"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>13. Ex quo colligitur primo differentia 
+in<lb break="no" ed="#P" n="2"/>ter has duas propositiones : Christus, in 
+quan<lb break="no" ed="#P" n="3"/>tum homo, est predestinatus Filius Dei 
+natu<lb break="no" ed="#P" n="4"/>ralis, et : Hic homo factus est Filius 
+Deina<lb break="no" ed="#P" n="5"/>turalis nam fieri, dicit realem actionem 
+trans<lb break="no" ed="#P" n="6"/>euntem, quae in re ipsa supponit illud 
+sub<lb break="no" ed="#P" n="7"/>jectum, vel suppositum, quod dicitur fieri 
+ta<lb break="no" ed="#P" n="8"/>le, et quia in re non potest existere tale 
+sub<lb break="no" ed="#P" n="9"/>jectum, videlicet hic homo, msi in 
+determi<lb break="no" ed="#P" n="10"/>nato supposito, ideo in rigore illa propositio:
+<lb ed="#P" n="11"/>Hic homo factus est Deus, falsa est, quia in re
+<lb ed="#P" n="12"/>ipsa nec ordine temporis nec naturae 
+suppo<lb break="no" ed="#P" n="13"/>nitur aliquis homo qui fiat Deus, ut supra,
+<lb ed="#P" n="14"/>q. 16, late dictum est. At vero praedestinatio
+<lb ed="#P" n="15"/>est actus mentis, quae praescindere potest ea
+<lb ed="#P" n="16"/>quae in re conjuncta sunt, et praecise 
+conci<lb break="no" ed="#P" n="17"/>pere hunc hominem ut subsistentem in hac
+<lb ed="#P" n="18"/>humanitate, abstrahendo ab hoc vel illo 
+sub<lb break="no" ed="#P" n="19"/>sistente, et ordinare ut sit tale subsistens,
+<lb ed="#P" n="20"/>scilicet Filius Dei ; et ideo illa propositio est
+<lb ed="#P" n="21"/>in rigore vera, quia ex vi verbi 
+praedesti<lb break="no" ed="#P" n="22"/>nandi, non supponitur aliquod suppositum
+<lb ed="#P" n="23"/>subsistens in hac humanitate, praeter 
+suppo<lb break="no" ed="#P" n="24"/>situm Filii Dei. Unde, ut haec praedestinatio
+<lb ed="#P" n="25"/>in re ipsa mandetur executioni, non oportet
+<lb ed="#P" n="26"/>ut hic homo fiat Deus, sed satis est ut Filius
+<lb ed="#P" n="27"/>Dei fiat homo, nam hinc consequenter fit ut
+<lb ed="#P" n="28"/>hic homo sit Filius Dei naturalis, seu ut 
+sub<lb break="no" ed="#P" n="29"/>sistens in hac humanitate sit suppositum 
+Fi<lb break="no" ed="#P" n="30"/>lii Dei, quod praedestinatum erat. Et hic est
+<lb ed="#P" n="31"/>sensus apertus D. Thomae, hic, art. 1, ad 3,
+<lb ed="#P" n="32"/>quem Cajetanus non recte exponit, affirmans
+<lb ed="#P" n="33"/>etiam illam propositionem esse veram : 
+Chris<lb break="no" ed="#P" n="34"/>tus est factus Filius Dei, quod aperte est 
+con<lb break="no" ed="#P" n="35"/>tra doctrinam D. Thom., in dicta q. 1, et 
+con<lb break="no" ed="#P" n="36"/>tra rationem jam explicatam.
+</p>
+                  <p xml:id="szstco-l01262-d1e1863">
+                     <lb ed="#P" n="37"/>14. Secundo colligo ex dictis, Verbum 
+di<lb break="no" ed="#P" n="38"/>vinum, seu Filium Dei non posse absolute et
+<lb ed="#P" n="39"/>simpliciter dici praedestinatum Filium Dei 
+na<lb break="no" ed="#P" n="40"/>turalem. Hoc bene notavit Alensis supra,
+<lb ed="#P" n="41"/>dicta quaest. 3. Et ratio, quae ex dictis 
+colligi<lb break="no" ed="#P" n="42"/>tur, clara est, quia illa locutio significat 
+Ver<lb break="no" ed="#P" n="43"/>bum divinum, seu Filium Dei esse objectum
+<lb ed="#P" n="44"/>hujus praedestinationis ; consequens autem
+<lb ed="#P" n="45"/>falsum est, quia potius hoc objectum 
+prae<lb break="no" ed="#P" n="46"/>scinditur saltem in conceptione mentis a Filio
+<lb ed="#P" n="47"/>Dei. Et confirmatur, quia praedestinari ad esse
+<lb ed="#P" n="48"/>Filii Dei, non convenit Verbo secundum se,
+<lb ed="#P" n="49"/>ut ex fide constat. Nec per communicationem
+<lb ed="#P" n="50"/>idiomatum, quia praedestinari ad esse Filii
+<lb ed="#P" n="51"/>Dei dicitur de hoc homine, nt supponitur 
+sal<lb break="no" ed="#P" n="52"/>tem in conceptione mentis, ante unionem
+<lb ed="#P" n="53"/>humanitatis ad Verbum ; ergo in hoc 
+praedi<lb break="no" ed="#P" n="54"/>cato non potest esse communicatio 
+idioma<lb break="no" ed="#P" n="55"/>tum, quod ex sequenti illatione evidentius
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>fiet. Quapropter, cum D. Thom. interdum
+<lb ed="#P" n="57"/>dicit, Verbum, aut Filium ratione 
+humani<lb break="no" ed="#P" n="58"/>tatis, seu ut subsistit in humanitate, esse 
+prae<lb break="no" ed="#P" n="59"/>destinatum Filium Dei, non intelligit ipsam
+<lb ed="#P" n="60"/>personam absolute includi in objecto talis
+<lb ed="#P" n="61"/>praedestinationis, vel simpliciter ita 
+denomi<lb break="no" ed="#P" n="62"/>nari ; sed solum quatenus praecisa ratio 
+sub<lb break="no" ed="#P" n="63"/>sistentis in hac humanitate in ea 
+considera<lb break="no" ed="#P" n="64"/>tur, quae de se indifferens est, et abstrahit a
+<lb ed="#P" n="65"/>supposito Filii Dei naturalis.
+</p>
+                  <p xml:id="szstco-l01262-d1e1932">
+                     <lb ed="#P" n="66"/>15. Tertio, sequitur ex dictis Christum non
+<lb ed="#P" n="67"/>esse dicendum simpliciter et absolute 
+prae<lb break="no" ed="#P" n="68"/>destinatum ad esse Filii Dei, sed solum cum
+<lb ed="#P" n="69"/>illo addito, in quantum homo. Ita colligitur
+<lb ed="#P" n="70"/>ex D. Thomain his articulis. Etratio est, quia
+<lb ed="#P" n="71"/>Christus supponit pro ipso supposito Filii Dei,
+<lb ed="#P" n="72"/>et significat compositum ex duabus naturis
+<lb ed="#P" n="73"/>in una persona, quae per se et natura sua est
+<lb ed="#P" n="74"/>Filius Dei naturalis, et non ex 
+praedestina<lb break="no" ed="#P" n="75"/>tione; ergo Christus, simpliciter loquendo,
+<lb ed="#P" n="76"/>non potest esse objectum hujus 
+praedestina<lb break="no" ed="#P" n="77"/>tionis, cum in se intrinsece includat 
+termi<lb break="no" ed="#P" n="78"/>num ejus ; at vero addendo illam 
+determina<lb break="no" ed="#P" n="79"/>Uuonem, in quantum homo, seu in quantum hic
+<lb ed="#P" n="80"/>homo, praescinditur, et speciticatur, seu 
+desi<lb break="no" ed="#P" n="81"/>gnatur propria ratio hujus hominis, ita ut in
+<lb ed="#P" n="82"/>hoc objecto formaliter non includatur 
+per<lb break="no" ed="#P" n="83"/>sona Filii Dei.
+</p>
+                  <p xml:id="szstco-l01262-d1e1974">
+                     <lb ed="#P" n="84"/>16. Objectio. — Responsio. — Sed contra,
+<lb ed="#P" n="85"/>nam in re ipsa Christus, ut homo, non est 
+Fi<lb break="no" ed="#P" n="86"/>lius Dei naturalis, eo modo quo nunc 
+loqui<lb break="no" ed="#P" n="87"/>mur ; ergo neque in quantum homo 
+praedes<lb break="no" ed="#P" n="88"/>tinatus est ut sit Filius Dei naturalis, quia
+<lb ed="#P" n="89"/>quod praedestinatur, ita futurum est in re, 
+si<lb break="no" ed="#P" n="90"/>cut praedestinatum est. Respondetur cum D.
+<lb ed="#P" n="91"/>Thoma, art. 2, ad primum, esse 
+aequivocatio<lb break="no" ed="#P" n="92"/>nem in hoc sophismate ; cum enim dicitur :
+<lb ed="#P" n="93"/>Christus, in quantum homo, est praedestinatus
+<lb ed="#P" n="94"/>Filius Dei, ila particula, im quantum, non
+<lb ed="#P" n="95"/>designat in re praedestinata rationem 
+secun<lb break="no" ed="#P" n="96"/>dum quam illi convenit esse Filium Dei 
+natu<lb break="no" ed="#P" n="97"/>ralem ; sed designat conditionem requisitam
+<lb ed="#P" n="98"/>ex parte praedestinantis, secundum quam hic
+<lb ed="#P" n="99"/>homo praecise ac formaliter conceptus potest
+<lb ed="#P" n="100"/>praedestinari ad esse Filii Dei naturalis ; non
+<lb ed="#P" n="101"/>igitur praedestinatur Christus, ut in quantum
+<lb ed="#P" n="102"/>homo sit Filius Dei naturalis, in quo sensu
+<lb ed="#P" n="103"/>argumentum procedit ; sed Christus, praecise
+<lb ed="#P" n="104"/>conceptus ut hic homo, praedestinatur ut sit
+<lb ed="#P" n="105"/>Filius Dei naturalis. Ad formam ergo 
+argu<lb break="no" ed="#P" n="106"/>menti negatur consequentia, nam, licet res
+<lb ed="#P" n="107"/>praedestinata habere debeat illud esse, seu
+<lb ed="#P" n="108"/>formam illam ad quam praedestinatur, non 
+ta<lb break="no" ed="#P" n="109"/>men oportet ut in se sit eedem modo quo est
+<lb ed="#P" n="110"/>in mente praedestinantis ; sicut necesse est
+<pb ed="#P" n="536"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>rem vere cognitam talem esse, qualis 
+cognos<lb break="no" ed="#P" n="2"/>citur ; non tamen oportet ut habeat in se 
+mo<lb break="no" ed="#P" n="3"/>dum quem habet in cognoscente.
+</p>
+                  <p xml:id="szstco-l01262-d1e2046">
+                     <lb ed="#P" n="4"/>17. Ultimo facile accommodatur haec 
+locu<lb break="no" ed="#P" n="5"/>lio, et expositio ad verba Pauli; ut enim D.
+<lb ed="#P" n="6"/>Thomas hic, art. 1, ad 2, notavit, prius 
+prae<lb break="no" ed="#P" n="7"/>misit Paulus: Qui fectus est ei ex semine David
+<lb ed="#P" n="8"/>secundum carnem, et deinde subjungit : Qui
+<lb ed="#P" n="9"/>predestinatus est Filius Dei, ubi relativum
+<lb ed="#P" n="10"/>illud gui, refert Christum secundum eamdem
+<lb ed="#P" n="11"/>conditionem seu determinationem, 
+secun<lb break="no" ed="#P" n="12"/>dum quam factus denominatur, scilicet in
+<lb ed="#P" n="13"/>quantum hominem, et ut sic dicitur 
+praedesti<lb break="no" ed="#P" n="14"/>natus Filius Dei. Additur vero, in virtute, id
+<lb ed="#P" n="15"/>est, in potentia et majestate veri Filii Dei,
+<lb ed="#P" n="16"/>vel alio modo : /n virtute secundum Spiritum
+<lb ed="#P" n="17"/>sanctificationis, id est, ut haberet virtutem ad
+<lb ed="#P" n="18"/>sanctificandos homines, ita ut in hoc verbo
+<lb ed="#P" n="19"/>explicetur non proprius et intrinsecus 
+termi<lb break="no" ed="#P" n="20"/>nus illius praedestinationis, sed ratio et finis
+<lb ed="#P" n="21"/>ejus. Propterea enim hic homo Christus 
+prae<lb break="no" ed="#P" n="22"/>destinatus est Filius Dei, ut esset potens ad
+<lb ed="#P" n="23"/>sanctificandos homines per mortem et 
+resur<lb break="no" ed="#P" n="24"/>rectionem suam,seu usque ad sanctificationem
+<lb ed="#P" n="25"/>perfectam et consummatam, qualis erit in iis
+<lb ed="#P" n="26"/>qui in ipso resurgent.
+</p>
+               </div>
+               <div xml:id="szstco-l01262-Dd1e2099"><!-- szstco-p3q24-d50s3 -->
+                  <head xml:id="szstco-l01262-Hd1e2102">Sectio 3</head>
+                  <head xml:id="szstco-l01262-Hd1e2104" type="question-title">
+utrum christus possit dici predestinatus ad 
+gloriam, vel alia supernaturalia dona gratiae
+</head>
+                  <p xml:id="szstco-l01262-d1e2107">
+                     <lb ed="#P" n="27" type="fixed=536"/>SECTIO III.
+<lb ed="#P" n="28"/>Utrum Christus possit dici predestinatus ad 
+glo<lb break="no" ed="#P" n="29"/>riam, vel alia supernaturalia dona gratiae.
+</p>
+                  <p xml:id="szstco-l01262-d1e2116">
+                     <lb ed="#P" n="30"/>1. Prima sententia est quorumdam 
+disci<lb break="no" ed="#P" n="31"/>pulorum D. Thomee, qui negant eam 
+locutio<lb break="no" ed="#P" n="32"/>nem esse veram, ac propriam in rigore 
+ser<lb break="no" ed="#P" n="33"/>monis, quia praedestinatio simpliciter esse 
+di<lb break="no" ed="#P" n="34"/>citur ad id quod est supremum, et praecipuum
+<lb ed="#P" n="35"/>in praedestinato ; sed in Christo suprema ejus
+<lb ed="#P" n="36"/>dignitas non est beatitudo, sed naturalis 
+fi<lb break="no" ed="#P" n="37"/>liatio Dei ; non ergo proprie dicitur 
+praedes<lb break="no" ed="#P" n="38"/>tinatus ad beatitudinem, sed solum ad esse
+<lb ed="#P" n="39"/>Filii Dei naturalis. Et confirmatur primo, quia
+<lb ed="#P" n="40"/>nullus dicitur praedestinari ad id quod est
+<lb ed="#P" n="41"/>sibi connaturale, sicut non dicitur homo 
+prae<lb break="no" ed="#P" n="42"/>destinari ad naturalem beatitudinem, quia
+<lb ed="#P" n="43"/>haec vox (ut diximus) ad opera gratiae 
+accom<lb break="no" ed="#P" n="44"/>modata est ; sed visio beata est connaturalis
+<lb ed="#P" n="45"/>Christo; ergo non proprie dicitur ad illam
+<lb ed="#P" n="46"/>praedestinari. Confirmatur secundo, quia 
+ne<lb break="no" ed="#P" n="47"/>mo dicitur proprie praedestinari ad id quod
+<lb ed="#P" n="48"/>est veluti proprietas consequens primarium
+<lb ed="#P" n="49"/>terminum suae praedestinationis, ut non 
+di<lb break="no" ed="#P" n="50"/>cuntur homines praedestinari ad gloriam 
+cor<lb break="no" ed="#P" n="51"/>poris, sed animae ; sed in Christo gloria et 
+cae<lb break="no" ed="#P" n="52"/>tera dona sunt proprietates consequentes fi-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="53"/>liationem divinam, ad quam Christus ut 
+ho<lb break="no" ed="#P" n="54"/>mo praedestinatus est; ergo.
+</p>
+                  <p xml:id="szstco-l01262-d1e2175">
+                     <lb ed="#P" n="55"/>2. Aliorum vero sententia est, Chbristum
+<lb ed="#P" n="56"/>proprie dici posse praedestinatum ad gloriam,
+<lb ed="#P" n="57"/>et alia supernaturalia dona suscipienda. Ita
+<lb ed="#P" n="58"/>sentiunt Scotus et Durandus, in 3, 
+distinctio<lb break="no" ed="#P" n="59"/>ne 17. Et probabile fundamentum esse 
+po<lb break="no" ed="#P" n="60"/>test, quia Deus ab aeterno, et ante omnia 
+me<lb break="no" ed="#P" n="61"/>rita praevisa, absoluta et efficaci voluntate 
+de<lb break="no" ed="#P" n="62"/>crevit ut Christus aeterna ejus beatitudine et
+<lb ed="#P" n="63"/>gloria frueretur, et illi praeparavit gratiam et
+<lb ed="#P" n="64"/>gloriam, et alia supernaturalia beneficia; 
+er<lb break="no" ed="#P" n="65"/>go recte potest dici ad haec omnia 
+praedesti<lb break="no" ed="#P" n="66"/>natus. Tum quia, teste Augustino, 
+praedesti<lb break="no" ed="#P" n="67"/>natio nihil aliud est quam praeparatio gratiae
+<lb ed="#P" n="68"/>et gloriae, et beneficiorum Dei; tum ctiam
+<lb ed="#P" n="69"/>quia, licet haec dona aliquo modo sint 
+con<lb break="no" ed="#P" n="70"/>juncta cum unione hypostatica, tamen in se
+<lb ed="#P" n="71"/>supernaturalia sunt, et non resultant quasi
+<lb ed="#P" n="72"/>physice ex gratia unionis, sed speciali Dei
+<lb ed="#P" n="73"/>actione et influxu conferri debent ; ergo 
+ne<lb break="no" ed="#P" n="74"/>cesse etiam est ut speciali Dei voluntate sint
+<lb ed="#P" n="75"/>ab aeterno praedefinita et ordinata ; cur ergo
+<lb ed="#P" n="76"/>non denominabitur Christus praedestinatus ad
+<lb ed="#P" n="77"/>haec bona suscipienda? Et confirmatur, quia
+<lb ed="#P" n="78"/>homines non solum dicuntur praedestinati ad
+<lb ed="#P" n="79"/>visionem beatam, sed etiam ut Deo fruantur,
+<lb ed="#P" n="80"/>et in eo delectentur, quamvis delectatio sit
+<lb ed="#P" n="81"/>aliquid consequens visionem. Possunt etiam
+<lb ed="#P" n="82"/>dici preedestinati, non solum ad gloriam 
+ani<lb break="no" ed="#P" n="83"/>mae, sed etiam ad gloriam corporis. Quin 
+po<lb break="no" ed="#P" n="84"/>tius Christus preedestinatus dicitur ad gloriam
+<lb ed="#P" n="85"/>quam resurgendo habuit; sic enim exponit
+<lb ed="#P" n="86"/>Augustinus, tract. 105 in Joan., verba illa
+<lb ed="#P" n="87"/>c. 17 : Clarifica me, Pater, claritate quam 
+ha<lb break="no" ed="#P" n="88"/>bui, priusquam mundus fieret apud te; petebat
+<lb ed="#P" n="89"/>enim gloriam resurrectionis suae, quam dicit
+<lb ed="#P" n="90"/>habuisse apud Deum ante mundi creationem
+<lb ed="#P" n="91"/>secundum praedestinationem, ut Augustinus
+<lb ed="#P" n="92"/>ait. Qui etiam, lib. de Praedestinatione Sanct.,
+<lb ed="#P" n="93"/>c. 15, dicit Christum fuisse praedestinatum ut
+<lb ed="#P" n="94"/>sit caput nostrum; et hoc etiam supponunt
+<lb ed="#P" n="95"/>Anselm. , Ambr., et alii Sancti supra citati,
+<lb ed="#P" n="96"/>in 4 et 5 expositione testimonii Pauli ad
+<lb ed="#P" n="97"/>Rom. 1.
+</p>
+                  <p xml:id="szstco-l01262-d1e2272">
+                     <lb ed="#P" n="98"/>3. Christus quomodo dici possit 
+praedestina<lb break="no" ed="#P" n="99"/>tus ad beatitudinem, et alia dona gratie.—Maec
+<lb ed="#P" n="100"/>dissensio ex parte esse potest de re, et ex
+<lb ed="#P" n="101"/>parte de modo loquendi. Si enim intelligatur
+<lb ed="#P" n="102"/>Christus primario ac per se praedestinatus ad
+<lb ed="#P" n="103"/>beatitudinem animae, et hac ratione ejus 
+ani<lb break="no" ed="#P" n="104"/>mam et humanitatem esse ordinatam ad 
+unio<lb break="no" ed="#P" n="105"/>nem hypostaticam, quem sensum Durandus
+<lb ed="#P" n="106"/>et Scotus indicarunt, sic erit dissensio de re,
+<lb ed="#P" n="107"/>et eorum sententia falsa est, et omnino im-
+<pb ed="#P" n="537"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>probanda, tum quia procedit ex falso 
+funda<lb break="no" ed="#P" n="2"/>mento, scilicet, vissonem beatam esse majus
+<lb ed="#P" n="3"/>bonum quam hypostaticam unionem. Tum
+<lb ed="#P" n="4"/>etiam quia ad beatitudinem proprie non 
+or<lb break="no" ed="#P" n="5"/>dinatur nisi suppositum, vel persona, non
+<lb ed="#P" n="6"/>autem natura, quia operatio proprie tribuitur
+<lb ed="#P" n="7"/>personae, non naturae ; Christi autem persona
+<lb ed="#P" n="8"/>non potuit per praedestinationem ordinari ad
+<lb ed="#P" n="9"/>beatitudinem, nisi in assumpta natura; illa
+<lb ed="#P" n="10"/>ergo ordinatio ad beatitudinem supponit in
+<lb ed="#P" n="11"/>Christo praedestinationem unionis 
+hypostati<lb break="no" ed="#P" n="12"/>cae, atque adeo praedestinationem hujus 
+ho<lb break="no" ed="#P" n="13"/>minis, ut sic, ad esse Filii Dei naturalis. Haec
+<lb ed="#P" n="14"/>ergo est propria et singularis praedestinatio
+<lb ed="#P" n="15"/>Christi, quae et dignitate, et ratione seu 
+in<lb break="no" ed="#P" n="16"/>tentione prima est, et ad eam caetera bona
+<lb ed="#P" n="17"/>consequuntur. Hoc ergo vero sensu 
+supposi<lb break="no" ed="#P" n="18"/>to, solum de modo loquendi potest esse 
+con<lb break="no" ed="#P" n="19"/>troversia, an Christus possit dici 
+praedestina<lb break="no" ed="#P" n="20"/>tus ad beatitudinem, necne; nam in re 
+cer<lb break="no" ed="#P" n="21"/>tum est, ex vi illus voluntatis, qua Deus 
+vo<lb break="no" ed="#P" n="22"/>luit unionem hypostaticam fieri in 
+humani<lb break="no" ed="#P" n="23"/>tate Christi, consequenter voluisse sanctificari
+<lb ed="#P" n="24"/>per divinitatem ipsam, et esse Filium Dei 
+na<lb break="no" ed="#P" n="25"/>turalem per gratiam unionis, et habere in sua
+<lb ed="#P" n="26"/>humanitate jus ad beatitudinem 
+supernatu<lb break="no" ed="#P" n="27"/>raiem , et alia dona; et consequenter etiam
+<lb ed="#P" n="28"/>voluisse hunc hominem esse beatum, et 
+ha<lb break="no" ed="#P" n="29"/>berc claritatem gloriae, et exaltationem 
+no<lb break="no" ed="#P" n="30"/>minis, et alias similes dignitates, ac denique
+<lb ed="#P" n="31"/>ordinasse rationem omnium mediorum per
+<lb ed="#P" n="32"/>quae Christus haec omnia bona in tempore
+<lb ed="#P" n="33"/>erat consecuturus. Cum igitur haec in re certa
+<lb ed="#P" n="34"/>sint, solum de modo loquendi potest esse
+<lb ed="#P" n="35"/>controversia , an Christus possit denominari
+<lb ed="#P" n="36"/>praedestinatus ad beatitudinem vel aliquam
+<lb ed="#P" n="37"/>dignitatem, quae in ipso est secundaria, et
+<lb ed="#P" n="38"/>minus principalis, quod non video cur 
+negan<lb break="no" ed="#P" n="39"/>dum sit, cum necessarium non sit semper in
+<lb ed="#P" n="40"/>praedestinatione explicare praecipuum et 
+pri<lb break="no" ed="#P" n="41"/>marium terminum ejus, et cum Sancti , 
+Au<lb break="no" ed="#P" n="42"/>gustinus et alii citati, ita loquantur. Imo et
+<lb ed="#P" n="43"/>Scriptura sacra; Actor. enim 10, ubi latina
+<lb ed="#P" n="44"/>lectio habet : 7pse est qui constitutus est a Deo
+<lb ed="#P" n="45"/>qudec vivorum et mortuorum, graece est 
+ver<lb break="no" ed="#P" n="46"/>bum opg:cyévo:, quod significat praedestinatus.
+<lb ed="#P" n="47"/>Potest igitur Christus dici praedestinatus ad
+<lb ed="#P" n="48"/>haec omnia, quia tota et perfecta 
+praedestina<lb break="no" ed="#P" n="49"/>tio illius haec omnia includit, filiationem, 
+sci<lb break="no" ed="#P" n="50"/>licet, divinam, tanquam primariam formam,
+<lb ed="#P" n="51"/>seu terminum, gloriam vero et alias 
+dignita<lb break="no" ed="#P" n="52"/>tes tanquam proprietates consequentes, et ad
+<lb ed="#P" n="53"/>illus consummatam perfectionem 
+pertinen<lb break="no" ed="#P" n="54"/>tes, et ita aliter dicitur Christus praedestinatus
+<lb ed="#P" n="55"/>ad beatitudinem, quam alii homines ; quia in
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>aliis beatitudo est veluti primarius terminus
+<lb ed="#P" n="57"/>praedestinationis, in Christo vero est 
+secun<lb break="no" ed="#P" n="58"/>darius, et proprietas consequens, etideo 
+prae<lb break="no" ed="#P" n="59"/>destinatio Christi singularis est, et inter 
+om<lb break="no" ed="#P" n="60"/>nes excellit.
+</p>
+               </div>
+               <div xml:id="szstco-l01262-Dd1e2434"><!-- szstco-p3q24-d50s4 -->
+                  <head xml:id="szstco-l01262-Hd1e2437">Sectio 4</head>
+                  <head xml:id="szstco-l01262-Hd1e2439" type="question-title">
+an humanitas christi possit dici praedestinata,
+vel simpliciter, vel ad aliquem terminum
+</head>
+                  <p xml:id="szstco-l01262-d1e2442">
+                     <lb ed="#P" n="61" type="fixed=537"/>SECTIO IV.
+<lb ed="#P" n="62"/>An humanitas Christi possit dici praedestinata,
+<lb ed="#P" n="63"/>vel simpliciter, vel ad aliquem terminum.
+</p>
+                  <p xml:id="szstco-l01262-d1e2451">
+                     <lb ed="#P" n="64"/>1. Ratio dubitandi est, quia D. Thom. hic,
+<lb ed="#P" n="65"/>art. 4, ad 2, negat naturam praedestinari, sed
+<lb ed="#P" n="66"/>suppositum, quia praedestinari, inquit, est 
+di<lb break="no" ed="#P" n="67"/>rigi in salutem, quod quidem est suppositi
+<lb ed="#P" n="68"/>agentis propter beatitudinis finem. In 
+contra<lb break="no" ed="#P" n="69"/>rium vero est, quia idem D. Thom., in 3,
+<lb ed="#P" n="70"/>d. 10, quaest. 3, quaestiunc. 1, eam 
+locutio<lb break="no" ed="#P" n="71"/>nem admittit ; quam sententiam ibidem 
+am<lb break="no" ed="#P" n="72"/>plectitur Bonavent., art. 1, quaest. 1; et
+<lb ed="#P" n="73"/>Alens., 3 part., q. 3, memb. 1; et Durand.,
+<lb ed="#P" n="74"/>et Scot., dist. 7, q. 3.
+</p>
+                  <p xml:id="szstco-l01262-d1e2477">
+                     <lb ed="#P" n="75"/>2. Humanitas quomodo dicatur predestinata
+<lb ed="#P" n="76"/>ad unionem lajpostaticam. — Sed in quaestione
+<lb ed="#P" n="77"/>de nomine breviter dicendum videtur, aliud
+<lb ed="#P" n="78"/>esse loqui de praedestinatione ad 
+beatitu<lb break="no" ed="#P" n="79"/>dinem , aliud vero de praedestinatione ad
+<lb ed="#P" n="80"/>unionem hypostaticam; prior praedestinatio
+<lb ed="#P" n="81"/>non tribuitur proprie naturae, sed 
+suppo<lb break="no" ed="#P" n="82"/>sito, et hoc optime concludit ratio D. 
+Tho<lb break="no" ed="#P" n="83"/>mae, quia beatitudo in opcratione consistit,
+<lb ed="#P" n="84"/>et operari est suppositi, si proprie loquamur.
+<lb ed="#P" n="85"/>At vero loquendo de praedestinatione ad
+<lb ed="#P" n="86"/>unionem hypostaticam, vere ac satis proprie
+<lb ed="#P" n="87"/>dici potest humanitas praedestinata ad hanc
+<lb ed="#P" n="88"/>unionem, primo quidem, quia ita 
+loquun<lb break="no" ed="#P" n="89"/>tur graves Theologi citati; imo et 
+Augus<lb break="no" ed="#P" n="90"/>tinus, de Praedestinat. Sanct., cap. 15, cum
+<lb ed="#P" n="91"/>ait: Preedestinata est ista humane maturae
+<lb ed="#P" n="92"/>tanta subvectio, ut quo attolleretur, altius non
+<lb ed="#P" n="93"/>haberet ; et eodem modo loquuntur Aymo, et
+<lb ed="#P" n="94"/>Hugo Cardinal. supra, sect. 2, in 3 expositione
+<lb ed="#P" n="95"/>citati. Secundo, quia hic cessat ratio facta; unio
+<lb ed="#P" n="96"/>enim proprie convenit naturae, non personae,
+<lb ed="#P" n="97"/>et ad unionem non assumitur vel movetur
+<lb ed="#P" n="98"/>per operationem propriam, sed potius mota
+<lb ed="#P" n="99"/>seu assumpta ab alio; ergo praedestinatio ad
+<lb ed="#P" n="100"/>unionem non potest proprie denominare 
+per<lb break="no" ed="#P" n="101"/>sonam, sed naturam. Et confirmatur , quia
+<lb ed="#P" n="102"/>haec unio praedestinata est a Deo ab aeterno,
+<lb ed="#P" n="103"/>ut supra cum D. Thoma probatum est ; ergo
+<lb ed="#P" n="104"/>aliquid potest proprie dici praedestinatum ad
+<lb ed="#P" n="105"/>hanc unionem, quia unio non est mere 
+abso<lb break="no" ed="#P" n="106"/>luta, sed respicit unibilia ; ergo sicut Verbum
+<lb ed="#P" n="107"/>dicitur praedestinatum ut uniatur carni, ita
+<lb ed="#P" n="108"/>caro potest dici praedestinata uniri Verbo.
+<lb ed="#P" n="109"/>Imo, hoc modo facile et expedite explicatur
+<pb ed="#P" n="538"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>hoc mysterium, nam revera, quod primo
+<lb ed="#P" n="2"/>Deus decrevit, nihil aliudfuit quam 
+humanita<lb break="no" ed="#P" n="3"/>tem uniri Verbo. Unde argumentor tertio, quia
+<lb ed="#P" n="4"/>gratia unionis in tempore humanitati 
+confer<lb break="no" ed="#P" n="5"/>tur, et ad illam suscipiendam ab aeterno 
+or<lb break="no" ed="#P" n="6"/>dinata seu praedestinata est, non in alio seu
+<lb ed="#P" n="7"/>per aliud, sicut pars potest dici ordinari cum
+<lb ed="#P" n="8"/>toto ad aliquod bonum, sed in se, et per se,
+<lb ed="#P" n="9"/>quia gratia per se primo illi fit; ergo optime
+<lb ed="#P" n="10"/>potest denominari praedestinata ad hanc 
+unio<lb break="no" ed="#P" n="11"/>nem. Immerito ergo Medina hoc loco scribit
+<lb ed="#P" n="12"/>in haec verba : Est etiam quidam novitius 
+Theo<lb break="no" ed="#P" n="13"/>logus, qui affirmat praedestinationem ad 
+bea<lb break="no" ed="#P" n="14"/>titudinem esse quidem personae, sed quod
+<lb ed="#P" n="15"/>praedestinatio ad unionem hypostaticam non
+<lb ed="#P" n="16"/>est persona , sed naturae , quae assumpta
+<lb ed="#P" n="17"/>est ad unionem hypostaticam; sed isti non
+<lb ed="#P" n="18"/>intellgunt quae loquuntur. Haec ille : qui si
+<lb ed="#P" n="19"/>antiquos Theologos consuluisset, sententiam
+<lb ed="#P" n="20"/>hanc non attribuisset alicui novitio Theologo,
+<lb ed="#P" n="21"/>neque eos, credo, diceret esse locutos quae 
+nes<lb break="no" ed="#P" n="22"/>ciebant. Praesertim cum distinctio illa 
+expres<lb break="no" ed="#P" n="23"/>se sit S. Thom. in citato loco. Et quod valde
+<lb ed="#P" n="24"/>admiror, ipsemet statim docet, recte, et vere
+<lb ed="#P" n="25"/>dici naturam humanam esse praedestinatam,
+<lb ed="#P" n="26"/>quod nec recte, nec proprie dici potest de
+<lb ed="#P" n="27"/>praedestinatione ad beatitudinem, ut optime
+<lb ed="#P" n="28"/>D. Thomas docuit; intelligendum ergo 
+neces<lb break="no" ed="#P" n="29"/>sario est de praedestinatione ad unionem 
+hy<lb break="no" ed="#P" n="30"/>postaticam, ut ipse statim declarat. Cur ergo
+<lb ed="#P" n="31"/>aliis immponit eos non intelligere quae 
+loquun<lb break="no" ed="#P" n="32"/>tur, cum vera loquantur, ipso ctiam 
+appro<lb break="no" ed="#P" n="33"/>bante ? Quin potius addo, juxta mentem D.
+<lb ed="#P" n="34"/>Thom., nic humanitatem non esse dicendam
+<lb ed="#P" n="35"/>simpliciter praedestinatam, sed solum cum
+<lb ed="#P" n="36"/>illo addito, ad unionem hypostaticam , quia
+<lb ed="#P" n="37"/>praedestinatio absolute dicta, juxta 
+commu<lb break="no" ed="#P" n="38"/>nem usum hujus vocis, absolute, inquam,
+<lb ed="#P" n="39"/>dicta, supposito tribuitur, non naturae ; proprie
+<lb ed="#P" n="40"/>enim divina providentia versatur circa 
+sup<lb break="no" ed="#P" n="41"/>posita, vel personas quas gubernat ; circa 
+na<lb break="no" ed="#P" n="42"/>turas vero, non nisi ratione suppositorum ; et
+<lb ed="#P" n="43"/>ideo praedestinatio, quae est pars hujus 
+provi<lb break="no" ed="#P" n="44"/>dentiae, absolute dicta, refertur ad 
+supposi<lb break="no" ed="#P" n="45"/>tum. Item quia praedestinatio aliorum 
+homi<lb break="no" ed="#P" n="46"/>num vel Angelorum absolute dicta refertur
+<lb ed="#P" n="47"/>ad beatitudinem, ad quam humanitas non
+<lb ed="#P" n="48"/>fuit proprie praedestinata ; praedestinatio 
+au<lb break="no" ed="#P" n="49"/>tem Christi immediate, et per se terminata
+<lb ed="#P" n="50"/>est ad ipsum Christum, et ideo simpliciter et
+<lb ed="#P" n="51"/>absolute Christus est praedestinatus ; 
+humani<lb break="no" ed="#P" n="52"/>tas vero quamvis per eamdem 
+praedestinatio<lb break="no" ed="#P" n="53"/>nem ordinata sit ad unionem hypostaticam,
+<lb ed="#P" n="54"/>non tamen fuit simpliciter praedestinata, sed
+<lb ed="#P" n="55"/>(ut ita dicam) compraedestinata ; et ideo non
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>debet denominari praedestinata, nisi 
+adjun<lb break="no" ed="#P" n="57"/>gendo terminum talis praedestinationis , quo
+<lb ed="#P" n="58"/>explicetur illam esse praedestinatam per 
+mo<lb break="no" ed="#P" n="59"/>dum naturae, et non per modum suppositi,
+</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

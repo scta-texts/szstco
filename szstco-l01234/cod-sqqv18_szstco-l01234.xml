@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 21</title>
+            <author ref="#FranciscoSuarez">Francisco Suarez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 21</title>
+               <date when="2025-05-27">May 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-sqqv18">Paris 1860, v. 17</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-05-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="430"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="szstco-l01234"><!-- szstco-p3q21 -->
+            <head xml:id="szstco-l01234-Hd1e97">Quaestio 21</head>
+            <div xml:id="szstco-l01234-Dd1e99"><!-- szstco-p3q21a1 -->
+               <head xml:id="szstco-l01234-Hd1e102">Articulus 1</head>
+               <p xml:id="szstco-l01234-d1e104">
+                  <lb ed="#P" n="60" type="fixed=430"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01234-d1e109">
+                  <lb ed="#P" n="61"/>1. Ex corpore articuli duae colliguntur 
+as<lb break="no" ed="#P" n="62"/>sertiones. Prima est, siChristus tantum esset
+<lb ed="#P" n="63"/>Deus, seu (quod idem est) si in eo tantum 
+es<lb break="no" ed="#P" n="64"/>set voluntas divina, non fore capacem 
+oratio<lb break="no" ed="#P" n="65"/>nis. Quod est per se evidens, ut idem D. 
+Tho<lb break="no" ed="#P" n="66"/>mas 2. 2, q. S3, art. 10, latius docuit, quia
+<lb ed="#P" n="67"/>oratio est actus inferioris deprecantis 
+supe<lb break="no" ed="#P" n="68"/>riorem ut se adjuvet; unde est actus 
+indi<lb break="no" ed="#P" n="69"/>centis ope alterius, cui cultum et reverentiam
+<lb ed="#P" n="70"/>exhibet, ct ideo ad religionem pertinet ; Deus
+<lb ed="#P" n="71"/>autem neque alterius ope indiget, neque 
+al<lb break="no" ed="#P" n="72"/>terum revereri aut religione colere potest,
+<lb ed="#P" n="73"/>cum omnipotens sit, et superiorem non 
+ha<lb break="no" ed="#P" n="74"/>beat, et ideo orare non potest ; neque enim
+<lb ed="#P" n="75"/>ad se ipsum orationem dirigere valet, ut per
+<lb ed="#P" n="76"/>se constat. Neque ad hoc refert quod in Dco
+<lb ed="#P" n="77"/>sit personarum distinctio; omnes enim 
+aequa<lb break="no" ed="#P" n="78"/>les sunt, et eadem omnipotentia, intellectu et
+<lb ed="#P" n="79"/>voluntate operantur, et ideo non potest una
+<lb ed="#P" n="80"/>magis alteram orare quam se ipsam.
+</p>
+               <p xml:id="szstco-l01234-d1e155">
+                  <lb ed="#P" n="81"/>2. Ratio orationis quee sit. — Secunda 
+as<lb break="no" ed="#P" n="82"/>sertio D. Thomae est, Christum Dominum ut
+<lb ed="#P" n="83"/>hominem, quia humanam habet voluntatem,
+<lb ed="#P" n="84"/>et intellectum, vere ac proprie orare posse;
+<lb ed="#P" n="85"/>humaza enim voluntas, etiam Christi, non
+<lb ed="#P" n="86"/>est per se efficax, sed auxilio indiget divino,
+<lb ed="#P" n="87"/>quod orando implorare potest, et voluntatem
+<lb ed="#P" n="88"/>suam apud Deum explicando, in quo ratio 
+ora<lb break="no" ed="#P" n="89"/>tionis consistit, ut D. Thomas inquit, quod
+<lb ed="#P" n="90"/>non est hujus loci latius explicare; in quo
+<lb ed="#P" n="91"/>enim actus orationis consistat, et cujus 
+facul<lb break="no" ed="#P" n="92"/>tatis actus sit, non facile (ut existimo) 
+expli<lb break="no" ed="#P" n="93"/>cari potest ; id tamen agendum est in 2. 2.
+<lb ed="#P" n="94"/>q. 83. Nunc quod praesenti instituto satis est,
+<lb ed="#P" n="95"/>supponamus actum mentalis orationis seu 
+pe<lb break="no" ed="#P" n="96"/>titionis apud Deum (de hoc enim agimus) 
+in<lb break="no" ed="#P" n="97"/>cludere vel supponere aliquid ad intellectum,
+<lb ed="#P" n="98"/>et aliquid ad voluntatem pertinens, scilicet
+<pb ed="#P" n="431"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>voluntatem, seu desiderium obtinendi aliquid
+<lb ed="#P" n="2"/>a Deo, seu ope divina; quae voluntas 
+suppo<lb break="no" ed="#P" n="3"/>nit, Deum cognosci ut auctorem talis boni, a
+<lb ed="#P" n="4"/>quo expectandum est et petendum ; deinde
+<lb ed="#P" n="5"/>includit oratio ordinationem quamdam 
+hu<lb break="no" ed="#P" n="6"/>jusmodi voluntatis, seu desiderii ad Deum,
+<lb ed="#P" n="7"/>qua homo manifestat Deo suum affectum, 
+cu<lb break="no" ed="#P" n="8"/>piens et sperans obtinere quod appetit; sive
+<lb ed="#P" n="9"/>igitur haec ordinatio, vel explicatio desiderii
+<lb ed="#P" n="10"/>apud Deum, ad intcllectum, sive ad 
+volun<lb break="no" ed="#P" n="11"/>tatem pertineat, constat tamen Christi 
+ani<lb break="no" ed="#P" n="12"/>mam capacem fuisse omnium istorum 
+ac<lb break="no" ed="#P" n="13"/>tuam, cum creata sit, Deoque subjecta et 
+in<lb break="no" ed="#P" n="14"/>ferior.
+</p>
+               <p xml:id="szstco-l01234-d1e231">
+                  <lb ed="#P" n="15"/>3. Christus cur oraverit. — Solutio ad 
+pri<lb break="no" ed="#P" n="16"/>mum nonnibil difficultatis habet ; 
+argumen<lb break="no" ed="#P" n="17"/>tum enim erat, Christum non indigere 
+oratio<lb break="no" ed="#P" n="18"/>ne, cum omnia per se possit. Respondet autem
+<lb ed="#P" n="19"/>primum D. Thomas, Christum ut hominem
+<lb ed="#P" n="20"/>non potuisse perficere omnia quae volebat,
+<lb ed="#P" n="21"/>sine oratione, quia ut homo non erat 
+omni<lb break="no" ed="#P" n="22"/>potens; subdit vero deinde voluisse ad 
+Pa<lb break="no" ed="#P" n="23"/>trem orationem porrigere, non quia ipse 
+es<lb break="no" ed="#P" n="24"/>set impotens, sed propter nostram 
+instruc<lb break="no" ed="#P" n="25"/>tionem et exemplum. Quae duo non videntur
+<lb ed="#P" n="26"/>inter se consentanea ; quia si propterea fuit
+<lb ed="#P" n="27"/>capax orationis, quia ut homo non omnia 
+po<lb break="no" ed="#P" n="28"/>lerat, ergo revera oravit quia erat impotens.
+<lb ed="#P" n="29"/>Et confirmatur, quia si tantum oravit propter
+<lb ed="#P" n="30"/>instructionem et esemplum, nec nunc oraret,
+<lb ed="#P" n="31"/>neque in via orasset, nisi tantum publice.
+Res<lb break="no" ed="#P" n="32"/>pondetur mentem D. Thomae esse, cum 
+Chri<lb break="no" ed="#P" n="33"/>stus sit Deus, assumendo humanitatem, 
+po<lb break="no" ed="#P" n="34"/>tuisse illi ecommunicare, ut omnia quae vellet,
+<lb ed="#P" n="35"/>operaretur absque orationis vel petitionis 
+in<lb break="no" ed="#P" n="36"/>digentia; et hoc modo dicitur orasse, non
+<lb ed="#P" n="37"/>quia sit impotens, nimirum ipsa persona 
+Chri<lb break="no" ed="#P" n="38"/>sti ad operandum hoc modo per humanitatem
+<lb ed="#P" n="39"/>suam ; de facto tamen noluit communicare
+<lb ed="#P" n="40"/>hanc efficaciam suas humanitati, nisi per hoc
+<lb ed="#P" n="41"/>medium orationis et petitionis; et ideo recte
+<lb ed="#P" n="42"/>etiam dicitur in quantum hominem non 
+om<lb break="no" ed="#P" n="43"/>nia posse sine oratione. Et hoc sensu etiam
+<lb ed="#P" n="44"/>potest vere dici, Christum ut hominem 
+inter<lb break="no" ed="#P" n="45"/>dum orasse, non solum propter instructionem
+<lb ed="#P" n="46"/>et exemplum, sed quia sine oratione revera
+<lb ed="#P" n="47"/>non posset perficere quod volebat, quanquam
+<lb ed="#P" n="48"/>hoc totum ad nostram instructionem et 
+exem<lb break="no" ed="#P" n="49"/>plum ordinatum sit. Ad confirmationem 
+res<lb break="no" ed="#P" n="50"/>pondetur, illas esse optimas rationes, sed non
+<lb ed="#P" n="51"/>adaequatas ; nam etiam voluit Deus Christum
+<lb ed="#P" n="52"/>ut hominem oratione indigere, ut servaretur
+<lb ed="#P" n="53"/>debitus ordo inferioris naturae ad superiorem.
+<lb ed="#P" n="54"/>et ut debitum crationis cultum divinitati 
+prae<lb break="no" ed="#P" n="55"/>beret.
+</p>
+               <p xml:id="szstco-l01234-d1e323">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="56"/>4. Secundum argumentum duas partes
+<lb ed="#P" n="57"/>habet : altera est, quomcdo Christus petebat
+<lb ed="#P" n="58"/>orando, quae certo sciebat esse futura, Et
+<lb ed="#P" n="59"/>hanc facile dissolvit D. Thomas, dicendo ideo
+<lb ed="#P" n="60"/>orasse, quia praesciebat per orationem suam
+<lb ed="#P" n="61"/>fuisse futura. Altera pars erat, quomodo 
+oran<lb break="no" ed="#P" n="62"/>do petebat interdum quae sciebat nullo modo
+<lb ed="#P" n="63"/>esse futura. Et huic parti nihil respondet D.
+<lb ed="#P" n="64"/>Thomas; fortasse enim omisit in 4 art. 
+ex<lb break="no" ed="#P" n="65"/>plicandam. Responsio vero est, simpliciter
+<lb ed="#P" n="66"/>non petiisse res hujusmodi, sed solum 
+inter<lb break="no" ed="#P" n="67"/>dum sub conditione explicasse affectum suum,
+<lb ed="#P" n="68"/>propter instructionem nostram, vel 
+exem<lb break="no" ed="#P" n="69"/>plum, vel alias honestas causas.
+</p>
+               <p xml:id="szstco-l01234-d1e358">
+                  <lb ed="#P" n="70"/>5. In solutione ad tertium videtur sentire
+<lb ed="#P" n="71"/>D. Thomas Christum orasse Deum per ipsam
+<lb ed="#P" n="72"/>contemplationem beatam ; et hoc modo 
+ap<lb break="no" ed="#P" n="73"/>plicat orationi Christi definiionem Damasc.,
+<lb ed="#P" n="74"/>scilicet, orationem esse ascensum mentis in
+<lb ed="#P" n="75"/>Deum, ut, scilicet, in Christo intelligatur, non
+<lb ed="#P" n="76"/>de aliquo novo ascensu, sed de illo quem
+<lb ed="#P" n="77"/>perpetuo habet per contemplationem beatam.
+<lb ed="#P" n="78"/>Et est hoc quidem verum, quia ( sicut supra
+<lb ed="#P" n="79"/>diximus) potuit anima Christi, supposita 
+vi<lb break="no" ed="#P" n="80"/>sione Dei, exercere circa creaturas in Deo 
+vi<lb break="no" ed="#P" n="81"/>sas actus charitatis proximorum, liberos et
+<lb ed="#P" n="82"/>meritorios, et ita etiam potuit desiderare illis
+<lb ed="#P" n="83"/>bona, atque adeo ea petere a Deo. Addi vero
+<lb ed="#P" n="84"/>potest, per actus scientiae infusae, potuisse
+<lb ed="#P" n="85"/>animam Christi habere novas ascensiones
+<lb ed="#P" n="86"/>mentis in Deum, nunc per unum affectum,
+<lb ed="#P" n="87"/>postea per alium, et hoc modo novas 
+oratio<lb break="no" ed="#P" n="88"/>nes fundere extra contemplationem beatam.
+<lb ed="#P" n="89"/>Quae omnia facile ex supra tractatis de 
+scien<lb break="no" ed="#P" n="90"/>tia et voluntate Christi constare possunt.
+</p>
+            </div>
+            <div xml:id="szstco-l01234-Dd1e407"><!-- szstco-p3q21a2 -->
+               <head xml:id="szstco-l01234-Hd1e410">Articulus 2</head>
+               <p xml:id="szstco-l01234-d1e412">
+                  <lb ed="#P" n="71" type="fixed=432"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01234-d1e417">
+                  <lb ed="#P" n="72"/>Quaestio hujus articuli et in se facilis est, et
+<lb ed="#P" n="73"/>non est singularis de Christo Domino, sed
+<lb ed="#P" n="74"/>communis omnibus hominibus, neque habet
+<lb ed="#P" n="75"/>in Christo singularem aliquam rationem 
+du<lb break="no" ed="#P" n="76"/>bitandi, et ideo circa illam nihil adnotare
+<lb ed="#P" n="77"/>oportet ; pertinet enim ad 2. 2, q. 83, art. 1;
+<lb ed="#P" n="78"/>hic vero a D. Thoma proposita, ad 
+explican<lb break="no" ed="#P" n="79"/>dum quomodo et propter quas causas 
+Chris<lb break="no" ed="#P" n="80"/>tus interdum oraverit, proponendo, seu 
+re<lb break="no" ed="#P" n="81"/>praesentando Patri suo sensualitatis affectum.
+<lb ed="#P" n="82"/>Quod tuculenter satis et distincte docet, 
+ne<lb break="no" ed="#P" n="83"/>que alia explicatione indiget. -
+</p>
+            </div>
+            <div xml:id="szstco-l01234-Dd1e447"><!-- szstco-p3q21a3 -->
+               <head xml:id="szstco-l01234-Hd1e450">Articulus 3</head>
+               <p xml:id="szstco-l01234-d1e452">
+                  <lb ed="#P" n="75" type="fixed=433"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01234-d1e457">
+                  <lb ed="#P" n="76"/>1. Respondet D. Thomas Christum pro se
+<lb ed="#P" n="77"/>orasse, interdum repraesentando simplicem
+<lb ed="#P" n="78"/>affectum , interdum efficaciter petendo quod
+<lb ed="#P" n="79"/>omnino fieri volebat, ut cum, Joan. 17, 
+ora<lb break="no" ed="#P" n="80"/>bat : Pater. venit hora, clarifica Filium tuum.
+<lb ed="#P" n="81"/>Quae doctrina de fide certa est; espresse enim
+<lb ed="#P" n="82"/>habetur in Evangelio, et rationes seu 
+con<lb break="no" ed="#P" n="83"/>gruentie illius optimae a D. Thoma 
+afferun<lb break="no" ed="#P" n="84"/>tur.
+</p>
+               <p xml:id="szstco-l01234-d1e479">
+                  <lb ed="#P" n="85"/>2. Solutiones argumentorum sunt 
+notan<lb break="no" ed="#P" n="86"/>dae, praesertim primi et tertii; nam in primo
+<lb ed="#P" n="87"/>explicat dictum Hilarii, lib. 10 de Trinit., 
+cir<lb break="no" ed="#P" n="88"/>ca finem dicentis, Christo non profuisse 
+de<lb break="no" ed="#P" n="89"/>precationis sermonem, sed propter nostrum
+<lb ed="#P" n="90"/>profectum interdum orasse. Quod dicitD. 
+Tho<lb break="no" ed="#P" n="91"/>mas intelligendum csse de oratione vocali,
+<lb ed="#P" n="92"/>quae non erat illi necessaria propter ipsum,
+<lb ed="#P" n="93"/>sed propter nos. In quo satis indicat D. 
+Tho<lb break="no" ed="#P" n="94"/>mas orationem mentalem fuisse Christo 
+ne<lb break="no" ed="#P" n="95"/>ccessariam propter ipsum, ut super articulum
+<lb ed="#P" n="96"/>primum etiam docuimus; fuit enim illi 
+ne<lb break="no" ed="#P" n="97"/>cessaria ad impetrandam et merendam 
+glo<lb break="no" ed="#P" n="98"/>riam corporis, et impetrandam sui nominis
+<lb ed="#P" n="99"/>claritatem , quia hoc medium erat a Deo prae-
+<pb ed="#P" n="434"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>scriptum ad illum effectum consequendum ;
+<lb ed="#P" n="2"/>oratio autem vocalis per se non requiritur
+<lb ed="#P" n="3"/>ad impetrationem vel meritum, sed vel ad
+<lb ed="#P" n="4"/>excitandam et colligendam mentem , vel ad
+<lb ed="#P" n="5"/>augendam satisfactionem , ut D. Thomas 
+do<lb break="no" ed="#P" n="6"/>cet, 2. 2, q. 83, art. 12. Et ideo non fuit 
+Chri<lb break="no" ed="#P" n="7"/>sto propter se necessaria , sed propter nos.
+<lb ed="#P" n="8"/>Et ad hunc modum esplicat D. Thomas in
+<lb ed="#P" n="9"/>eadem solutione verba Christi, Joan. 11 : 
+Pa<lb break="no" ed="#P" n="10"/>ter, gratias ago tibi quoniam audisti ane , etc.
+<lb ed="#P" n="11"/>Quem locum statim fusius in disputatione
+<lb ed="#P" n="12"/>tractabimus.
+</p>
+               <p xml:id="szstco-l01234-d1e544">
+                  <lb ed="#P" n="13"/>3. In solutione vero ad tertium explicat
+<lb ed="#P" n="14"/>D. Thom. verba Cypr. in expositione 
+Oratio<lb break="no" ed="#P" n="15"/>nis Dominicae, in principio totius 
+expositio<lb break="no" ed="#P" n="16"/>nis, post tolum praeambulum, ubi sic inquit:
+<lb ed="#P" n="17"/>Ante omnia pacis doctor , atque unatatis 
+ma<lb break="no" ed="#P" n="18"/>gister sigillatàm noluit et privotim precem
+<lb ed="#P" n="19"/>fieri , ut quis , cun precatur, pro se tantum
+<lb ed="#P" n="20"/>precetur ; et infra : Publica est nobis, et 
+com<lb break="no" ed="#P" n="21"/>munis oratio, et quando oramus, non pro uno,
+<lb ed="#P" n="22"/>sed pro toto populo oramus, quiatotus populus
+<lb ed="#P" n="23"/>unwn sumts, etc., quae late prosequitur. 
+Di<lb break="no" ed="#P" n="24"/>cit autem D. Thomas ChristamDominum hanc
+<lb ed="#P" n="25"/>legem orandi servasse, etiam cum gloriam
+<lb ed="#P" n="26"/>suam postulavit; quia ejus gloria commune
+<lb ed="#P" n="27"/>bonum est omnium nostrum, et eamdem 
+di<lb break="no" ed="#P" n="28"/>cit nos servare, cum aliquid nobis privatim
+<lb ed="#P" n="29"/>petimus, ut eo in eliorum utilitatem utamur.
+<lb ed="#P" n="30"/>Non est autem intelligendum, hanc legem seu
+<lb ed="#P" n="31"/>conditionem simpliciter et absclute esse de
+<lb ed="#P" n="32"/>necessitate orationis, ut recta sit et honesta;
+<lb ed="#P" n="33"/>potest enim aliquis interdum sibi et alteri in
+<lb ed="#P" n="34"/>particulari vitam vel gratiam postulare, nihil
+<lb ed="#P" n="35"/>pro alus petendo , nec de eorum utilitate co -
+<lb ed="#P" n="36"/>gitando ; quia neque charitas, neque aliqua
+<lb ed="#P" n="37"/>virtus obligat ad desiderandum vel petendum
+<lb ed="#P" n="38"/>bonum aliorum, quandocunque nostrum 
+bo<lb break="no" ed="#P" n="39"/>num appetimus vel postulamus ; non est 
+igi<lb break="no" ed="#P" n="40"/>tur hoc de ratione honestae et rectae orationis,
+<lb ed="#P" n="41"/>loquendo in particulari de singulis orandi 
+ac<lb break="no" ed="#P" n="42"/>tibus. Absolute tamen, et universe loquendo,
+<lb ed="#P" n="43"/>ad munus orandi pertinet, ut non solum pro
+<lb ed="#P" n="44"/>nobis, sed etiam pro aliis oremus , quod 
+Cy<lb break="no" ed="#P" n="45"/>prianus in dictis verbis intendit ; unde, 
+cae<lb break="no" ed="#P" n="46"/>teris paribus, tanto erit perfectior oratio,
+<lb ed="#P" n="47"/>quanto non solum ipsi oranti, sed etiam aliis
+<lb ed="#P" n="48"/>utilis fuerit. Et propterea merito D. Thomas
+<lb ed="#P" n="49"/>explicare voluit quo modo haec perfectio,
+<lb ed="#P" n="50"/>etiam in illa oratione qua Christus pro se
+<lb ed="#P" n="51"/>oravit, non defuerit.
+</p>
+            </div>
+            <div xml:id="szstco-l01234-Dd1e632"><!-- szstco-p3q21a4 -->
+               <head xml:id="szstco-l01234-Hd1e635">Articulus 4</head>
+               <p xml:id="szstco-l01234-d1e637">
+                  <lb ed="#P" n="58" type="fixed=435"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01234-d1e642">
+                  <lb ed="#P" n="59"/>Quaestio hujus articuli coincidit cum 
+quaes<lb break="no" ed="#P" n="60"/>tione supra tractata de voluntate Christi, an
+<lb ed="#P" n="61"/>semper fuerit impleta ; diximus autem 
+abso<lb break="no" ed="#P" n="62"/>lutam voluntatem semper impletam esse, non
+<lb ed="#P" n="63"/>tamen simplicem affectum seu velleitatem ;
+<lb ed="#P" n="64"/>cum ergo oratio sit explicatio voluntatis, 
+con<lb break="no" ed="#P" n="65"/>stat illam orationem, quae ex voluntate 
+abso<lb break="no" ed="#P" n="66"/>luta proficiscebatur , semper esse exauditam,
+<lb ed="#P" n="67"/>non vero quae ex sola conditionata voluntate,
+<lb ed="#P" n="68"/>et secundum quid, ut bene D. Thomas 
+respon<lb break="no" ed="#P" n="69"/>det et declarat. Omnia vero, quae in 
+solutio<lb break="no" ed="#P" n="70"/>nibus argumentorum attingit, in superioribus
+<lb ed="#P" n="71"/>etiam tractata sunt, nam in solutione ad 
+pri<lb break="no" ed="#P" n="72"/>mum, tractat locum Matth. 26 : Pater, si 
+pos<lb break="no" ed="#P" n="73"/>sibile est, etc. Cum quo coincidit illud, Psal.
+<lb ed="#P" n="74"/>21 : Clamabo per diem, et non exaudies, quod
+<lb ed="#P" n="75"/>tangit in solutione ad 4 , quae supra 
+tractavi<lb break="no" ed="#P" n="76"/>mus, partim disput. 24, sect. 2, partim disput.
+<lb ed="#P" n="77"/>38, sect. 2 et sequent. In solutione vero ad 2
+<lb ed="#P" n="78"/>et 3, declarat D. Thomas quomodo Christus
+<lb ed="#P" n="79"/>aliter pro praedestinatis quam pro reprobis
+<lb ed="#P" n="80"/>oraverit, de qua re egimus disp. 41, sect. 2.
+</p>
+            </div>
+            <div xml:id="szstco-l01234-Dd1e694"><!-- szstco-p3q21-d45 -->
+               <head xml:id="szstco-l01234-Hd1e697">Disputatio 45</head>
+               <head xml:id="szstco-l01234-Hd1e699" type="question-title">
+De oratione Christi in via et in patria.
+</head>
+               <p xml:id="szstco-l01234-d1e702">
+                  <lb ed="#P" n="81" type="fixed=435"/>DISPUTATIO XLV,
+<lb ed="#P" n="82"/>In duas sectiones distributa.
+<lb ed="#P" n="83"/>DE ORATIONE CHRISTI IN VIA ET IN PATRIA.
+</p>
+               <p xml:id="szstco-l01234-d1e711">
+                  <lb ed="#P" n="84"/>Religionis actus precipui. — in 
+praece<lb break="no" ed="#P" n="85"/>dentibus disputationibus circa quaestion. 20
+<lb ed="#P" n="86"/>D. Thom., explicuimus quomodo virtus 
+obe<lb break="no" ed="#P" n="87"/>dientiae vere ac proprie in Christo Domino
+<lb ed="#P" n="88"/>locum habuerit, quatenus ut homo Deo 
+sub<lb break="no" ed="#P" n="89"/>jectus est; nunc convenienter explicandum
+<lb ed="#P" n="90"/>sequitur, quomodo etiam fuerit capax 
+virtu<lb break="no" ed="#P" n="91"/>tis religionis ad Deum; cum enim dixerimus
+<lb ed="#P" n="92"/>illum ut hominem esse non solum subjectum,
+<lb ed="#P" n="93"/>sed etiam servum, et ad officium servi 
+per<lb break="no" ed="#P" n="94"/>tineat, cultum et reverentiam exhibere 
+do<lb break="no" ed="#P" n="95"/>mino , consequens necessario fit Christum ut
+<pb ed="#P" n="436"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>hominem perfectissime observasse hoc 
+offi<lb break="no" ed="#P" n="2"/>cium erga Deum, atque adeo cultum Deo 
+de<lb break="no" ed="#P" n="3"/>bitum, scilicet latriae et religionis, illi 
+exhi<lb break="no" ed="#P" n="4"/>buisse; unde Matth. 4, et Luc. 4, tam de aliis
+<lb ed="#P" n="5"/>quam de se ipso generalem sententiam 
+pro<lb break="no" ed="#P" n="6"/>tulit dicens : Dominum tuwm adorabis, et illi
+<lb ed="#P" n="7"/>soli servies , et Joan. 4: Vos adoratis quod
+<lb ed="#P" n="8"/>nescitis, nos adoramus quod scimus. Itaque
+<lb ed="#P" n="9"/>dubium non est quin virtus religionis vere ac
+<lb ed="#P" n="10"/>proprie in Christum conveniat. Cum vero
+<lb ed="#P" n="11"/>haec virtus plures habeat actus, duo tamen
+<lb ed="#P" n="12"/>sunt praecipui, ad quos caeteri revocantur,
+<lb ed="#P" n="13"/>scilicet oratio, et sacrificium, et ideo de his
+<lb ed="#P" n="14"/>duobus specialiter disputatur a D. Thoma, in
+<lb ed="#P" n="15"/>hac, et sequenti quaestione, quia caeteri 
+spe<lb break="no" ed="#P" n="16"/>cialem difficultatem non habent. Quia, licet
+<lb ed="#P" n="17"/>de voto quaeri possit an aliquod votum 
+emi<lb break="no" ed="#P" n="18"/>serit, et de juramentc, an aliquando vere 
+ju<lb break="no" ed="#P" n="19"/>raverit , tamen primum horum in Evangelio
+<lb ed="#P" n="20"/>fundamentum non habet. De secundo verc
+<lb ed="#P" n="21"/>disputari solet in materia de juramento et
+<lb ed="#P" n="22"/>quidem de utroque aliquid intra dicemus in
+<lb ed="#P" n="23"/>sequenti tomo. De oratione igitur Christi duo
+<lb ed="#P" n="24"/>breviter explicanda sunt, aliud ad statum
+<lb ed="#P" n="25"/>viatoris, aliud ad statum comprehensoris 
+per<lb break="no" ed="#P" n="26"/>tinens.
+</p>
+               <div xml:id="szstco-l01234-Dd1e800"><!-- szstco-p3q21-d45s1 -->
+                  <head xml:id="szstco-l01234-Hd1e803">Sectio 1</head>
+                  <head xml:id="szstco-l01234-Hd1e805" type="question-title">
+an christus in statu via vere ac proprie oraverit
+</head>
+                  <p xml:id="szstco-l01234-d1e808">
+                     <lb ed="#P" n="27" type="fixed=436"/>SECTIO I.
+<lb ed="#P" n="28"/>An Christus in statu via vere ac proprie oraverit.
+</p>
+                  <p xml:id="szstco-l01234-d1e815">
+                     <lb ed="#P" n="29"/>I. Orationis acceptiones. — Christus vere
+<lb ed="#P" n="30"/>oravit. — Oratio generaliori quadam 
+signifi<lb break="no" ed="#P" n="31"/>catione signiticat omnem actum interiorem,
+<lb ed="#P" n="32"/>qua anima in Deum elevatur per 
+contempla<lb break="no" ed="#P" n="33"/>tionem vel meditationem, devotionem, aut 
+si<lb break="no" ed="#P" n="34"/>miles actus; et si hoc modo sumatur oratio,
+<lb ed="#P" n="35"/>non est quod disputetur an in Christo fuerit,
+<lb ed="#P" n="36"/>cujus anima perfectissima contemplationec in
+<lb ed="#P" n="37"/>Deum ferebatur, non solum per beatam 
+frui<lb break="no" ed="#P" n="38"/>tionem, sed per scientiam etiam infusam, et
+<lb ed="#P" n="39"/>liberum charitatis actum, ut in superioribus
+<lb ed="#P" n="40"/>satis tractatum est. Alio ergo modo magis
+<lb ed="#P" n="41"/>proprio sumitur oratio, ut significat 
+petitio<lb break="no" ed="#P" n="42"/>nem, seu postulationem, aut supplicationem,
+<lb ed="#P" n="43"/>quae includit obsecrationem, et gratiarum 
+ac<lb break="no" ed="#P" n="44"/>tionem, et alios actus similes, ut D. Thomas
+<lb ed="#P" n="45"/>exponit, 2. ?, q. 83, art. 1; et de hoc etiam
+<lb ed="#P" n="46"/>genere orationis certissimum est, Christum
+<lb ed="#P" n="47"/>Dominum in via existentem saepissime illam
+<lb ed="#P" n="48"/>exercuisse. Quod enim gratias egcrit Patri scu
+<lb ed="#P" n="49"/>Deo, frequenter in Evangcelio legimus, Lucae
+<lb ed="#P" n="50"/>22 : Accepto calice et pane, gratias egit ; Joan.
+<lb ed="#P" n="51"/>11 : Pater, gratias ago tibi, quia audisti me;
+<lb ed="#P" n="52"/>et Matth. 11: Confiteor tibi, Pater, Domine
+<lb ed="#P" n="53"/>cali et terra ; Joan. vero 12 pctiit Christus :
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>Pater. clarifica nomen tuum ; et c. 17, longam
+<lb ed="#P" n="55"/>habuit orationem similem; et postea in horto,
+<lb ed="#P" n="56"/>ac tandem in cruce. Ac denique Paul., ad
+<lb ed="#P" n="57"/>Hebr. 5: In diebus, inquit, carnis suce preces
+<lb ed="#P" n="58"/>supplicationesque ad eum qui possit illum 
+sal<lb break="no" ed="#P" n="59"/>vum facere a morte. cum clamore valido, et 
+la<lb break="no" ed="#P" n="60"/>crymis offerens, eaauditus est pro sua 
+reve<lb break="no" ed="#P" n="61"/>rentia. Qua omnia, sicut proprie dictum 
+ge<lb break="no" ed="#P" n="62"/>nus orationis significant, ita proprie 
+intelli<lb break="no" ed="#P" n="63"/>genda sunt, sicut ab universa Ecclesia, et
+<lb ed="#P" n="64"/>omnibus Patribus et Theologis intelliguntur,
+<lb ed="#P" n="65"/>et ipsa Scripturae sinceritas et historiae 
+veri<lb break="no" ed="#P" n="66"/>tas postulant. Quomodo autem Christus ut
+<lb ed="#P" n="67"/>homo capax fuerit hujus orationis, satis 
+ex<lb break="no" ed="#P" n="68"/>plicando articulos D. Thom. declaratum est.
+<lb ed="#P" n="69"/>Cur autem decens fuerit ipsum orare, satis ex
+<lb ed="#P" n="70"/>honestate ipsiusmet actus orationis perspici
+<lb ed="#P" n="71"/>potest ; continet enim decentissimum Dei 
+cul<lb break="no" ed="#P" n="72"/>tum, et ideo per se conveniens fuit, ut 
+Chri<lb break="no" ed="#P" n="73"/>stus ut homo illum Patri exhiberet et mente
+<lb ed="#P" n="74"/>et corpore. Deinde fuit hoc expediens, ut
+<lb ed="#P" n="75"/>Christus omnibus modis operaretur nostram
+<lb ed="#P" n="76"/>salutem, merendo, satisfaciendo, et 
+impe<lb break="no" ed="#P" n="77"/>trando. Et ut nobis daret exemplum eisdem
+<lb ed="#P" n="78"/>modis illam per orationem procurandi, ut
+<lb ed="#P" n="79"/>late tractat Hilarius, lib. 40 de Trinit., a 
+me<lb break="no" ed="#P" n="80"/>dio; et Ambros., lib. 5 in Luc., cap. de 
+Ora<lb break="no" ed="#P" n="81"/>tione Jesu in monte; et Damascen., lib. 3,
+<lb ed="#P" n="82"/>cap. 24; August., epist. 121, cap. 14, ubi 
+di<lb break="no" ed="#P" n="83"/>cit voluisse Christum interdum ita orare, ut
+<lb ed="#P" n="84"/>non exaudiretur, ut nobis esset exemplum
+<lb ed="#P" n="85"/>patientiae, quando non fit quod petimus.
+</p>
+                  <p xml:id="szstco-l01234-d1e943">
+                     <lb ed="#P" n="86"/>2. Dulwm. — Solum illud potest hic 
+bre<lb break="no" ed="#P" n="87"/>viter dubitari, an revera Christus in oratione
+<lb ed="#P" n="88"/>aliquid petierit, quia illud medium erat sibi
+<lb ed="#P" n="89"/>necessariumut id fieret, vel solumpropter 
+cx<lb break="no" ed="#P" n="90"/>ercitium virtutis, etesemplum nostrum. Et 
+ra<lb break="no" ed="#P" n="91"/>tio dubitandi sumi potest ex facto Christi, Joan.
+<lb ed="#P" n="92"/>11, ubi, cum Martha illi dixisset: iScio quia
+<lb ed="#P" n="93"/>quecunque poposceris a Deo, dabit tibài Deus,
+<lb ed="#P" n="94"/>respondit ipse Dominus : Aesurget frater tuus;
+<lb ed="#P" n="95"/>quasi diceret, sua potestate se id facturum,
+<lb ed="#P" n="96"/>et non indigere oratione seu petitione, cum
+<lb ed="#P" n="97"/>ipse sit Deus. Ubi Chrys., homil. 61, notat ,
+<lb ed="#P" n="98"/>Martham non altius sensisse de Christo
+<lb ed="#P" n="99"/>quam de puro homine, cum ipsum non nisi
+<lb ed="#P" n="100"/>media petitione et oratione posse resuscitare
+<lb ed="#P" n="101"/>mortuum existimaret, unde Christus inferius,
+<lb ed="#P" n="102"/>cum gratias Patri egisset, subdit: Ego 
+aa<lb break="no" ed="#P" n="103"/>tem scielam quia semper me audis ; sed 
+pro<lb break="no" ed="#P" n="104"/>pter populum, qui circumstat, dizi, ut credant
+<lb ed="#P" n="105"/>quia tu me misisti; ubi indicat solum propter
+<lb ed="#P" n="106"/>exemplum gratias egisse Patri, eo quod 
+ip<lb break="no" ed="#P" n="107"/>sum exaudisset. Unde Chrysost. ibi, homil.
+<lb ed="#P" n="108"/>63; ct Euthym. ibi; et Ambros., lib. 4 de Fide,
+<pb ed="#P" n="437"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>c. 3, ita exponunt illa verba, quae Christus
+<lb ed="#P" n="2"/>subjunxit : Ego autem sciebam quia semper me
+<lb ed="#P" n="3"/>audis, ut llla ad divinitatem Christi referant.
+<lb ed="#P" n="4"/>Unde ita exponunt, Gratias tibi ago, non
+<lb ed="#P" n="5"/>quia indigeam precibus coram te, scio enim
+<lb ed="#P" n="6"/>unam voluntatem me tecum habere, ideoque
+<lb ed="#P" n="7"/>semper velle quod ego volo, sed propter 
+po<lb break="no" ed="#P" n="8"/>pulum, qui circumstat, etc. Et Theophyl. 
+ad<lb break="no" ed="#P" n="9"/>vertit, Christum, antequam orasset, vel 
+ali<lb break="no" ed="#P" n="10"/>quid petiisset, dixisse : Gratias tibi ago, quia
+<lb ed="#P" n="11"/>audisti me ; quia enim non opus habebat 
+ora<lb break="no" ed="#P" n="12"/>tione, non fuit oratio exaudita, sed voluntas
+<lb ed="#P" n="13"/>impleta, et hoc fuit Christo exaudiri juxta
+<lb ed="#P" n="14"/>phrasim Scriptura, secundum illud Psalm.
+<lb ed="#P" n="15"/>9 : Desiderium pauperum ezaucivit Dominus ;
+<lb ed="#P" n="16"/>et Job. 31: Desiderium meum audiat 
+Omnipo<lb break="no" ed="#P" n="17"/>tens. Et confirmatur ex Damasc., lib. 4 de
+<lb ed="#P" n="18"/>Fide, cap. 19, circa medium, ubi inquit 
+quae<lb break="no" ed="#P" n="19"/>dam dici de Christo homine simulationis
+<lb ed="#P" n="20"/>modo, ut cum precatur, inquit; et subdit:
+<lb ed="#P" n="21"/>His enim et similibus, neque ut Deus, neque ut
+<lb ed="#P" n="22"/>homo opus habebat ; cerum ratione humanitati
+<lb ed="#P" n="23"/>congruente ad id se conformabat, quod usus 
+at<lb break="no" ed="#P" n="24"/>que utilitas poscebat; verbi gratia, ob cam 
+cau<lb break="no" ed="#P" n="25"/>sam precabDatur, ut se impium quemdam, 
+Dei<lb break="no" ed="#P" n="26"/>que adcersarium aminie esse demonstraret, 
+at<lb break="no" ed="#P" n="27"/>que ut Patrem, a quo origirem ducchat, bonore
+<lb ed="#P" n="28"/>afficeret.
+</p>
+                  <p xml:id="szstco-l01234-d1e1061">
+                     <lb ed="#P" n="29"/>3. Oratio guomodo Christo necessaria fuerit.
+<lb ed="#P" n="30"/>— Dicendum tamen est (sicut in articulo 
+pri<lb break="no" ed="#P" n="31"/>mo circa solutionem ad primum adnotavimus)
+<lb ed="#P" n="32"/>primum, Christum vere ac propric orasse 
+pos<lb break="no" ed="#P" n="33"/>tulando, et suppliciter petendo aliquid a 
+Pa<lb break="no" ed="#P" n="34"/>tre, ut ex Evangelio constat. Ex quo fit 
+con<lb break="no" ed="#P" n="35"/>sequens, saepe ex divina providentia et 
+ordi<lb break="no" ed="#P" n="36"/>natione ita fuisse res dispositas et 
+praedefini<lb break="no" ed="#P" n="37"/>tas, ut multa fuerint a Christo homine per
+<lb ed="#P" n="38"/>orationem impetranda, quae sine illius 
+ora<lb break="no" ed="#P" n="39"/>tione non fierent ; sicut enim non redemisset
+<lb ed="#P" n="40"/>homines, nisi pro illis pateretur, quia ita 
+fue<lb break="no" ed="#P" n="41"/>rat a Deo praescriptum :et praeordinatum, ita
+<lb ed="#P" n="42"/>neque sine oratione obtinuisset quae non nisi
+<lb ed="#P" n="43"/>per orationem obtinenda erant, juxta 
+divi<lb break="no" ed="#P" n="44"/>nam preeordinationcm. Unde, sicut 
+neces<lb break="no" ed="#P" n="45"/>sarium fuit illi pati, ut ita intraret in 
+glo<lb break="no" ed="#P" n="46"/>riam suam, et nos secum in illam 
+introdu<lb break="no" ed="#P" n="47"/>ceret, ita necessarium fuit illi orare ad 
+im<lb break="no" ed="#P" n="48"/>petrandum multa quae per orationem 
+ob<lb break="no" ed="#P" n="49"/>tinuit, juxta illud Psalm. 2: Peostula a me,
+<lb ed="#P" n="50"/>et dabo tibi gentes haereditatem tuam; at vero
+<lb ed="#P" n="51"/>sicut necessitas passionis ad redemptionem
+<lb ed="#P" n="52"/>nostram non fuit ex defectu personae, aut quia
+<lb ed="#P" n="53"/>Christus non esset sufficiens infinitis aliis 
+mo<lb break="no" ed="#P" n="54"/>dis vel operibus illam perficere, sed quia
+<lb ed="#P" n="55"/>propter congruentes rationes Dcus illam or-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>dinavit ut necessarium medium ad illum 
+fi<lb break="no" ed="#P" n="57"/>nem , ita haec necessitas orationis non fuit ex
+<lb ed="#P" n="58"/>indigentia ipsius personae, aut quia per se
+<lb ed="#P" n="59"/>non sufficeret ad efficiendum per 
+humanita<lb break="no" ed="#P" n="60"/>tem , absque petitione, quidquid petendo 
+ob<lb break="no" ed="#P" n="61"/>tinuit vel effecit, sed quia propter rationes
+<lb ed="#P" n="62"/>congruentes, et ad divinum honorem, 
+nos<lb break="no" ed="#P" n="63"/>tramque utilitatem pertinentes, ita a Deo fuit
+<lb ed="#P" n="64"/>ordinatum et dispositum. Itaque uno verbo
+<lb ed="#P" n="65"/>dici potest, Christum simpliciter non 
+indi<lb break="no" ed="#P" n="66"/>guisse oratione, quia propter dignitatem 
+per<lb break="no" ed="#P" n="67"/>sona potuisset, quidquid vellet sine oratione
+<lb ed="#P" n="68"/>perficere, et de facto habuit etiam in 
+huma<lb break="no" ed="#P" n="69"/>nitate sua potestatem faciendi miracula, 
+im<lb break="no" ed="#P" n="70"/>perando et volendosine necessitate orationis.
+<lb ed="#P" n="71"/>Nihilominus tamen in sensu composito, id est,
+<lb ed="#P" n="72"/>supposita divina ordinatione, multa non 
+po<lb break="no" ed="#P" n="73"/>tuit in quantum homo sine oratione perficere,
+<lb ed="#P" n="74"/>ut D. Thom. docuit, quod non negant citati
+<lb ed="#P" n="75"/>Patres ; sed priorem hujus doctrinae partem
+<lb ed="#P" n="76"/>docere voluerunt; et hic est sensus 
+Chry<lb break="no" ed="#P" n="77"/>sost., Ambros., Theophyl. et Euthy. Qui 
+fa<lb break="no" ed="#P" n="78"/>cile etiam potest ad locum Joannis 
+accommo<lb break="no" ed="#P" n="79"/>dari; quanquam quod Christus dixit: Zgo 
+au<lb break="no" ed="#P" n="80"/>tem scieban quoniam semper me audis, satis
+<lb ed="#P" n="81"/>commode, et fortasse magis ad litteram, de
+<lb ed="#P" n="82"/>Christo ut homine intelligi potest, cujus 
+ora<lb break="no" ed="#P" n="83"/>tio absoluta et efficax semper exaudita est, ut
+<lb ed="#P" n="84"/>ibi D. Thom. recte exponit. Quod vero 
+sequi<lb break="no" ed="#P" n="85"/>tur, sed propter populum , qui circumstat ,
+<lb ed="#P" n="86"/>dizi, etc., optime intelligi potest (sicut D.
+<lb ed="#P" n="87"/>Thomas, in art. 3, exposuit quoddam dictum
+<lb ed="#P" n="88"/>Hilar.) de gratiarum actione externa, et 
+pu<lb break="no" ed="#P" n="89"/>blica voce facta; hujusmodi enim oratio et
+<lb ed="#P" n="90"/>gratiarum actio propter nostram praecipue
+<lb ed="#P" n="91"/>aedificationem et exemplum facta est.
+</p>
+                  <p xml:id="szstco-l01234-d1e1202">
+                     <lb ed="#P" n="92"/>4. Ad Damasc. respondetur, non negare
+<lb ed="#P" n="93"/>veritatem orationis Christi, sed necessitatem
+<lb ed="#P" n="94"/>simpliciter, sicut alios Paires. Unde non 
+ab<lb break="no" ed="#P" n="95"/>solute dicit, Christum simulasse, sed habuisse
+<lb ed="#P" n="96"/>se ad modum simulantis, quia orando 
+occul<lb break="no" ed="#P" n="97"/>tabat potentiam suam, sicut cum 
+interroga<lb break="no" ed="#P" n="98"/>bat, occultabat suam scientiam, et cum 
+ad<lb break="no" ed="#P" n="99"/>mirabatur similiter; tamen sicut vere 
+admi<lb break="no" ed="#P" n="100"/>rabatur et vere interrogabat, ita etiam vere
+<lb ed="#P" n="101"/>orabat. et orando impetrabat.
+</p>
+               </div>
+               <div xml:id="szstco-l01234-Dd1e1228"><!-- szstco-p3q21-d45s2 -->
+                  <head xml:id="szstco-l01234-Hd1e1231">Sectio 2</head>
+                  <head xml:id="szstco-l01234-Hd1e1233" type="question-title">
+utrum christus dominus, nunc in calo existens,
+vere ac proprie pro nobis oret
+</head>
+                  <p xml:id="szstco-l01234-d1e1236">
+                     <lb ed="#P" n="102" type="fixed=437"/>SECTIO II.
+<lb ed="#P" n="103"/>Utrum Christus Dominus, nunc in calo existens,
+<lb ed="#P" n="104"/>vere ac proprie pro nobis oret.
+</p>
+                  <p xml:id="szstco-l01234-d1e1245">
+                     <lb ed="#P" n="105"/>1. Duobus modis (ut est doctrina D. 
+Tho<lb break="no" ed="#P" n="106"/>mae, in 4, dist. 45, q. 3, art. 3, et super cap.
+<lb ed="#P" n="107"/>7 ad Hebr.) intelligi potest Christum 
+Domi<lb break="no" ed="#P" n="108"/>num in eaelo existentem pro nobis orare: pri-
+<pb ed="#P" n="438"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>mo, orationc expressa petendo nobis divinae
+<lb ed="#P" n="2"/>pietatis subsidium. Secundo, oratione tantum
+<lb ed="#P" n="3"/>interpretativa, per sua merita, quae divino
+<lb ed="#P" n="4"/>conspectui praesentia sunt, et exhibendo etiam
+<lb ed="#P" n="5"/>se ipsum praesentem, et cicatrices vulnerum,
+<lb ed="#P" n="6"/>quae pro nobis sustinuit, re ipsa ostendendo.
+</p>
+                  <p xml:id="szstco-l01234-d1e1274">
+                     <lb ed="#P" n="7"/>2. Quomodo Christus pro nobis oret in caeo.
+<lb ed="#P" n="8"/>—Quod ergo Christus Dominus altero ex his
+<lb ed="#P" n="9"/>duobus modis, saltem posteriori, pro nobis
+<lb ed="#P" n="10"/>interpellet et oret, indubitatum est inter 
+Ca<lb break="no" ed="#P" n="11"/>tholicos; sic enim dicit Paul., ad Hebr. 9,
+<lb ed="#P" n="12"/>Christum Jesum introiisse in ipsum calune, ut
+<lb ed="#P" n="13"/>appareat nunc vultui Dei pro nobis ; et cap.
+<lb ed="#P" n="14"/>12, dicit Christi sanguinem melius loqui et
+<lb ed="#P" n="15"/>clamare ad Deum, quam Abel; et iu eo 
+sal<lb break="no" ed="#P" n="16"/>tem sensu verum est quod Joan. ait, 1 
+Ca<lb break="no" ed="#P" n="17"/>non., c. 29: Advocatum habemus ad Patrem ;
+<lb ed="#P" n="18"/>nam, licet vox. Paracletus, interdum non 
+in<lb break="no" ed="#P" n="19"/>tercessorem, sed consolatorem significet, ut
+<lb ed="#P" n="20"/>Joan. 14: Alium Paracletun dabit volis, id
+<lb ed="#P" n="21"/>est, consolatorem, exhortatorem, aut 
+docto<lb break="no" ed="#P" n="22"/>rem, haec enim omnia illa voce signiticari
+<lb ed="#P" n="23"/>possunt, et conveniunt in personam Spiritus
+<lb ed="#P" n="24"/>Sancti, et possunt etiam in Christum 
+conve<lb break="no" ed="#P" n="25"/>nire, ut recte docent Cyril., lib. 9 in joan.,
+<lb ed="#P" n="26"/>c. 44. August., lib. Contra sermonem 
+Aria<lb break="no" ed="#P" n="27"/>nor., c. 19 et 20, nihilominus tamen in illo
+<lb ed="#P" n="28"/>loco Joan. 2, obsecratorem vel intercessorem
+<lb ed="#P" n="29"/>significat; haec enim est maxime propria 
+si<lb break="no" ed="#P" n="30"/>gnificatio illius vocis, et sola illa Joannis 
+in<lb break="no" ed="#P" n="31"/>tentioni quadrat; excitat enim et animat 
+pec<lb break="no" ed="#P" n="32"/>catores, quoniam advocatum habent apud 
+Pa<lb break="no" ed="#P" n="33"/>trem, Jesum Christum justum. Et licet possit
+<lb ed="#P" n="34"/>per metaphoram accommodari Christo, ut
+<lb ed="#P" n="35"/>Deus est, eo modo quo, ad Rom. 8, dicitur
+<lb ed="#P" n="36"/>Spiritus Sanctus orare pro nobis, quia facit
+<lb ed="#P" n="37"/>nos orare, ut indicat Nazian., orat. 36, n. 55,
+<lb ed="#P" n="38"/>tamen litteralis sensus est de Christo homine,
+<lb ed="#P" n="39"/>ut constat ex proprietate vocum, et ex 
+sub<lb break="no" ed="#P" n="40"/>junctis verbis : Zt ipse est propitiatio pro 
+pec<lb break="no" ed="#P" n="41"/>catis nostris, ut August. ibi exponit, tract. 1;
+<lb ed="#P" n="42"/>et D. Thom., super Joan. 14; et Cyril., lib.
+<lb ed="#P" n="43"/>11 in Joan., c. 9 et 19; et Concilium 
+Franco<lb break="no" ed="#P" n="44"/>ford., colum. 6, dicens: Advocatus est, qui
+<lb ed="#P" n="45"/>gro me judicem interpellet, qui causam 
+meces<lb break="no" ed="#P" n="46"/>sitatis mee propria tuitione defendat. Unde
+<lb ed="#P" n="47"/>ad Rom. S$ dicitur, interpellare pro nolis ; et
+<lb ed="#P" n="48"/>ad Hebr. 7: Semper vivens ad interpellandum
+<lb ed="#P" n="49"/>pro nolis. '
+</p>
+                  <p xml:id="szstco-l01234-d1e1371">
+                     <lb ed="#P" n="50"/>3. Difficultas vero superest, an non solum
+<lb ed="#P" n="51"/>interpretative, sed etiam expresse petendo et
+<lb ed="#P" n="52"/>rogaudo, pro nobis in coelo oret. Multi enim
+<lb ed="#P" n="53"/>contendunt minime convenire hoc genus 
+ora<lb break="no" ed="#P" n="54"/>tionis in Christum ad dexteram Patris 
+seden<lb break="no" ed="#P" n="55"/>tem. Quam sententiam constantissime defen-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>dit Rupert., lib. 9 de Divin. offticiis, c. 3; et
+<lb ed="#P" n="57"/>in eam videntur inclipare Chrys., hom. 15 in
+<lb ed="#P" n="58"/>ad Romanos, et 13 in ad Hebr., quem 
+Theo<lb break="no" ed="#P" n="59"/>phyl. imitatur, ad Heb. 7, et ad Rom. 8, qui
+<lb ed="#P" n="60"/>dicunt, ipsam praesentiam Christi apud 
+Pa<lb break="no" ed="#P" n="61"/>trem, et amorem ferventem quo nos 
+prose<lb break="no" ed="#P" n="62"/>quitur, et quem Pater optime cognoscit, esse
+<lb ed="#P" n="63"/>magnam interpellationem pro nobis, et hoc
+<lb ed="#P" n="64"/>modc Christum esse advocatum nostrum, non
+<lb ed="#P" n="65"/>quia denuo petat vel oret, sed quia praesentia
+<lb ed="#P" n="66"/>sua piacat judicem, et causam nostram 
+ad<lb break="no" ed="#P" n="67"/>juvat. Neque videtur multum ab hac 
+senten<lb break="no" ed="#P" n="68"/>tia distare Nazian., dicta orat. 36, n. 53et 54,
+<lb ed="#P" n="69"/>dicens : Unus mediator Dei et hominum, homo
+<lb ed="#P" n="70"/>Jesus Christus, intercedit enim nunc quoque ut
+<lb ed="#P" n="71"/>homo pro mea salute, quoniam cum co corpore
+<lb ed="#P" n="72"/>est, quod assuwnpsit ; et infra : Advocatum 
+ha<lb break="no" ed="#P" n="73"/>bemus Jesum, non se nostra causa ad Patris
+<lb ed="#P" n="74"/>pedes advolventem, servilique modo objicientem,
+<lb ed="#P" n="75"/>procul sit ista servilis sane suspicio, 
+spiritu<lb break="no" ed="#P" n="76"/>que indigna, negue enim Patris est hoc 
+empos<lb break="no" ed="#P" n="77"/>cere, aut l'il pati, nec de Deo hoc cogitare,
+<lb ed="#P" n="78"/>pium atque equum est. Et Beda, 1 Joan. 2:
+<lb ed="#P" n="79"/>Unigenito F'ilio, inquit, pro homine interpellare
+<lb ed="#P" n="80"/>est, apud cocternum Patrem se ipsum 
+demon<lb break="no" ed="#P" n="81"/>strare, eique pro humana natura rogasse, est
+<lb ed="#P" n="82"/>eamdem naturam in divinttatis sue celsitudine
+<lb ed="#P" n="83"/>suscepisse. Interpellat ergo pro nobis 
+Domi<lb break="no" ed="#P" n="84"/>nus, non voce, sed miseratione, quia quod 
+dam<lb break="no" ed="#P" n="85"/>narc in electis noluit, suscipiendo servavit ; et
+<lb ed="#P" n="86"/>D. Thomas infra, q. 57, art. 6, hanc 
+inter<lb break="no" ed="#P" n="87"/>peilationem explicans, dicit: /psa 
+repraescn<lb break="no" ed="#P" n="88"/>tralio sui, ev natura lnnmana, quam in celum
+<lb ed="#P" n="89"/>intul:t, est quedam interpellatio pro nobis ; et
+<lb ed="#P" n="90"/>m primam Canonicam Joannis, c. 2, iuquit,
+<lb ed="#P" n="91"/>Christum, in celo placare iram Patris, 
+repre<lb break="no" ed="#P" n="92"/>sentando Patri naturam lumanam 
+cicatrici<lb break="no" ed="#P" n="93"/>Dus signatam, et ita sua merita allegantem,
+<lb ed="#P" n="94"/>non nostra; et infra inquit, triplicem esse 
+in<lb break="no" ed="#P" n="95"/>tercessionem Christi pro nobis: primo, ante
+<lb ed="#P" n="96"/>passionem devota oratione; secundo, in cruce,
+<lb ed="#P" n="97"/>sanguinis effusione; tertio, post ascensionem,
+<lb ed="#P" n="98"/>cicatricum repraseniatione; eti paulo post 
+re<lb break="no" ed="#P" n="99"/>fert verba Bernardi, quae statim afferemus.
+<lb ed="#P" n="100"/>Denique Concil. Francoford. supra ita 
+expo<lb break="no" ed="#P" n="101"/>nit hanc interpellationem, dicens: Quia 
+car<lb break="no" ed="#P" n="102"/>nem, quam pro nobis assumpsit, Patri semper
+<lb ed="#P" n="103"/>manifestat, ad cujus devteram sedet, etc. Hanc
+<lb ed="#P" n="104"/>sententiam fundat Rupert. in verbis illis Joan.
+<lb ed="#P" n="105"/>16, ubi, loquens Christus de statu gloriae suae,
+<lb ed="#P" n="106"/>inquit : 77 illo die in nomine aneo petetis, et
+<lb ed="#P" n="107"/>n0n. dico volis quia ego rogabo Patrem de 
+co<lb break="no" ed="#P" n="108"/>Lis, etc. Et confirmatur, quia si Christus nunc
+<lb ed="#P" n="109"/>orat pro nobis, ergo possumus illum rogare
+<lb ed="#P" n="110"/>ut pro nobis oret; consequens autem adeo
+<pb ed="#P" n="439"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>absurdum existimat Rupert., ut non censeat
+<lb ed="#P" n="2"/>esse Catholicum qui hoc modo orat, quia 
+vi<lb break="no" ed="#P" n="3"/>detur male de Christi divinitate et majestate
+<lb ed="#P" n="4"/>sentire, et quia contra consuctudinem totius
+<lb ed="#P" n="5"/>Ecclesiae orat, et quia ipse Christus, Joan. 16,
+<lb ed="#P" n="6"/>docuit nos orare Patrem per se ipsum, 
+di<lb break="no" ed="#P" n="7"/>cens : Si quid petieritis Patrem in nomine
+<lb ed="#P" n="8"/>ineo, dalit vobis; et Joan. 14, codem moedo
+<lb ed="#P" n="9"/>docuit orare ad se ipsum, dicens: /$i quid 
+pe<lb break="no" ed="#P" n="10"/>tieritis me in nomine anco, hoc facium ; 
+nun<lb break="no" ed="#P" n="11"/>quam tamen docuit orare ipsum, ut pro 
+no<lb break="no" ed="#P" n="12"/>bis oret : quin potius, dicendo : Hoc fuciam,
+<lb ed="#P" n="13"/>ostendit se jam non indigere oratione, sed
+<lb ed="#P" n="14"/>usu potestatis suae. Et hinc potest formari 
+ra<lb break="no" ed="#P" n="15"/>tio, quia jam Christo data est omnis potestas
+<lb ed="#P" n="16"/>in caelo et in terra, et plenus illius potestatis
+<lb ed="#P" n="17"/>usus; ergo jam non mdiget oratione ad 
+im<lb break="no" ed="#P" n="18"/>petrandum. Nec vero ad merendum, vel 
+sa<lb break="no" ed="#P" n="19"/>tisfaciendum, quia (ut supra vidimus) jam
+<lb ed="#P" n="20"/>consummavit sua merita et satisfactiones ;
+<lb ed="#P" n="21"/>non est ergo quod pro nobis oret.
+</p>
+                  <p xml:id="szstco-l01234-d1e1558">
+                     <lb ed="#P" n="22"/>4. Christus in celo expresse pro hominibus
+<lb ed="#P" n="23"/>orat. — Nihilominus et Scripturis et pietati
+<lb ed="#P" n="24"/>maeis consentaneum videtur, sentire 
+Chri<lb break="no" ed="#P" n="25"/>stum, non solum tacita scu interpretativa 
+in<lb break="no" ed="#P" n="26"/>sinuatione, sed aperta et expressa voluntatis
+<lb ed="#P" n="27"/>suae repraesentatione ac manifestatione pro
+<lb ed="#P" n="28"/>nobis in cceelo orare. Haec est sententia D.
+<lb ed="#P" n="29"/>Thom., in A4, d. 15,q. 4, art. 6, q. 2, adt,
+<lb ed="#P" n="30"/>et super ad Rom. 8, lect. 7, ubi duplicem
+<lb ed="#P" n="31"/>interpellationem Christi distinguit, aliam per
+<lb ed="#P" n="32"/>orationem, aliam per repraesentationem suae
+<lb ed="#P" n="33"/>humanitatis ; et expressius, lect. 4, super ad
+<lb ed="#P" n="34"/>Hebr. 1: Interpellat, inquit, pro nobis, primo
+<lb ed="#P" n="35"/>humanitatem suam, quam pro nobis assumpsit,
+<lb ed="#P" n="36"/>reprasentando; item sanctissime animae sue
+<lb ed="#P" n="37"/>desiderium, quod de salute nostra habuit, 
+eepri<lb break="no" ed="#P" n="38"/>mendo. Et 1 Joan. 2, dicit Christum in coelo
+<lb ed="#P" n="39"/>existentem placare Patrem, repraesentando
+<lb ed="#P" n="40"/>naturam suam, cicatricibus signatam, et 
+al<lb break="no" ed="#P" n="41"/>legando sua merita, et intercedendo ex officio
+<lb ed="#P" n="42"/>suc. Eamdem sententiam tenet Bonavent. ,
+<lb ed="#P" n="43"/>tomo 1 Opusc., opuscul. 39 de Vita Christi,
+<lb ed="#P" n="44"/>c. 98, de Ascensione; Abulens., q. 142 in
+<lb ed="#P" n="45"/>Matth., c. 14; et Cardinalis Toletus, super c.
+<lb ed="#P" n="46"/>16 Joan., annot. 35, non solum hanc 
+senten<lb break="no" ed="#P" n="47"/>tiam sequitur, sed contrariam dicit esse 
+im<lb break="no" ed="#P" n="48"/>probabilem. Et probatur primo ex omnibus
+<lb ed="#P" n="49"/>Scripturarum testimoniis supra citatis, quae
+<lb ed="#P" n="50"/>hoc sensu proprius exponuntur et 
+intelligun<lb break="no" ed="#P" n="51"/>tur. Deinde Joann. 14, dicit ipse Christus :
+<lb ed="#P" n="52"/>Lgo rogabo Patrem, et alum Paracletum 
+da<lb break="no" ed="#P" n="53"/>bDit vobis; nam, licet Rupert. contendat, 
+Chii<lb break="no" ed="#P" n="54"/>stum loqui de statu viae, tamen, si planus
+<lb ed="#P" n="55"/>contextus consideretur, revera loquitur de
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>statu post suam resurrectionem et 
+ascensio<lb break="no" ed="#P" n="57"/>nem ; consolatur enim discipulos, et 
+adhorta<lb break="no" ed="#P" n="58"/>tur ut bono animo ferant discessum suum,
+<lb ed="#P" n="59"/>quia apud Patrem existens rogaturus erat 
+Pa<lb break="no" ed="#P" n="60"/>trem, ut alium Paracletum ad eos mitteret ; et
+<lb ed="#P" n="61"/>ex illismet verbis Christi, Joan. 16: n illa
+<lb ed="#P" n="62"/>die non dico cobis quod rogabo Patre:, idem
+<lb ed="#P" n="63"/>colligi potest, quia, ut indicavit Cyril., lib.
+<lb ed="#P" n="64"/>11 in Joan., c. 9, ita exponi potest : 7n illo
+<lb ed="#P" n="65"/>die, non solum ecaudiemini in nomine meo 
+pe<lb break="no" ed="#P" n="66"/>tentes, quia ego rogabo Patrem, sed etiam quia
+<lb ed="#P" n="67"/>ipse Pater amat vos. Vel, ut exposuit Hilarius,
+<lb ed="#P" n="68"/>lib. 6 de Trinit., quia Christus non dixit se
+<lb ed="#P" n="69"/>non rogaturum, sed dixit : Et non dico volis
+<lb ed="#P" n="70"/>quia ego rogabo Patrem, subindicans se 
+qui<lb break="no" ed="#P" n="71"/>dem rogaturum ; tamen, ut intellisant 
+quan<lb break="no" ed="#P" n="72"/>tum a Patre discipuli sui amantur, se nolle
+<lb ed="#P" n="73"/>suam intercessionem commemorare, sed 
+exi<lb break="no" ed="#P" n="74"/>miam Patris erga nos charitatem.
+</p>
+                  <p xml:id="szstco-l01234-d1e1678">
+                     <lb ed="#P" n="75"/>5. Secundo probatur ex Patribus. 
+Cypria<lb break="no" ed="#P" n="76"/>nus, epist. S, alias lib. 4, epist. 4, inter alia:
+<lb ed="#P" n="77"/>Habemgas, inquit, advocatum, et deprecatorem
+<lb ed="#P" n="78"/>Jesum Dominum Deum mostrum. August.,
+<lb ed="#P" n="79"/>praefat. in Psalm. 85 : Oratur, inquit, in forma
+<lb ed="#P" n="80"/>Dei, orat in forma servi. orat pro nobis, orat
+<lb ed="#P" n="81"/>un nobis, et oratur a nobis, ut sacerdos noster
+<lb ed="#P" n="82"/>orat pro nobis, orat in nobis ut caput nostrum,
+<lb ed="#P" n="83"/>orctur a nobDis ut Deus, cramus ad illum,
+<lb ed="#P" n="84"/>per illum, in ilto, et dicimus cum illo, et dicit
+<lb ed="#P" n="85"/>nobiscum. Et in fine ejusdem praefationis 
+di<lb break="no" ed="#P" n="86"/>xit, Christum et alios martyres interpellare
+<lb ed="#P" n="87"/>pro nobis, quam interpellationem dicit esse
+<lb ed="#P" n="88"/>misericordiae opus, et tunc cessaturam, cum
+<lb ed="#P" n="89"/>cessaverit miseria nostra; certum est autem
+<lb ed="#P" n="90"/>ex eodem Augustino, libr. de Cura pro 
+mor<lb break="no" ed="#P" n="91"/>tuis agenda, cap. 16, martyres ct Sanctos
+<lb ed="#P" n="92"/>orare proprie pro nobis. Idem Augustinus,
+<lb ed="#P" n="93"/>praefat. ad enarr. 2 in Psal. 29, expresse 
+di<lb break="no" ed="#P" n="94"/>cit, Christum etiam post resurrectionem per
+<lb ed="#P" n="95"/>humanitatem suam pro nobis orare. Praeterea
+<lb ed="#P" n="96"/>Ambrosius, super ad Rom. 8$, dicit, Christum
+<lb ed="#P" n="97"/>semper agere causas aostras apud Patrem, 
+ca<lb break="no" ed="#P" n="98"/>Jus postulatio contemni non potest, guia in 
+dea<lb break="no" ed="#P" n="99"/>tera Dei est ; et infra dixit ita nune interpel
+<lb ed="#P" n="100"/>lare pro nobis, sicut rogavit pro Petro, ne 
+de<lb break="no" ed="#P" n="101"/>ficeret fides ejus. Et lib. de Isaac et anima,
+<lb ed="#P" n="102"/>c. 6, post medium : 7ps6, inquit, sit vcom 
+nos<lb break="no" ed="#P" n="103"/>tra, per quam loquamur ad Patrem. Bernard.
+<lb ed="#P" n="104"/>etiam, in sermone de Nativit. Virg.: 
+Eaaa<lb break="no" ed="#P" n="105"/>diet, inquit, Matrem Filius, et Filium Pater.
+<lb ed="#P" n="106"/>Praeterea Justinus Mart., q. 105, ad 
+Ortho<lb break="no" ed="#P" n="107"/>doxos : Si. superatis, inquit, 
+resurrectionein<lb break="no" ed="#P" n="108"/>finitatibus carnis , ut Pontifem confessionis
+<lb ed="#P" n="109"/>nostre Dewn pro nobis interpellat, nonne 
+ma<lb break="no" ed="#P" n="110"/>gis. cuan adhuc subjaceret infirmitati carnis,
+<pb ed="#P" n="440"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>etc. In quibus verbis rationem non 
+contem<lb break="no" ed="#P" n="2"/>nendam indicat, nam Christus est aeternus
+<lb ed="#P" n="3"/>Pontifex, et ideo, quoad nos indigemus, 
+sem<lb break="no" ed="#P" n="4"/>per pro nobis munus Pontificis exercet, modo
+<lb ed="#P" n="5"/>statui suo accommodato; pertinet autem ad
+<lb ed="#P" n="6"/>Pontificem pro suis subditis orare, ut ex 
+Pau<lb break="no" ed="#P" n="7"/>lo, ad Hebr. 5, docuit D. Thom., q. seq., art.
+<lb ed="#P" n="8"/>4, ad 1. Multa enim in hanc sententiam 
+cou<lb break="no" ed="#P" n="9"/>gerit Origen., homil. 7 super Levit., qui 
+in<lb break="no" ed="#P" n="10"/>terdum per exaggerationem loquitur. Ultimo
+<lb ed="#P" n="11"/>probatur rationibus. Prima, quia oratio non
+<lb ed="#P" n="12"/>dedecet Christum, eo quod Deus est, nam est
+<lb ed="#P" n="13"/>etiam homo, alias neque in hac vita unquam
+<lb ed="#P" n="14"/>orasset; nec quia beatus est, alias neque alii
+<lb ed="#P" n="15"/>beati orarent, quod nunc omnino falsum esse
+<lb ed="#P" n="16"/>suppono; oratio ergo nullam includit 
+imper<lb break="no" ed="#P" n="17"/>fectionem repugnantem aut divinitati, aut
+<lb ed="#P" n="18"/>beatitudini Christi; ergo non estcur non oret.
+<lb ed="#P" n="19"/>Secundo , nam oratio est cultus religionis
+<lb ed="#P" n="20"/>Deo debitus; Christus autem in coelo Deum
+<lb ed="#P" n="21"/>religione colit, adorat, laudat, et gratias agit;
+<lb ed="#P" n="22"/>cur ergo non etiam postulet ? Tertio, quia in
+<lb ed="#P" n="23"/>omnistatu operatur pro salute hominum 
+quid<lb break="no" ed="#P" n="24"/>quid commode potest ; potest autem in statu
+<lb ed="#P" n="25"/>patriae orare et impetrare, quia haec non 
+re<lb break="no" ed="#P" n="26"/>pugnant cum illo statu. Quarto denique, nos
+<lb ed="#P" n="27"/>habemnts accessum ad Patrem per Christum, ut
+<lb ed="#P" n="28"/>ad Hebr. 4 dicitur, non tantum quia in 
+no<lb break="no" ed="#P" n="29"/>mine ipsius petimus, sed etiam (ut supra 
+in<lb break="no" ed="#P" n="30"/>dicavit Ambros.) quia per ipsum nostras 
+ora<lb break="no" ed="#P" n="31"/>tiones offerimus, et ipse, ut exaudiantur, 
+ob<lb break="no" ed="#P" n="32"/>tinet.
+</p>
+                  <p xml:id="szstco-l01234-d1e1832">
+                     <lb ed="#P" n="33"/>6. Responsio ad argumenta. — Ad 
+funda<lb break="no" ed="#P" n="34"/>menta contrariae sententiae. Primum, ad 
+Pa<lb break="no" ed="#P" n="35"/>tres, Rupert. quidem videtur fuisse illius 
+sen<lb break="no" ed="#P" n="36"/>tentiae, quam non probamus. Vel exponi 
+for<lb break="no" ed="#P" n="37"/>tasse posset distinguendo duplicem 
+oratio<lb break="no" ed="#P" n="38"/>nem, juxta doctrinam supra datam, disp. 39,
+<lb ed="#P" n="39"/>sect. 3 : alteram, qua aliquis denuo impetrat,
+<lb ed="#P" n="40"/>velpetitdenuo merendo id quod petit; alteram,
+<lb ed="#P" n="41"/>qua petit exigendo jus sibi debitum. Christus
+<lb ed="#P" n="42"/>ergo in via oravit priori modo, posteriori 
+au<lb break="no" ed="#P" n="43"/>tem in patria ; fortasse ergo Rupert. solum
+<lb ed="#P" n="44"/>negare voluit priorem modum orandi, 
+quista<lb break="no" ed="#P" n="45"/>tui beatitudinis consentaneus non est. Et ad
+<lb ed="#P" n="46"/>eumdem modum exponi possunt Chrysost.,
+<lb ed="#P" n="47"/>Theophyl., Beda, et alii ibi citati, qui 
+expli<lb break="no" ed="#P" n="48"/>carunt hanc orationem Christi per 
+repraesen<lb break="no" ed="#P" n="49"/>tationem suae carnis et humanitatis, non quia
+<lb ed="#P" n="50"/>intelligenda sit (ut ita dicam) per solam 
+ob<lb break="no" ed="#P" n="51"/>jectivam praesentiam sine ullo actu, nam ile
+<lb ed="#P" n="52"/>modus valde imperfectus est ; sed quia 
+Chri<lb break="no" ed="#P" n="53"/>stus per proprium actum repraesentat Patri
+<lb ed="#P" n="54"/>carnem suam, et cicatrices suorum 
+vulne<lb break="no" ed="#P" n="55"/>rum, et (ut D. Thom. dixit altegat sua merita,
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>ut propter ea hominibus benefaciat. Et 
+fortas<lb break="no" ed="#P" n="57"/>se Nazianz. hoc sensu negavit Christum nunc
+<lb ed="#P" n="58"/>fundere servilem et supplicem orationem ;
+<lb ed="#P" n="59"/>quamvis etiam indicet Christum non ita nunc
+<lb ed="#P" n="60"/>orare, ut habitu, et figura corporis, et quasi
+<lb ed="#P" n="61"/>per externa signa, se supplicem et subjectum
+<lb ed="#P" n="62"/>ostendat. Quod in via faciebat flectendo 
+ge<lb break="no" ed="#P" n="63"/>nua, Luc. 22; procidendo super terram,
+<lb ed="#P" n="64"/>Marc. 14; hic enim modus veluti servilis 
+ora<lb break="no" ed="#P" n="65"/>tionis non est consentaneus statui patriae;
+<lb ed="#P" n="66"/>non est tamen incredibile, ibi non solum
+<lb ed="#P" n="67"/>menie, sed etiam corpore Christum orare,
+<lb ed="#P" n="68"/>quia et voce Deum laudat, et cultum 
+religio<lb break="no" ed="#P" n="69"/>nis illi praebet.
+</p>
+                  <p xml:id="szstco-l01234-d1e1917">
+                     <lb ed="#P" n="70"/>7. Ad primam confirmationem, in qua 
+pe<lb break="no" ed="#P" n="71"/>titur an possimus Christum orare ut pro 
+no<lb break="no" ed="#P" n="72"/>bis oret, D. Thom., in 4, loco supra citato,
+<lb ed="#P" n="73"/>simpliciter docet non esse dicendum : 
+Chri<lb break="no" ed="#P" n="74"/>ste, ora pro nobis; sed: Audi nos, vel Miserere
+<lb ed="#P" n="75"/>nostri, tum ad vitandum errorem Arii et 
+Nes<lb break="no" ed="#P" n="76"/>torii; tum quia oratio simpliciter dirigitur ad
+<lb ed="#P" n="77"/>personam, quae est divinum suppositum, 
+cu<lb break="no" ed="#P" n="78"/>jus non est petere, sed donare; tum praeterea,
+<lb ed="#P" n="79"/>addi potest, quia in orationibus Ecclesiae 
+con<lb break="no" ed="#P" n="80"/>suetudo servanda est; tum etiam quia 
+quan<lb break="no" ed="#P" n="81"/>do aliquam personam alloquimur, et 
+praeser<lb break="no" ed="#P" n="82"/>tim si aliquid ab illa postulamus, iilam 
+allo<lb break="no" ed="#P" n="83"/>quimur modo aut titulo magis honorifico, et
+<lb ed="#P" n="84"/>ideo Christum simpliciter adoramus latria, et
+<lb ed="#P" n="85"/>non hyperdulia ; et hoc absolute verum est,
+<lb ed="#P" n="86"/>praecipue in oratione publica. Si quis autem
+<lb ed="#P" n="87"/>sciat rationes distinguere, et considerare 
+Chri<lb break="no" ed="#P" n="88"/>stum ut hominem in coelo orantem, et pro
+<lb ed="#P" n="89"/>nobis sua merita Patri repraesentantem, non
+<lb ed="#P" n="90"/>erit illicitum, neque indecorum, ab illo 
+pos<lb break="no" ed="#P" n="91"/>tulare ut suae orationis nos participes efficiat,
+<lb ed="#P" n="92"/>et efficacem suorum meritorum 
+applicatio<lb break="no" ed="#P" n="93"/>nem nobis obtineat. Item, ut orationem 
+nos<lb break="no" ed="#P" n="94"/>tram suae conjungat, et Patri offerat, ut 
+Am<lb break="no" ed="#P" n="95"/>brosius et Augustinus clare docuerunt.
+</p>
+                  <p xml:id="szstco-l01234-d1e1976">
+                     <lb ed="#P" n="96"/>8. Ad ultimam confirmationem jam 
+expli<lb break="no" ed="#P" n="97"/>catum est propter quas causas Christus oret ;
+<lb ed="#P" n="98"/>ut enim D. Thomas docet in hac quaestione,
+<lb ed="#P" n="99"/>et supra, q. 14, art. 4, ad 3, licet Christus ut
+<lb ed="#P" n="100"/>homo suo modo omnia possit, tamen 
+depen<lb break="no" ed="#P" n="101"/>denter a Deo, atque adeo servato ordine et
+<lb ed="#P" n="102"/>modo divinae dispositionis ; ille autem est ut,
+<lb ed="#P" n="103"/>petendo, et honorando Deum, et merita sua
+<lb ed="#P" n="104"/>nobis applicet, et virtutem suam exequatur.
+</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

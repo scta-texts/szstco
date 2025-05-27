@@ -1,0 +1,2859 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 22</title>
+            <author ref="#FranciscoSuarez">Francisco Suarez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 22</title>
+               <date when="2025-05-27">May 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-sqqv18">Paris 1860, v. 17</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-05-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="445"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="szstco-l01248"><!-- szstco-p3q22 -->
+            <head xml:id="szstco-l01248-Hd1e97">Quaestio 22</head>
+            <div xml:id="szstco-l01248-Dd1e99"><!-- szstco-p3q22a1 -->
+               <head xml:id="szstco-l01248-Hd1e102">Articulus 1</head>
+               <p xml:id="szstco-l01248-d1e104">
+                  <lb ed="#P" n="12" type="fixed=442"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01248-d1e109">
+                  <lb ed="#P" n="13"/>1. Doctrina D. Thom. in hoc articulo est,
+<lb ed="#P" n="14"/>Christum esse vere et proprie sacerdotem,
+<lb ed="#P" n="15"/>quod ex actibus propriis sacerdotalis muneris,
+<lb ed="#P" n="16"/>quos Christus Dominus perfectissime 
+exer<lb break="no" ed="#P" n="17"/>cuit, satis dilucide probat; unde non indiget
+<lb ed="#P" n="18"/>majori expositione.
+</p>
+               <p xml:id="szstco-l01248-d1e125">
+                  <lb ed="#P" n="19"/>2. Solum notandae sunt solutiones ad 2 et
+<lb ed="#P" n="20"/>3, nam in priori significat, Christum non 
+du<lb break="no" ed="#P" n="21"/>xisse originem ex stirpe sacerdotum 
+lega<lb break="no" ed="#P" n="22"/>lium, quod infra suo loco examinandum est.
+<lb ed="#P" n="23"/>Nunc intelligatur de origine per lineam 
+mas<lb break="no" ed="#P" n="24"/>culinam seu paternam beatae Virginis; nam
+<lb ed="#P" n="25"/>secundum aliquam lineam maternam 
+Virgi<lb break="no" ed="#P" n="26"/>nis, ortus aliquo modo fuit ex Levitica tribu.
+<lb ed="#P" n="27"/>In solutione vero ad 3, recte docet D. Thom.
+<lb ed="#P" n="28"/>Christum non tantum esse sacerdotem, sed
+<lb ed="#P" n="29"/>etiam regem et legislatorem. Quod infra 
+pro<lb break="no" ed="#P" n="30"/>pria disputatione explicandum erit.
+</p>
+            </div>
+            <div xml:id="szstco-l01248-Dd1e155"><!-- szstco-p3q22a2 -->
+               <head xml:id="szstco-l01248-Hd1e158">Articulus 2</head>
+               <p xml:id="szstco-l01248-d1e160">
+                  <lb ed="#P" n="25" type="fixed=443"/>Hic articulus meditatione potius indiget
+<lb ed="#P" n="26"/>quam expositione. De re autem ipsa 
+nonni<lb break="no" ed="#P" n="27"/>hil postea dicemus.
+</p>
+            </div>
+            <div xml:id="szstco-l01248-Dd1e170"><!-- szstco-p3q22a3 -->
+               <head xml:id="szstco-l01248-Hd1e173">Articulus 3</head>
+               <p xml:id="szstco-l01248-d1e175">
+                  <lb ed="#P" n="30" type="fixed=444"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01248-d1e180">
+                  <lb ed="#P" n="31"/>1. Recte advertit Cajet. non quaerere D.
+<lb ed="#P" n="32"/>Thom. an expiatio peccatorum sit 
+adaequa<lb break="no" ed="#P" n="33"/>tus seu unicus effectus sacerdotii Christi,
+<lb ed="#P" n="34"/>sed quia hic videtur esse praecipuus effectus,
+<lb ed="#P" n="35"/>ad quem hoc sacerdotium ejusque 
+sacrifi<lb break="no" ed="#P" n="36"/>cium ordinatum est, et ideo de hoc 
+specia<lb break="no" ed="#P" n="37"/>liter quaestionem movet, et definit, 
+sacerdo<lb break="no" ed="#P" n="38"/>tium Christi efficere remissionem 
+peccato<lb break="no" ed="#P" n="39"/>rum perfectam, tam quoad maculam culpae
+<lb ed="#P" n="40"/>quam quoad reatum paenae. Quae doctrina re
+<lb ed="#P" n="41"/>ipsa coincidit cum ea quae supra tractata est
+<lb ed="#P" n="42"/>de merito et satisfactione Christi, et ideo 
+ni<lb break="no" ed="#P" n="43"/>hil illi addendum superest. Quae vero Cajet.
+<lb ed="#P" n="44"/>circa solutionem ad primum notat de physica
+<lb ed="#P" n="45"/>efficientia humanitatis Christi circa 
+creatio<lb break="no" ed="#P" n="46"/>nem, vel infusionem gratiae, non multum ad
+<lb ed="#P" n="47"/>rem pertinent ; nam D. Thom. hic non agit de
+<lb ed="#P" n="48"/>hac efficacia sacrificii Christi, sed de valore,
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="49"/>et sufficientia ejus ad perfecte satisfaciendum,
+<lb ed="#P" n="50"/>et delendum peccatum; et ad hoc 
+proposi<lb break="no" ed="#P" n="51"/>tum dicit in solutione ad primum, quamvis
+<lb ed="#P" n="52"/>Christus non fuerit sacerdos secundum quod
+<lb ed="#P" n="53"/>Deus, sed secundum quod homo, tamen quia
+<lb ed="#P" n="54"/>idem homo, qui est sacerdos, est etiam Deus,
+<lb ed="#P" n="55"/>inde habere sacrificium ejus infinitum 
+valo<lb break="no" ed="#P" n="56"/>rem, et efficaciam ad delendum peccatum,
+<lb ed="#P" n="57"/>quia valor sacrificii ex dignitate personae 
+sum<lb break="no" ed="#P" n="58"/>ptus est, ut late, in q. 1, art. 2, tractatum
+<lb ed="#P" n="59"/>est.
+</p>
+               <p xml:id="szstco-l01248-d1e248">
+                  <lb ed="#P" n="60"/>2. Solutio ad secundum est valde notanda,
+<lb ed="#P" n="61"/>in qua D. Thom. ait sacrificium Eucharistiae
+<lb ed="#P" n="62"/>non esse aliud a sacrificio quod Christus 
+ob<lb break="no" ed="#P" n="63"/>tulit, sed esse ejus commemorationem et 
+sa<lb break="no" ed="#P" n="64"/>cramentum, seu sacrum signum. Non est
+<lb ed="#P" n="65"/>enim sensus, incruentum sacrificium non
+<lb ed="#P" n="66"/>esse verum sacrificium, sed tantum signum
+<lb ed="#P" n="67"/>sacrificii cruenti; ntrumque enim vere est, et
+<lb ed="#P" n="68"/>sacrificium, et memoriale; dicitur autem esse
+<lb ed="#P" n="69"/>unum ct idem cum sacrificio cruento, 
+quan<lb break="no" ed="#P" n="70"/>tum ad rem oblatam, et quantum ad 
+princi<lb break="no" ed="#P" n="71"/>palem offerentem, et quantum ad virtutem et
+<lb ed="#P" n="72"/>valorem ; differunt tamen in modo et 
+prosi<lb break="no" ed="#P" n="73"/>ma actione offerendi et sacrificandi, et in 
+ra<lb break="no" ed="#P" n="74"/>tione repraesentantis et repraesentati, et quia
+<lb ed="#P" n="75"/>per unum applicatur satisfactio, quae per 
+al<lb break="no" ed="#P" n="76"/>terum effecta est. Sed de hac re latius in 
+pro<lb break="no" ed="#P" n="77"/>pria materia.
+</p>
+            </div>
+            <div xml:id="szstco-l01248-Dd1e291"><!-- szstco-p3q22a4 -->
+               <head xml:id="szstco-l01248-Hd1e294">Articulus 4</head>
+               <p xml:id="szstco-l01248-d1e296">
+                  <lb ed="#P" n="87" type="fixed=445"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01248-d1e301">
+                  <lb ed="#P" n="88"/>Hanc quaestionem movet D. Thom. de 
+eo<lb break="no" ed="#P" n="89"/>dem effectu, de quo in praecedenti articulo
+<lb ed="#P" n="90"/>tractaverat, ut patet ex consequentaa, et 
+or<lb break="no" ed="#P" n="91"/>dine articulorum, et ex toto discursu hujus
+<lb ed="#P" n="92"/>articuli. Et in hoc sensu optima et facilis est
+<lb ed="#P" n="93"/>cjus responsio, scilicet sacerdotium Christi
+<lb ed="#P" n="94"/>non ordinari ad ipsum Christum. Et ratio
+<lb ed="#P" n="95"/>fundamentalis est, quia ipse fuit innocens,
+<lb ed="#P" n="96"/>impollutus, et segregatus a peccatoribus; et
+<lb ed="#P" n="97"/>ideo propter se non indiguit sacerdotio 
+ex<lb break="no" ed="#P" n="98"/>piante peccatum, et hoc modo definitur in
+<lb ed="#P" n="99"/>Concil. Ephes., Christum non indiguisse 
+sa<lb break="no" ed="#P" n="100"/>crificio, quia peccatum nescivit. Addit vero
+<lb ed="#P" n="101"/>D. Thom., in solutione ad primum, quatenus
+<lb ed="#P" n="102"/>Christus assumpsit carnem passibilem, simi-
+<pb ed="#P" n="446"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>lem carni peccati, secundum quid 
+partici<lb break="no" ed="#P" n="2"/>passe efrectum sul sacrificii. immortalitatem
+<lb ed="#P" n="3"/>et gloriam sui corporis per illud comparando.
+<lb ed="#P" n="4"/>Et in solutione ad secundum addit, Christo
+<lb ed="#P" n="5"/>non profuisse suum sacrificium ex vi sua,
+<lb ed="#P" n="6"/>seu quatenus per modum satisfactionis 
+obla<lb break="no" ed="#P" n="7"/>ium est; tamen ex devotione offerentis per
+<lb ed="#P" n="8"/>modum meriti profuisse ad gloriam sui 
+cor<lb break="no" ed="#P" n="9"/>poris obtinendam. Quae doctrina coincidit
+<lb ed="#P" n="10"/>cum illa quam supra agentes de merito 
+tra<lb break="no" ed="#P" n="11"/>didimus, ubi ostendimus Christum non esse
+<lb ed="#P" n="12"/>mortuum pro seipso, quamvis moriendo pro
+<lb ed="#P" n="13"/>hominibus, simul gloriam sui corporis 
+me<lb break="no" ed="#P" n="14"/>ruerit. Unde non oportet hoc loco plura 
+ad<lb break="no" ed="#P" n="15"/>dere, sed considerare duntaxat sermone:
+<lb ed="#P" n="16"/>hic esse de satisfactione pro peccatis, et de
+<lb ed="#P" n="17"/>sacrificio propitiatorio, quomodo clarum est
+<lb ed="#P" n="18"/>non pertinuisse ad Christum ; secus vero est
+<lb ed="#P" n="19"/>si loquamur de sacrificio laudis, et 
+satisfac<lb break="no" ed="#P" n="20"/>tione, seu gratiarum actione pro beneficis
+<lb ed="#P" n="21"/>humanae naturae collatis; sic enim eodem 
+sa<lb break="no" ed="#P" n="22"/>crificio, quo Christus pro nostris peccatis 
+sa<lb break="no" ed="#P" n="23"/>tisfacit, gratias egit seu satistecit pro 
+bene<lb break="no" ed="#P" n="24"/>ficiis acceptis, debitumque Deo cultum latriae
+<lb ed="#P" n="25"/>obtulit. De qua re multa etiam tractata sunt
+<lb ed="#P" n="26"/>q. 1, art.2.
+</p>
+            </div>
+            <div xml:id="szstco-l01248-Dd1e399"><!-- szstco-p3q22a5 -->
+               <head xml:id="szstco-l01248-Hd1e402">Articulus 5</head>
+               <p xml:id="szstco-l01248-d1e404">
+                  <lb ed="#P" n="99" type="fixed=446"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01248-d1e409">
+                  <lb ed="#P" n="100"/>1. Haec quaestio movetur a D. Thom. 
+pro<lb break="no" ed="#P" n="101"/>pter versiculum illum Psalm. 109 : Tu es sa-
+<pb ed="#P" n="447"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>cerdos in eteruum. Sensus autem quaestionis
+<lb ed="#P" n="2"/>esse videtur, an actus vel cffectus hujus 
+sa<lb break="no" ed="#P" n="3"/>cerdotii sit aeternus ; dignitas enim, quae in
+<lb ed="#P" n="4"/>Christo esse intelligitur, non est dubium quin
+<lb ed="#P" n="5"/>aeterna sit, sicut et ipse Christus Deus et homo
+<lb ed="#P" n="6"/>in aeternum manebit.
+</p>
+               <p xml:id="szstco-l01248-d1e433">
+                  <lb ed="#P" n="7"/>2. Respondet autem D. Thom. non actum,
+<lb ed="#P" n="8"/>sed effectum hujus sacerdotii fore aeternum ;
+<lb ed="#P" n="9"/>hoc est enim quod ait, esse aeternum quoad
+<lb ed="#P" n="10"/>consummationem, non quoad oblationem.
+<lb ed="#P" n="11"/>Oblatio enim cruenta meritoria et 
+satisfacto<lb break="no" ed="#P" n="12"/>ria in mortc Christi perfecta et absoluta est ;
+<lb ed="#P" n="13"/>oblatio autem incruenta repraesentans 
+cruen<lb break="no" ed="#P" n="14"/>tam. et applicans effectum ejus, usque ad 
+fi<lb break="no" ed="#P" n="15"/>nem mundi durabit, sed ibi finietur, ut 
+Con<lb break="no" ed="#P" n="16"/>cilium Trident. docuit, sess. 22, c. 2; at vero
+<lb ed="#P" n="17"/>etfectus hujus sacrificii, qui est gratia et 
+glo<lb break="no" ed="#P" n="18"/>ria, perpetuo durabit. Addi etiam potest, 
+ora<lb break="no" ed="#P" n="19"/>tionem et impetrationem, quae etiam est actus
+<lb ed="#P" n="20"/>et effectus hujus sacerdotii, duraturam 
+tan<lb break="no" ed="#P" n="21"/>tum esse usque ad finem mundi; tamen 
+ora<lb break="no" ed="#P" n="22"/>tionem per modum gratiarum actionis, 
+ite<lb break="no" ed="#P" n="23"/>ratamque oblationem, per quamdam 
+recor<lb break="no" ed="#P" n="24"/>dationem, et internum affectum in divinum
+<lb ed="#P" n="25"/>cultum, et satisfactionem pro susceptis 
+bene<lb break="no" ed="#P" n="26"/>ficiis perpetuo esse duraturam, quia est actus
+<lb ed="#P" n="27"/>valde perfectus, et non pendet ex temporis
+<lb ed="#P" n="28"/>successione, neque aliquam imperfectionem
+<lb ed="#P" n="29"/>supponit, quae perfectissimo ac perpetuo 
+sta<lb break="no" ed="#P" n="30"/>tui beatitudinis repugnet.
+</p>
+            </div>
+            <div xml:id="szstco-l01248-Dd1e489"><!-- szstco-p3q22a6 -->
+               <head xml:id="szstco-l01248-Hd1e492">Articulus 6</head>
+               <p xml:id="szstco-l01248-d1e494">
+                  <lb ed="#P" n="12" type="fixed=448"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01248-d1e499">
+                  <lb ed="#P" n="13"/>Duo docet D. Thomas, quamvis unum 
+tan<lb break="no" ed="#P" n="14"/>tum interroget. Affirmat enim Christum esse
+<lb ed="#P" n="15"/>sacerdotem secundum ordinem 
+Melchise<lb break="no" ed="#P" n="16"/>dech, et negat fuisse secundum Leviticum 
+or<lb break="no" ed="#P" n="17"/>dinem. Utrumque vero fusius in sequenti
+<lb ed="#P" n="18"/>disputatione tractandum est, ubi simul 
+litte<lb break="no" ed="#P" n="19"/>ram hujus articuli explicabimus.
+</p>
+            </div>
+            <div xml:id="szstco-l01248-Dd1e518"><!-- szstco-p3q22-d46 -->
+               <head xml:id="szstco-l01248-Hd1e521">Disputatio 46</head>
+               <head xml:id="szstco-l01248-Hd1e523" type="question-title">
+De summo Christi sacerdotio et pontificatu
+</head>
+               <p xml:id="szstco-l01248-d1e526">
+                  <lb ed="#P" n="20" type="fixed=448"/>DISPUTATIO XLVI
+<lb ed="#P" n="21"/>In quatuor sectiones distributa.
+<lb ed="#P" n="22"/>DE SUMMO CHRISTI SACERDOTIO ET PONTIFICATU.
+</p>
+               <p xml:id="szstco-l01248-d1e535">
+                  <lb ed="#P" n="23"/>Quamvis Div. Thom. solum de sacerdotali
+<lb ed="#P" n="24"/>Christi dignitate in hac quaestione ex professo
+<lb ed="#P" n="25"/>disputaverit, docuit tamen obiter, illum 
+si<lb break="no" ed="#P" n="26"/>mul et sacerdotem esse, et legislatorem, et
+<lb ed="#P" n="27"/>regem, et ideo de his tribus dignitatibus
+<lb ed="#P" n="28"/>Christi sigillatim disputandum nobis erit;
+<lb ed="#P" n="29"/>quanquam (ut mihi quidem videtur) munus
+<lb ed="#P" n="30"/>legislatoris non omnino ab aliis duobus 
+sepa<lb break="no" ed="#P" n="31"/>retur, si in perfecto gradu et dignitate 
+exis<lb break="no" ed="#P" n="32"/>lant ; ad regem enim pertinet potestas 
+legis<lb break="no" ed="#P" n="33"/>lativa suae dignitati proportionata, et similiter
+<lb ed="#P" n="34"/>ad Summum Pontiticem et sacerdotem, 
+ser<lb break="no" ed="#P" n="35"/>vata etiam proportione ; quamvis enim non
+<lb ed="#P" n="36"/>omnis sacerdos possit ferre leges, supremum
+<lb ed="#P" n="37"/>autem Pontificem, et in eo ordine perfectam
+<lb ed="#P" n="38"/>potestatem habentem, hoce munere fungi
+<lb ed="#P" n="39"/>posse necesse est. Dicemus ergo primo de
+<lb ed="#P" n="40"/>supremo Christi sacerdotio. Secundo, de 
+po<lb break="no" ed="#P" n="41"/>testate excellentie illi ut Summo Pontifici
+<lb ed="#P" n="42"/>communicata. Tertio, de Christi regno et 
+tem<lb break="no" ed="#P" n="43"/>porali dominio. Quoniam vero de ettectu 
+sa<lb break="no" ed="#P" n="44"/>cerdotii Christi, qui idem est cum effectu 
+me<lb break="no" ed="#P" n="45"/>riti et satisfactionis ejus, satis in superioribus
+<lb ed="#P" n="46"/>disputatum est, ideo de hac re nihil amplius
+<lb ed="#P" n="47"/>dicemus, sed solum de vera ejus ratione et
+<lb ed="#P" n="48"/>excellentia,
+</p>
+               <div xml:id="szstco-l01248-Dd1e594"><!-- szstco-p3q22-d46s1 -->
+                  <head xml:id="szstco-l01248-Hd1e597">Sectio 1</head>
+                  <head xml:id="szstco-l01248-Hd1e599" type="question-title">
+an christus vere et proprie fuerit sacerdos
+</head>
+                  <p xml:id="szstco-l01248-d1e602">
+                     <lb ed="#P" n="49" type="fixed=448"/>SECTIO I.
+<lb ed="#P" n="50"/>An Christus vere et proprie fuerit sacerdos.
+</p>
+                  <p xml:id="szstco-l01248-d1e609">
+                     <lb ed="#P" n="51"/>1. Christus vere ac proprie sacerdos. — 
+Sa<lb break="no" ed="#P" n="52"/>crificii ratio in quo consistat. — Verus 
+sacer<lb break="no" ed="#P" n="53"/>dos gualis.— Respondeo, Christum Dominum
+<lb ed="#P" n="54"/>esse vere et proprie sacerdotem. Est de fide,
+<lb ed="#P" n="55"/>quam ex professo probat Paul., in Epist. ad
+<lb ed="#P" n="56"/>Heb., a c. 5, usque ad 10; et definitur in
+<lb ed="#P" n="57"/>Concilio Ephes., can. 10; et in Trident., sess.
+<lb ed="#P" n="58"/>22. can. 1 et 2. Ratione declaratur optimea
+<lb ed="#P" n="59"/>D. Thom., ex illo Pauli, ad Hebr. 5: Omnis
+<lb ed="#P" n="60"/>pontifea ea hominibus assumptus, pro 
+homini<lb break="no" ed="#P" n="61"/>Lus constituitur in iis que sunt ad Deum, ut
+<lb ed="#P" n="62"/>offerat dona et sacrificia pro peccatis. Quae 
+ver<lb break="no" ed="#P" n="63"/>ba propriam definitionem sacerdotis 
+contine<lb break="no" ed="#P" n="64"/>re videntur, et singula perfectissime in 
+Chri<lb break="no" ed="#P" n="65"/>stum conveniunt, ut facile constare potest,
+<lb ed="#P" n="66"/>singula intuendo et applicando. Ut vero haec
+<lb ed="#P" n="67"/>ratio clarius percipiatur, advertendum primo
+<lb ed="#P" n="68"/>est, sacerdotem dicere habitudinem ad 
+sacri<lb break="no" ed="#P" n="69"/>ficium tanquam ad actum maxime proprium
+<lb ed="#P" n="70"/>et quasi adaequatum ; quamvis enim sacerdos
+<lb ed="#P" n="71"/>alias etiam functiones sacras exerceat, omnes
+<lb ed="#P" n="72"/>tamen quodammodo ad sacrificium 
+referun<lb break="no" ed="#P" n="73"/>tur. Unde, licet aliquis habeat potestatem
+<lb ed="#P" n="74"/>exercendi aliquid sacrum, non tamen est
+<lb ed="#P" n="75"/>plene et consummate sacerdos, donec 
+potes<lb break="no" ed="#P" n="76"/>tatem habeat sacrificium offerendi. Quod 
+sa<lb break="no" ed="#P" n="77"/>tis patet ex communi usu hujus vocis, et ex
+<lb ed="#P" n="78"/>citatis verbis Pauli, et ex iis quae statim
+<lb ed="#P" n="79"/>subjungit : JVecesse habent sacerdotes pro suis
+<lb ed="#P" n="80"/>delictis prius hostias offerre, deinde pro 
+po<lb break="no" ed="#P" n="81"/>puli. Hinc Justinus, Dialog. cum Tryphon.,
+<lb ed="#P" n="82"/>dicit, Deum non accipere sacrificium, misia
+<lb ed="#P" n="83"/>sacerdotibus. Et Augustinus, epist. 49, q.
+<lb ed="#P" n="84"/>tertia, haec tria, templum, sacrificum, 
+sa<lb break="no" ed="#P" n="85"/>cerdos, ponit ut sese consequentia. Idem 
+aper<lb break="no" ed="#P" n="86"/>tius lib. 22 de Civit., c. 10. Secundo 
+adver<lb break="no" ed="#P" n="87"/>tendum est ex Augustino, lib. 10 de Civit.,
+<lb ed="#P" n="88"/>cap. 6, sacrificium interdum sumi generatim
+<lb ed="#P" n="89"/>pro omni actione, quae in laudem Dei offertur,
+<lb ed="#P" n="90"/>sive interna sit, sive externa. Quae acceptio
+<lb ed="#P" n="91"/>minus propria est, et quasi metaphorica, 
+illi<lb break="no" ed="#P" n="92"/>que respondet similis acceptio sacerdotii ;
+<lb ed="#P" n="93"/>hoc enim modo omnes veri cultores Dei
+<lb ed="#P" n="94"/>sacerdotes interdum appellantur , ut 1 
+Pe<lb break="no" ed="#P" n="95"/>tr 2 : F't ipsi tanquam lapides vivi 
+super<lb break="no" ed="#P" n="96"/>edificamini domus spirituales , sacerdotuum
+<lb ed="#P" n="97"/>sanctum, offerre spirituales hostias, 
+accepta<lb break="no" ed="#P" n="98"/>Diles Deo per Jesum Christum ; et infra: Fos
+<lb ed="#P" n="99"/>autem genus electum, regale sacerdotium, gens
+<lb ed="#P" n="100"/>sancta, etc. Et Apocal. 5: Fecisti nos Deo re-
+<pb ed="#P" n="449"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>gnum, et sacerdotes. Proprie tamen 
+sacrifi<lb break="no" ed="#P" n="2"/>cium est oblatio exterior et sacra, quae Deo
+<lb ed="#P" n="3"/>offertur, vel tanquam supremus quidam 
+cul<lb break="no" ed="#P" n="4"/>tus Deo debitus in recognitionem supremi
+<lb ed="#P" n="5"/>dominii ejus, vel in gratiarum actionem, vel
+<lb ed="#P" n="6"/>in satisfactionem pro peccatis, eorumque 
+ex<lb break="no" ed="#P" n="7"/>piationem ; oportet autem hanc oblationem
+<lb ed="#P" n="8"/>esse sacram, ita ut circa illam aliquid sacrum
+<lb ed="#P" n="9"/>exerceatur, per aliquam immutationem rei
+<lb ed="#P" n="10"/>oblatae, ut per hoc sacrificium a simplici 
+obla<lb break="no" ed="#P" n="11"/>tione distinguatur, ut Gregor. docuit, et 
+rc<lb break="no" ed="#P" n="12"/>fertur in cap. Multi, 1, q. 1; et latius D. 
+Tho<lb break="no" ed="#P" n="13"/>mas, in 29. 2, q. 85, a. 3; et infra, in materia
+<lb ed="#P" n="14"/>de Eucharistia latius trademus. Advertit 
+au<lb break="no" ed="#P" n="15"/>tem tertio D. Thomas in citato loco, 
+hujus<lb break="no" ed="#P" n="16"/>modi sacrificium interdum esse posse 
+priva<lb break="no" ed="#P" n="17"/>tum, quod unusquisque sua sponte offerre
+<lb ed="#P" n="18"/>potest, dummodo et positiva lege prohibitum
+<lb ed="#P" n="19"/>non sit, et convenienti modo fiat. Aliud 
+vc<lb break="no" ed="#P" n="20"/>ro est publicum et commune sacrificium ,
+<lb ed="#P" n="21"/>publica et communi lege institutum, ut 
+no<lb break="no" ed="#P" n="22"/>mine totius populi Deo offeratur, et hoc est
+<lb ed="#P" n="23"/>propriissime sacrificium, quod omnes hac
+<lb ed="#P" n="24"/>voce significari intelligunt ; sacerdos autem
+<lb ed="#P" n="25"/>est proprius hujus sacrificii minister, et ideo
+<lb ed="#P" n="26"/>ad illum dicit propriam habitudinem. Et ideo
+<lb ed="#P" n="27"/>dixit Paulus sacerdotem esse debere 
+perso<lb break="no" ed="#P" n="28"/>nam aliquam ex hominibus assumptam, ut
+<lb ed="#P" n="29"/>hoc publico, et communi officio inter Deum
+<lb ed="#P" n="30"/>et homines fungatur. Ex quibus omnibus 
+con<lb break="no" ed="#P" n="31"/>cluditur ratio intenta, nam Christus Dominus
+<lb ed="#P" n="32"/>unus ex hominibus assumptus est, seu electus
+<lb ed="#P" n="33"/>et constitutus a Deo, pro hominibus, in iis
+<lb ed="#P" n="34"/>qua sunt ad Dewn ; id est, ad reconciliandum
+<lb ed="#P" n="35"/>homines cum Deo, et sanctificandum illos,
+<lb ed="#P" n="36"/>seipsum et vitam suam pro illis Deo 
+ofte<lb break="no" ed="#P" n="37"/>rendo, sanctam o^lationem et hostiam in 
+odo<lb break="no" ed="#P" n="38"/>rem suavitatis. Unde in nocte coenae seipsum
+<lb ed="#P" n="39"/>obtulit Deo Patri, Eucharistiae sacrificium 
+si<lb break="no" ed="#P" n="40"/>mul et offerens, et instituens, ut Concilium
+<lb ed="#P" n="41"/>Tridentinum supra docuit, illudque ut 
+supre<lb break="no" ed="#P" n="42"/>mus Pontifex et sacerdos quotidie in Ecclesia
+<lb ed="#P" n="43"/>offert sacerdotum ministerio, ut idem 
+Conci<lb break="no" ed="#P" n="44"/>lium, c. 2, dicit cum Augustino, lib. 10 de
+<lb ed="#P" n="45"/>Civit., c. 20; et Cypria., libro primo, epistola
+<lb ed="#P" n="46"/>3; lIrenae., l. 4 contra haeres., c. 32, et 
+sequen<lb break="no" ed="#P" n="47"/>tibus. Denique in ara crucis seipsum obtulit
+<lb ed="#P" n="48"/>in sacrificium pro humano genere, ut tota
+<lb ed="#P" n="49"/>epistola ad Hebr. Paulus tractat, ct idem 
+Con<lb break="no" ed="#P" n="50"/>cilium Tridentinum supra docet , et D. 
+Tho<lb break="no" ed="#P" n="51"/>mas hic, et infra, q. 48, art. 3; et optime 
+Au<lb break="no" ed="#P" n="52"/>gust., lib. 4 de Trinit., c. 14, et lib. 1 cont.
+<lb ed="#P" n="53"/>Adversar. Leg. et Prophet., c. 18; et in id
+<lb ed="#P" n="54"/>Psalm. 98 : Moyses et Aaron in sacerdotibus
+<lb ed="#P" n="55"/>cjus ; et in id Psalm. 64: Impietatibus nostris
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>tu propitiaberis, tu, inquit, sacerdos, tu 
+cicti<lb break="no" ed="#P" n="57"/>ma, tu oblator, tu oblatio.
+</p>
+                  <p xml:id="szstco-l01248-d1e850">
+                     <lb ed="#P" n="58"/>2. Dubium. — Responsio. — Sed circa hoc
+<lb ed="#P" n="59"/>ultimum rogabit aliquis , quomodo Christus
+<lb ed="#P" n="60"/>sacrificaverit seipsum tanquam verus 
+sacer<lb break="no" ed="#P" n="61"/>dos, cum neque se ipsum interfecerit, nequc
+<lb ed="#P" n="62"/>aliquid sacrum circa se in ara crucis 
+exercue<lb break="no" ed="#P" n="63"/>rit. Respondetur , vere et proprie Christum
+<lb ed="#P" n="64"/>sacrificasse seipsum in cruce, sicut ipse,
+<lb ed="#P" n="65"/>Joan. 17, testatus est : Pro eis ego sanctifico
+<lb ed="#P" n="66"/>ineipsum, id est, in sacrificium et hostiam 
+of<lb break="no" ed="#P" n="67"/>fero , ut Cyril., Chrysost., Rupert., S. 
+Tho<lb break="no" ed="#P" n="68"/>mas, et omnes exponunt ; non est autem 
+ne<lb break="no" ed="#P" n="69"/>cesse ipsam hostiae mactationem, et quidquid
+<lb ed="#P" n="70"/>circa illam fit, propria physica actione a 
+sa<lb break="no" ed="#P" n="71"/>cerdote fieri; sed satis est quod sub morali
+<lb ed="#P" n="72"/>aliqua consideratione a sacerdote 
+assuma<lb break="no" ed="#P" n="73"/>tur, et in sacrificium offeratur. Sic igitur 
+Chri<lb break="no" ed="#P" n="74"/>stus, licet non sese occiderit, voluntarie 
+ta<lb break="no" ed="#P" n="75"/>men mortem suscepit, et illam in sacrificium
+<lb ed="#P" n="76"/>Deo obtulit , quo et pro peccatis nostris 
+satis<lb break="no" ed="#P" n="77"/>faceret, et internum affectum suum 
+devotio<lb break="no" ed="#P" n="78"/>nis et reverentiae ad Deum manifestaret, et
+<lb ed="#P" n="79"/>ita utebatur bene malitia occidentium ipsum,
+<lb ed="#P" n="80"/>et quem illi inique interficiebant, ipse pie ac
+<lb ed="#P" n="81"/>religiose immolabat.
+</p>
+                  <p xml:id="szstco-l01248-d1e906">
+                     <lb ed="#P" n="82"/>3. Objectio. — Responsio. — Differentia 
+in<lb break="no" ed="#P" n="83"/>ter oblationem mortis Christi et martyrum. —
+<lb ed="#P" n="84"/>Dices : ergo omnes martyres dici possunt 
+sa<lb break="no" ed="#P" n="85"/>cerdotes, et seipsos in sacrificium offerentes.
+<lb ed="#P" n="86"/>Quidam respondent , Christum non solum
+<lb ed="#P" n="87"/>permisisse et obtulisse mortem suam, sed
+<lb ed="#P" n="88"/>etiam active fuisse causam illius, ei 
+coope<lb break="no" ed="#P" n="89"/>rando per animam suam ut instrumentum
+<lb ed="#P" n="90"/>Verbi. Sed hoc cum grano salis suscipiendum
+<lb ed="#P" n="91"/>est, est enim in rigore falsum ; nullo enim
+<lb ed="#P" n="92"/>modo dici potest, Christum seipsum occidisse;
+<lb ed="#P" n="93"/>occidisset autem, si active concurrisset ad
+<lb ed="#P" n="94"/>mortem suam. Sensus ergo verus est, quem
+<lb ed="#P" n="95"/>Cajetanus, jentaculo tertio indicavit, aliter
+<lb ed="#P" n="96"/>mortem fuisse voluntariam martyribus, et
+<lb ed="#P" n="97"/>aliter Christo ; iliis solum per modum 
+accep<lb break="no" ed="#P" n="98"/>tationis, Christo etiam per modum oblationis,
+<lb ed="#P" n="99"/>quia illi nec poterant tyrannos impedire , ne
+<lb ed="#P" n="100"/>tormentis eos afficcrent, neque poterant in
+<lb ed="#P" n="101"/>ipsis tormentis vitam suam tueri et 
+conser<lb break="no" ed="#P" n="102"/>vare ; Christus autem utrumque habuit in 
+vo<lb break="no" ed="#P" n="103"/>luntate sua et potestate; potuit enim 
+Judaeo<lb break="no" ed="#P" n="104"/>rum vires infringere, ut satis Joan. 18, 
+osten<lb break="no" ed="#P" n="105"/>dit, cum ad verbum ejus omnes abierunt 
+re<lb break="no" ed="#P" n="106"/>trorsum , et ceciderunt in terram. Poterat
+<lb ed="#P" n="107"/>etiam facere, ut instrumentum Verbi, ne ulla
+<lb ed="#P" n="108"/>passionis instrumenta possent corpus suum
+<lb ed="#P" n="109"/>laedere. Ac denique poterat vitam suam 
+reti<lb break="no" ed="#P" n="110"/>nere ct conservarc, ut supra, disput. 32, late
+<pb ed="#P" n="450"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>tractatum est. Et propterea peculiari modo
+<lb ed="#P" n="2"/>dicitur posuisse animam suam, et neminem
+<lb ed="#P" n="3"/>eam sibi abstulisse, Joan. 10: Propterea me
+<lb ed="#P" n="4"/>diligit Pater , quia ego pono animam meam;
+<lb ed="#P" n="5"/>nemo tollit eam a me, sed ego pono eam a 
+me<lb break="no" ed="#P" n="6"/>ipso. Propter hanc ergo differentiam oblatio
+<lb ed="#P" n="7"/>mortis Christi habet rationem sacrificii, non
+<lb ed="#P" n="8"/>vero aliorum martyrum. Et preeterea, quia
+<lb ed="#P" n="9"/>alii martyres non sunt a Deo constituti ut se
+<lb ed="#P" n="10"/>Deo offerrent in satisfacüionem pro omnibus,
+<lb ed="#P" n="11"/>sicut fuit Christus, nec sanguis eorum fuit
+<lb ed="#P" n="12"/>pretium redemptionis , sicut fuit sanguis
+<lb ed="#P" n="13"/>Christi. Unde eleganter Leo Papa , epist. 83,
+<lb ed="#P" n="14"/>c. 4 : Dicent , inquit, guo sanguine sunt 
+re<lb break="no" ed="#P" n="15"/>dempti ; dicant quo sacrificio reconciliati ; quis
+<lb ed="#P" n="16"/>est qui tradidit semetipsum pro nobis oblatio -
+<lb ed="#P" n="17"/>nem, et hostiam Deo in odorem suavitatis , aut
+<lb ed="#P" n="18"/>quod unquam sacrificium sacratius fuit, quam
+<lb ed="#P" n="19"/>quod verus Pontifex altari crucis per à
+mmola<lb break="no" ed="#P" n="20"/>tionem sue carnis imposuit. Quamvis enm
+<lb ed="#P" n="21"/>multorum Sanctorum in conspectu Domini
+<lb ed="#P" n="22"/>pretiosa mors fuit, uullius tamen insontis 
+occi<lb break="no" ed="#P" n="23"/>sio propitiatio fuit mundi.
+</p>
+               </div>
+               <div xml:id="szstco-l01248-Dd1e1028"><!-- szstco-p3q22-d46s2 -->
+                  <head xml:id="szstco-l01248-Hd1e1031">Sectio 2</head>
+                  <head xml:id="szstco-l01248-Hd1e1033" type="question-title">
+utrum christus, deus homo, sit sacerdos in 
+quantum deus, vel in quantum homo, atque adeo an
+idem sit sacerdos et victima
+</head>
+                  <p xml:id="szstco-l01248-d1e1036">
+                     <lb ed="#P" n="24" type="fixed=450"/>SECTIO II.
+<lb ed="#P" n="25"/>Utrum Christus, Deus homo, sit sacerdos in 
+quan<lb break="no" ed="#P" n="26"/>tum Deus, vel in quantum homo, atque adeo an
+<lb ed="#P" n="27"/>idem sit sacerdos et victima.
+</p>
+                  <p xml:id="szstco-l01248-d1e1047">
+                     <lb ed="#P" n="28"/>1. Dubium hoc propono propter nonnullos
+<lb ed="#P" n="29"/>ex haereticis hujus temporis, qui (ut refert
+<lb ed="#P" n="30"/>Robertus Bellarminus , lib. 5 de Christo 
+me<lb break="no" ed="#P" n="31"/>diatore, c. 3) ita distinguunt inter Christum
+<lb ed="#P" n="32"/>sacerdotem et victimam, ut sacerdotem dicant
+<lb ed="#P" n="33"/>esse Deum, vel divinitatem ; victimam vero
+<lb ed="#P" n="34"/>hominem seu humanam naturam. Unde 
+infe<lb break="no" ed="#P" n="35"/>runt Christum non esse mediatorem ut 
+homi<lb break="no" ed="#P" n="36"/>nem, sed ut Deum. Qui error antiquior est,
+<lb ed="#P" n="37"/>nam, ut refert Euseb., lib. 10 de Demonstrat.,
+<lb ed="#P" n="38"/>c. 1, et ex illo Turrian. , in Scholiis ad 
+Cle<lb break="no" ed="#P" n="39"/>mentem, lib. 8 Const., cap. 46, Arius dixit,
+<lb ed="#P" n="40"/>Verbum ut Pontificem corpus humanum 
+in<lb break="no" ed="#P" n="41"/>star Agni de nostro grege sumpsisse. Hujus
+<lb ed="#P" n="42"/>erroris nullum verisimile affertur 
+fundamen<lb break="no" ed="#P" n="43"/>tum , quod mihi hoc loco proponendum 
+vi<lb break="no" ed="#P" n="44"/>deatur.
+</p>
+                  <p xml:id="szstco-l01248-d1e1086">
+                     <lb ed="#P" n="45"/>2. Dicendum igitur breviter est , ipsum
+<lb ed="#P" n="46"/>Deum Verbum ac Filium factum esse pro 
+no<lb break="no" ed="#P" n="47"/>bis sacerdotem et Pontificem, et pro nobis
+<lb ed="#P" n="48"/>obtulisse sacrificium. Hoc est ccrtum de fide,
+<lb ed="#P" n="49"/>definitum in Concilio Ephes., can. 10, 
+etfun<lb break="no" ed="#P" n="50"/>datur in vera idiomatum communicationec.
+<lb ed="#P" n="51"/>Unde Act. 20 dicitur Deus, suo sanguine 
+ad<lb break="no" ed="#P" n="52"/>quisivisse Ecclesiam, et 2 ad Cor. 5, ait Paul.:
+<lb ed="#P" n="53"/>Deus in Christo, veundam reconeilians sibi.
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>Ipse ergo Deus Verbum nos redemit, et pro
+<lb ed="#P" n="55"/>nobis sanguinem fudit; ipse ergo est sacerdos
+<lb ed="#P" n="56"/>noster. Res est clara, de qua legi potest
+<lb ed="#P" n="57"/>Cyril., epist. ad Nestor., et in defension. 10
+<lb ed="#P" n="58"/>anathematismi ; et Athanas., lib. de Human.
+<lb ed="#P" n="59"/>Verbi.
+</p>
+                  <p xml:id="szstco-l01248-d1e1124">
+                     <lb ed="#P" n="60"/>3. Verbum ratione humanitatis sacerdos
+<lb ed="#P" n="61"/>f«it.—bDicendum secundo est, Deumseu 
+Ver<lb break="no" ed="#P" n="62"/>bum non nisi in humanitate seu ratione 
+hu<lb break="no" ed="#P" n="63"/>manitatis potuisse esse sacerdotem, et per 
+il<lb break="no" ed="#P" n="64"/>lam munus illud exercuisse, quanquam 
+effi<lb break="no" ed="#P" n="65"/>cacia et excellentia illius sacerdotii ex 
+digni<lb break="no" ed="#P" n="66"/>tate divini suppositi manaverit. Tota haec 
+con<lb break="no" ed="#P" n="67"/>clusio est clara, ac fere per se evidens, quia
+<lb ed="#P" n="68"/>Deus ut Deus non habet superiorem cui 
+sa<lb break="no" ed="#P" n="69"/>crificium offerat, aut apud quem intercedat ;
+<lb ed="#P" n="70"/>ergo ut Deus non potest esse sacerdos, neque
+<lb ed="#P" n="71"/>per ipsam divinam naturam seu voluntatem
+<lb ed="#P" n="72"/>potest orare, aut sacrificium offerre ; ad hoc
+<lb ed="#P" n="73"/>ergo necessaria illi fuit natura humana. Et
+<lb ed="#P" n="74"/>ad hoc confirmnandum valent omnmia, quibus
+<lb ed="#P" n="75"/>supra, q. 1, art. 2, et tota q. 19, probavimus
+<lb ed="#P" n="76"/>formale principium meriti, et satisfactionis
+<lb ed="#P" n="77"/>esse humanitatem, et ad hoc fuisse 
+necessa<lb break="no" ed="#P" n="78"/>riam incarnationem , ut Deus haberet 
+natu<lb break="no" ed="#P" n="79"/>ram, per quam posset mereri et satisfacere, et
+<lb ed="#P" n="80"/>ad hoc confirmandum multa ex Patribus 
+ad<lb break="no" ed="#P" n="81"/>duximus, quibus simul probavimus, 
+necessa<lb break="no" ed="#P" n="82"/>rium etiam fuisse divinum suppositum, ut
+<lb ed="#P" n="83"/>valórem et efficaciam merito et satisfactioni
+<lb ed="#P" n="84"/>tribueret ; illud ergo idem suppositum 
+neces<lb break="no" ed="#P" n="85"/>sarium fuit, ut hic sacerdos esset potens et
+<lb ed="#P" n="86"/>efficax ad offerendum sacrificium, quod omni
+<lb ed="#P" n="87"/>ex parte Deo satisfaceret.
+</p>
+                  <p xml:id="szstco-l01248-d1e1187">
+                     <lb ed="#P" n="88"/>4. Et hinc colligitur, nullo modo dici posse
+<lb ed="#P" n="89"/>Christum ut Deum esse sacerdotem, sed ut
+<lb ed="#P" n="90"/>hominem, vel ut Deum hominem. Hoc 
+con<lb break="no" ed="#P" n="91"/>stat ex iis quae de communicatione 
+idioma<lb break="no" ed="#P" n="92"/>tum dicta sunt, nam praedicatum, quod non
+<lb ed="#P" n="93"/>convenit Christo ratione divinitatis, seu ut
+<lb ed="#P" n="94"/>subsistenti in sola divina natura, non potest
+<lb ed="#P" n="95"/>dici de Christo cum reduplicatione seu 
+deter<lb break="no" ed="#P" n="96"/>minatione divinitatis, sed humanitatis, quia
+<lb ed="#P" n="97"/>illa reduplicatio designat naturam, in qua seu
+<lb ed="#P" n="98"/>per quam tale praedicatum illi convenit. Unde
+<lb ed="#P" n="99"/>recte Ambrosius, lib. 3 de Fide, c. B : Zdem,
+<lb ed="#P" n="100"/>inquit, saceraos, idem et hostia, sacerdotium
+<lb ed="#P" n="101"/>tamen et sacrificium lnumana conditionis 
+offt<lb break="no" ed="#P" n="102"/>cium est ; et subdit postea : JVemo igitur, ubi
+<lb ed="#P" n="103"/>ordinem cernit humana conditionis, ibi jus 
+di<lb break="no" ed="#P" n="104"/>vinitatis adscribat. Et August., 1. 1 de 
+Con<lb break="no" ed="#P" n="105"/>sen. Evang., c. 3: Secundum hominem, 
+in<lb break="no" ed="#P" n="106"/>quit , Christus et rez et sacerdos effectus est,
+<lb ed="#P" n="107"/>ut esset ad interpellaadum pro nobis mediator
+<lb ed="#P" n="108"/>Dii et hominum, homo Christus Jesus. Et Ful-
+<pb ed="#P" n="451"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>gent., de Fid. ad Petr., c. 2: Solus, inquit,
+<lb ed="#P" n="2"/>sacerdos, sacrificium, et tenplum, et haec 
+om<lb break="no" ed="#P" n="3"/>nia Deus, secundum rationem servi. Idem 
+Cy<lb break="no" ed="#P" n="4"/>ril. supra. Potest autem etiam dici Christus
+<lb ed="#P" n="5"/>sacerdos in quantum Deus homo, ceo modo,
+<lb ed="#P" n="6"/>quo supra diximus posse dici mereri et 
+satis<lb break="no" ed="#P" n="7"/>facere in quantum Dcum hominem, ita tamen
+<lb ed="#P" n="8"/>ut intelligatur sacerdotium esse proprietas
+<lb ed="#P" n="9"/>conveniens Christo, mediante humana 
+natu<lb break="no" ed="#P" n="10"/>ra; a supposito autem divino habere 
+eftica<lb break="no" ed="#P" n="11"/>ciam, et excellentiam tale sacerdotium, ut
+<lb ed="#P" n="12"/>satis explicatum est. Sed objiciet aliquis 
+Cy<lb break="no" ed="#P" n="13"/>rillum Hieros., cat. 10, dicentem , Christum
+<lb ed="#P" n="14"/>habere sacerdotium immutabile, guod nec 
+tem<lb break="no" ed="#P" n="15"/>pore cept, uec successorem alium habebit 
+sa<lb break="no" ed="#P" n="16"/>cerdotii ; ergo ante incarnationem, quae in
+<lb ed="#P" n="17"/>tempore coepit. erat Christus sacerdos ; ergo
+<lb ed="#P" n="18"/>ut Deus. Respoudetur primo non incepisse in
+<lb ed="#P" n="19"/>tempore in ordine ad Dcum, seu secundum
+<lb ed="#P" n="20"/>divinam praeordinationem, nam statim 
+sub<lb break="no" ed="#P" n="21"/>dit : Sed ante secula a Patre. Vel certe 
+intel<lb break="no" ed="#P" n="22"/>ligit non fuisse sacerdotem unctum oleo 
+tem<lb break="no" ed="#P" n="23"/>porali, sed aeterno, scilicet, divinitate ipsa,
+<lb ed="#P" n="24"/>vel non accepisse in temporc personalem 
+di<lb break="no" ed="#P" n="25"/>gnitatem , ratione cujus tale habet 
+sacerdo<lb break="no" ed="#P" n="26"/>tium. Onomodo dixit Clemens, dicto lib. 8,
+<lb ed="#P" n="27"/>c. 46, Christum esse natura sacerdotem, quia
+<lb ed="#P" n="28"/>naturalem habet ad hoc dignitatem et 
+excel<lb break="no" ed="#P" n="29"/>lentiam, requirit tamen unionem.
+</p>
+                  <p xml:id="szstco-l01248-d1e1302">
+                     <lb ed="#P" n="30"/>3. Ultimo dicendum est, eumdem 
+Chris<lb break="no" ed="#P" n="31"/>tum esse victimam, et hostiam sacrificii, 
+at<lb break="no" ed="#P" n="32"/>que adeo idem dici posse de Verbo et Deo,
+<lb ed="#P" n="33"/>non tamen cum reduplicatione, ut Deus est.
+<lb ed="#P" n="34"/>Haec omnia docuit hic D. Thom. art. 2, et 1.2,
+<lb ed="#P" n="35"/>q.102, art. 3, ad 8. Et sunt certa de fide, quia
+<lb ed="#P" n="36"/>non sola humanitas fuit pro nobis oblata,
+<lb ed="#P" n="37"/>sed Christus et Deus, sicut Deus fuit pro 
+no<lb break="no" ed="#P" n="38"/>bis mortuus, et pro nobis fudit sanguinem
+<lb ed="#P" n="39"/>suum ; unde Paul., ad Ephes. 5, de Christo
+<lb ed="#P" n="40"/>loquens, inquit : Tradidit semctipsum pro 
+no<lb break="no" ed="#P" n="41"/>bis oblationem et hostiam Deo, in odorem 
+sua<lb break="no" ed="#P" n="42"/>vitatis. Et eedem modo loquitur ad Heb. 9 et
+<lb ed="#P" n="43"/>10; fuit ergo ipse Christus hostia et 
+sacrifi<lb break="no" ed="#P" n="44"/>cium; Christus autem non est sola 
+humani<lb break="no" ed="#P" n="45"/>tas ; non ergo sola humanitas fuit hostia et
+<lb ed="#P" n="46"/>sacrificium, sed Deus ipse in humanitate 
+sub<lb break="no" ed="#P" n="47"/>sistens, non quidem in quantum Deus, sed in
+<lb ed="#P" n="48"/>quantum horro, quia divinitas non potest 
+es<lb break="no" ed="#P" n="49"/>se ratio per quam Christo convenit in 
+sacri<lb break="no" ed="#P" n="50"/>ficium offerri, nam potius est ratio secundum
+<lb ed="#P" n="51"/>quam illi sacrificium offertur. Quae omnia
+<lb ed="#P" n="52"/>clara sunt, et sine difficultate. Circa quae 
+vi<lb break="no" ed="#P" n="53"/>4deri potest August., lib. 4 de Trin,, c. 14,1.
+<lb ed="#P" n="54"/>10 de Civit., c. 22, et lib. Quaest. in Judic.,
+<lb ed="#P" n="55"/>c. 54; DThemas bhic, a.2, et 1.2. q.105,a.3.
+</p>
+               </div>
+               <div xml:id="szstco-l01248-Dd1e1362"><!-- szstco-p3q22-d46s3 -->
+                  <head xml:id="szstco-l01248-Hd1e1365">Sectio 3</head>
+                  <head xml:id="szstco-l01248-Hd1e1367" type="question-title">
+utrum sacerdotium christi fuerit ejusdem rationis
+cum sacerdotio legis naturae, veteris, aut nova
+</head>
+                  <p xml:id="szstco-l01248-d1e1370">
+                     <cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56" type="fixed=451"/>SECTIO III.
+<lb ed="#P" n="57"/>Utrum sacerdotium Christi fuerit ejusdem rationis
+<lb ed="#P" n="58"/>cum sacerdotio legis naturae, veteris, aut nova.
+</p>
+                  <p xml:id="szstco-l01248-d1e1381">
+                     <lb ed="#P" n="59"/>1. Ratio difficultatis esse potest, quia 
+Chris<lb break="no" ed="#P" n="60"/>tus dicitur sacerdos secundum ordinen 
+Ma<lb break="no" ed="#P" n="61"/>chisedech. Sacerdotium autem Melchisedech
+<lb ed="#P" n="62"/>fuit sacerdotium legis naturae ; ergo 
+sacerdo<lb break="no" ed="#P" n="63"/>tium Christi fuit ejusdem rationis cum 
+sacer<lb break="no" ed="#P" n="64"/>dotio illius legis. Aliunde autem videtur, quod
+<lb ed="#P" n="65"/>Christus fueritsacerdos legalis, quia interdum
+<lb ed="#P" n="66"/>illorum sacerdotum munera exercuisse 
+vide<lb break="no" ed="#P" n="67"/>tur, ut Mat. 21, ubi ejecit ementes et 
+venden<lb break="no" ed="#P" n="68"/>tes de templo, quasi usus potestate 
+sacerdo<lb break="no" ed="#P" n="69"/>tum. Et Luc. 4, ingressus synagogam 
+Naza<lb break="no" ed="#P" n="70"/>reth, surrexit ad legendum, et datus est ei 
+li<lb break="no" ed="#P" n="71"/>ber Isaiae, quod non licebat cuilibet laico ; 
+vi<lb break="no" ed="#P" n="72"/>detur ergo id fecisse quasi ex proprio 
+munc<lb break="no" ed="#P" n="73"/>re, et tanquam existens in ordine sacerdotali.
+<lb ed="#P" n="74"/>Unde August.lib.1 de Pec. merit.,c.27,dicit,
+<lb ed="#P" n="75"/>tunc Christum usum fuisse munere lectoris.
+<lb ed="#P" n="76"/>Denique alia ratione apparet, sacerdotium
+<lb ed="#P" n="77"/>Christi fuisse ejusdem rationis cum 
+sacerdo<lb break="no" ed="#P" n="78"/>tio legis novae, quia ordinatum est ad 
+sacri<lb break="no" ed="#P" n="79"/>ficium ejusdem rationis offerendum, et ad
+<lb ed="#P" n="80"/>eumdem principalem effectum, qui est 
+re<lb break="no" ed="#P" n="81"/>missio peccatorum, et animarum sanctificatio.
+</p>
+                  <p xml:id="szstco-l01248-d1e1433">
+                     <lb ed="#P" n="82"/>2. Comparatio sacerdotii Christi cum 
+sacer<lb break="no" ed="#P" n="83"/>dotio legis nove.— Dico primo : Christi 
+sacer<lb break="no" ed="#P" n="84"/>dotium non fuit omnino ejusdem rationiscum
+<lb ed="#P" n="85"/>sacerdotio in lege nova ab ipso instituto, sed
+<lb ed="#P" n="86"/>longe altioris et perfectioris. Conclusio haec
+<lb ed="#P" n="87"/>videtur certa, et colligitur ex D. Thoma infra,
+<lb ed="#P" n="88"/>q. 63, a. 3 et 5, ubi dicit, characterem, atque
+<lb ed="#P" n="89"/>adeo sacerdotium legis novae esse 
+participa<lb break="no" ed="#P" n="90"/>tionem quamdam derivatam a sacerdotio 
+Chri<lb break="no" ed="#P" n="91"/>sti. Ex quo sumitur argumentum, nam Christi
+<lb ed="#P" n="92"/>sacerdotium comparatur ad sacerdotium 
+le<lb break="no" ed="#P" n="93"/>gis novae, ut universaliscausa ad particularem,
+<lb ed="#P" n="94"/>vel sicut causa principalis ad instrumentalem;
+<lb ed="#P" n="95"/>ergo est longe altioris rationis ab illo. 
+Dein<lb break="no" ed="#P" n="96"/>de ex effectibus et potestate sacerdotali hoc
+<lb ed="#P" n="97"/>aperte constat, nam sacerdotium legis novae
+<lb ed="#P" n="98"/>habet potestatem alligatam sacramentis, nec
+<lb ed="#P" n="99"/>potest aliquis consecrare vel sanctificare, 
+ni<lb break="no" ed="#P" n="100"/>si quod a Christo institutum est, et verbis ab
+<lb ed="#P" n="101"/>ipso praescriptis (loquendo de consccratione,
+<lb ed="#P" n="102"/>ct sanctificatione perfecta) ; at vero 
+sacerdo<lb break="no" ed="#P" n="103"/>tium Christi non fuit alligatum sacramentis,
+<lb ed="#P" n="104"/>imo ab ipso sacramenta manarunt, unde 
+po<lb break="no" ed="#P" n="105"/>tuit sine sacramentis, effectus sacramentorum
+<lb ed="#P" n="106"/>conferre. Praeterea, sacerdotium Christi tale
+<lb ed="#P" n="107"/>fuit, ut ordinatum sit ad offerendum savciifi-
+<pb ed="#P" n="452"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>cium,non solum incruentum,sed etiam 
+cruen<lb break="no" ed="#P" n="2"/>tum, habens ex vi ipsius proximi offerentis
+<lb ed="#P" n="3"/>valorem et virtutem ad sanctificandos illos
+<lb ed="#P" n="4"/>pro quibus oblatum est; sacerdotes autem,
+<lb ed="#P" n="5"/>qui sunt ministri legis novae, solum possunt
+<lb ed="#P" n="6"/>offerre sacrificium ut ministri Christi, et in
+<lb ed="#P" n="7"/>virtute ejus, et ordinatum ad applicandum
+<lb ed="#P" n="8"/>merita, et satisfactiones ejus. Denique 
+sacer<lb break="no" ed="#P" n="9"/>dotium hoc legis novae per determinatam
+<lb ed="#P" n="10"/>quamdam consecrationem, seu ordinationem
+<lb ed="#P" n="11"/>conficitur, et quodammodo in impressione 
+cu<lb break="no" ed="#P" n="12"/>jusdam realis characteris consistit; Christus
+<lb ed="#P" n="13"/>autem non fuit ordinatus sacerdos per 
+ali<lb break="no" ed="#P" n="14"/>quam extrinsecam ordinationem, vel 
+conse<lb break="no" ed="#P" n="15"/>crationem ; sed ex vi suae originis, et 
+hypos<lb break="no" ed="#P" n="16"/>taticae unionis, et divinae ordinationis hanc
+<lb ed="#P" n="17"/>dignitatem habuit; est ergo longe alterius
+<lb ed="#P" n="18"/>rationis.
+</p>
+                  <p xml:id="szstco-l01248-d1e1536">
+                     <lb ed="#P" n="19"/>3. Unde obiter intelligitur , quod omnes
+<lb ed="#P" n="20"/>Theologi, in 4, dist. 4. docent, hoc 
+sacerdo<lb break="no" ed="#P" n="21"/>tium Christi non ponere in ejus humanitate
+<lb ed="#P" n="22"/>aliquam realem qualitatem, seu characterem,
+<lb ed="#P" n="23"/>ut docet etiam D. Thomas, dicta q. 63, art. 5;
+<lb ed="#P" n="24"/>sed solum dignitatem et potestatem 
+conve<lb break="no" ed="#P" n="25"/>nientem illi ratione unionis, per quam ejus
+<lb ed="#P" n="26"/>humanitas, seu potius hic homo Christus est
+<lb ed="#P" n="27"/>altissimo ac perfectissimo modo quasi 
+desi<lb break="no" ed="#P" n="28"/>gnatus, ct segregatus ab aliis hominibus, et
+<lb ed="#P" n="29"/>potens ad intercedendum, et offerendum pro
+<lb ed="#P" n="30"/>illis dignissimum sacrificium, ad 
+sanctifican<lb break="no" ed="#P" n="31"/>dum illos ; haec autem dignitas et potestas
+<lb ed="#P" n="32"/>partim includit dignitatem capitis, partim
+<lb ed="#P" n="33"/>potestatem perfecte merendi et satisfaciendi
+<lb ed="#P" n="34"/>pro aliis, partim vim effectricem gratiae, 
+par<lb break="no" ed="#P" n="35"/>tim denique divinam ordinationem, qua 
+cons<lb break="no" ed="#P" n="36"/>titutus est Christus, ut esset mediator Dei et
+<lb ed="#P" n="37"/>hominum; quae omnia in superioribus fere
+<lb ed="#P" n="38"/>explicata sunt, et nonnihil de mediatore 
+ad<lb break="no" ed="#P" n="39"/>demus infra, q. 26.
+</p>
+                  <p xml:id="szstco-l01248-d1e1584">
+                     <lb ed="#P" n="40"/>4. Sacerdotium Christi nec lega'e , nec 
+se<lb break="no" ed="#P" n="41"/>cundun ordinem Aaron fuit. — Dico secundo :
+<lb ed="#P" n="42"/>sacerdotium Christi non fuit legale, seu 
+ejus<lb break="no" ed="#P" n="43"/>dem rationis cum sacerdotio legis veteris;
+<lb ed="#P" n="44"/>undc neque ipse Christus fuit secerdos 
+secun<lb break="no" ed="#P" n="45"/>dum ordinem Aaron, neque origine aut 
+suc<lb break="no" ed="#P" n="46"/>cessione , neque Dei aut hominum electionc.
+<lb ed="#P" n="47"/>Ita docet Paul., ad Heb. 7, S et 9, ubi 
+impri<lb break="no" ed="#P" n="48"/>mis docet Christum fuisse sacerdotem 
+altio<lb break="no" ed="#P" n="49"/>ris ordinis, quia Aaronicum sacerdotium erat
+<lb ed="#P" n="50"/>imperfectum, temporale, ct juxta mandatum
+<lb ed="#P" n="51"/>legis carnalis, quae nec justificare poterat,
+<lb ed="#P" n="52"/>nec perfectum facere servientem ; Christi 
+au<lb break="no" ed="#P" n="53"/>tem sacerdotium fuit perfectum, aeternum, et
+<lb ed="#P" n="54"/>secundum mandatum vitae insolubilis. Deinde
+<lb ed="#P" n="55"/>probat Christum non fuisse sacerdotem lega-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>lem, quia ex Juda ortus est Dominus noster,
+<lb ed="#P" n="57"/>in qua tribu nihil de sacerdotibus Moyses 
+lo<lb break="no" ed="#P" n="58"/>cutus est. Quae ratio optime probat Christum
+<lb ed="#P" n="59"/>non fuisse sacerdotem veteris legis, origine,
+<lb ed="#P" n="60"/>et successione, quia non descendebat ex
+<lb ed="#P" n="61"/>tribu Levi secundum paternam lineam. 
+Pri<lb break="no" ed="#P" n="62"/>mo quidem in re ipsa , quia non fuit genitus
+<lb ed="#P" n="63"/>ab homine. Secundo, in existimatione, quia
+<lb ed="#P" n="64"/>putabatur filius Joseph, de domo David. 
+Ter<lb break="no" ed="#P" n="65"/>tio, quia etiam Beata Virgo per lineam suam
+<lb ed="#P" n="66"/>paternam descendebat de tribu Juda , ut ex
+<lb ed="#P" n="67"/>Paulo supra colligitur, et infra latius 
+osten<lb break="no" ed="#P" n="68"/>detur. Et quamvis fortasse juxta aliquam 
+ma<lb break="no" ed="#P" n="69"/>ternam successionem Beatae Virginis habuerit
+<lb ed="#P" n="70"/>cognationem aliquam cum tribu Levi, illud
+<lb ed="#P" n="71"/>tamen non suíticiebat ad sacerdotale munus ,
+<lb ed="#P" n="72"/>quod Leviticae tribui et familiae Aaron 
+reser<lb break="no" ed="#P" n="73"/>vatum erat, ut constat Esod. 29, et Levit. 8,
+<lb ed="#P" n="74"/>et 1 Reg. 2; unde rex Ozias, qui erat de tribu
+<lb ed="#P" n="75"/>Juda , quamvis secundum maternam lineam
+<lb ed="#P" n="76"/>descenderet ex tribu Levi, graviter a Deo 
+per<lb break="no" ed="#P" n="77"/>cussus est, quoniam sacerdotale munus 
+au<lb break="no" ed="#P" n="78"/>sus est usurpare, et adolere incensum, 2 
+Pa<lb break="no" ed="#P" n="79"/>ralip. 6. Et ratio clara est, quia illae duae 
+tri<lb break="no" ed="#P" n="80"/>bus, regia et sacerdotalis, a principio fuerunt
+<lb ed="#P" n="81"/>permistae, et conjunctae matrimonrs, ut 
+con<lb break="no" ed="#P" n="82"/>stat Exod. 6, et 4 feg. 11 ; oportuit ergo
+<lb ed="#P" n="83"/>distingui successiones earum per paternas
+<lb ed="#P" n="84"/>lineas; alias statim fuissent confusae , et
+<lb ed="#P" n="85"/>nullus esset de tribu Juda, qui non 
+pos<lb break="no" ed="#P" n="86"/>set esse sacerdos, quod aperte falsum est.
+<lb ed="#P" n="87"/>Constat igitur Christum non fuisse 
+sacerdo<lb break="no" ed="#P" n="88"/>tem legalem origine aut successione. Et
+<lb ed="#P" n="89"/>hinc facile colligitur neque hominum 
+elec<lb break="no" ed="#P" n="90"/>tione fuisse ad hoc munus assumptum, quia
+<lb ed="#P" n="91"/>tunc homines non cligebant ad hujusmodi 
+sa<lb break="no" ed="#P" n="92"/>cerdotium , nisi eos qui veluti jure 
+haeredita<lb break="no" ed="#P" n="93"/>rio erant capaces illius. Quod vero nec Deus
+<lb ed="#P" n="94"/>illum ad hoc munus elegerit, certissimum est,
+<lb ed="#P" n="95"/>quia neque traditione aut Scriptura hoc 
+ha<lb break="no" ed="#P" n="96"/>betur, sed potius contrarium, nec ad 
+dignita<lb break="no" ed="#P" n="97"/>tem et perfectionem Christi hoc pertinebat,
+<lb ed="#P" n="98"/>quia (ut inquit Augustinus, lib. 83 Quaest., in
+<lb ed="#P" n="99"/>61, et super illud verbum Psalm. 109: 7u es
+<lb ed="#P" n="100"/>sacerdos in eeternum) sacerdotium illud erat
+<lb ed="#P" n="101"/>imperfectum , temporale, et per sacerdotium
+<lb ed="#P" n="102"/>Christi abolendum; et ideo non oportuit
+<lb ed="#P" n="103"/>Christum in illo ordine sacerdotum constitui.
+<lb ed="#P" n="104"/>Et hoc confirmant, et a fortiori convincunt
+<lb ed="#P" n="105"/>omnia quae in prima conclusione addueta
+<lb ed="#P" n="106"/>sunt.
+</p>
+                  <p xml:id="szstco-l01248-d1e1734">
+                     <lb ed="#P" n="107"/>5. Hic vero observatione dignum est, 
+Wal<lb break="no" ed="#P" n="108"/>densem, tom. 1 de Sacramentis, c. 116, n. 6,
+<lb ed="#P" n="109"/>motum nescio qua historia Suidae, verbo 
+Je<lb break="no" ed="#P" n="110"/>sus, et ratione dubitandi in.principio hujus
+<pb ed="#P" n="453"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>sectionis posita, asseruisse Christum electione
+<lb ed="#P" n="2"/>sacerdotem fuisse constitutum inter Levitas
+<lb ed="#P" n="3"/>in gradu et ordine lectorum. Sed haec 
+senten<lb break="no" ed="#P" n="4"/>tia plus quam falsa et Apostolo Paulo 
+contra<lb break="no" ed="#P" n="5"/>ria mihi videtur ; et historia illa Suidae fabula
+<lb ed="#P" n="6"/>potius Judaica, quam historia existimanda
+<lb ed="#P" n="7"/>est, quia Christus Dominus neque ex stirpe
+<lb ed="#P" n="8"/>Aaron, neque ex tota tribu Levi secundum
+<lb ed="#P" n="9"/>paternam lineam descendit, ut explicatum
+<lb ed="#P" n="10"/>est. Et ideo neque ad sacerdotium, ueque ad
+<lb ed="#P" n="11"/>ullum gradum Levitarum eligi potuit. Neque
+<lb ed="#P" n="12"/>ex eo quod Christus in Synagoga Isaiam 
+inter<lb break="no" ed="#P" n="13"/>pretatus est, argumentum aliquod ad hanc
+<lb ed="#P" n="14"/>rem sumi potest ; Actorum enim 13 quiddam
+<lb ed="#P" n="15"/>simile legimus fecisse Paulum, qui nec 
+sacer<lb break="no" ed="#P" n="16"/>dos fuit, nec de tribu Levi, sed Benjamin;
+<lb ed="#P" n="17"/>signum ergo est id licuisse viris doctis in lege,
+<lb ed="#P" n="18"/>etiam si Levitae non essent. Quod vero 
+Chri<lb break="no" ed="#P" n="19"/>stus ejecit vendentes et ementes de templo ,
+<lb ed="#P" n="20"/>non id fecit ut sacerdos legalis , sed ut 
+Pro<lb break="no" ed="#P" n="21"/>pheta , zelum Dei habens , et excellentiorem
+<lb ed="#P" n="22"/>potestatem. Et ideo Matth. 21, et Joan. 2, a
+<lb ed="#P" n="23"/>Pharisaeis interrogabatur in qua potestate id
+<lb ed="#P" n="24"/>faceret.
+</p>
+                  <p xml:id="szstco-l01248-d1e1802">
+                     <lb ed="#P" n="25"/>6. Quale fuerit sacerdotium in lege uaturae.
+<lb ed="#P" n="26"/>— Sacerdotiwn Christi excellentius sacerdotio
+<lb ed="#P" n="27"/>legis natura.—bico tertio: sacerdotium 
+Chri<lb break="no" ed="#P" n="28"/>ti non fuit omnino ejusdem rationis cum 
+sa<lb break="no" ed="#P" n="29"/>cerdotio legis naturae , sed multo altioris et
+<lb ed="#P" n="30"/>perfectioris. Advertendum est , sicut in lege
+<lb ed="#P" n="31"/>naturae fuit aliquod sacrificiorum genus, quo
+<lb ed="#P" n="32"/>ritu publico et solemni colebatur Deus, ita
+<lb ed="#P" n="33"/>etiam fuisse aliquod genus sacerdotii, quia
+<lb ed="#P" n="34"/>(ut disimus) haec duo veluti correlativa sunt,
+<lb ed="#P" n="35"/>sacerdos et sacrificium ; tamen, sicut in illo
+<lb ed="#P" n="36"/>statu non fuerunt sacramenta , aut sacrificia
+<lb ed="#P" n="37"/>ab ipso Deo determinata , sed humano 
+arbi<lb break="no" ed="#P" n="38"/>trio determinabantur , ita nec modus aut 
+con<lb break="no" ed="#P" n="39"/>secratio sacerdotum erat a Deo praescriptus,
+<lb ed="#P" n="40"/>sed solum ex hominum electione aut 
+deputa<lb break="no" ed="#P" n="41"/>tione aliqui assumebantur, ad offerendum
+<lb ed="#P" n="42"/>Deo sacrificia, et intercedendum pro populo.
+<lb ed="#P" n="43"/>Et, Hieronymo teste, ac Ruperto, et aliis quos
+<lb ed="#P" n="44"/>statim in sequenti sectione citabimus, omnes
+<lb ed="#P" n="45"/>primogeniti ex stirpe Noe procedentes, 
+depu<lb break="no" ed="#P" n="46"/>tati erant eo tempore, ut sacerdotum munere
+<lb ed="#P" n="47"/>fungerentur ; et ita intelligendum est quod
+<lb ed="#P" n="48"/>dixit Anaclet. Pap., epist. 2 Decretal., 
+sacer<lb break="no" ed="#P" n="49"/>dotium sumpsisse initium ab Aaron : Quia,
+<lb ed="#P" n="50"/>licet aliqui, inquit, prius legantur sacrificium
+<lb ed="#P" n="51"/>obtulisse, ut Melchisedech, et Abraham, hi 
+ta<lb break="no" ed="#P" n="52"/>men spontanea, voluntate , non tamen 
+sacerdo<lb break="no" ed="#P" n="53"/>tali auctoritate hoc fecerunt. Intelligendum
+<lb ed="#P" n="54"/>enim hoc est de sacerdotio specialiter a Deo
+<lb ed="#P" n="55"/>instituto , quod speciali aliqua caeremonia
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>a Deo determinata confertur, atque adeo
+<lb ed="#P" n="57"/>de peculiari auctoritate et potestate a Deo
+<lb ed="#P" n="58"/>ipso collata ; hoc enim sacerdotii genus 
+ve<lb break="no" ed="#P" n="59"/>rum est ab Aaron incepisse. Nihilominus 
+ta<lb break="no" ed="#P" n="60"/>men certum est antea fuisse sacerdotes, 
+qua<lb break="no" ed="#P" n="61"/>les explicuimus ; nam de Melchisedech ait
+<lb ed="#P" n="62"/>Paulus ad Hebr. 7, fuisse sacerdotem Dei 
+al<lb break="no" ed="#P" n="63"/>tissimi. Qui tamen multo tempore Aaron
+<lb ed="#P" n="64"/>praecessit. Quod necessario intelligendum est
+<lb ed="#P" n="65"/>de illo sacerdotio, quod in usu erat tempore
+<lb ed="#P" n="66"/>legis naturae, ut indicavit Ambros., epist. 82,
+<lb ed="#P" n="67"/>ante medium ; et Chrys., hom. 35 in Genes.
+<lb ed="#P" n="68"/>Ex his ergo evidenter concluditur assertio 
+po<lb break="no" ed="#P" n="69"/>sita, quia sacerdotium Christi altioris ordinis
+<lb ed="#P" n="70"/>est, et alorem habet originem, quam 
+sacer<lb break="no" ed="#P" n="71"/>dotium Melchisedech ; ordinatum etiam est
+<lb ed="#P" n="72"/>ad offerendum sacrificium multo altioris 
+ordi<lb break="no" ed="#P" n="73"/>nis et rationis; habet etiam potestatem 
+ex<lb break="no" ed="#P" n="74"/>cellentiorem, et effectus potest efficere, qui
+<lb ed="#P" n="75"/>nullo modo poterant cadere sub sacerdotio in
+<lb ed="#P" n="76"/>lege natura; ergo sacerdotium Christi 
+infi<lb break="no" ed="#P" n="77"/>nita quadam ratione superavit legis naturae
+<lb ed="#P" n="78"/>sacerdotium. Et confirmatur, quia 
+sacerdo<lb break="no" ed="#P" n="79"/>tium legis novae multo perfectius est quam
+<lb ed="#P" n="80"/>sacerdotium legis naturae, quia sacrificium et
+<lb ed="#P" n="81"/>potestas ejus multo perfectiora sunt, ut per
+<lb ed="#P" n="82"/>se constat ; et tamen hoc sacerdotium est 
+in<lb break="no" ed="#P" n="83"/>ferius sacerdotio Christi, et participatio ejus;
+<lb ed="#P" n="84"/>ergo multo magis excedit sacerdotium Christi,
+<lb ed="#P" n="85"/>sacerdotium legis naturae.
+</p>
+                  <p xml:id="szstco-l01248-d1e1939">
+                     <lb ed="#P" n="86"/>7. Comparatio sacerdotii Christi cum 
+sacer<lb break="no" ed="#P" n="87"/>dotio legis naturae, veteris et uovae, et ipsorum
+<lb ed="#P" n="88"/>inter se. — Ex quibus colligitur primo, 
+sacer<lb break="no" ed="#P" n="89"/>dotium Christi esse cujusdam eminentioris
+<lb ed="#P" n="90"/>et altioris ordinis, habens in illo genere 
+infi<lb break="no" ed="#P" n="91"/>nitam quamdam dignitatem ratione personae;
+<lb ed="#P" n="92"/>unde possibile non est, tale genus sacerdotii
+<lb ed="#P" n="93"/>eodem modo et cum eadem perfectione alicui
+<lb ed="#P" n="94"/>purae creaturae communicari, sicut in 
+superio<lb break="no" ed="#P" n="95"/>ribus de dignitate capitis disimus ; est enim
+<lb ed="#P" n="96"/>eadeni ratio. Ex quo etiam constat triplex 
+il<lb break="no" ed="#P" n="97"/>lud genus sacerdotii, legis naturae, veteris et
+<lb ed="#P" n="98"/>novae, quod puris hominibus communicatur,
+<lb ed="#P" n="99"/>inferioris ordinis esse a sacerdotio Christi ;
+<lb ed="#P" n="100"/>quamvis omnia illa ad Christum aliquo modo
+<lb ed="#P" n="101"/>referantur , et aliquam similitudinem cum
+<lb ed="#P" n="102"/>ilius sacrificio habeant : sacrificium enim
+<lb ed="#P" n="103"/>legis naturae in hoc habuit proportiouem
+<lb ed="#P" n="104"/>quamdam cum sacerdotio Christi, quod 
+pri<lb break="no" ed="#P" n="105"/>mogenitis concedebatur, qui Christum 
+re<lb break="no" ed="#P" n="106"/>praesentabant , qui primogenitus est omnis
+<lb ed="#P" n="107"/>creaturae ; obtinebatur enim sine externa
+<lb ed="#P" n="108"/>unctione, aut visibili caeremonia, sicut 
+Chri<lb break="no" ed="#P" n="109"/>stus illud obtinuit ; interdum ctiam in 
+ex<lb break="no" ed="#P" n="110"/>terna specic rci oblatae in sacrificium simili-
+<pb ed="#P" n="454"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>tudinem habuit cum sacrificio Christi, ut de
+<lb ed="#P" n="2"/>Melchisedech statim dicemus. At vero 
+sacer<lb break="no" ed="#P" n="3"/>dotium legis vetcris similitudinem habuit cum
+<lb ed="#P" n="4"/>sacerdotio Christi, quia illius fuit umbra et 
+fi<lb break="no" ed="#P" n="5"/>gura, praesertim quoad sacrificium cruentum,
+<lb ed="#P" n="6"/>quod Christus obtulit. et quoad 
+sanctificatio<lb break="no" ed="#P" n="7"/>nem nostram , quod suo sanguine perfecit ;
+<lb ed="#P" n="8"/>sic enim per sacerdotium illud, legalis 
+sancti<lb break="no" ed="#P" n="9"/>ficatio per sanguinem fiebat, ut in epistola ad
+<lb ed="#P" n="10"/>Heb. late tractat Apostolus. Sacerdotium 
+au<lb break="no" ed="#P" n="11"/>tem legis novae simile est sacerdotio Christi
+<lb ed="#P" n="12"/>in potestate offerendi in sacrificium camdem
+<lb ed="#P" n="13"/>rem quam ipse obtulit, et in potestate 
+confe<lb break="no" ed="#P" n="14"/>rendi veram sanctitatem et remissionem 
+pec<lb break="no" ed="#P" n="15"/>catorum ; unde, quo haec similitudo major est,
+<lb ed="#P" n="16"/>eo hoc sacerdotium excedit in perfectione 
+an<lb break="no" ed="#P" n="17"/>tiqua sacerdotia. Quanto enim lex gratiae est
+<lb ed="#P" n="18"/>perfectior lege naturae et veteri, et quantum
+<lb ed="#P" n="19"/>veritas superat figuram, tanto hoc 
+sacerdo<lb break="no" ed="#P" n="20"/>tium reliqua antecedit. Unde tandem fit,
+<lb ed="#P" n="21"/>etiam si sacerdotium particulare 
+Melchise<lb break="no" ed="#P" n="22"/>dech, cum sacerdotio legis novae comparetur,
+<lb ed="#P" n="23"/>inferius esse ac minus perfectum, ut patet,
+<lb ed="#P" n="24"/>tum ex sacrificio oblato, tum ex potestate
+<lb ed="#P" n="25"/>utriusque sacerdotii. Unde si comparetur
+<lb ed="#P" n="26"/>cum sacerdotio ipsiusmet Christi , invenietur
+<lb ed="#P" n="27"/>tanto inferius quanto Melchisedech inferior
+<lb ed="#P" n="28"/>est Christo, ut ex sequeuti sectione magis
+<lb ed="#P" n="29"/>constabit, ubi solvemus ultimam rationem
+<lb ed="#P" n="30"/>dubitandi in principio hujus sectionis 
+posi<lb break="no" ed="#P" n="31"/>tam, reliquis enim satisfactum jam est.
+</p>
+               </div>
+               <div xml:id="szstco-l01248-Dd1e2068"><!-- szstco-p3q22-d46s4 -->
+                  <head xml:id="szstco-l01248-Hd1e2071">Sectio 4</head>
+                  <head xml:id="szstco-l01248-Hd1e2073" type="question-title">
+utrum christus sit sacerdos secundum ordinem
+melchisedech
+</head>
+                  <p xml:id="szstco-l01248-d1e2076">
+                     <lb ed="#P" n="32" type="fixed=454"/>SECTIO IV.
+<lb ed="#P" n="33"/>Utrum Christus sit sacerdos secundum ordinem
+<lb ed="#P" n="34"/>Melchisedech.
+</p>
+                  <p xml:id="szstco-l01248-d1e2085">
+                     <lb ed="#P" n="35"/>1. Ad explicandam quaestionem hanc, 
+opor<lb break="no" ed="#P" n="36"/>tet prius supponere quis fuerit hic 
+Melchise<lb break="no" ed="#P" n="37"/>dech, et quale fuerit sacerdotium ejus, 
+quod<lb break="no" ed="#P" n="38"/>ve sacrificium Deo obtulerit.
+</p>
+                  <p xml:id="szstco-l01248-d1e2096">
+                     <lb ed="#P" n="39"/>2. Heeresis de origine Melchisedech. — 
+Cir<lb break="no" ed="#P" n="40"/>ca primum variis modis erratum est, tam 
+cir<lb break="no" ed="#P" n="41"/>ca naturam quam circa personam 
+Melchise<lb break="no" ed="#P" n="42"/>dech. Quidam enim haeretici negarunt, illum
+<lb ed="#P" n="43"/>fuisse verum aliquem hominem, sed aliquam
+<lb ed="#P" n="44"/>spiritualem virtutem, quae assumpto corpore
+<lb ed="#P" n="45"/>Abrahae apparuit, Genes. 14. Quorum 
+funda<lb break="no" ed="#P" n="46"/>mentum esse potuit, quia Paul., ad Heb. 7,
+<lb ed="#P" n="47"/>cum fuisse dicit, sine patre, sine matre, ct 
+si<lb break="no" ed="#P" n="48"/>v genealogia. Quae non videntur vero homini
+<lb ed="#P" n="49"/>posse convenire, et quia ibidem Paulus 
+ad<lb break="no" ed="#P" n="50"/>dit, negue initium, neque finem dierum habuisse.
+<lb ed="#P" n="51"/>Ideo addiderunt etiam isti illum fuisse 
+per<lb break="no" ed="#P" n="52"/>sonam aliquam divinam, quae sola neque 
+ini<lb break="no" ed="#P" n="53"/>tium, neque finem habet. Et quia ibidem di-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>citur Melchisedech, assimilatus Filio Dei, 
+di<lb break="no" ed="#P" n="55"/>xerunt aliqui ex iis haereticis, non fuisse 
+per<lb break="no" ed="#P" n="56"/>sonam Rilii Dei, sed Spiritus Sancti. Quae 
+to<lb break="no" ed="#P" n="57"/>ta sententia habetur nomine Augustin. in q.
+<lb ed="#P" n="58"/>109 Veteris Testamenti , cum tamen sine 
+du<lb break="no" ed="#P" n="59"/>bio Augustini non sit ; ipse enim, lib. de 
+Hae<lb break="no" ed="#P" n="60"/>resib., inter haereses hanc refert, et est num.
+<lb ed="#P" n="61"/>34, cujus haeresis auctor fuit Hierax, ut 
+Epi<lb break="no" ed="#P" n="62"/>phan. refert, haer. 67, qui etiam in 55 refert
+<lb ed="#P" n="63"/>nounullos haereticos dixisse Melchisedech
+<lb ed="#P" n="64"/>fuisse quamdam virtutem majorem Filio Dei,
+<lb ed="#P" n="65"/>quia non trahit originem ab aliquo patre, 
+si<lb break="no" ed="#P" n="66"/>cut Filius Dei, et quia inter dignitates Christi
+<lb ed="#P" n="67"/>recensetur, quod fuerit assimilatus 
+Melchi<lb break="no" ed="#P" n="68"/>sedech in ordine sacerdotii. Alii vero 
+dixe<lb break="no" ed="#P" n="69"/>runt fuisse ipsam personam Filii Dei, quae in
+<lb ed="#P" n="70"/>Veteri Testamento saepe apparere solebat in
+<lb ed="#P" n="71"/>humana specie, et dicitur apparuisse 
+Abra<lb break="no" ed="#P" n="72"/>hae, Gen. 14, et repraesentasse Dei Filium,
+<lb ed="#P" n="73"/>seipsum oblaturum aliquando in sacrificium
+<lb ed="#P" n="74"/>in vera humana natura, et ideo dici, 
+assimi<lb break="no" ed="#P" n="75"/>latum Filio Dei, et sine patre, et sine matre,
+<lb ed="#P" n="76"/>etc. Alii tandem dixerunt fuisse aliquem 
+An<lb break="no" ed="#P" n="77"/>gelum in assumpto corpore humano, quia si
+<lb ed="#P" n="78"/>esset verus ac purus homo, non potuisset 
+es<lb break="no" ed="#P" n="79"/>se major Abraham, quia eo tempore nullus
+<lb ed="#P" n="80"/>homo erat in mundo, aut Deo charior, aut
+<lb ed="#P" n="81"/>majoris dignitatis et excellentiae, quam 
+Abra<lb break="no" ed="#P" n="82"/>ham. Et hujus sententiae fuerunt Origen., 
+Di<lb break="no" ed="#P" n="83"/>dymus, et alii, ut Hieronymus refert, tom. 3,
+<lb ed="#P" n="84"/>epist. 126, ad Evagrium.
+</p>
+                  <p xml:id="szstco-l01248-d1e2201">
+                     <lb ed="#P" n="85"/>3. Melchisedech verus et purus homo. — 
+Ne<lb break="no" ed="#P" n="86"/>ritas tamen catholica duo docet; primum,
+<lb ed="#P" n="87"/>Melchisedech fuisse verum hominem. 
+Secun<lb break="no" ed="#P" n="88"/>dum, fuisse purum hominem. Primum 
+do<lb break="no" ed="#P" n="89"/>cent Epiphan., August. et Hieronym. locis 
+ci<lb break="no" ed="#P" n="90"/>tatis. Idem August., lib. 16 de Civit., c. 22;
+<lb ed="#P" n="91"/>Ambros., lib. 5 de Fide, c. 3, et alii statim
+<lb ed="#P" n="92"/>citandi ; et colligitur aperte ex historia 
+Ge<lb break="no" ed="#P" n="93"/>nes., c. 14, ubi dicitur Melchisedech, rez 
+Sa<lb break="no" ed="#P" n="94"/>UDem, et sacerdos Dei altissimi, et emivisse 
+ob<lb break="no" ed="#P" n="95"/>viam Abrahee, et obtulisse panem et vinum, et
+<lb ed="#P" n="96"/>accepisse decimas ab AbLraham. Quae non 
+pos<lb break="no" ed="#P" n="97"/>sunt (servata historiae veritate) nisi in verum
+<lb ed="#P" n="98"/>hominem convenire. Contra fidem enim 
+his<lb break="no" ed="#P" n="99"/>toriae est, metaphorice et improprie illam 
+in<lb break="no" ed="#P" n="100"/>terpretari, praesertim sine necessitate, et 
+con<lb break="no" ed="#P" n="101"/>tra communem Patrum expositionem et 
+sen<lb break="no" ed="#P" n="102"/>sum. Secundum vero ex hoc primo sequitur,
+<lb ed="#P" n="103"/>quia secundum veram fidem humana natura
+<lb ed="#P" n="104"/>neque ante, neque post incarnationem Filii
+<lb ed="#P" n="105"/>Dei, alicui personae divinae est hypostaüce
+<lb ed="#P" n="106"/>unita. Cum ergo Melchisedech fuerit verus
+<lb ed="#P" n="107"/>homo, et tanto ante Christi incarnationem 
+ex<lb break="no" ed="#P" n="108"/>titerit, certum est nullam ex divinis personis
+<pb ed="#P" n="455"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>fuisse. Et eadem ratione constat non fuisse
+<lb ed="#P" n="2"/>Angelum ; quia neque in persona angelica
+<lb ed="#P" n="3"/>facta est, imo neque fieri potest hypostatica
+<lb ed="#P" n="4"/>unio; fuit ergo persona pure humana.
+</p>
+                  <p xml:id="szstco-l01248-d1e2269">
+                     <lb ed="#P" n="5"/>4. Quis autem ille fuerit, non mirum si
+<lb ed="#P" n="6"/>ignoretur, cum Paulus, sine patre, sine 
+ma<lb break="no" ed="#P" n="7"/>tre, et sine genealogia, illum fuisse dixerit.
+<lb ed="#P" n="8"/>Multi tamen ex catholicis scriptoribus 
+existi<lb break="no" ed="#P" n="9"/>marunt illum esse hominem Gentilem, ex
+<lb ed="#P" n="10"/>Cananaeis ortum. virum justum, et sanctum,
+<lb ed="#P" n="11"/>regem Jerusalem (quae prius Salem, postea
+<lb ed="#P" n="12"/>Jebus, tandem Jerusalem dicta est), et 
+sacer<lb break="no" ed="#P" n="13"/>dotem Dei altissimi; quanquam enim 
+exGenti<lb break="no" ed="#P" n="14"/>Iibus ortus esset, fidelis tamen erat, et verum
+<lb ed="#P" n="15"/>Deum colcbat, sicut Job fecisse legimnus. Ita
+<lb ed="#P" n="16"/>senserunt Irenaeus, Hippolytus, Euseb. 
+Caesa<lb break="no" ed="#P" n="17"/>riens., et Emissen., quos cum aliis refert
+<lb ed="#P" n="18"/>Hieronym.. in dicta epistola ad Evagrium,
+<lb ed="#P" n="19"/>quos secutus est Epiphan. supra; et 
+Theodo<lb break="no" ed="#P" n="20"/>ret., q. 63 in Genes.; Theophyl. et OEcumen.,
+<lb ed="#P" n="21"/>ad Heb., cap. 3.
+</p>
+                  <p xml:id="szstco-l01248-d1e2308">
+                     <lb ed="#P" n="22"/>5. Aliorum vero sententia, ex traditione
+<lb ed="#P" n="23"/>Hebraeorum sumpta, est Melchisedech fuisse
+<lb ed="#P" n="24"/>Sem primogenitum Noe, et unum ex 
+proge<lb break="no" ed="#P" n="25"/>nitoribus Abrahae. Quae sententia placuit 
+Hie<lb break="no" ed="#P" n="26"/>ronymo, citato loco, et lib. de Quaest. seu 
+tra<lb break="no" ed="#P" n="27"/>dition. Hebrai. in Genes.; et eam secutus est
+<lb ed="#P" n="28"/>Isidor., lib. de Vita et morte Prophetarum,
+<lb ed="#P" n="29"/>cap. 5; et Rupert. Abbas, lib. 5 de Trin. et
+<lb ed="#P" n="30"/>operibus ejus in Genes., cap. 12; Abulens.,
+<lb ed="#P" n="31"/>Lippom., Glossa et Lyra, Genes. 14. Quod si
+<lb ed="#P" n="32"/>haec sententia vera est, stare non potest quod
+<lb ed="#P" n="33"/>Ignatius, epistol. 9 ad Philadelphios docet,
+<lb ed="#P" n="34"/>Melchisedech fuisse virginem ; constat enim,
+<lb ed="#P" n="35"/>Sem filios genuisse. Quod vero Epiph. objicit,
+<lb ed="#P" n="36"/>Sem eo tempore fuisse jam mortuum, ex 
+fal<lb break="no" ed="#P" n="37"/>sa chronologia processit; constat enim ex
+<lb ed="#P" n="38"/>Scriptura Sem supervixisse Abrahae 35 annis,
+<lb ed="#P" n="39"/>nam Sem vixit 600 annis, 98 ante diluvium,
+<lb ed="#P" n="40"/>ct 502 post diluvium, Genes.11.Abraham vero
+<lb ed="#P" n="41"/>natus est 292 post diluvium, ut facile constat
+<lb ed="#P" n="42"/>ex eodem cap. 11 Genes.; unde fit 
+conse<lb break="no" ed="#P" n="43"/>quens, natum esse Abraham 390 anno vitae
+<lb ed="#P" n="44"/>Sem; vixit autem 175 annis, Genes. 25; fuit
+<lb ed="#P" n="45"/>ergo Sem superstes Abrahae annos 35.
+</p>
+                  <p xml:id="szstco-l01248-d1e2363">
+                     <lb ed="#P" n="46"/>6. Objectio.— Responsio. — Objectio.— 
+Res<lb break="no" ed="#P" n="47"/>ponsio. — At enim dicet aliquis : Sem habuit
+<lb ed="#P" n="48"/>patrem et matrem, et initium et finem 
+die<lb break="no" ed="#P" n="49"/>rum, tam re ipsa quam narratione , et 
+histc<lb break="no" ed="#P" n="50"/>ria Scripturae sacrae; at Paulus negat 
+Melchi<lb break="no" ed="#P" n="51"/>sedech omnia haec habuisse; ergo. 
+Respon<lb break="no" ed="#P" n="52"/>detur : primum, non intelligit Paulus 
+Melchi<lb break="no" ed="#P" n="53"/>sedech revera caruisse parentibus, nam sicut
+<lb ed="#P" n="54"/>verus et purus homo fuit, ita communi 
+alio<lb break="no" ed="#P" n="55"/>rum hominum more ortus cst, et vitae initium
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>habuit, et finem. Dicitur ergo his caruisse,
+<lb ed="#P" n="57"/>quod nibil illorum Scriptura de illo memorat;
+<lb ed="#P" n="58"/>cum tamen haec soleat diligenter 
+commemo<lb break="no" ed="#P" n="59"/>rare, praesertim cum insignium personarum
+<lb ed="#P" n="60"/>mentionem facit, et maxime quia, cum 
+Scri<lb break="no" ed="#P" n="61"/>ptura sacra non sine mysterio haec 
+praetermi<lb break="no" ed="#P" n="62"/>serit, sed in figuram Christi, Paulus 
+respi<lb break="no" ed="#P" n="63"/>ciens ad ipsam figuram, et ut eam explicaret,
+<lb ed="#P" n="64"/>eum his omnibus carere dixit, non absolute,
+<lb ed="#P" n="65"/>ut talis homo erat, sed ut in sacra Scriptura
+<lb ed="#P" n="66"/>de eo fit mentio, nam ut sic est figura Christi.
+<lb ed="#P" n="67"/>Et ita cessat objectio quae nomine Augustini
+<lb ed="#P" n="68"/>proponitur in illa q. 109 Veteris et Novi 
+Tes<lb break="no" ed="#P" n="69"/>tamenti, quia aliorum etiam fit mentio in
+<lb ed="#P" n="70"/>Scriptura, quorum parentes et genealogia in
+<lb ed="#P" n="71"/>ea non narrantur, et tamen non propterea
+<lb ed="#P" n="72"/>dicuntur iis carere. Respondetur enim (
+quid<lb break="no" ed="#P" n="73"/>quid de aliis sit) in nullo tamen ita factum
+<lb ed="#P" n="74"/>esse in significationem, et reprasentationem
+<lb ed="#P" n="75"/>Christi, qui matre caruit ut Deus, et patre ut
+<lb ed="#P" n="76"/>homo, ut Paulus significavit , et exposuerunt
+<lb ed="#P" n="77"/>Chrysost., hom. 12 ad Hebr.; Nazianz., orat.
+<lb ed="#P" n="78"/>38, in princip.; Ambros., dicta epist. 82. 
+Ad<lb break="no" ed="#P" n="79"/>dit praeterea Epiphan., Melchisedech dici 
+si<lb break="no" ed="#P" n="80"/>ne gencalogia, in genere sacerdotii, quia, 
+sci<lb break="no" ed="#P" n="81"/>licet, non jure haereditario , nec per 
+succes<lb break="no" ed="#P" n="82"/>sionem carnis sacerdotium habuit, imo neque
+<lb ed="#P" n="83"/>ex parentum doctrina aut exemplo, quia ex
+<lb ed="#P" n="84"/>gentilibus parentibus ortus creditur, quos
+<lb ed="#P" n="85"/>etiam Epiphan. nominat , nescio ex qua 
+tra<lb break="no" ed="#P" n="86"/>ditione, et patrem dicit vocatum esse 
+Era<lb break="no" ed="#P" n="87"/>clam, matrem vero Astaroth, seu Asteriam,
+<lb ed="#P" n="88"/>sed haec admodum incerta sunt. Supponendo
+<lb ed="#P" n="89"/>vero Melchisedech eumdem fuisse qui Sem,
+<lb ed="#P" n="90"/>addendum est , licet nomine Sem genealogia
+<lb ed="#P" n="91"/>ejus narretur in Scriptura, tamen sub nomine
+<lb ed="#P" n="92"/>Melchisedech, et regis ac sacerdotis, sub qua
+<lb ed="#P" n="93"/>Christum figurabat (ut infra dicemus) nullibi
+<lb ed="#P" n="94"/>cjus historia narratur, sed raptim, et quasi
+<lb ed="#P" n="95"/>obiter introducitur , nulla prius vel posterius
+<lb ed="#P" n="96"/>facta iliius mentione, nec parentum, nec facs
+<lb ed="#P" n="97"/>torum ejus, neque initii, aut finis illius usque
+<lb ed="#P" n="98"/>ad David ; qui eodem fere modo illius 
+memi<lb break="no" ed="#P" n="99"/>nit Psalm. 109, qui de Christo exponitur
+<lb ed="#P" n="100"/>Matth. 92, et subindicavit illum Christi 
+figu<lb break="no" ed="#P" n="101"/>ram fuisse, donec tandem Paul., ad Hebr. 7,
+<lb ed="#P" n="102"/>mysterium declaravit.
+</p>
+                  <p xml:id="szstco-l01248-d1e2491">
+                     <lb ed="#P" n="103"/>7. Melchisedech sacerdotium quale. — 
+Se<lb break="no" ed="#P" n="104"/>cundo loco, videndum est quale fuerit 
+Mel<lb break="no" ed="#P" n="105"/>chisedech sacerdotium, nam, an sacerdos
+<lb ed="#P" n="106"/>fuerit, non reliquit dubitandi locum Paulus
+<lb ed="#P" n="107"/>ad Hebraeos, cap. 7. Suppositis autem iis quae
+<lb ed="#P" n="108"/>praecedenti sectione dicta sunt, nihil fere hic
+<lb ed="#P" n="109"/>addendum occurrit. Dicendum est enim cum
+<lb ed="#P" n="110"/>Ambrosio, Chrysostomo, et aliis supra cita-
+<pb ed="#P" n="456"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>tis, fuisse sacerdotem eo modo et genere 
+sa<lb break="no" ed="#P" n="2"/>cerdotii, quod tempore legis naturae in usu
+<lb ed="#P" n="3"/>erat; neque enim visibili aliqua caeremonia
+<lb ed="#P" n="4"/>consecratus fuit, nec singularem aliquam 
+po<lb break="no" ed="#P" n="5"/>testatem aut dignitatem a Deo obtinuit, ut ex
+<lb ed="#P" n="6"/>Anacleto Papa, dicta epist. 2 Decretali, 
+aper<lb break="no" ed="#P" n="7"/>te colligitur, et ex Scriptura sacra aut ex 
+ali<lb break="no" ed="#P" n="8"/>qua alia historia aut traditione nihil aliud
+<lb ed="#P" n="9"/>cum fundamento affirmari potest, quanquam
+<lb ed="#P" n="10"/>verisimile sit, ex peculiari Dei instinctu et
+<lb ed="#P" n="11"/>inspiratione, motum esse Melchisedech ad
+<lb ed="#P" n="12"/>offerendum Deo certum genus sacrificii, quod
+<lb ed="#P" n="13"/>jam esplicabimus; ut enim supra dicebam,
+<lb ed="#P" n="14"/>in lege naturae non erant a Deo determinata
+<lb ed="#P" n="15"/>sacrificia, sed homines suo arbitrio, vel 
+for<lb break="no" ed="#P" n="16"/>lasse etiam communi aliqua consuetudine
+<lb ed="#P" n="17"/>pro diversitate regionum illa determinabant.
+<lb ed="#P" n="18"/>Quod ergo alii faciebant humano arbitrio,
+<lb ed="#P" n="19"/>potuit Melchisedech facere divino instinctu,
+<lb ed="#P" n="20"/>sicut Abraham interdum obtulit sacrificium
+<lb ed="#P" n="21"/>ex singulari Dei revelatione, Genes. 15; quod
+<lb ed="#P" n="22"/>licet certum non sit, fiet tamen probabile ex
+<lb ed="#P" n="23"/>iis quae dicemus.
+</p>
+                  <p xml:id="szstco-l01248-d1e2565">
+                     <lb ed="#P" n="24"/>8. Tertio loco explicandum est quale fuerit
+<lb ed="#P" n="25"/>sacrificium quod Melchisedech obtulit. 
+Catho<lb break="no" ed="#P" n="26"/>lici enim dicunt illum obtulisse sacrificium
+<lb ed="#P" n="27"/>panis et vini ; haeretici autem negant, ex 
+Scri<lb break="no" ed="#P" n="28"/>ptura sacra quidquam colligi posse de hoc
+<lb ed="#P" n="29"/>sacrificio Melchisedech, quia nec Paulus illius
+<lb ed="#P" n="30"/>mentionem facit, nec ex loco Genes. 14 
+ah<lb break="no" ed="#P" n="31"/>quid colligi potest ; quia ibi non obtulit 
+Mel<lb break="no" ed="#P" n="32"/>chisedech sacrificium Deo ex pane et vino,
+<lb ed="#P" n="33"/>sed tantum protulit panem et vinum, in 
+re<lb break="no" ed="#P" n="34"/>fectionem eorum qui ex praelio fatigati 
+venie<lb break="no" ed="#P" n="35"/>bant ; sic enim etiam vulgata lectio habet:
+<lb ed="#P" n="36"/>AMelchisedech, rev Salem, proferens panem et
+<lb ed="#P" n="37"/>vinuwn, id est, secum afferens, ut illa daret
+<lb ed="#P" n="38"/>Abrahamo, et sociis ejus, benediait ei, etc.
+<lb ed="#P" n="39"/>Quam expositionem videtur indicare 
+Chrysos<lb break="no" ed="#P" n="40"/>tomus, in Genes., et sensit etiam Cajet. ; 
+fa<lb break="no" ed="#P" n="41"/>vet Joseph., lib. 1 Antiquit., c. 18, dicens
+<lb ed="#P" n="42"/>Melchisedech Abraham convivio excepisse.
+<lb ed="#P" n="43"/>Unde consequenter negant baeretici in illo
+<lb ed="#P" n="44"/>facto Melchisedech intercessisse mysticam 
+fi<lb break="no" ed="#P" n="45"/>guram, vel significationem sacram incruenti
+<lb ed="#P" n="46"/>sacrifici Eucharistici a Christo oblati et 
+insti<lb break="no" ed="#P" n="47"/>tuti, quia solum fuit humanum quoddam 
+con<lb break="no" ed="#P" n="48"/>vivium, et beneficentiae opus. Quibus non 
+pa<lb break="no" ed="#P" n="49"/>rum videtur favere Paulus, ad Hebr. 7, qui
+<lb ed="#P" n="50"/>cum accurate explicet omnia illa , in quibus
+<lb ed="#P" n="51"/>Melchisedech videtur praefigurasse Christum,
+<lb ed="#P" n="52"/>de hac similitudine in ritu sacrificandi nihil
+<lb ed="#P" n="53"/>omnino dixit; quae tamen, si fuisset, 
+potissi<lb break="no" ed="#P" n="54"/>mum explicanda erat, cum esset omnium
+<lb ed="#P" n="55"/>maxima.
+</p>
+                  <p xml:id="szstco-l01248-d1e2638">
+                     <cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>9. Sacrificium Melchisedech typus 
+Eucha<lb break="no" ed="#P" n="57"/>ristire. — Nihilominus constans et certa 
+veri<lb break="no" ed="#P" n="58"/>tas est, et Melchisedech illo facto adumbrasse
+<lb ed="#P" n="59"/>Eucharistiae sacramentum et sacrificium, et
+<lb ed="#P" n="60"/>protulisse panem et vinum non solum in 
+cor<lb break="no" ed="#P" n="61"/>poralem refectionem, sed in religiosum 
+cui<lb break="no" ed="#P" n="62"/>tum et sacrificium, quod Deo obtulit in 
+gra<lb break="no" ed="#P" n="63"/>tiarum actionem pro victoria Abrahae. Ita
+<lb ed="#P" n="64"/>sentiunt Patres fere omnes antiqui, qui inde
+<lb ed="#P" n="65"/>colligunt, ordinarium modum et ritum 
+sacri<lb break="no" ed="#P" n="66"/>ficandi Melchisedech, fuisse per oblationem
+<lb ed="#P" n="67"/>panis et vini. Quod primum probari potest ex
+<lb ed="#P" n="68"/>ila particula causali, quae interponitur in 
+lo<lb break="no" ed="#P" n="69"/>co Genesis ; sic enim dicitur : Melchisedech,
+<lb ed="#P" n="70"/>proferens panem et vimm (erat enim 
+sacer<lb break="no" ed="#P" n="71"/>dos Dei altissimi) bDenedizit ei, ctc. Quae 
+cau<lb break="no" ed="#P" n="72"/>salis inepta esset, nisi illa oblatio panis et
+<lb ed="#P" n="73"/>vini esset sacra, et ad munus sacerdotis 
+spec<lb break="no" ed="#P" n="74"/>tans. Respondent illam causalem non essc
+<lb ed="#P" n="75"/>conjungendam cum antecedentibus, sed cum
+<lb ed="#P" n="76"/>sequentibus verbis, ut reddatur causa, non
+<lb ed="#P" n="77"/>cur panem protulerit, sed cur ei benedixerit.
+<lb ed="#P" n="78"/>Sed hoc est vim inferre litterae, quia (ut ex
+<lb ed="#P" n="79"/>omni usu rectae locutionis constat) particula,
+<lb ed="#P" n="80"/>enim, in hujusmodi genere narrationis, non
+<lb ed="#P" n="81"/>reddit causam rei narrandae, sed jam 
+narra<lb break="no" ed="#P" n="82"/>tae; ut, ad Eph. 5 ait Paulus : Ut filii lucis
+<lb ed="#P" n="83"/>ambulate. Et statim subdit : Fructus enim 
+lu<lb break="no" ed="#P" n="84"/>cis est in omni bDonitate. Et in illo capite sunt
+<lb ed="#P" n="85"/>multa exempla similia, et passim in 
+Scriptu<lb break="no" ed="#P" n="86"/>ra, et de seres est manifesta. Adde etiam, ad
+<lb ed="#P" n="87"/>benedicendum non oportuisse esse 
+sacerdo<lb break="no" ed="#P" n="88"/>tem, nam parentes aut seniores benedicere
+<lb ed="#P" n="89"/>possunt.
+</p>
+                  <p xml:id="szstco-l01248-d1e2716">
+                     <lb ed="#P" n="90"/>10. Difficilius tamen eludi potest haec 
+litte<lb break="no" ed="#P" n="91"/>ra respondendo, in graecis et hebraicis 
+exem<lb break="no" ed="#P" n="92"/>plaribus non haberi particulam causalem,
+<lb ed="#P" n="93"/>enim, sed copulativam, et, ut est in Hebraeo,
+<lb ed="#P" n="94"/>vel, autem, ut est in graeco, apud 
+Septuagin<lb break="no" ed="#P" n="95"/>ta. Nobis vero vulgata lectio sufficiat ad fidem
+<lb ed="#P" n="96"/>faciendam, nam particula illa, quae apud 
+He<lb break="no" ed="#P" n="97"/>braeos est copulativa, saepe aequivalet causali,
+<lb ed="#P" n="98"/>ut notat Sanctus Pagninus, lib. 1 Institut. ,
+<lb ed="#P" n="99"/>cap. 24, et ideo merito interpres vulgatus 
+ve<lb break="no" ed="#P" n="100"/>rum sensum assecutus, ut ambiguitatem 
+tol<lb break="no" ed="#P" n="101"/>leret, particulam causalem posuit, quia 
+pro<lb break="no" ed="#P" n="102"/>pter nullam aliam causam ibi interposita fuit
+<lb ed="#P" n="103"/>mentio sacerdotii Melchisedech, nisi ut 
+red<lb break="no" ed="#P" n="104"/>deretur causa actionis, quam tunc exercuit.
+<lb ed="#P" n="105"/>Quod secundo probatur veterum expositione,
+<lb ed="#P" n="106"/>et testimoniis. Clemens Alexand., 4 
+Stroma<lb break="no" ed="#P" n="107"/>tum, circa finem, dicit, Melchisedech panem
+<lb ed="#P" n="108"/>sacrificatum Deo, obtulisse Abrahamo in 
+refec<lb break="no" ed="#P" n="109"/>tionem. Quo verbo non satis explicat, an ille
+<lb ed="#P" n="110"/>panis fuerit antea sacrificatus, vel ibi coram
+<pb ed="#P" n="457"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>Abrabam ; quidquid vero horum dicatur, non
+<lb ed="#P" n="2"/>multum ad praesentem quaestionem refert.
+<lb ed="#P" n="3"/>Epiphan., haeres. 35, dicit, A/raham 
+obtulis<lb break="no" ed="#P" n="4"/>se decimas sacerdoti in preputio sacra 
+cele<lb break="no" ed="#P" n="5"/>branti. Theodoret., q. 63 in Genes., inquit ,
+<lb ed="#P" n="6"/>Melchisedech dedisse Abrahee panes et vinum,
+<lb ed="#P" n="7"/>prout moris erat Deo omnium talia offerre,
+<lb ed="#P" n="8"/>animadcertebat enim, et in hoc typum 
+patefie<lb break="no" ed="#P" n="9"/>ri. Damasc., lib. 4 deFide, c. 14, dicit, 
+men<lb break="no" ed="#P" n="10"/>sam illaan, nostram adumbrasse. Idem fere 
+Eu<lb break="no" ed="#P" n="11"/>seb., lib. 5 Demonstrat. Evang., c. 2 et 3. Et
+<lb ed="#P" n="12"/>Caesarius, homil. 5 de Paschate, tom. 7 
+Bi<lb break="no" ed="#P" n="13"/>blior. sanct.; et hoc magis sentit Chrysost.,
+<lb ed="#P" n="14"/>hom. 25 in Genes., dicens, illum panem et 
+vi<lb break="no" ed="#P" n="15"/>nun fuisse figuram Eucharistie.Item Eucher.
+<lb ed="#P" n="16"/>ibi. Ex Latinis, Cyprian., lib. 2, epist. 3, et
+<lb ed="#P" n="17"/>serm. de Caena Domini, dicit, ia oblatione
+<lb ed="#P" n="18"/>Melchisedech figuratam esse incruentam 
+Chri<lb break="no" ed="#P" n="19"/>sti oblationem ; et Ambrosius, ad Hebr., c. 5,
+<lb ed="#P" n="20"/>dicit Scripturam semel tantum fecisse 
+men<lb break="no" ed="#P" n="21"/>tionem oblationis Melchisedech, ad 
+signifi<lb break="no" ed="#P" n="22"/>candam perfectionem sacrificii Christi, guz
+<lb ed="#P" n="23"/>vna oblaticne consummacvit sanctificatos. In
+<lb ed="#P" n="24"/>nullo autem loco fit ejus mentio, nisi Genes.
+<lb ed="#P" n="25"/>14. Et lib. de Iis qui initiantur, c. 8, dicit 
+Mel<lb break="no" ed="#P" n="26"/>chisedech obtulisse quae Abraham veneratus
+<lb ed="#P" n="27"/>accepit, per verbum illud, ceneratus , satis
+<lb ed="#P" n="28"/>declarans illam oblationem fuisse sacram ; 
+si<lb break="no" ed="#P" n="29"/>milia habet lib. 4 de Sacrament., c. 3; in lib.
+<lb ed="#P" n="30"/>autem 1 de Abraham, c.3, dicit, Abraham 
+sa<lb break="no" ed="#P" n="31"/>crificasse Deo, Genes. 14; intelligi autem 
+de<lb break="no" ed="#P" n="32"/>bet sacrificasse per Melchisedech ; sic enim
+<lb ed="#P" n="33"/>ipse exposuisse videtur, lib. 3 de Fide, c. 5,
+<lb ed="#P" n="34"/>dicens : /llum Melchisedech, per quem 
+Abra<lb break="no" ed="#P" n="35"/>ham hostias Deo obtulit, non Angelum utique
+<lb ed="#P" n="36"/>secuudum Judaaca ludibria intellecit Ecclesia,
+<lb ed="#P" n="37"/>sed virum sanctum, ac sacerdotem Dei, typum
+<lb ed="#P" n="38"/>gerentem Domini, eic. In eadem sententia est
+<lb ed="#P" n="39"/>Hieronym., in citata epistola ad Evag., et1
+<lb ed="#P" n="40"/>tom., epistola decima septima ad Marcel., ut
+<lb ed="#P" n="41"/>commigret Bethleem, et Matth. 26, et 
+habe<lb break="no" ed="#P" n="42"/>tur in cap. Accipite, de Consecrat. , dist. 2.
+<lb ed="#P" n="43"/>Augustinus etiam, lib. 1 contra Adversar.
+<lb ed="#P" n="44"/>leg. et prophet., c. 20, et lib. 16 de Civit., c.
+<lb ed="#P" n="45"/>22. dicit, ibi primum apparuisse sacriflcium,
+<lb ed="#P" n="46"/>quod a Christianis offertur Deo toto orbe 
+ter<lb break="no" ed="#P" n="47"/>rarun. ldem fere lib. 17, c. 17, et conc. 1 in
+<lb ed="#P" n="48"/>Psal. 33, et exponens illa verba Psal. 109:
+<lb ed="#P" n="49"/>Tu es sacerdos in eternum. Ubi Cassiodor.,
+<lb ed="#P" n="50"/>et alii antiqui expositores. Idem Isidor., lib.
+<lb ed="#P" n="51"/>7 Etymolog., c. 6, et lib. Allegoriar., circa
+<lb ed="#P" n="52"/>princip. Ac denique in Concil. Aquisgranensi,
+<lb ed="#P" n="53"/>tempore Pipini celebzato, lib. 1, c. 17 et 48:
+<lb ed="#P" n="54"/>dicit, Melchisedech in eo facto typum gessisse
+<lb ed="#P" n="55"/>Christi. Et expressius Tridentinum, sess. 22,
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>cap. 1: Christus , inquit , sacerdotem 
+secun<lb break="no" ed="#P" n="57"/>dum ordinem Melchisedech, se in aeterumn 
+con<lb break="no" ed="#P" n="58"/>stitutum declarans, corpus et sanguinem suum
+<lb ed="#P" n="59"/>sub speciebus panis et vini Deo Patri obtulit.
+<lb ed="#P" n="60"/>Quibus verbis satis significavit Concilium 
+ob<lb break="no" ed="#P" n="61"/>tulisse Melchisedech sacrificium, quod figura
+<lb ed="#P" n="62"/>fuit incruenti sacrificii, a Christo oblati; hac
+<lb ed="#P" n="63"/>enim ratione Christus, offerendo tale 
+sacrifi<lb break="no" ed="#P" n="64"/>cium, declaravit se esse illum sacerdotem
+<lb ed="#P" n="65"/>aeternum, in Melchisedech figuratum, et 
+pro<lb break="no" ed="#P" n="66"/>pterea in canone Missae dicitur : Et quod
+<lb ed="#P" n="67"/>tibi obtulit summus tuus sacerdos 
+Melchise<lb break="no" ed="#P" n="68"/>dech, sanctum sacrificium, immaculatam 
+hos<lb break="no" ed="#P" n="69"/>tiam. Et in officio de Eucharistia canit 
+Ec<lb break="no" ed="#P" n="70"/>clesia: Sacerdos iu eternum Christus 
+Domi<lb break="no" ed="#P" n="71"/>minus secundum ordinem Melchisedech panem
+<lb ed="#P" n="72"/>et vinum obtulit. Denique etiam antiquos 
+He<lb break="no" ed="#P" n="73"/>braeos ita intellexisse locum Genesis, et 
+obla<lb break="no" ed="#P" n="74"/>tionem Melchisedech , referunt Galatinus ,
+<lb ed="#P" n="75"/>lib. 10 de Arcanis cathol. verit., c. 4,5 et7;
+<lb ed="#P" n="76"/>Genebrar., in Chronograph., in 3 ZEtate, pag.
+<lb ed="#P" n="77"/>13, in tom. 5 Bibliot. sanct. ; Rabbi Samuel,
+<lb ed="#P" n="78"/>lib. de Adventu Mes., c. 19, sic inquit : 
+Mel<lb break="no" ed="#P" n="79"/>chisedcch sacrificium Deo instituit in pane et
+<lb ed="#P" n="80"/>vino, ezc quibus communicavit Abraham 
+ami<lb break="no" ed="#P" n="81"/>cim Dei ; aperte significans simul fuisse
+<lb ed="#P" n="82"/>illum panem, figuram nostri sacrificii et 
+sa<lb break="no" ed="#P" n="83"/>cramenti. Quomodo etiam dixit Rabbi 
+Moy<lb break="no" ed="#P" n="84"/>ses, citatus a dictis auctoribus, Melchisedech
+<lb ed="#P" n="85"/>convivio ercepisse Abrahamum e bello 
+rever<lb break="no" ed="#P" n="86"/>tentem, pane et vino de ritu gentis solenniter
+<lb ed="#P" n="87"/>prius oblato. Etenim, cum Abraham tunc 
+vic<lb break="no" ed="#P" n="88"/>tor rediret, et spolia inimicorum secum 
+fer<lb break="no" ed="#P" n="89"/>ret, conjectare possumus , non admodum 
+in<lb break="no" ed="#P" n="90"/>diguisse tunc pane et vino ad solam 
+corpora<lb break="no" ed="#P" n="91"/>lem refectionem, sed fuisse illam aliquam
+<lb ed="#P" n="92"/>religiosam caeremoniam in gratiarum 
+actio<lb break="no" ed="#P" n="93"/>nem. Alia denique conjectura esse potest ,
+<lb ed="#P" n="94"/>quia cum sacerdotium Melchisedech, et ordo
+<lb ed="#P" n="95"/>illius adeo sit celebris in Scriptura sacra, non
+<lb ed="#P" n="96"/>est verisimile, ritum illius sacerdotii nullibi
+<lb ed="#P" n="97"/>esse indicatum.
+</p>
+                  <p xml:id="szstco-l01248-d1e2981">
+                     <lb ed="#P" n="98"/>11. His positis, veniamus jam ad 
+proposi<lb break="no" ed="#P" n="99"/>tam quaestionem de Christi sacerdotio 
+secun<lb break="no" ed="#P" n="100"/>dum ordinem Melchisedech. In qua breviter
+<lb ed="#P" n="101"/>dicendum est. primo, Christum esse 
+sacerdo<lb break="no" ed="#P" n="102"/>tem in aeternum secundum ordinem 
+Melchbi<lb break="no" ed="#P" n="103"/>sedech. Hoc est de fide, ex testimonio Psal.
+<lb ed="#P" n="104"/>109, quem de se exponit Christus, Matth. 22.
+<lb ed="#P" n="105"/>quia in primis illis verbis: Dirit Dominus 
+Do<lb break="no" ed="#P" n="106"/>mino meo, David introducit Patrem aeternum
+<lb ed="#P" n="107"/>ad Filium seu Messiam et Christum 
+loquen<lb break="no" ed="#P" n="108"/>tem ; nullum enim alium, David vocasset 
+Do<lb break="no" ed="#P" n="109"/>minum suum, neque alicui homini, nisi esset
+<lb ed="#P" n="110"/>naturalis Filius, diceret Pater : Sede a deatris
+<pb ed="#P" n="458"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>ineis, etc., ut ponderavit Paul., ad Heb. 2; et
+<lb ed="#P" n="2"/>inferius similiter introducit Patrem dicentem
+<lb ed="#P" n="3"/>Filio : Ea utero ante luciferum genui te. 
+Sta<lb break="no" ed="#P" n="4"/>tim vero mutata persona, David inquit : 
+Ja<lb break="no" ed="#P" n="5"/>ravit Dominus, et non pomnitebit eum, tu es 
+sa<lb break="no" ed="#P" n="6"/>cerdos in eternum, secundum ordinem 
+Melchi<lb break="no" ed="#P" n="7"/>sedect. Nullius enim regnum vel sacerdotium
+<lb ed="#P" n="8"/>aeternum esse potest, nisi solius Christi. Unde
+<lb ed="#P" n="9"/>facile convincuntur Hebraei, qui de Abraham
+<lb ed="#P" n="10"/>vel David Psalmum hunc interpretantur ; in
+<lb ed="#P" n="11"/>neutrum enim eorum convenire possunt 
+om<lb break="no" ed="#P" n="12"/>nia, quae de Domino, ad quem Dominus 
+locu<lb break="no" ed="#P" n="13"/>tus est, in hoc Psalmo dicuntur. Addendum
+<lb ed="#P" n="14"/>vero est sacerdotem in eo testimonio proprie
+<lb ed="#P" n="15"/>sumi ; haeretici enim, et nonnulli ex Hebraeis
+<lb ed="#P" n="16"/>dicunt solum significare regem aut 
+princi<lb break="no" ed="#P" n="17"/>pem; saepe enim iu Scriptura vox haec in hac
+<lb ed="#P" n="18"/>significatione sumitur; 2 Regum S, filii 
+Da<lb break="no" ed="#P" n="19"/>vid, sacerdotes dicuntur, id est, viri principes,
+<lb ed="#P" n="20"/>ut constat ex simili loco, 1 Paralip. 18; neque
+<lb ed="#P" n="21"/>cnim esse poterant proprii sacerdotes, cum
+<lb ed="#P" n="22"/>non essent de tribu Levi. Vel certe dicunt 
+si<lb break="no" ed="#P" n="23"/>gnificare cultorem Dei, quod etiam significare
+<lb ed="#P" n="24"/>solet illa vox, ut Exod. 19: Evritis mihi in 
+re<lb break="no" ed="#P" n="25"/>gnum sacerdotale. Sed imprimis neutra harum
+<lb ed="#P" n="26"/>significationum propria est, sed translata, et
+<lb ed="#P" n="27"/>ideo non est ad illas recurrendum, quando
+<lb ed="#P" n="28"/>littera non cogit; sed proprietas est tenenda
+<lb ed="#P" n="29"/>verborum; alias nullum certum sensum in
+<lb ed="#P" n="30"/>Scriptura habere possemus. Praesertim quod
+<lb ed="#P" n="31"/>nulla earum significationum quadrat cum loco
+<lb ed="#P" n="32"/>Genesis 14, ad quem alludit David in dictis
+<lb ed="#P" n="33"/>verbis. Quod enim ibi non significet regem,
+<lb ed="#P" n="34"/>constat , tum quia jam fuerat dictus rez, et
+<lb ed="#P" n="35"/>postea dicitur sacerdos ; sunt ergo duo 
+distin<lb break="no" ed="#P" n="36"/>cta ; tum etiam quia non ita commode exponi
+<lb ed="#P" n="37"/>potest, rez Dei altissimi, sicut, sacerdos Dei 
+al<lb break="no" ed="#P" n="38"/>tissimi, nisi recurrendo ad alios 
+metaphori<lb break="no" ed="#P" n="39"/>cos sensus, ut rex Dei dicatur, id est, rex 
+ma<lb break="no" ed="#P" n="40"/>gnus, rex insignis, sicut, Genesis 93, 
+Abra<lb break="no" ed="#P" n="41"/>ham dicitur princeps Dei. Neque etiam 
+signi<lb break="no" ed="#P" n="42"/>ficare potest solum cultorem Dei quia haec
+<lb ed="#P" n="43"/>non fuisset sufficiens ratio aut oblati sacrificii,
+<lb ed="#P" n="44"/>aut excellentioris dignitatis, propter quam et
+<lb ed="#P" n="45"/>benedixit Abrahae , et ab illo decimas recepit
+<lb ed="#P" n="46"/>tanquam major, cum tamen Abraham etiam
+<lb ed="#P" n="47"/>esset eximius cultor Dei. Praeterea verbum 
+il<lb break="no" ed="#P" n="48"/>lud David : Tu es sacerdos in eeternum secundum
+<lb ed="#P" n="49"/>ordinem Melchisedech, satis aperte indicat 
+ser<lb break="no" ed="#P" n="50"/>monem esse de vero ac proprio ordine 
+sacer<lb break="no" ed="#P" n="51"/>dotali. Denique Paul., ad Heb. 7, ita intellexit,
+<lb ed="#P" n="52"/>et omnes Patres supra citati ita exponunt.
+<lb ed="#P" n="53"/>12. Christus quomodo sacerdos secundum
+<lb ed="#P" n="54"/>ordinem Melchisedech. — Melchisedech, figura
+<lb ed="#P" n="55"/>Christi, quomodo. — Dico secundo : Christus
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>dicitur sacerdos secundum ordinem 
+Melchi<lb break="no" ed="#P" n="57"/>sedech, in ratione repraesentati et 
+repraesen<lb break="no" ed="#P" n="58"/>tantis. Explicatur : non enim potest dici 
+sa<lb break="no" ed="#P" n="59"/>cerdos secundum illum ordinem, quia 
+ha<lb break="no" ed="#P" n="60"/>buerit sacerdotium formaliter ejusdem 
+ratio<lb break="no" ed="#P" n="61"/>nis, hoc enim falsum esse, supra ostensum
+<lb ed="#P" n="62"/>est; nec quia sacerdotium Christi fuerit 
+par<lb break="no" ed="#P" n="63"/>ticipatum, vel institutum a Melchisedech,
+<lb ed="#P" n="64"/>cum sacerdotium Christi fuerit multo 
+excel<lb break="no" ed="#P" n="65"/>lentius, et altioris ordinis et originis; dicitur
+<lb ed="#P" n="66"/>ergo Christus sacerdos, quodam 
+excellentis<lb break="no" ed="#P" n="67"/>simo genere sacerdotii aeterni, cujus typum
+<lb ed="#P" n="68"/>et singularem figuram gessit Melchisedech;
+<lb ed="#P" n="69"/>et hac ratione dicitur Christus sacerdos 
+se<lb break="no" ed="#P" n="70"/>cundum illum ordinem. Ita collicitur ex 
+cita<lb break="no" ed="#P" n="71"/>tis Patribus, et ex Paulo, ad Heb. 7, qui hac
+<lb ed="#P" n="72"/>ratione dixit Melchisedech fuisse assimilatum
+<lb ed="#P" n="73"/>Filio Dei, quia fuit figura ejus; explicat autem
+<lb ed="#P" n="74"/>Paulus multa, in quibus Melchisedech 
+figura<lb break="no" ed="#P" n="75"/>vit Christum. Primum, in nominis notatione,
+<lb ed="#P" n="76"/>dicitur enim Melchisedech , id est, Rex 
+justi<lb break="no" ed="#P" n="77"/>tit. Solus enim Christus est verus justitiae
+<lb ed="#P" n="78"/>rex, et essentialiter ut Deus, et secundario in
+<lb ed="#P" n="79"/>quantum homo, quia judicabit populum in
+<lb ed="#P" n="80"/>justitia, ut dicitur Psalm. 71, et quia per eum
+<lb ed="#P" n="81"/>facta est justitia, ut ibidem dicitur; ex 
+per<lb break="no" ed="#P" n="82"/>fecta enim justitia Deo satisfecit. Secundo,
+<lb ed="#P" n="83"/>ex notatione officii, dicitur enim Rex Salem,
+<lb ed="#P" n="84"/>id est, Rex pacis; Christus enim est vera pax
+<lb ed="#P" n="85"/>nostra, nam per sanguinem suum pacificacit
+<lb ed="#P" n="86"/>quae in caelis et in terra sunt, ad Ephes. 2, et
+<lb ed="#P" n="87"/>ad Coloss. 1, et Rex coelestis Jerusalem, ubi
+<lb ed="#P" n="88"/>est vera pax, Psalm. 147. Tertio, quia 
+Mel<lb break="no" ed="#P" n="89"/>chisedech introducitur , sine patre, et sine
+<lb ed="#P" n="90"/>iatre, ad significandum Christi divinitatem,
+<lb ed="#P" n="91"/>et humanitatem quia in quantum Deus 
+ma<lb break="no" ed="#P" n="92"/>tre, in quantum homo vero, patre caret, ut
+<lb ed="#P" n="93"/>supra cum Nazianz., Chrysost., et aliis 
+Patri<lb break="no" ed="#P" n="94"/>bus exposuimus. Ouarto simihter introducitur
+<lb ed="#P" n="95"/>Melchisedech, megue initium dierum, neque
+<lb ed="#P" n="96"/>finem citae habens, quia in Scriptura, neque
+<lb ed="#P" n="97"/>initium, neque finis ejus commemoratur, 
+ne<lb break="no" ed="#P" n="98"/>que quod aliquis illi in sacerdotio successerit,
+<lb ed="#P" n="99"/>quo significata est aeternitas sacerdotii 
+Chri<lb break="no" ed="#P" n="100"/>sti, cui aliud non successit, sed perpetuum
+<lb ed="#P" n="101"/>manet, ut supra circa litteram D. Thom. 
+ex<lb break="no" ed="#P" n="102"/>plicatum est. Quinto, excellentius fore 
+sacer<lb break="no" ed="#P" n="103"/>dotium Christi, quam legale, in eo 
+praefigura<lb break="no" ed="#P" n="104"/>tum est, quod Melchisedech benedixit 
+Abra<lb break="no" ed="#P" n="105"/>hae : Sine ulla vero contradictione, inquit Paul.
+<lb ed="#P" n="106"/>qui minor est, a majori benedicitur ; e 
+conver<lb break="no" ed="#P" n="107"/>so autem Abraham obtulit decimas 
+Melchise<lb break="no" ed="#P" n="108"/>dech tanquam superiori, in Abrahamo autem
+<lb ed="#P" n="109"/>decimata est tribus Levi, quae in illius Iumbis
+<lb ed="#P" n="110"/>continebatur.
+</p>
+                  <p xml:id="szstco-l01248-d1e3257">
+                     <pb ed="#P" n="459"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>13. Dubium. — Responsio. — Ubi 
+obser<lb break="no" ed="#P" n="2"/>vandum primo est, Christum non fuisse 
+deci<lb break="no" ed="#P" n="3"/>matur, quia non continebaturin lumbis 
+Abra<lb break="no" ed="#P" n="4"/>hae, secundum rationem seminalem, sed 
+tan<lb break="no" ed="#P" n="5"/>tum secundum corpulentam substantiam, ut
+<lb ed="#P" n="6"/>August. loquitur, lib. 10 Genes. ad lit., c.
+<lb ed="#P" n="7"/>20 : cet D. Thom. infra, q. 31, art. S. 
+Secun<lb break="no" ed="#P" n="8"/>do, est observandum, litteram Genes. videri
+<lb ed="#P" n="9"/>posse ambiguam (ut Hier. supra notavit) ; sic
+<lb ed="#P" n="10"/>enim habet: At cero Melchisedech,rea Salem,
+<lb ed="#P" n="11"/>proferens panem et vinum, etc.; et postea
+<lb ed="#P" n="12"/>subdit : Et dedit ei decimas ex omnilus ; non
+<lb ed="#P" n="13"/>explicat autem uter alteri dederit. Propter
+<lb ed="#P" n="14"/>quod nonnulli ex Hebraeis contendunt potius
+<lb ed="#P" n="15"/>Melchisedech dedisse decimas suae substantiae
+<lb ed="#P" n="16"/>Abrahamo, quia hoc magis videtur sonare
+<lb ed="#P" n="17"/>ordo et contextus litterae. Sed nihilominus
+<lb ed="#P" n="18"/>certum est Abraham dedisse decimas 
+Melchi<lb break="no" ed="#P" n="19"/>sedech, ex omnibus spoliis quae ex hostibus
+<lb ed="#P" n="20"/>reportabat ; primum quod ita exponat Paul.,
+<lb ed="#P" n="21"/>ad Heb. 7, qui tamen cum Hebraeis scriberet,
+<lb ed="#P" n="22"/>non eis exponeret Scripturam, nisi juxta 
+re<lb break="no" ed="#P" n="23"/>ceptum apud antiquos Hebraeos sensum. 
+Se<lb break="no" ed="#P" n="24"/>cundo, quanquam D. Hieronymus supra 
+di<lb break="no" ed="#P" n="25"/>cat, etiam apud Septuaginta ambiguam esse
+<lb ed="#P" n="26"/>litteram, tamen prout nunc reperitur in 
+Bi<lb break="no" ed="#P" n="27"/>bliis Complutensibus, nulla est ambiguitas,
+<lb ed="#P" n="28"/>sic enim habent : Et dedit ei Abraham 
+deci<lb break="no" ed="#P" n="29"/>mas ez omnibus, quod etiam aperte dixit 
+Jo<lb break="no" ed="#P" n="30"/>seph., lib. 4 Antiquit., cap. 18, his verbis:
+<lb ed="#P" n="31"/>Abraham vero dante ei decimas spoliorum, 
+ma<lb break="no" ed="#P" n="32"/>nus accepit. Tertio, ex ipsa littera potest 
+va<lb break="no" ed="#P" n="33"/>riis modis colligi : tum quia absolute dicat,
+<lb ed="#P" n="34"/>er omnibus, videtur plane referre res aliquas,
+<lb ed="#P" n="35"/>de quibus facta fuerat mentio; non dixerat
+<lb ed="#P" n="36"/>autem Melchisedech attulisse res aliquas, ex
+<lb ed="#P" n="37"/>quibus decimas solveret, de Abrahamo 
+au<lb break="no" ed="#P" n="38"/>tem dixerat reduxisse omnem substantiam
+<lb ed="#P" n="39"/>Sodomorum, et Loth fratris sui, et hostium ;
+<lb ed="#P" n="40"/>ad haec ergo spolia fit relatio, cum dicitur
+<lb ed="#P" n="41"/>dedisse omnium decimas ; tum etiam quia
+<lb ed="#P" n="42"/>praedicitur Melchisedech fuisse sacerdotem ;
+<lb ed="#P" n="43"/>non est autem sacerdotis dare, sed recipere
+<lb ed="#P" n="44"/>decimas. Denique, cum David dicat Christum
+<lb ed="#P" n="45"/>fuisse sacerdotem secundum ordinem 
+Melchi<lb break="no" ed="#P" n="46"/>sedech, constat illum fuisse superiorem et 
+ma<lb break="no" ed="#P" n="47"/>jorem, atque adeo illi datas esse decimas.
+</p>
+                  <p xml:id="szstco-l01248-d1e3366">
+                     <lb ed="#P" n="48"/>14. Objectio. — Dices : Abraham erat 
+sa<lb break="no" ed="#P" n="49"/>cerdos legis naturae , quandoquidem esset
+<lb ed="#P" n="50"/>primogenitus, ut colligitur ex Genesis11; sed
+<lb ed="#P" n="51"/>omnes primogeniti ex stirpe Noe erant eo
+<lb ed="#P" n="52"/>tempore sacerdotes (ut supra cum 
+Hierony<lb break="no" ed="#P" n="53"/>mo diximus); erat ergo sacerdos; unde et
+<lb ed="#P" n="54"/>seepe legimus, ipsum obtulisse sacrificium ;
+<lb ed="#P" n="55"/>ergo in dignitate sacerdotali erat aequalis
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>Melchisedech ; cur ergo illum ut 
+superio<lb break="no" ed="#P" n="57"/>rem veneratus est ? Respondeo primum,
+<lb ed="#P" n="58"/>quia erat sacerdos, et progenitor ejus, et
+<lb ed="#P" n="59"/>credibile est, in Ecclesia, quae semper una
+<lb ed="#P" n="60"/>fuit, servatum etiam tunc esse quemdam 
+mo<lb break="no" ed="#P" n="61"/>durm ordinis hierarchici, atque ita seniorcm
+<lb ed="#P" n="62"/>et antiquissimum sacerdotem ac 
+primogeni<lb break="no" ed="#P" n="63"/>tum Noe, fuisse veluti sacerdotem summum,
+<lb ed="#P" n="64"/>quem omnes ut superiorem suspiciebant.
+<lb ed="#P" n="65"/>Deinde credibile est, Abraham agnovisse 
+fi<lb break="no" ed="#P" n="66"/>guram et mysterium, et in Melchisedech 
+Chris<lb break="no" ed="#P" n="67"/>tum ipsum fuisse veneratum, illumque, 
+scili<lb break="no" ed="#P" n="68"/>cet Melchisedech, recognovisse ut majorem,
+<lb ed="#P" n="69"/>non solum propter id quod erat, sed maxime
+<lb ed="#P" n="70"/>propter id quod repraesentabat.
+</p>
+                  <p xml:id="szstco-l01248-d1e3421">
+                     <lb ed="#P" n="71"/>15. Sexto, fuit similitudo haec seu figura
+<lb ed="#P" n="72"/>posita in oblatione panis et vini, per quam et
+<lb ed="#P" n="73"/>Deo gratias egit, et milites e via fessos 
+recre<lb break="no" ed="#P" n="74"/>avit, post victoriam de inimicis partam, quae
+<lb ed="#P" n="75"/>fuit figura sacrificii incruenti corporis Christi
+<lb ed="#P" n="76"/>sub speciebus panis et vini, quod et Deo 
+of<lb break="no" ed="#P" n="77"/>fertur, et fidelibus Christi militibus post 
+par<lb break="no" ed="#P" n="78"/>tam de peccatis victoriam in alimentum 
+spi<lb break="no" ed="#P" n="79"/>rituale cedit. Et ita, sicut conditionibus 
+per<lb break="no" ed="#P" n="80"/>sonae suae praefiguravit Melchisedech Christi
+<lb ed="#P" n="81"/>personam, ita sua oblatione Christi 
+sacrifi<lb break="no" ed="#P" n="82"/>cium adumbravit ; nam cum praecipuus actus
+<lb ed="#P" n="83"/>sacerdotis sit sacrificium, non fuisset perfecta
+<lb ed="#P" n="84"/>sacerdotii repraesentatio, nisi simul ipsius 
+sa<lb break="no" ed="#P" n="85"/>crificii figura intercessisset.
+</p>
+                  <p xml:id="szstco-l01248-d1e3457">
+                     <lb ed="#P" n="86"/>16. Dubium. — Responsio. — Ad 
+interroga<lb break="no" ed="#P" n="87"/>tionem vero quae supra objiciebatur, cur 
+Pau<lb break="no" ed="#P" n="88"/>lus hujus ultimae similitudinis non 
+memine<lb break="no" ed="#P" n="89"/>rit, respondendum est, Apostolum non 
+sum<lb break="no" ed="#P" n="90"/>psisse munus explicandi omnia quibus 
+Mel<lb break="no" ed="#P" n="91"/>chisedech Christum figuravit, sed solum 
+per<lb break="no" ed="#P" n="92"/>suadendi sacerdotium Christi esse perfectius
+<lb ed="#P" n="93"/>Aaronico ; et illud esse aeternum, hoc 
+tempo<lb break="no" ed="#P" n="94"/>rale, et per illud auferendum. Et ad hoc 
+pro<lb break="no" ed="#P" n="95"/>bandum usus est figura Melchisedech , ac
+<lb ed="#P" n="96"/>propterea tantum in illa ponderavit quae ad
+<lb ed="#P" n="97"/>hanc aeternitatem et excellentiam sacerdotii
+<lb ed="#P" n="98"/>Christi significandum referre videbantur ;
+<lb ed="#P" n="99"/>quia igitur similitudo in ritu sacrificandi nihil
+<lb ed="#P" n="100"/>ad hoc pertinebat, illam praetermittendam
+<lb ed="#P" n="101"/>censuit , praesertim (inquit Hieronymus) ne
+<lb ed="#P" n="102"/>daretur sanctum canibus ; scribebat enim ad
+<lb ed="#P" n="103"/>Hebraeos nondum fortasse credentes, et ideo
+<lb ed="#P" n="104"/>noluit interponere sermonem de sacramento
+<lb ed="#P" n="105"/>Eucharistiae, creditu difficillimo, ne fortasse
+<lb ed="#P" n="106"/>sine necessitate et opportunitate tot mysteria
+<lb ed="#P" n="107"/>eis proponendo, illos obrueret. Unde et 
+ipse<lb break="no" ed="#P" n="108"/>met praemiserat grandem esse de Christo 
+ser<lb break="no" ed="#P" n="109"/>monem, et eos, ad quos scribebat, esse 
+im<lb break="no" ed="#P" n="110"/>becilles ad audiendum. Adde, unum ex signis
+<pb ed="#P" n="460"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>quo Paulus ibi ostendit sacerdotium Christi
+<lb ed="#P" n="2"/>excellere Aaronicum, esse, quia multa 
+sacri<lb break="no" ed="#P" n="3"/>ficia legalia non potuerunt perfectam 
+sancti<lb break="no" ed="#P" n="4"/>tatem conferre, Christus autem una oblatione
+<lb ed="#P" n="5"/>consummavit sanctificatos ; hoc autem 
+discri<lb break="no" ed="#P" n="6"/>men maxime cernitur in sacrificio cruento, et
+<lb ed="#P" n="7"/>ideo non oportuit tunc mentionem facere 
+sa<lb break="no" ed="#P" n="8"/>crificit incruenti , quod saepius in Ecclesia
+<lb ed="#P" n="9"/>offertur, quanquam illius iterata oblatio nihil
+<lb ed="#P" n="10"/>deroget perfectioni sacrificii incruenti, quia
+<lb ed="#P" n="11"/>in re oblata idem est sacrificium, quod 
+diver<lb break="no" ed="#P" n="12"/>so modo offerendi iteratur, non ut aliquid
+<lb ed="#P" n="13"/>virtutis ipsi sacrificio accrescat, sed ut illius
+<lb ed="#P" n="14"/>efficacitas nobis applicetur.
+</p>
+                  <p xml:id="szstco-l01248-d1e3548">
+                     <lb ed="#P" n="15"/>17. Objectio. — Responsio. — Una sola 
+su<lb break="no" ed="#P" n="16"/>perest objectio; quia , si Christus dicitur 
+sa<lb break="no" ed="#P" n="17"/>cerdos secundum ordinem Melchisedech , solum
+<lb ed="#P" n="18"/>propter repraesentationem, eadem ratione 
+po<lb break="no" ed="#P" n="19"/>terit dici sacerdos secundum ordinem Aaron,
+<lb ed="#P" n="20"/>quia per legale sacerdotium, Christi 
+sacerdo<lb break="no" ed="#P" n="21"/>tium, et per sacrificia legalia, sacrificium
+<lb ed="#P" n="22"/>Christi cruentum repraesentata sunt, ut 
+con<lb break="no" ed="#P" n="23"/>stat ex Paulo, ad Heb. 9 et 13. Respondetur
+<lb ed="#P" n="24"/>negando consequentiam, quia non sufficit
+<lb ed="#P" n="25"/>quaecunque praefiguratio vel repraesentatio,
+<lb ed="#P" n="26"/>ut Christus dicatur esse sacerdos secundum
+<lb ed="#P" n="27"/>illum ordinem; primo, quia quod ad rem 
+ip<lb break="no" ed="#P" n="28"/>sam spectat ( ut supra dictum est) non potest
+<lb ed="#P" n="29"/>quis dici sacerdos secundum ordinem Aaron,
+<lb ed="#P" n="30"/>nisi sit de stirpe ejus, et caeremoniis in ea
+<lb ed="#P" n="31"/>lege statutis ordinatus, quae non possunt in
+<lb ed="#P" n="32"/>Christum conveuire. Deinde, quod ad 
+reprae<lb break="no" ed="#P" n="33"/>sentationem attinet, sacerdotium Aaron erat
+<lb ed="#P" n="34"/>imperfectum et temporale , et praefiguravit
+<lb ed="#P" n="35"/>Christum secundum statum vitae passibilis :
+<lb ed="#P" n="36"/>at vero Melchisedech fuit typus Christi 
+secun<lb break="no" ed="#P" n="37"/>dum omnes perfectiones sacerdotii ejus, 
+un<lb break="no" ed="#P" n="38"/>de sacrificia legalia tantum figurabant 
+cruen<lb break="no" ed="#P" n="39"/>tum sacrificium Christi, per quod erant con -
+<lb ed="#P" n="40"/>summanda et abolenda, sacrificium vero 
+Mel<lb break="no" ed="#P" n="41"/>chisedech praefiguravit sacrificium Christi eo
+<lb ed="#P" n="42"/>modo quo in aeternum erat duraturum, vel
+<lb ed="#P" n="43"/>in Ecclesia militante, in qua semper Christus
+<lb ed="#P" n="44"/>est principale offerens, et erit quamdiu 
+mun<lb break="no" ed="#P" n="45"/>dus durabit. Propter quod dici potest 
+sacer<lb break="no" ed="#P" n="46"/>dos in eternuum, seu in seculum , ut habet 
+lit<lb break="no" ed="#P" n="47"/>tera hebraea. Vel certe, quia etiam in 
+Eccle<lb break="no" ed="#P" n="48"/>sia triumphante per aeternam 
+commemora<lb break="no" ed="#P" n="49"/>tionem et gratiarum actionem officium 
+sacer<lb break="no" ed="#P" n="50"/>dotis exercebit. QOuocirca, sicut lex scripta 
+le<lb break="no" ed="#P" n="51"/>gem gratiae praefiguravit ; quia tamen 
+imper<lb break="no" ed="#P" n="52"/>fecta fuit, et per legem gratiae abolita, non
+<lb ed="#P" n="53"/>potest lex gratiae dici esse secundum ritum
+<lb ed="#P" n="54"/>legis veteris; ita, quamvis sacerdotium legale
+<lb ed="#P" n="55"/>Christum figuraverit, tamen quia imperfec-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>tum fuit, et per Christum abrogatum, non
+<lb ed="#P" n="57"/>potest dici Christus sacerdos secundum illum
+<lb ed="#P" n="58"/>ordinem; at vero lex naturalis non fuit 
+abro<lb break="no" ed="#P" n="59"/>gata per Christum, sed confirmata , aucta et
+<lb ed="#P" n="60"/>perfecta. Et ita sacerdotium etiam 
+Melchise<lb break="no" ed="#P" n="61"/>dech, quatenus erat legis naturae , non fuit
+<lb ed="#P" n="62"/>proprie per Christum ablatum, sed ad 
+perfec<lb break="no" ed="#P" n="63"/>tiorem modum elevatum ; quae tamen 
+perfec<lb break="no" ed="#P" n="64"/>tio tota in illomet praefigurata fuit, et ideo
+<lb ed="#P" n="65"/>optime dicitur Christus sacerdos secundum
+<lb ed="#P" n="66"/>ilum ordinem, quia in se habuit quidquid
+<lb ed="#P" n="67"/>perfectionis in illo fuit. tam formaliter quam
+<lb ed="#P" n="68"/>repraesentative.
+</p>
+               </div>
+            </div>
+            <div xml:id="szstco-l01248-Dd1e3672"><!-- szstco-p3q22-d47 -->
+               <head xml:id="szstco-l01248-Hd1e3675">Disputatio 47</head>
+               <head xml:id="szstco-l01248-Hd1e3677" type="question-title">
+De potestate excellentiae conveniente 
+christo ratione supremi sacerdotii, ejusque 
+spirituali regno.
+</head>
+               <p xml:id="szstco-l01248-d1e3680">
+                  <lb ed="#P" n="69" type="fixed=460"/>DISPUTATIO XLVII,
+<lb ed="#P" n="70"/>In duas sectiones distributa.
+<lb ed="#P" n="71"/>DE POTESTATE EXCELLENTIAE CONVENIENTE 
+CHRI<lb break="no" ed="#P" n="72"/>STO RATIONE SUPREMI SACERDOTII, EJUSQUE 
+SPI<lb break="no" ed="#P" n="73"/>RITUALI REGNO.
+</p>
+               <p xml:id="szstco-l01248-d1e3693">
+                  <lb ed="#P" n="74"/>Sacerdotis munus praecipuum quod sit. —
+<lb ed="#P" n="75"/>Cum, teste Paulo, sacerdos medius sit inter
+<lb ed="#P" n="76"/>Deum et homines , duo praecipue ad illius
+<lb ed="#P" n="77"/>munus spectant : alterum, per habitudinem
+<lb ed="#P" n="78"/>ad Deum; alterum, per habitudinem ad 
+ho<lb break="no" ed="#P" n="79"/>mines. Debet enim Deum colere , orare, et
+<lb ed="#P" n="80"/>uomine totius populi sacrificium ei offerre,
+<lb ed="#P" n="81"/>vel in expiationem delictorum, vel in 
+gratia<lb break="no" ed="#P" n="82"/>rum actionem, ct cultum illi ut primo 
+prin<lb break="no" ed="#P" n="83"/>cipio debitum, vel denique ad nova beneficia
+<lb ed="#P" n="84"/>impetranda. Debet praeterea populum de 
+re<lb break="no" ed="#P" n="85"/>bus ad cultum Dei, et salutem animae 
+perti<lb break="no" ed="#P" n="86"/>nentibus docere, et instruere, ac sanctificare,
+<lb ed="#P" n="87"/>juxta modum sacerdotii , et potestatem sibi a
+<lb ed="#P" n="88"/>Deo datam; et eodem modo ad sacerdotem
+<lb ed="#P" n="89"/>pertinet gubernare populum sibi commissum,
+<lb ed="#P" n="90"/>ct per convenientia media dirigere ad 
+desti<lb break="no" ed="#P" n="91"/>natum finem, qui est Dei cultus, et 
+anima<lb break="no" ed="#P" n="92"/>rum salus. Àc denique judicium ferre de 
+re<lb break="no" ed="#P" n="93"/>bus ad eumdem spiritualem finem 
+pertinen<lb break="no" ed="#P" n="94"/>tibus, juxta potestatem sibi datam, ut dictum
+<lb ed="#P" n="95"/>est; quia, licet non omnibus sacerdotibus 
+om<lb break="no" ed="#P" n="96"/>nia haec conveniant, simpliciter tamen 
+perti<lb break="no" ed="#P" n="97"/>nent ad sacerdotale munus, et praecipue talis
+<lb ed="#P" n="98"/>potestas invenienda est in principali 
+sacerdo<lb break="no" ed="#P" n="99"/>te, in quo tota sacerdotalis virtus eminenter
+<lb ed="#P" n="100"/>continetur. Quoniam ergo in praecedenti 
+dis<lb break="no" ed="#P" n="101"/>putatione satis dictum est de sacerdotio 
+Chri<lb break="no" ed="#P" n="102"/>sti per habitudinem ad Deum, et de modo ac
+<lb ed="#P" n="103"/>ritu quo illi sacrificium obtulit, quibus etiam
+<lb ed="#P" n="104"/>adjungi possunt quae supra de oratione 
+Chri<lb break="no" ed="#P" n="105"/>sti dicta sunt, ideo consequenter sequitur, ut
+<lb ed="#P" n="106"/>breviter aliquid dicamus de hoc sacerdotio in
+<lb ed="#P" n="107"/>ordine ad homines, et de spirituali potestate
+<pb ed="#P" n="461"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Christi ad regendam Ecclesiam , ut supremi
+<lb ed="#P" n="2"/>illius Pontificis, et spiritualis regis. Quoniam
+<lb ed="#P" n="3"/>vero de doctrina Christi, et de potestate ad
+<lb ed="#P" n="4"/>judicandas animas infra D. Thomas disputat
+<lb ed="#P" n="5"/>propriis locis, quamvis illa revera ad 
+sacer<lb break="no" ed="#P" n="6"/>dotem pertineant, illa nunc omittemus, 
+dice<lb break="no" ed="#P" n="7"/>musque solum de potestate quam Theologi
+<lb ed="#P" n="8"/>vocant excellentiae , et de potestate 
+legisla<lb break="no" ed="#P" n="9"/>tiva.
+</p>
+               <div xml:id="szstco-l01248-Dd1e3793"><!-- szstco-p3q22-d47s1 -->
+                  <head xml:id="szstco-l01248-Hd1e3796">Sectio 1</head>
+                  <head xml:id="szstco-l01248-Hd1e3798" type="question-title">
+utrum christus, tanquam summus ecclesiae 
+pontifex. et spiritualis rex, potestatem excellentia
+super illam habeat
+</head>
+                  <p xml:id="szstco-l01248-d1e3801">
+                     <lb ed="#P" n="10" type="fixed=461"/>SECTIO I.
+<lb ed="#P" n="11"/>Utrum Christus, tanquam Summus Ecclesiae 
+Pon<lb break="no" ed="#P" n="12"/>tifex. et spiritualis Rex, potestatem excellentia
+<lb ed="#P" n="13"/>super illam habeat.
+</p>
+                  <p xml:id="szstco-l01248-d1e3812">
+                     <lb ed="#P" n="14"/>1. In Christo potestas excellentie in 
+univer<lb break="no" ed="#P" n="15"/>sam Ecclesiam. — Dico primo: Christus 
+Do<lb break="no" ed="#P" n="16"/>minus, in quantum summus sacerdos, habuit
+<lb ed="#P" n="17"/>supernaturalem quamdam exccellentiae 
+potes<lb break="no" ed="#P" n="18"/>tatem in universam Ecclesiam. Hanc 
+conclu<lb break="no" ed="#P" n="19"/>sionem docent omnes Theologi, in 4, dist. 1,
+<lb ed="#P" n="20"/>et colligitur ex D. Thoma infra, tota q. 59, et
+<lb ed="#P" n="21"/>clarius 64. art. 3 et 4, et quoad rem ipsam est
+<lb ed="#P" n="22"/>de fide, ut patet ex Matth. ultim. : Data est
+<lb ed="#P" n="23"/>mihi omnis potestas in calo et in terra. Et 
+ex<lb break="no" ed="#P" n="24"/>plicatur breviter ex usu et actibus hujus 
+po<lb break="no" ed="#P" n="25"/>testatis; nam imprimis ratione illius potuit
+<lb ed="#P" n="26"/>Christus Dominus spiritualem Rempublicam
+<lb ed="#P" n="27"/>condere, scilicet Ecclesiam suam, et modum
+<lb ed="#P" n="28"/>quo gubernanda ct regenda erat , ordinare,
+<lb ed="#P" n="29"/>superiores eligere, ct jurisdictionem illis 
+da<lb break="no" ed="#P" n="30"/>re, et similia, quae omnia constant ex 
+Evan<lb break="no" ed="#P" n="31"/>geliis, Matth. 16 : Tu es Petrus, et super hanc
+<lb ed="#P" n="32"/>petram adificabo Ecclesiam meam , et portae
+<lb ed="#P" n="33"/>inferi non prevalebunt adversus eam, et tibi
+<lb ed="#P" n="34"/>dabo claves rcgni celorum, et quodcunque 
+li<lb break="no" ed="#P" n="35"/>gaveris super terram, erit ligatum et in calis;
+<lb ed="#P" n="36"/>et quodcungue solveris super terram, erit 
+so<lb break="no" ed="#P" n="37"/>lutum et in cellis ; quae omnia verba 
+conti<lb break="no" ed="#P" n="38"/>nent actus supremae potestatis, quibus similia
+<lb ed="#P" n="39"/>sunt in c. 18; et Joan. 21: Paesce oces meas,
+<lb ed="#P" n="40"/>et c. 20: Sicut misit ine Pater , et ego mitto
+<lb ed="#P" n="41"/>70$, etc.; unde Paul., ad Ephes. 4: Unicuique,
+<lb ed="#P" n="42"/>inquit, nostrum data est gratia secundum 
+men<lb break="no" ed="#P" n="43"/>suram donationis Christi; et infra : Et ipse
+<lb ed="#P" n="44"/>dedit quosdam Anpostolos, quosdam autem 
+Pro<lb break="no" ed="#P" n="45"/>Dhetas , etc., usque ad illud, 7n edificationem
+<lb ed="#P" n="46"/>corporis Christi, id est, ad rectam Ecclesiae
+<lb ed="#P" n="47"/>gubernationem et profectum; et similia 
+ha<lb break="no" ed="#P" n="48"/>bet 1 ad Cor. 12, et 2 ad Cor. 13 : An 
+eapc<lb break="no" ed="#P" n="49"/>rimentum quaritis ejus, qui in me loquitur
+<lb ed="#P" n="50"/>Christus, qui in vobis non infirmatur, sed 
+po<lb break="no" ed="#P" n="51"/>tens est in vobis ; et infra : Ideo haec scribo 
+ab<lb break="no" ed="#P" n="52"/>sens, ut non prasens durius agam secundum
+<lb ed="#P" n="53"/>potestaten, quam Dominus dedit mihi in 
+edi<lb break="no" ed="#P" n="54"/>ficationam , et non in destructionem. Ac deni-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="55"/>que 1 ad Cor. 4: Sic nos existimet homo, ut
+<lb ed="#P" n="56"/>ministros Christi, et dispensatores 
+mysterio<lb break="no" ed="#P" n="57"/>ru Dei. Deinde pertiuuit ad hanc potestatem
+<lb ed="#P" n="58"/>posse instituere sacramenta, ut constat 
+Chri<lb break="no" ed="#P" n="59"/>stum et potuisse, et fecisse, ex vulgatis 
+testi<lb break="no" ed="#P" n="60"/>moniis Joan. 3 : Nisi quis renatus fuerit ; et
+<lb ed="#P" n="61"/>Matth. ult. : /te, et docete omnes gentes , 
+ba<lb break="no" ed="#P" n="62"/>ptizantes eos , etc.; et Matth. 96 : Hoc facite
+<lb ed="#P" n="63"/>in ineam commemorationem ; et Joan. 90 : 
+Quo<lb break="no" ed="#P" n="64"/>rumn remiseritis peccata. Denique de fide 
+cer<lb break="no" ed="#P" n="65"/>tum est, et in Concil. Trident., sess. 7, 
+defi<lb break="no" ed="#P" n="66"/>nitum, omnia sacramenta a Christo esse 
+in<lb break="no" ed="#P" n="67"/>situta. Ratio vero conclusionis est, quia
+<lb ed="#P" n="68"/>Christus non utcunque est sacerdos, sed 
+ex<lb break="no" ed="#P" n="69"/>cellentissimo et perfectissimo modo, nam est
+<lb ed="#P" n="70"/>supremus Pontifex , excelsior coelis factus, ut
+<lb ed="#P" n="71"/>dicitur ad Heb. 7; ergo habere debuit 
+supre<lb break="no" ed="#P" n="72"/>mam excellentiae potestatem; deinde, quia
+<lb ed="#P" n="73"/>ratione unionis et infiniti meriti, omnis haec
+<lb ed="#P" n="74"/>potestas illi debita erat. Ad quod 
+accommo<lb break="no" ed="#P" n="75"/>dari potest illud Joan. 13: Sciens quia omnia
+<lb ed="#P" n="76"/>dedit ei Pater in manus,id est, quod omnium
+<lb ed="#P" n="77"/>hominum salus, redemptio, instructio et 
+gu<lb break="no" ed="#P" n="78"/>bernatio illi commissa erat, ut recte 
+expo<lb break="no" ed="#P" n="79"/>nunt August., tract. 53 in Jcan.; et Cyril.,
+<lb ed="#P" n="80"/>lib. 9in Joan., c. 3. Nec dissimilia sunt verba
+<lb ed="#P" n="81"/>Daniel. 7 : Aspiciebam, et ecce quasi filius 
+ho<lb break="no" ed="#P" n="82"/>nminis, etc.; et infra : Ft dedit ei potestatem,
+<lb ed="#P" n="83"/>et Lonorem, et regmum, et omnes populi, 
+tri<lb break="no" ed="#P" n="84"/>bus, et lingua ipsi servient, potestas ejus 
+po<lb break="no" ed="#P" n="85"/>testas dterna, quae non auferetur , et regnum
+<lb ed="#P" n="86"/>ejus, quod non corrumpetur.
+</p>
+                  <p xml:id="szstco-l01248-d1e3975">
+                     <lb ed="#P" n="87"/>2. Regnum spirituale Christi iu Ecclesiam.
+<lb ed="#P" n="88"/>— Et ex hac conclusione sequitur (quod illam
+<lb ed="#P" n="89"/>maxime confirmat) Christum Dominum simul
+<lb ed="#P" n="90"/>cum summo sacerdotio habuisse regnum 
+spi<lb break="no" ed="#P" n="91"/>rituale, vel potius de ratione talis sacerdotii
+<lb ed="#P" n="92"/>fuisse regiam hanc dignitatem et potestatem,
+<lb ed="#P" n="93"/>de qua Psalm. 2 dictum erat : Ego autem 
+con<lb break="no" ed="#P" n="94"/>stitulus sum Rez ab eo super Sion, montem
+<lb ed="#P" n="95"/>sanctum ejus. Et, ut constet tale regnum esse
+<lb ed="#P" n="96"/>spirituale, subdit: Predicans preeceptum ejus ;
+<lb ed="#P" n="97"/>et infra: Postula a ae, et dabo libi gentes 
+le<lb break="no" ed="#P" n="98"/>reditatem tuam, et possessionem tuam terminos
+<lb ed="#P" n="99"/>terra», reges eos in virga ferrea; et statim 
+ex<lb break="no" ed="#P" n="100"/>piicat hoc regimen spirituale esse, dicens :
+<lb ed="#P" n="101"/>Servite Domino in timore . et ecultate ei cum
+<lb ed="#P" n="102"/>tremore ; apprehendite disciplinam , ne quando
+<lb ed="#P" n="103"/>irascatur Dominus ; ct Isai. 9: Factus est
+<lb ed="#P" n="104"/>grincipatus super humerum ejus , et vocabitur
+<lb ed="#P" n="105"/>nomen ejus admirabilis, consiliarius, Deus,
+<lb ed="#P" n="106"/>furtis, pater futuri seculi, princeps pacis,
+<lb ed="#P" n="107"/>multiphcabitur ejus imperium, et pacis non
+<lb ed="#P" n="108"/>erit finis, super solium David, super regnum
+<lb ed="#P" n="109"/>ejes sedebit, ut confirmet illud, ut corroboret
+<pb ed="#P" n="462"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>in judicio et in justitia ; quibus ultimis verbis
+<lb ed="#P" n="2"/>regnum hoc spirituale fore declaravit, ut
+<lb ed="#P" n="3"/>sancti expositores adnotarunt. Et Ezech. ?1
+<lb ed="#P" n="4"/>est optimum de eodem regno testimonium ab
+<lb ed="#P" n="5"/>illis verbis : Aufer cidarim, tolle coronam, 
+us<lb break="no" ed="#P" n="6"/>que ad illud: Donec veniret cujus est judicium,
+<lb ed="#P" n="7"/>et tradam ei ; et c. 34: Et suscitabo super eas
+<lb ed="#P" n="8"/>pastorem unum, qui pascat eas, servuum meum
+<lb ed="#P" n="9"/>David, ipse pascet eas , el ipse erit eis in 
+pas<lb break="no" ed="#P" n="10"/>torem ; ego autem Dominus ero eis in Deum, et
+<lb ed="#P" n="11"/>servus acus David princeps in medio eorum,
+<lb ed="#P" n="12"/>ego Dominus locutus sum, et faciam cwm eis
+<lb ed="#P" n="13"/>pactum pacis, etc. Quod tandem regnum
+<lb ed="#P" n="14"/>agnovit latro, quando in cruce pendens dixit :
+<lb ed="#P" n="15"/>Memento mei, Domine, cum veneris in regnum
+<lb ed="#P" n="16"/>tuwm, Luc. 23; non enim temporale 
+commo<lb break="no" ed="#P" n="17"/>dum, sed spirituale remedium postulabat; et
+<lb ed="#P" n="18"/>ideo, Joan. 18, dixit Christus Pilato : Aegwumn
+<lb ed="#P" n="19"/>meum non est de hoc mundo, id est, non est
+<lb ed="#P" n="20"/>terrenum, neque habens carnalem originem,
+<lb ed="#P" n="21"/>sed coeleste, et a Deo manans, atque ad 
+ip<lb break="no" ed="#P" n="22"/>sum tendens. De hoc denique regno passim
+<lb ed="#P" n="23"/>fit in Scriptura mentio, praesertim in Psalm.
+<lb ed="#P" n="24"/>44, in 109, et apud Isai. frequentissime, 
+prae<lb break="no" ed="#P" n="25"/>sertim c. 2: V'enite ascendamus ad montem
+<lb ed="#P" n="26"/>Domini, etc.; et c. 49 : Dedi te in lucem 
+gen<lb break="no" ed="#P" n="27"/>tium, etc.; et c. 60: Surge, illuminare 
+Jera<lb break="no" ed="#P" n="28"/>salem ; sed praecipue praefiguratum est apud
+<lb ed="#P" n="29"/>Daniel., c. 2, in statua illa quam vidit 
+Nabu<lb break="no" ed="#P" n="30"/>chodonosor, et parvo lapide abscisso de monte
+<lb ed="#P" n="31"/>sine manibus, qui statuam contrivit, et factus
+<lb ed="#P" n="32"/>est mons magnus, et implevit universam 
+ter<lb break="no" ed="#P" n="33"/>raàin, de quo postea subdit : In diebus autem
+<lb ed="#P" n="34"/>regnorum illorun suscitalit Deus caeli reguum,
+<lb ed="#P" n="35"/>quod in ceternum non dissipabitur, et regnum
+<lb ed="#P" n="36"/>ejus alleri populo non tradetur. Ratio autem,
+<lb ed="#P" n="37"/>ob quam merito haec Christi potestas regia
+<lb ed="#P" n="38"/>appellatur, est illius dignitas et excellentia,
+<lb ed="#P" n="39"/>quae plurimis modis superat omnium 
+tempo<lb break="no" ed="#P" n="40"/>ralium regum potestatem et dignitatem. 
+Pri<lb break="no" ed="#P" n="41"/>mo, in finc ejus, qui coelestis est et 
+sempiter<lb break="no" ed="#P" n="42"/>nus; deinde in amplitudine, quia non solum
+<lb ed="#P" n="43"/>terram universam , sed etiam coelum ipsum
+<lb ed="#P" n="44"/>amplectitur. Praeterea, quia non temporalis
+<lb ed="#P" n="45"/>est et caduca, sed aeterna. Ad haec, non 
+so<lb break="no" ed="#P" n="46"/>lum corporibus, scd etiam animis dominatur,
+<lb ed="#P" n="47"/>eorumque utilitatem et sanctitatem praecipue
+<lb ed="#P" n="48"/>efficit, unde et ad hunc finem caeteras res
+<lb ed="#P" n="49"/>omnes sibi subjectas habet. Est ergo potestas
+<lb ed="#P" n="50"/>baec regia, et Christus, qui illam habet, verus
+<lb ed="#P" n="51"/>spiritualis rex, tanto caeteris regibus 
+praestan<lb break="no" ed="#P" n="52"/>tior, quanto eis prudentia , justitia, bonitate
+<lb ed="#P" n="53"/>ac potentia antecellit.
+</p>
+                  <p xml:id="szstco-l01248-d1e4148">
+                     <lb ed="#P" n="54"/>3. Potestas eacellentie gropria Christi, nec
+<lb ed="#P" n="55"/>atteri onvino comnunicabibs. — Et hinc se-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>quitur secundo, hanc potestatem excellentiae
+<lb ed="#P" n="57"/>esse propriam et singularem ipsius Christi ;
+<lb ed="#P" n="58"/>sicut enim sacerdotium ejus singulare est, et
+<lb ed="#P" n="59"/>omnibus aliis superius, ita etiam potestas,
+<lb ed="#P" n="60"/>quae illud consecuta est, singularis est et 
+su<lb break="no" ed="#P" n="61"/>prema, et ideo potestas excellentiae appellata
+<lb ed="#P" n="62"/>est. Unde et actus hujus potestatis a solo
+<lb ed="#P" n="63"/>Christo fieri potuerunt ; solus enim ipse 
+po<lb break="no" ed="#P" n="64"/>tuit Ecclesiam condere, instituere 
+sacramen<lb break="no" ed="#P" n="65"/>ta, potestatem dare ad remittenda peccata
+<lb ed="#P" n="66"/>et tribunal erigere, in quo peccata in foro
+<lb ed="#P" n="67"/>animae dijudicarentur; solus etiam potuit, eo
+<lb ed="#P" n="68"/>modo quo vellet, absque certis verbis vel 
+si<lb break="no" ed="#P" n="69"/>gnis sanctificare animas, et peccata 
+remit<lb break="no" ed="#P" n="70"/>tere, ut supra, quaest. 13, late tractatum est.
+<lb ed="#P" n="71"/>Quocirca, quamvis Vicario et ministris suis
+<lb ed="#P" n="72"/>quamdam participationem hujus potestatis
+<lb ed="#P" n="73"/>Christus reliquerit, nemini tamen aequalem
+<lb ed="#P" n="74"/>potestatem communicavit ; sed certa ratione,
+<lb ed="#P" n="75"/>et modo ab ipso praescripto, quem nullus 
+prae<lb break="no" ed="#P" n="76"/>ter ipsum mutare potest ; unde caeteri, ut 
+vi<lb break="no" ed="#P" n="77"/>carii scu ministri ejus operantur, ut Paul.
+<lb ed="#P" n="78"/>dixit, ad Ephes. 4; et ipse praecipue in 
+omni<lb break="no" ed="#P" n="79"/>bus operatur, ut Augustinus colligit ex illo
+<lb ed="#P" n="80"/>Joan. : Zlic est qui baptizat ; ac denique in
+<lb ed="#P" n="81"/>nomine et virtute ejus sanctificantur 
+sacra<lb break="no" ed="#P" n="82"/>menta, et remittuntur peccata juxta illud 1 ad
+<lb ed="#P" n="83"/>ad Cor.1 : Nuwmnquid n nomine Pauli 
+bapti<lb break="no" ed="#P" n="84"/>zati estis * Itaque, sicut nullum est caput 
+Ec<lb break="no" ed="#P" n="85"/>clesiae, qualis Christus est, ita nulli data est
+<lb ed="#P" n="86"/>potestas influendi, et regendi Ecclessam 
+aequa<lb break="no" ed="#P" n="87"/>lis potestati Christi.
+</p>
+                  <p xml:id="szstco-l01248-d1e4226">
+                     <lb ed="#P" n="88"/>4. Dubium.—Responsio. —Quod si inquiras
+<lb ed="#P" n="89"/>an haec potestas saltem communicari potuerit
+<lb ed="#P" n="90"/>purae creaturae, responsio hujus petenda est
+<lb ed="#P" n="91"/>ex iis que de gratia capitis diximus ; est enim
+<lb ed="#P" n="92"/>eadem ; quoad illos namque effectus, qui
+<lb ed="#P" n="93"/>non includunt intrinsece respectum ad 
+gra<lb break="no" ed="#P" n="94"/>tiam unionis, communicari potuit purae 
+crea<lb break="no" ed="#P" n="95"/>turae, ut ad sanctificandum homines, ad 
+re<lb break="no" ed="#P" n="96"/>gendum illos, et instituenda sacramenta ,
+<lb ed="#P" n="97"/>ut suo loco dicetur, et similia. At vero quoad
+<lb ed="#P" n="98"/>aliquos effectus praesertim morales, qui 
+re<lb break="no" ed="#P" n="99"/>quirunt necessario personam divinam 
+ope<lb break="no" ed="#P" n="100"/>rantem, ut est sanctificare justos ex perfecta
+<lb ed="#P" n="101"/>justitia, et ad perfectam aequalitatem pro 
+il<lb break="no" ed="#P" n="102"/>lis satisfacere, item quoad modum obtinendi
+<lb ed="#P" n="103"/>hanc potestatem, tanquam sibi propriam et
+<lb ed="#P" n="104"/>connaturalem, non potuit communicari purae
+<lb ed="#P" n="105"/>creaturae, ut per se constat.
+</p>
+                  <p xml:id="szstco-l01248-d1e4268">
+                     <lb ed="#P" n="106"/>5. Dubium. — Responsio. — Potestas 
+eacel<lb break="no" ed="#P" n="107"/>lentie quando Christo data. — Ultimo 
+interro<lb break="no" ed="#P" n="108"/>gare potest aliquis quo tempore communicata
+<lb ed="#P" n="109"/>fuerit Christo homini haec potestas. 
+Respon<lb break="no" ed="#P" n="110"/>detur breviter potestatem ipsam a primo in-
+<pb ed="#P" n="463"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>stanti conceptionis fuisse illi datam, nam ex
+<lb ed="#P" n="2"/>tunc incepit esse sacerdos, et mediator Dei et
+<lb ed="#P" n="3"/>hominum, et statim caepit sacrificium Patri
+<lb ed="#P" n="4"/>pro bominibus offerre; tota enim Christi vita
+<lb ed="#P" n="5"/>fuit veluti quoddam continuatum sacrificium
+<lb ed="#P" n="6"/>quod in utero Virginis inchoatum est, et in
+<lb ed="#P" n="7"/>cruce consummatum ; unde (ut supra 
+vidi<lb break="no" ed="#P" n="8"/>mus) ab illo primo instanti mereri coepit 
+ho<lb break="no" ed="#P" n="9"/>minibus, et pro illis satisfacere, et paulo post
+<lb ed="#P" n="10"/>per hanc potestatem Joanncm sanctificavit,
+<lb ed="#P" n="11"/>et Elisabeth Spiritu Sancto replevit, et 
+Zacha<lb break="no" ed="#P" n="12"/>rie donum prophetiae tribuit , et matrem
+<lb ed="#P" n="13"/>suam auctiori gratia, et majori prophetiae 
+do<lb break="no" ed="#P" n="14"/>no cumulavit. Denique, cum haec potestas 
+ra<lb break="no" ed="#P" n="15"/>tione unionis debita esset, neque ulla esset
+<lb ed="#P" n="16"/>ratio, vel impedimentum quod ab illa 
+obti<lb break="no" ed="#P" n="17"/>nenda retardaret, statim communicata est ;
+<lb ed="#P" n="18"/>usus vero ejus in discursu vitae pro temporum
+<lb ed="#P" n="19"/>opportunitate demonstratus est ; plenior vero
+<lb ed="#P" n="20"/>et integra manifestatio ejus post 
+resurrectio<lb break="no" ed="#P" n="21"/>nem apparuit, ut multi Patres docent, 
+expo<lb break="no" ed="#P" n="22"/>nentes in bunc sensum verba illa : Data est
+<lb ed="#P" n="23"/>mihi omnis potestas in caelo et an terra.
+</p>
+               </div>
+               <div xml:id="szstco-l01248-Dd1e4338"><!-- szstco-p3q22-d47s2 -->
+                  <head xml:id="szstco-l01248-Hd1e4341">Sectio 2</head>
+                  <head xml:id="szstco-l01248-Hd1e4343" type="question-title">
+utrum christus ut summus sacerdos habuerit
+potestatem ad ferendas leges
+</head>
+                  <p xml:id="szstco-l01248-d1e4346">
+                     <lb ed="#P" n="24" type="fixed=463"/>SECTIO II.
+<lb ed="#P" n="25"/>Utrum Christus ut summus Sacerdos habuerit
+<lb ed="#P" n="26"/>potestatem ad ferendas leges.
+</p>
+                  <p xml:id="szstco-l01248-d1e4355">
+                     <lb ed="#P" n="27"/>1. In hoc dubio duo errores extremi 
+caven<lb break="no" ed="#P" n="28"/>di sunt. Alter fuit Pelagianorum, Petri 
+Abai<lb break="no" ed="#P" n="29"/>lardi, et aliorum haereticorum , qui Christo
+<lb ed="#P" n="30"/>negarunt proprium munus redemptoris et
+<lb ed="#P" n="31"/>sanctificatoris nostri, solumque illi tribuebant
+<lb ed="#P" n="32"/>officium doctoris, et ad summum legislatoris.
+<lb ed="#P" n="33"/>Contra quos haereticos satis in superioribus
+<lb ed="#P" n="34"/>dictum est. Alter est multorum 
+Lutherano<lb break="no" ed="#P" n="35"/>rum, qui iia tribuunt Christo officium 
+redem<lb break="no" ed="#P" n="36"/>ptoris et sanctificatoris nostri, ut fere munus
+<lb ed="#P" n="37"/>legislatoris negent ; dicunt enim legem 
+gra<lb break="no" ed="#P" n="38"/>tiae esse legem libertatis, nihilque in ea 
+Chri<lb break="no" ed="#P" n="39"/>stus praecepisse, quod ad salutem 
+necessa<lb break="no" ed="#P" n="40"/>rium sit, praeter solam fidem. Contra quos
+<lb ed="#P" n="41"/>haereticos ex professo in materia de legibus
+<lb ed="#P" n="42"/>de fide, et de gratia, disserendum est. Nunc
+<lb ed="#P" n="43"/>breviter, quantum praesens locus postulat ,
+<lb ed="#P" n="44"/>ostendendum est Christum et potestatem, et
+<lb ed="#P" n="45"/>usum ferendarum legum et spiritualium 
+prae<lb break="no" ed="#P" n="46"/>ceptorum assumpsisse.
+</p>
+                  <p xml:id="szstco-l01248-d1e4401">
+                     <lb ed="#P" n="47"/>2. Christus legislator mundi. —Dico ergo
+<lb ed="#P" n="48"/>primo, Christum Dominum bhabuisse 
+potes<lb break="no" ed="#P" n="49"/>tatem jurisdictionis spiritualis ad ferendas 
+le<lb break="no" ed="#P" n="50"/>ges quibus homines obligaret. Est de fide 
+de<lb break="no" ed="#P" n="51"/>finita in Concilio Tridentino, sess. 6, can. 21,
+<lb ed="#P" n="52"/>ubi definitur Christum non solum nobis esse
+<lb ed="#P" n="53"/>datum in redemptorem, sed etiam in legisla-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>torem cui pareamus. Et probatur es sacrae
+<lb ed="#P" n="55"/>Scripturae promissionibus, Psalm. 2: Ego 
+equ<lb break="no" ed="#P" n="56"/>tem constitutus sum lea ab eo; et infra : 
+Re<lb break="no" ed="#P" n="57"/>ges eos in virga ferrea, id est, inflezibili 
+jus<lb break="no" ed="#P" n="58"/>titia, ut exponit August. ; Hilarius autem 
+ad<lb break="no" ed="#P" n="59"/>vertit verbum graecum nowatwo, idem 
+signi<lb break="no" ed="#P" n="60"/>ficare, quod pastorum more gubernare, quod
+<lb ed="#P" n="61"/>inter homines idem est quod regere per 
+doc<lb break="no" ed="#P" n="62"/>trinam, et legem, quae ibi per virgam 
+signifi<lb break="no" ed="#P" n="63"/>catur, et quia solidissima et inflexibilis est,
+<lb ed="#P" n="64"/>farrea, dicitur, de qua Psalm. 44: Virga 
+di<lb break="no" ed="#P" n="65"/>rectionis scu equitatis, virga regni tui; unde
+<lb ed="#P" n="66"/>Isai. 33, de Christo dicitur : Dominus rea 
+nos<lb break="no" ed="#P" n="67"/>ter , Dominus legifer noster ; et Jerem. 31:
+<lb ed="#P" n="68"/>Dabo legem meam in cordibus eorum, quee,
+<lb ed="#P" n="69"/>Matth. 11, jugum suace dicitur, ut exponit
+<lb ed="#P" n="70"/>Cyril. Alexand., lib. 2 ad Regin., sub titulo :
+<lb ed="#P" n="71"/>Quod Christus sit Deus, ez Matthaeo ; unde
+<lb ed="#P" n="72"/>etiam constat haec veritas ex usu hujus 
+po<lb break="no" ed="#P" n="73"/>testatis; nam, Joan. 13, dicit ipse Christus:
+<lb ed="#P" n="74"/>Mandatwun meum do volis; et c. 14 : Si 
+dili<lb break="no" ed="#P" n="75"/>gitis me, mandata mea servate, et qui habet
+<lb ed="#P" n="76"/>mandata mea, et servat ea, ille est qui diligit
+<lb ed="#P" n="77"/>me; et c. 15: Si pracepta mea servaceritis,
+<lb ed="#P" n="78"/>manebitis in dilectione mea ; et Matth. ult. 
+in<lb break="no" ed="#P" n="79"/>quit : Docentes eos servare omnia quaecunque
+<lb ed="#P" n="80"/>mandavi vobis. Idem constat es illis 
+commi<lb break="no" ed="#P" n="81"/>nationibus : Nisi quis renatus fuerit; Joan. 3:
+<lb ed="#P" n="82"/>Zt nisi manducaveritis carnem Filii hominis,
+<lb ed="#P" n="83"/>Joan. 6, quae praeceptum necessario 
+invol<lb break="no" ed="#P" n="84"/>vunt. Ratio vero est, tum quia totum hoc 
+de<lb break="no" ed="#P" n="85"/>bitum est majestati, et regiae ac sacerdotali
+<lb ed="#P" n="86"/>dignitati Christi, quia verus rex habet 
+potes<lb break="no" ed="#P" n="87"/>tatem ferendi leges, atque adeo et obligandi;
+<lb ed="#P" n="88"/>tum etiam quia ad finem illius sacerdotii, et
+<lb ed="#P" n="89"/>ad salutem et bonum nostrum erat hoc etiam
+<lb ed="#P" n="90"/>necessarium.
+</p>
+                  <p xml:id="szstco-l01248-d1e4502">
+                     <lb ed="#P" n="91"/>3. Objectio. — Responsio. — Differentia 
+in<lb break="no" ed="#P" n="92"/>ter legem Christi et Moysis. —Dices : Joan. 1
+<lb ed="#P" n="93"/>dicitur : Lez data per Moysen, gratia autem
+<lb ed="#P" n="94"/>et veritas per Christum indicatur ergo 
+Chri<lb break="no" ed="#P" n="95"/>stum non fuisse legislatorem, sicut Moysen.
+<lb ed="#P" n="96"/>Respondet Augustinus, toto lib. de Spirit. et
+<lb ed="#P" n="97"/>lit., unumquodque denominari ab eo quod in
+<lb ed="#P" n="98"/>illo praecipuum est ; lex autem Moysis fuit
+<lb ed="#P" n="99"/>tantum lex, praecipiebat enim et non 
+juva<lb break="no" ed="#P" n="100"/>bat, et ideo nomen legis retinuit; lex vero
+<lb ed="#P" n="101"/>Christi et praecipit et juvat, imo pauca 
+prae<lb break="no" ed="#P" n="102"/>cipit, et plurimum gratiae confert, vel potius,
+<lb ed="#P" n="103"/>prout ab ipso Christo immediate lata est, 
+ni<lb break="no" ed="#P" n="104"/>hil praecipit, nisi quod ad gratiam augendam
+<lb ed="#P" n="105"/>conferre potest, quia in lege nova Christus
+<lb ed="#P" n="106"/>nulla alia praecepta posuit, nisi fidei et 
+sa<lb break="no" ed="#P" n="107"/>cramentorum. Et ideo haec lex, gratiaa nomen
+<lb ed="#P" n="108"/>obünuit, et jugum suave vocatur; et a Paulo,
+<pb ed="#P" n="464"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>ad Rom. 8, dicitur: Lez spiritus vitae 
+inChri<lb break="no" ed="#P" n="2"/>sto Jesu, quae liberat a lege peccati et mortis.
+<lb ed="#P" n="3"/>Adde, legem veterem non esse datam a 
+Moy<lb break="no" ed="#P" n="4"/>se ut auctore, sed a Deo per Moysen ; 
+Chri<lb break="no" ed="#P" n="5"/>stus vero fuit auctor legis gratiae, quae per 
+ip<lb break="no" ed="#P" n="6"/>sum facta est.
+</p>
+                  <p xml:id="szstco-l01248-d1e4561">
+                     <lb ed="#P" n="7"/>4. Potestas Christi legislativa nulli 
+creatu<lb break="no" ed="#P" n="8"/>re communicata. — Potestas Christi 
+legisla<lb break="no" ed="#P" n="9"/>tiva eccellentissima. — Dico secundo : haec
+<lb ed="#P" n="10"/>potestas legislativa fuit in Christo cum 
+sin<lb break="no" ed="#P" n="11"/>gulari quadam excellentia, cum qua nulli
+<lb ed="#P" n="12"/>creaturae communicata est. Est certa, et 
+pro<lb break="no" ed="#P" n="13"/>batur et explicatur variis modis : primo, ab
+<lb ed="#P" n="14"/>origine, quia haec potestas in illo fuit 
+quo<lb break="no" ed="#P" n="15"/>dammodo divina, erat enim potestas Dei, et
+<lb ed="#P" n="16"/>a propria dignitate personali manavit. 
+Pro<lb break="no" ed="#P" n="17"/>pter quod, jus per hanc potestatem 
+constitu<lb break="no" ed="#P" n="18"/>tum, simpliciter divinum est, quia, licet 
+pro<lb break="no" ed="#P" n="19"/>xime per humanitatem datum sit, tamen ab
+<lb ed="#P" n="20"/>ipsomet Deo immediate datum est, et per 
+di<lb break="no" ed="#P" n="21"/>vinam potestatem, et juxta divinae voluntatis
+<lb ed="#P" n="22"/>beneplacitum ; unde Deuteron. 18 ait Moyses,
+<lb ed="#P" n="23"/>de Christo loquens : Prophetam de gente tua,
+<lb ed="#P" n="24"/>et de fratribus tuis sicut me, suscitabit tibi
+<lb ed="#P" n="25"/>Dominus Deus tuus, ipsum audies; et infra:
+<lb ed="#P" n="26"/>Prophetam suscitabo eis de medic fratrum 
+suo<lb break="no" ed="#P" n="27"/>rum similem tui, et ponam verba mea in ore
+<lb ed="#P" n="28"/>ejus, logueturgue ad eos omnia, que 
+praece<lb break="no" ed="#P" n="29"/>pero illi; qui autem verba ejus, qua loguetur in
+<lb ed="#P" n="30"/>nomine meo, audire noluerit, ego ultor emistam.
+<lb ed="#P" n="31"/>Secundo, ex perfectione et excellentia 
+prae<lb break="no" ed="#P" n="32"/>ceptorum quae per hanc potestatem imposita
+<lb ed="#P" n="33"/>sunt; omnia enim ad internum bonum animae
+<lb ed="#P" n="34"/>pertiuent, et ad majorem cognitionem Dei,
+<lb ed="#P" n="35"/>majoremque cumillo conjunctionem, ut latius
+<lb ed="#P" n="36"/>in materia de sacramentis ostendendum est ;
+<lb ed="#P" n="37"/>de quibus nunc sufticit dictum illud August.,
+<lb ed="#P" n="38"/>lib. 19 contra Faust., c. 13, nobis data esse 
+sa<lb break="no" ed="#P" n="39"/>cramenta, scu pracepta virtute majora, 
+utili<lb break="no" ed="#P" n="40"/>tate meliora, actu faciliora, uumero pauciora,
+<lb ed="#P" n="41"/>tanguam justitia fieri revelata, et an 
+lberta<lb break="no" ed="#P" n="42"/>tem cocatis filis Dei. Tertio, per bane 
+potes<lb break="no" ed="#P" n="43"/>tatem potuit abrogari lex vetus, etiamsi a
+<lb ed="#P" n="44"/>Deo data esset, non solum quia , cum 
+Chri<lb break="no" ed="#P" n="45"/>stus esset finis legis, ut dicitur ad Rom. 12,
+<lb ed="#P" n="46"/>postquam per ipsum completa est, veluti
+<lb ed="#P" n="47"/>sponte sua evanuit sed etiam quia, ut 
+dici<lb break="no" ed="#P" n="48"/>tur ad Heb. 7, translato sacerdotio, necesse
+<lb ed="#P" n="49"/>est ut legis translatio fiut. De quo videri 
+po<lb break="no" ed="#P" n="50"/>test August., toto illo lib. 19 contra Faust..
+<lb ed="#P" n="51"/>praesertim a cap. 7. Quarto, potestas haec fuit
+<lb ed="#P" n="52"/>amplissima in universum orbem, juxta illud:
+<lb ed="#P" n="53"/>Dabo tibhi gentes haereditatem tuam, et 
+posses<lb break="no" ed="#P" n="54"/>sionem tuam terminos lerra, Psalm.2; et ideo,
+<lb ed="#P" n="55"/>Marc. ult., ipse praecepit Apostolis : Zuntes
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>in mundum universum pradicate, etc.; et Matt.
+<lb ed="#P" n="57"/>ult. dixerat : Data est mihi omnis potestas in
+<lb ed="#P" n="58"/>celo et in terra. Quocirca, sicut, gratia 
+Chri<lb break="no" ed="#P" n="59"/>sti omnibus communicatur, et Ecclesia ejus
+<lb ed="#P" n="60"/>catholica est et universalis, de se omnes 
+com<lb break="no" ed="#P" n="61"/>plectens, ita et jurisdictio amplissima est, et
+<lb ed="#P" n="62"/>lex ejus ad quaslibet personas extenditur, et
+<lb ed="#P" n="63"/>ad actus tam internos quam externos, et ad
+<lb ed="#P" n="64"/>omnium virtutum materias, et ad omnes 
+eft<lb break="no" ed="#P" n="65"/>fectus supremae potestatis, quales sunt 
+dis<lb break="no" ed="#P" n="66"/>pensare, abrogare, et similes; est enim 
+per<lb break="no" ed="#P" n="67"/>fectissima potestas, et divina. Quinto 
+deni<lb break="no" ed="#P" n="68"/>que (ut ex praecedent. sectione patet), non
+<lb ed="#P" n="69"/>solum potuit Christus per hanc potestatem 
+le<lb break="no" ed="#P" n="70"/>ges condere, sed etiam potuit Vicario suo
+<lb ed="#P" n="71"/>hanc potestatem impartiri, quam illi 
+commu<lb break="no" ed="#P" n="72"/>nicavit , non quidem cum aequali perfectione,
+<lb ed="#P" n="73"/>tamen cum tota illa, quae ad perfecte 
+regen<lb break="no" ed="#P" n="74"/>dam Ecclesiam necessaria fuit, ut latius in
+<lb ed="#P" n="75"/>proprio loco ostendendum est.
+</p>
+               </div>
+            </div>
+            <div xml:id="szstco-l01248-Dd1e4717"><!-- szstco-p3q22-d48 -->
+               <head xml:id="szstco-l01248-Hd1e4720">Disputatio 48</head>
+               <head xml:id="szstco-l01248-Hd1e4722" type="question-title">
+De temporali regno Christi domini
+</head>
+               <p xml:id="szstco-l01248-d1e4725">
+                  <lb ed="#P" n="76" type="fixed=464"/>DISPUTATIO XLVIII,
+<lb ed="#P" n="77"/>In duas sectiones distributa.
+<lb ed="#P" n="78"/>DE TEMPORALI REGNO CHRISTI DOMINI.
+</p>
+               <p xml:id="szstco-l01248-d1e4734">
+                  <lb ed="#P" n="79"/>Disputatio haec commode praecedentibus 
+ad<lb break="no" ed="#P" n="80"/>jungitur, quia D. Thomas, in art. 1, Christum
+<lb ed="#P" n="81"/>regem, sacerdotem, et legislatorem fuisse 
+do<lb break="no" ed="#P" n="82"/>cuit ; et Melchisedech rex simul et sacerdos
+<lb ed="#P" n="83"/>existens utramque dignitatem in Christo 
+prae<lb break="no" ed="#P" n="84"/>figuravit; ut ergo utraque dignitas perfecte
+<lb ed="#P" n="85"/>maneat explicata, duo a nobis in hac 
+dispu<lb break="no" ed="#P" n="86"/>tatione praestanda sunt. Primum enim 
+viden<lb break="no" ed="#P" n="87"/>dum est in particulari de regno Judaeorum,
+<lb ed="#P" n="88"/>an ad Christum pertinuerit aliquo proprio et
+<lb ed="#P" n="89"/>humano titulo. Deinde de universali regno
+<lb ed="#P" n="90"/>et dominio totius orbis breviter dicendum
+<lb ed="#P" n="91"/>erit.
+</p>
+               <div xml:id="szstco-l01248-Dd1e4765"><!-- szstco-p3q22-d48s1 -->
+                  <head xml:id="szstco-l01248-Hd1e4768">Sectio 1</head>
+                  <head xml:id="szstco-l01248-Hd1e4770" type="question-title">
+utrum christus haereditario jure temporale regnum
+judaeorum obtinuerit
+</head>
+                  <p xml:id="szstco-l01248-d1e4773">
+                     <lb ed="#P" n="92" type="fixed=464"/>SECTIO I.
+<lb ed="#P" n="93"/>Utrum Christus haereditario jure temporale regnum
+<lb ed="#P" n="94"/>Judaeorum obtinuerit.
+</p>
+                  <p xml:id="szstco-l01248-d1e4782">
+                     <lb ed="#P" n="95"/>1. In hac re fuit sententia Armachani, lib.
+<lb ed="#P" n="96"/>4 de Quaestionib. Armenor., c. 15 et 16, 
+di<lb break="no" ed="#P" n="97"/>centis Beatam Virginem habuisse jus 
+haere<lb break="no" ed="#P" n="98"/>ditarium ad regnum Judaeorum, quia linea
+<lb ed="#P" n="99"/>recta descendebat ex familia David, et 
+defi<lb break="no" ed="#P" n="100"/>ciente viro, femina in haereditate succedebat,
+<lb ed="#P" n="101"/>Numer. 27 et 39; neque enim est cur ab hac
+<lb ed="#P" n="102"/>generali lege excipiatur regia haereditas, cum
+<lb ed="#P" n="103"/>neque in totia lege cautum sit, neque femina
+<lb ed="#P" n="104"/>sit incapax regni, ut per se manifestum est ;
+<lb ed="#P" n="105"/>cum ergo parentes Virginis ex stirpe regia
+<lb ed="#P" n="106"/>directe descenderint, et alium fibum non
+<pb ed="#P" n="465"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>habuerint, ad Virginem devoluta est 
+haeredi<lb break="no" ed="#P" n="2"/>tas, et jus quod ipsi ad regnum habebant ;
+<lb ed="#P" n="3"/>ergo, cum Christus fuerit unicus filius 
+Virgi<lb break="no" ed="#P" n="4"/>nis, in illum transfundendum fuit hoc jus.
+<lb ed="#P" n="5"/>Quam sententiam confirmat nonnullis 
+Seri<lb break="no" ed="#P" n="6"/>pturae testimoniis, Mich. 5: Zt tu Bethleem,
+<lb ed="#P" n="7"/>terra Juda, neguaquam minima es in 
+principi<lb break="no" ed="#P" n="8"/>bus Juda, ev te enim orietur dua, qui regat
+<lb ed="#P" n="9"/>populum meum Israel; et Jerem. 53 : 
+Susci<lb break="no" ed="#P" n="10"/>tabo David germen justum, et regnabit Ivem, et
+<lb ed="#P" n="11"/>sapiens erit, etc., et aliis similibus, quibus
+<lb ed="#P" n="12"/>supra probavimus Christum esse regem. 
+Con<lb break="no" ed="#P" n="13"/>firmat secundo, quia pueri Hebraeorum 
+can<lb break="no" ed="#P" n="14"/>tabant Christo : Benedictus Rer, qui venit in
+<lb ed="#P" n="15"/>nomine Domini. Benedictum quod ven:t regnum
+<lb ed="#P" n="16"/>patris nostri, David, Marc. 11, Luc. 19; quas
+<lb ed="#P" n="17"/>voces Christus non cohibuit. sed potius 
+pro<lb break="no" ed="#P" n="18"/>bavit, sicut Pilato interroganti Matth. 27: 7Tw
+<lb ed="#P" n="19"/>es rec Judeorum ?* quamvis ipse de regno 
+tem<lb break="no" ed="#P" n="20"/>porali interrogaret, Ghristus annuendo 
+res<lb break="no" ed="#P" n="21"/>pondit : 7u dicis; unde, Matth. 17, Petro 
+di<lb break="no" ed="#P" n="22"/>xit Christus se esse liberum ab obligatione
+<lb ed="#P" n="23"/>solvendi tributum, tanquam filium regis ad
+<lb ed="#P" n="24"/>quem regnum pertinebat. Ultimo confirmari
+<lb ed="#P" n="25"/>potest ex 1 Mach. 14, ubi, cum senatus et
+<lb ed="#P" n="26"/>principes Judaeorum Simonem Macbabaeum,
+<lb ed="#P" n="27"/>ejusque successores, in ducem ct principem
+<lb ed="#P" n="28"/>sacerdotum elegissent, ut perpetuo ea 
+digni<lb break="no" ed="#P" n="29"/>tas in illa familia duraret, exceptionem 
+addi<lb break="no" ed="#P" n="30"/>derunt : Donec surgat Propheta fidelis, ile
+<lb ed="#P" n="31"/>scilicet Propheta, de quo Moyses praedixerat :
+<lb ed="#P" n="32"/>Prophetam sicut me, etc., Deuteron. 18, id est,
+<lb ed="#P" n="33"/>usque ad adventum Messiae, quia certo 
+cre<lb break="no" ed="#P" n="34"/>debant Messiam futurum esse verum regem,
+<lb ed="#P" n="35"/>et haeredem illius regni. Addit tamen hic 
+auc<lb break="no" ed="#P" n="36"/>tor, quamvis Christus jure suo potuerit hoc
+<lb ed="#P" n="37"/>reenum obtinere, illud tamen repudiasse, ac
+<lb ed="#P" n="38"/>omnino renuntiasse, paupertatem 
+praeferen<lb break="no" ed="#P" n="39"/>tem temporali regno; et ita inquit hoc jus
+<lb ed="#P" n="40"/>non solum non minuere perfectionem 
+Chri<lb break="no" ed="#P" n="41"/>sti, sed potius ad eam magis demonstrandam
+<lb ed="#P" n="42"/>conferre, quia ea bona temporalia, quae 
+inul<lb break="no" ed="#P" n="43"/>tis titulis habere poterat, contempsit.
+</p>
+                  <p xml:id="szstco-l01248-d1e4908">
+                     <lb ed="#P" n="44"/>2. Dicendum nihilominus est primo, 
+cer<lb break="no" ed="#P" n="45"/>tum esse Christum non fuisse de facto regem
+<lb ed="#P" n="46"/>temporalem Judaeorum. Hoc cc:tum est, ut
+<lb ed="#P" n="47"/>constat ex toto discursu Evangelii, et ex Joan.
+<lb ed="#P" n="48"/>6, ubi cum eum vellent facere regem, 
+abs<lb break="no" ed="#P" n="49"/>condit se. Hoc etiam constat, quia ipso 
+vi<lb break="no" ed="#P" n="50"/>vente fucrunt alii reges Judaeorum, si non 
+ju<lb break="no" ed="#P" n="51"/>rc, saltem facto; undc colligitur ipsum non
+<lb ed="#P" n="52"/>habuisse usum, seu actuale regimen 
+tempo<lb break="no" ed="#P" n="53"/>rale illius regni. Quod vero neque proprium
+<lb ed="#P" n="54"/>dominium aut proprietatem habuerit, patet,
+<lb ed="#P" n="55"/>quia neque per electionem hominum habuit,
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>ut per se constat, neque jure haereditario ,
+<lb ed="#P" n="57"/>quia illud non habuit, ut statim dicam ; tum
+<lb ed="#P" n="58"/>quia,licet habiturus fuisset, tamen vivente 
+ma<lb break="no" ed="#P" n="59"/>tre, in illa dominium et proprietas 
+perman<lb break="no" ed="#P" n="60"/>sisset.
+</p>
+                  <p xml:id="szstco-l01248-d1e4951">
+                     <lb ed="#P" n="61"/>3. Christus non habuit jus hereditarium
+<lb ed="#P" n="62"/>ad regnwumn temporale Judeorum. — Dico 
+se<lb break="no" ed="#P" n="63"/>cundo : Christus Dominus nullum jus 
+huma<lb break="no" ed="#P" n="64"/>num seuhaereditarium habuit ad temporale re
+<lb ed="#P" n="65"/>gnum Judaeorum, ratione carnalis originis ex
+<lb ed="#P" n="66"/>familia David. Haec est sententia communis,
+<lb ed="#P" n="67"/>pro qua multa congerit ex Patribus Walden.,
+<lb ed="#P" n="68"/>lib. 2 Doctrinal. fid. antiq., cap. 76 et 71;
+<lb ed="#P" n="69"/>eamdem defendunt Victoria, Scot. et alii,
+<lb ed="#P" n="70"/>sect. sequenti referendi. Et probatur primo,
+<lb ed="#P" n="71"/>quia existimare, regnum in sacra Scriptura
+<lb ed="#P" n="72"/>Messiae promissum, futurum fuisse 
+tempora<lb break="no" ed="#P" n="73"/>le, Judaicum redolet sensum, ad quem 
+exclu<lb break="no" ed="#P" n="74"/>dendum Scriptura fere semper variis modis
+<lb ed="#P" n="75"/>ostendit regnum illud esse spirituale, et ad
+<lb ed="#P" n="76"/>bonum animae pertinens, et non contincri 
+in<lb break="no" ed="#P" n="77"/>tra terminos Judaeae, sed per universum 
+mun<lb break="no" ed="#P" n="78"/>dum esteudi, et nou fuisse futurum super
+<lb ed="#P" n="79"/>carnales Israelitas, sed super spirituales filios
+<lb ed="#P" n="80"/>Abrahae secundum fidem, ut in epist. ad 
+Ro<lb break="no" ed="#P" n="81"/>manos latius Paulus prosequitur, et optime
+<lb ed="#P" n="82"/>Augustinus demonstrat, lib. 17 de Civit., cap.
+<lb ed="#P" n="83"/>6, 7, et sequentib., tract. 51 in Joan., et ex
+<lb ed="#P" n="84"/>adductis in praecedenti quaestione satis 
+con<lb break="no" ed="#P" n="85"/>stat. Denique Scriptura non dicit habiturum
+<lb ed="#P" n="86"/>jus ad regnum, sed vere regnaturum, et 
+fu<lb break="no" ed="#P" n="87"/>turum regem, quae non possunt vera esse de
+<lb ed="#P" n="88"/>ilo temporali regno; non ergo de illo 
+Scri<lb break="no" ed="#P" n="89"/>ptura loquitur. Secundo, probatur ratione in
+<lb ed="#P" n="90"/>Scriptura fundata, quia regnum Pavid jam
+<lb ed="#P" n="91"/>prius cessaverat, et successio fuerat 
+inter<lb break="no" ed="#P" n="92"/>rupta, ut constat ex Jerem. 22, ubi de 
+Jecho<lb break="no" ed="#P" n="93"/>nia dicitur : JVon erit de semane ejus, qui 
+se<lb break="no" ed="#P" n="94"/>deat super soluum David, et potestatem habeat
+<lb ed="#P" n="95"/>ultra in Juda ; ubi advertit Hieronymus hoc
+<lb ed="#P" n="96"/>esse intelligendum de solio David, quantum
+<lb ed="#P" n="97"/>ad temporale regnum, nam quantum ad 
+spi<lb break="no" ed="#P" n="98"/>rituale et aeternum, Christus postea scdit in
+<lb ed="#P" n="99"/>throno David, sicut Angelus Mariae praedisit
+<lb ed="#P" n="100"/>Luc. 1. Quod etiam notavit Ambros., lib. 3
+<lb ed="#P" n="101"/>super Lucam. De qua re multa diximus supra,
+<lb ed="#P" n="102"/>disp. 1 hujus materiae, tractantes locum 
+il<lb break="no" ed="#P" n="103"/>lum Genes. 49: Non auferetur sceptrum de
+<lb ed="#P" n="104"/>Juda. Et confirmari potest haec ratio ex loco
+<lb ed="#P" n="105"/>illo 1 Machabae. 14, ubi cum jam regnum 
+Ju<lb break="no" ed="#P" n="106"/>daeorum cessasset, et ducatus etiam extinctus
+<lb ed="#P" n="107"/>esset, seu translatus a tribu Juda, totus 
+Ju<lb break="no" ed="#P" n="108"/>daeorum populus ex communi consensu 
+con<lb break="no" ed="#P" n="109"/>stituit sibi ducem et summum sacerdotem 
+Si<lb break="no" ed="#P" n="110"/>monem Machabaeum, ut iu eo et posteritate
+<pb ed="#P" n="466"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>ejus ea dignitas perpetuo maneret. Cum ergo
+<lb ed="#P" n="2"/>translata esset omnino dignitas regia a domo
+<lb ed="#P" n="3"/>Juda, non potuit legitima successione et 
+hae<lb break="no" ed="#P" n="4"/>reditario jure ad Virginem pervenire. Nec
+<lb ed="#P" n="5"/>vero quia ibi additur conditio illa: Donec 
+sur<lb break="no" ed="#P" n="6"/>gat Propheta fidelis, imde colligi potest, nato
+<lb ed="#P" n="7"/>Christo statim ad illam translatum esse hoc
+<lb ed="#P" n="8"/>jus; primo, quia vel hoc esset propter 
+succes<lb break="no" ed="#P" n="9"/>sionem, vel propter populi consensum. 
+Pri<lb break="no" ed="#P" n="10"/>mum dici non potest, quia, ut ostensum
+<lb ed="#P" n="11"/>est, jam antea extinctum fuerat regnum 
+ju<lb break="no" ed="#P" n="12"/>daeorum ; nec secundum, tum quia non 
+con<lb break="no" ed="#P" n="13"/>stat ibi esse sermonem specialiter de Messia,
+<lb ed="#P" n="14"/>sed de quocunque propheta fideli, qui Dei
+<lb ed="#P" n="15"/>voluntatem manifestaret ; tum etiam quia, 
+li<lb break="no" ed="#P" n="16"/>cet tunc consefiserint in conferendo principatu
+<lb ed="#P" n="17"/>Machabaeis usque ad tempus Messiae, non 
+ta<lb break="no" ed="#P" n="18"/>men inde fit, ex tunc transtulisse jus vel 
+do<lb break="no" ed="#P" n="19"/>minium in Messiam, ita ut in suo adventu
+<lb ed="#P" n="20"/>statim sine aliopopuli consensu regnum 
+tem<lb break="no" ed="#P" n="21"/>porale acciperet, praesertim cum ipsi postea
+<lb ed="#P" n="22"/>judaei acclamaverint : IVon habemus regem
+<lb ed="#P" n="23"/>nisi Cwesarem; et: Noli scribere, Rex 
+Judaeo<lb break="no" ed="#P" n="24"/>rum, sed quia ipse dirit : Rev sum Judeorum.
+<lb ed="#P" n="25"/>Tum denique quia etiam ille principatus
+<lb ed="#P" n="26"/>Machabaeorum fuit extinctus ante Christi 
+ad<lb break="no" ed="#P" n="27"/>ventum. Ultimo probatur, quia nulo modo
+<lb ed="#P" n="28"/>constat nec probari potest, Beatam Virginem
+<lb ed="#P" n="29"/>recta linea descendisse a David per 
+Salomo<lb break="no" ed="#P" n="30"/>nem, et per omnes successores ejus 
+primoge<lb break="no" ed="#P" n="31"/>nitos; quin potius probabilius est, paternam
+<lb ed="#P" n="32"/>lineam Virginis fuisse a David per Nathan, ut
+<lb ed="#P" n="33"/>infra ostendemus. Quod vero quidam dicunt,
+<lb ed="#P" n="34"/>Joseph descendisse per Salomonem, et ad 
+il<lb break="no" ed="#P" n="35"/>lum pertinuisse regnum, et jure adoptionis
+<lb ed="#P" n="36"/>translatum esse ad Filium, hoc (inquam) 
+vo<lb break="no" ed="#P" n="37"/>luntarium est, quia praeter rationem 
+secun<lb break="no" ed="#P" n="38"/>dam supra factam, quae contra hoc aeque 
+pro<lb break="no" ed="#P" n="39"/>cedit, non constat Josephum fuisse in illa 
+li<lb break="no" ed="#P" n="40"/>nea primogenitum, seu primum successorem
+<lb ed="#P" n="41"/>omnium primogenitorum praecedentium, 
+prae<lb break="no" ed="#P" n="42"/>terquam quod jus regni non potest transferri
+<lb ed="#P" n="43"/>per solam adoptionem, in prasjudicium 
+legiti<lb break="no" ed="#P" n="44"/>mi successoris. Adde, incertum esse Christum
+<lb ed="#P" n="45"/>fuisse filium adoptivum Joseph, sed solum
+<lb ed="#P" n="46"/>putativum. Fundamenta contrariae sententiae
+<lb ed="#P" n="47"/>ex dictis expedita sunt, neque oportet aliquid
+<lb ed="#P" n="48"/>addere, quia difficultatem non habent.
+</p>
+               </div>
+               <div xml:id="szstco-l01248-Dd1e5172"><!-- szstco-p3q22-d48s2 -->
+                  <head xml:id="szstco-l01248-Hd1e5175">Sectio 2</head>
+                  <head xml:id="szstco-l01248-Hd1e5177" type="question-title">
+utrum christus dominus habuerit dominium 
+universale, et directum super universum orbem
+</head>
+                  <p xml:id="szstco-l01248-d1e5180">
+                     <lb ed="#P" n="49" type="fixed=466"/>SECTIO II.
+<lb ed="#P" n="50"/>Utrum Christus Dominus habuerit dominium 
+uni<lb break="no" ed="#P" n="51"/>versale, et directum super universum orbem.
+</p>
+                  <p xml:id="szstco-l01248-d1e5189">
+                     <lb ed="#P" n="52"/>1. Non versatur quaestio de Christo ut Deo,
+<lb ed="#P" n="53"/>de cujus supremo et universelissimo dominio
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>nulla est controversia. Tractamus ergo de
+<lb ed="#P" n="55"/>Christo ut homine, de quo illud etiam 
+indu<lb break="no" ed="#P" n="56"/>bitatum apud omnes est, ratione spiritualis
+<lb ed="#P" n="57"/>regni et potestatis, consequenter habuisse jus
+<lb ed="#P" n="58"/>ct potestatem utendi omnibus temporalibus
+<lb ed="#P" n="59"/>rebus in ordine ad spiritualem finem, et 
+sa<lb break="no" ed="#P" n="60"/>lutem animarum. Quia, sicut potestates et 
+re<lb break="no" ed="#P" n="61"/>gna ex finibus praecipue distinguuntur, ut
+<lb ed="#P" n="62"/>Aristoteles docet, lib. 3 Politic., c. 14. ita in
+<lb ed="#P" n="63"/>ordine ad suum finem unaquaeque potestas
+<lb ed="#P" n="64"/>vim et eftficaciam habet circa omnia inferiora,
+<lb ed="#P" n="65"/>quae possunt finem illum impedire , vel 
+con<lb break="no" ed="#P" n="66"/>venienter promovere, quia alias potestas 
+es<lb break="no" ed="#P" n="67"/>set imperfecta et diminuta. Cum ergo 
+tempo<lb break="no" ed="#P" n="68"/>ralia omnia ad spiritualia referantur, illisque
+<lb ed="#P" n="69"/>subordinentur, omnia illa, ut ordinem habent
+<lb ed="#P" n="70"/>ad hunc finem, subjici possunt huic spirituali
+<lb ed="#P" n="71"/>potestati Christi; unde saltem hac ratione
+<lb ed="#P" n="72"/>necesse est verum esse quod Christus dixit :
+<lb ed="#P" n="73"/>Data est ainihi omnis potestas in caelo et in 
+ter<lb break="no" ed="#P" n="74"/>ra. Et ab effectu confirmatur : nam, sicut ab
+<lb ed="#P" n="75"/>hac spirituali potestate Christi derivata est
+<lb ed="#P" n="76"/>suprema potestas spiritualis, quam Vicarius
+<lb ed="#P" n="77"/>ejus habet in terris, ita ab eadem duxit 
+origi<lb break="no" ed="#P" n="78"/>nem potestas , quam idem Summus Pontitex
+<lb ed="#P" n="79"/>habet super omnia temporalia regna 
+indirec<lb break="no" ed="#P" n="80"/>te, et in ordine ad spiritualem finem, ut in
+<lb ed="#P" n="81"/>proprio loco latius ostendendum est. Denique
+<lb ed="#P" n="82"/>multi arbitrantur ad usum hujus potestatis
+<lb ed="#P" n="83"/>pertinuisse, quod ad verbum Christi arefacta
+<lb ed="#P" n="84"/>est ficulnea, Matthaei 21, et quod ejecerit
+<lb ed="#P" n="85"/>ementes et vendentes de templo, Joan. 2.
+<lb ed="#P" n="86"/>Versatur ergo quaestio de dominio directo.
+<lb ed="#P" n="87"/>2. Prima sententia negat Christum 
+Domi<lb break="no" ed="#P" n="88"/>num habuisse aliquod dominium directum
+<lb ed="#P" n="89"/>rerum omnium. Ita tenuit Abulens. , q. 30,
+<lb ed="#P" n="90"/>in ilud Matth. 21: Ecce Rex tuus venit tibi.
+<lb ed="#P" n="91"/>Waldens., lib. 2 Doctrin. fid. antiq. , c. 76 et
+<lb ed="#P" n="92"/>T'; Victor., Relect. 1 de Potestate Eccles.,
+<lb ed="#P" n="93"/>q. 5, qua est, an potestas spiritualis sit 
+su<lb break="no" ed="#P" n="94"/>pra civilem , num. 15; Sot., lib. 4 de Justit.,
+<lb ed="#P" n="95"/>quaest. 4, art. 1. Et in eamdem sententiam
+<lb ed="#P" n="96"/>inclinat Armachan. , lib. 4 contra Armen.,
+<lb ed="#P" n="97"/>c. 12; et Burgens., in scrutinio Scripturarum,
+<lb ed="#P" n="98"/>p. 1, dist. 7, et sequentibus. Huic autem 
+sen<lb break="no" ed="#P" n="99"/>tentiaa addidit Marsil., Patavinus haereticus,
+<lb ed="#P" n="100"/>Christum non solum non habuisse 
+potesta<lb break="no" ed="#P" n="101"/>tem directam super reges temporales, sed
+<lb ed="#P" n="102"/>potius fuisse illis subjectum, et obligatum ad
+<lb ed="#P" n="103"/>solvenda tributa. Quem errorem damnavit
+<lb ed="#P" n="104"/>loannes XXII, in Extravag. Licet juste, ut 
+re<lb break="no" ed="#P" n="105"/>fert Turrecrem., lib. 4 Summ. Eccles.. 2
+<lb ed="#P" n="106"/>part., c. 37; pugnat enim cum dignitatce ct
+<lb ed="#P" n="107"/>divinitate personae Christi, et cum verbis ejus,
+<lb ed="#P" n="108"/>Matthei 1T : Ergo literi sunt filii, Omisso
+<pb ed="#P" n="467"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>ergo hoc errore, de quo supra, quaest. 920,
+<lb ed="#P" n="2"/>satis egimus, fundamentum hujus sententiae
+<lb ed="#P" n="3"/>primum sumitur ex omnibus illis sacrae 
+Scri<lb break="no" ed="#P" n="4"/>pturae locis, quibus supra ostendimus regnum
+<lb ed="#P" n="5"/>Christi esse spirituale; ex eisdem enim colligi
+<lb ed="#P" n="6"/>videtur non esse temporale ; sunt verba 
+op<lb break="no" ed="#P" n="7"/>tima Zachar. 9 : Exulta satis, fllia Sion; 
+ja<lb break="no" ed="#P" n="8"/>bila, Jerusalem, ecce Ree tuus venit tibi justus
+<lb ed="#P" n="9"/>et salvator , et ipse pauper , sedens super 
+asi<lb break="no" ed="#P" n="10"/>naan, etc.; ideo enim illa duo conjunxissc 
+vi<lb break="no" ed="#P" n="11"/>detur, regem et pauperem, ut regnum illud
+<lb ed="#P" n="12"/>non temporale, sed spirituale esse 
+significa<lb break="no" ed="#P" n="13"/>ret ; propter quod dixisse videtur ipse 
+Chri<lb break="no" ed="#P" n="14"/>tus : Regnum meum non est de hoc mundo. 
+Se<lb break="no" ed="#P" n="15"/>cundo, quia Christus docuit contemnere 
+tem<lb break="no" ed="#P" n="16"/>poralia regna et divitias; ergo neque ad
+<lb ed="#P" n="17"/>exemplum. neque ad finem redemptionis
+<lb ed="#P" n="18"/>Christo erat utile hoc dominium, unde neque
+<lb ed="#P" n="19"/>illo unquam usus est, neque potestate ulla
+<lb ed="#P" n="20"/>seu jurisdictione temporali; unde Luc. 12,
+<lb ed="#P" n="21"/>homini petenti ab ipso : Magister , dic fratri
+<lb ed="#P" n="22"/>meo ut dividat mecum lereditatem , ipse 
+res<lb break="no" ed="#P" n="23"/>pondit : Homo, quis me constituit judicem aut
+<lb ed="#P" n="24"/>divisorem inter vos? Tertio denique, quia si
+<lb ed="#P" n="25"/>Christus habuisset directum dominium, et 
+po<lb break="no" ed="#P" n="26"/>testatem super omnia regna mundi, 
+reliquis<lb break="no" ed="#P" n="27"/>set Vicario suo , quia cum illo commuuicavit
+<lb ed="#P" n="28"/>omnem suam potestatem ; consequens autem
+<lb ed="#P" n="29"/>est falsum.
+</p>
+                  <p xml:id="szstco-l01248-d1e5384">
+                     <lb ed="#P" n="30"/>3. Secunda sententia affirmat , Christum
+<lb ed="#P" n="31"/>babuisse absolutum et directum dominium et
+<lb ed="#P" n="32"/>potestatem super omnia regna temporalia ,
+<lb ed="#P" n="33"/>per quam posset illa regere, moderari, aut
+<lb ed="#P" n="34"/>mutare suo arbitrio. Haec est sententia D.
+<lb ed="#P" n="35"/>Thomee, lib. 1 de Regimine principum, c. 22
+<lb ed="#P" n="36"/>et sequentibus; eamdem tenet D. Antoni., 3
+<lb ed="#P" n="37"/>part., tit. 3, cap. 2; et Almain., lib. de 
+Po<lb break="no" ed="#P" n="38"/>testate Eccles., cap. 8; Turrecrem., lib. 2
+<lb ed="#P" n="39"/>Summae Eccles., cap. 116; Navar., in cap.
+<lb ed="#P" n="40"/>Novit, de Judiciis, notab. 3, num. S et seq.,
+<lb ed="#P" n="41"/>et num. 130.
+</p>
+                  <p xml:id="szstco-l01248-d1e5414">
+                     <lb ed="#P" n="42"/>4. Dominium quotuplev. — Pro solutione
+<lb ed="#P" n="43"/>advertendum est unum esse supremum 
+domi<lb break="no" ed="#P" n="44"/>nium, quod soli Deo convenit in quantum
+<lb ed="#P" n="45"/>Deus est, et incommunicabile fuit humanitati
+<lb ed="#P" n="46"/>Christi , tum quia etiam ipsa sub hoc 
+domi<lb break="no" ed="#P" n="47"/>nium cadit ; tum etiam propter 
+independen<lb break="no" ed="#P" n="48"/>tiam quam includit ; est enim hoc dominium
+<lb ed="#P" n="49"/>independens ab omni superiori voluntate , et
+<lb ed="#P" n="50"/>directe cadit in res omnes, etiam prout 
+con<lb break="no" ed="#P" n="51"/>servantur in essc. Aliud vero est dominium,
+<lb ed="#P" n="52"/>quasi extreme ab hoc distans, ect infimi
+<lb ed="#P" n="53"/>ordinis, ut est dominium humapum , quod
+<lb ed="#P" n="54"/>magna ex parte in voluntate humana 
+fun<lb break="no" ed="#P" n="55"/>damentum habet; ad quod revocetur juris-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>dictio, seu potestas temporalis, quae ab 
+ho<lb break="no" ed="#P" n="57"/>minibus etiam introducta est ad tuendam
+<lb ed="#P" n="58"/>Rempublicam, et in justitia ac pace 
+conser<lb break="no" ed="#P" n="59"/>vandam ; et hac ratione in hac quaestione
+<lb ed="#P" n="60"/>de dominio et regno , quod in quadam 
+pote<lb break="no" ed="#P" n="61"/>state et jurisdictione consistit, indifferenter
+<lb ed="#P" n="62"/>loquimur. Inter haec vero duo dominia, 
+intel<lb break="no" ed="#P" n="63"/>ligi potest aliud medium , quod quidem 
+do<lb break="no" ed="#P" n="64"/>minium creatum sit, sub divino existens, et
+<lb ed="#P" n="65"/>ab illo pendens, et in creata voluntate et 
+li<lb break="no" ed="#P" n="66"/>bertate fundatum, excellens tamen, ac 
+supe<lb break="no" ed="#P" n="67"/>rans omnia dominia, et regna humana. 
+Pri<lb break="no" ed="#P" n="68"/>n:um in origine, ut si a Deo manet, et non ab
+<lb ed="#P" n="69"/>hominibus. Deinde in ecjus firmitate et 
+stabili<lb break="no" ed="#P" n="70"/>tate, ut si non sit caducum, sed stabile et
+<lb ed="#P" n="71"/>acternum. Tertio in materia séu objecto, ut si
+<lb ed="#P" n="72"/>ad res omnes creatas se extendat, etiam ad
+<lb ed="#P" n="73"/>Augelos, et ad omnem usum, tam naturalem
+<lb ed="#P" n="74"/>quam supernaturalem. Hoc autem genus 
+do<lb break="no" ed="#P" n="75"/>minii medii possibile esse, non videtur posse
+<lb ed="#P" n="76"/>dubitari, quia nullam in se repugnantiam 
+in<lb break="no" ed="#P" n="77"/>volvit; et Deus, qui est supremus omnium
+<lb ed="#P" n="78"/>Dominus, potest sui dominii participationem,
+<lb ed="#P" n="79"/>prout voluerit, communicare.
+</p>
+                  <p xml:id="szstco-l01248-d1e5501">
+                     <lb ed="#P" n="80"/>5. Dico ergo primo : quamvis Christus 
+Do<lb break="no" ed="#P" n="81"/>minus interdum habuerit aliquarum rerum
+<lb ed="#P" n="82"/>humanum et temporale dominium, non 
+ta<lb break="no" ed="#P" n="83"/>men assumpsit hujusmodi dominium, vel 
+po<lb break="no" ed="#P" n="84"/>testatem in toto orbe , neque in aliquo regno
+<lb ed="#P" n="85"/>teraporali. Prior pars satis probatur ex 
+defi<lb break="no" ed="#P" n="86"/>nitione Joannis XXII, in Extravag. Cum inter
+<lb ed="#P" n="87"/>nonnullos, de Verb. significat. ; de illa enim
+<lb ed="#P" n="88"/>latius agemus tractantes de vita Christ ,
+<lb ed="#P" n="89"/>quaestione 40. Nunc enim solum supposita
+<lb ed="#P" n="90"/>est, quia in illa insinuatur secunda pars 
+con<lb break="no" ed="#P" n="91"/>clusionis ; si enim definit Pontifex Christum
+<lb ed="#P" n="92"/>habuisse paucarum rerum dominium, sentit
+<lb ed="#P" n="93"/>non habuisse illud in toto orbe. Et hoc 
+confir<lb break="no" ed="#P" n="94"/>mant illa testimonia, quibus docetur Christum
+<lb ed="#P" n="95"/>fuisse pauperem; perfecta enim Evangelica
+<lb ed="#P" n="96"/>paupertas consistit in abdicatione rerum 
+tem<lb break="no" ed="#P" n="97"/>poralium, non tam quoad usum, quam quoad
+<lb ed="#P" n="98"/>potestatem et dominium.
+</p>
+                  <p xml:id="szstco-l01248-d1e5545">
+                     <lb ed="#P" n="99"/>6. Objectio. — Responsio. — Dices, haec ad
+<lb ed="#P" n="100"/>summum procedere de tempore vitae mortalis
+<lb ed="#P" n="101"/>Christi Domini. Respondetur ita esse, et 
+pro<lb break="no" ed="#P" n="102"/>posito sufficere, nam in vita immortali et 
+glo<lb break="no" ed="#P" n="103"/>riosa, caducum et temporale dominium, nec
+<lb ed="#P" n="104"/>necessarium est, nec illi statul 
+accommoda<lb break="no" ed="#P" n="105"/>tum ; unde multo certius est etiam post 
+resur<lb break="no" ed="#P" n="106"/>rectionem non assumpsisse Christum 
+hujus<lb break="no" ed="#P" n="107"/>modi dominium. Et confirmatur, quia hoc
+<lb ed="#P" n="108"/>dominium originem babet ab hominibus ;
+<lb ed="#P" n="109"/>Christus autem nullo humano titulo illud 
+ha<lb break="no" ed="#P" n="110"/>buit, ut per se est manifestum , iis adjunctis
+<pb ed="#P" n="468"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>quae sectione praecedenti dicta sunt. Dices 
+ha<lb break="no" ed="#P" n="2"/>buisse hoc dominium immediate infusum per
+<lb ed="#P" n="3"/>accidens a Deo. Sed hoc sine ullo 
+fundamen<lb break="no" ed="#P" n="4"/>to dicitur, ut bene probant argumenta prioris
+<lb ed="#P" n="5"/>sententiae, quia hoc dominium neque ad 
+per<lb break="no" ed="#P" n="6"/>fectionem Christi pertinet, neque ad aliquem
+<lb ed="#P" n="7"/>usum Christus illo indiguit; unde recte 
+Ara<lb break="no" ed="#P" n="8"/>bros. , lib. 7 in Lucam, explicans verba illa :
+<lb ed="#P" n="9"/>Quis me constituit Judicem inter vos ? Merito,
+<lb ed="#P" n="10"/>inquit, Zerrestria declinat, qui propter caelestia
+<lb ed="#P" n="11"/>cenerat . et avaritie tollende prubet 
+ewem<lb break="no" ed="#P" n="12"/>plum.
+</p>
+                  <p xml:id="szstco-l01248-d1e5604">
+                     <lb ed="#P" n="13"/>7. Christus rerum omnwn dominus. —bico
+<lb ed="#P" n="14"/>secundo, habuisse Christum Dominum per se
+<lb ed="#P" n="15"/>et directe excellens quoddam dominium , et
+<lb ed="#P" n="16"/>potestatem in res omnes creatas, et super
+<lb ed="#P" n="17"/>omnes orenium hominum et Angelorum 
+ac<lb break="no" ed="#P" n="18"/>tiones. Probatur primo ex Scriptura et 
+Patri<lb break="no" ed="#P" n="19"/>bus ; Apocal. 1 dicitur Christus Princeps 
+re<lb break="no" ed="#P" n="20"/>gum terra ; etc. 19. Habet in femore, id est,
+<lb ed="#P" n="21"/>in humanitate (ut glossa et alii esponunt) Eeac
+<lb ed="#P" n="22"/>regum et dominus dominantium ; Actor. 10:
+<lb ed="#P" n="23"/>Annuncians pacem per Jesum Christum, hic est
+<lb ed="#P" n="24"/>omnin dominus, ubi manifeste sermo est de
+<lb ed="#P" n="25"/>Christo ut homine. Unde ad Hebraeos 2 de
+<lb ed="#P" n="26"/>Christo exponitur illud Psalm. 8 : Omnia 
+sub<lb break="no" ed="#P" n="27"/>jecisti sub pedibus ejus, constituisti eum super
+<lb ed="#P" n="28"/>opera manwwmn tuarum ; et 4 ad Cor. 15 : 
+Om<lb break="no" ed="#P" n="29"/>nia sujecta sunt ei, prater eum quà subjecit ei
+<lb ed="#P" n="30"/>omnia. Denique Matth. ult. : Data est mihà
+<lb ed="#P" n="31"/>omnis potestas in collo et in terra ; qui autem
+<lb ed="#P" n="32"/>dixit omnem potestatem, nullam exclusit quae
+<lb ed="#P" n="33"/>in hominem cadere posset. Faciunt etiam
+<lb ed="#P" n="34"/>verba illa Joan. 18 : Regnum meum non est de
+<lb ed="#P" n="35"/>hoc mundo , ubi Christus et se regem fatetur,
+<lb ed="#P" n="36"/>et negat se regnum habere ad modum regum
+<lb ed="#P" n="37"/>temporalium ; et optime de hoc regno et 
+do<lb break="no" ed="#P" n="38"/>minio intelligitur, et non solum de potestate
+<lb ed="#P" n="39"/>et regno spirituali ; quia Christus eminenter
+<lb ed="#P" n="40"/>habet omnem potestatem ct dominium, quod
+<lb ed="#P" n="41"/>habent reges temporales, et ideo non solum
+<lb ed="#P" n="42"/>in ordine ad finem spiritualem, sed etiam 
+di<lb break="no" ed="#P" n="43"/>recte et per se est rex omnium. Unde Cyril.,
+<lb ed="#P" n="44"/>lib. 12 in Joan., cap. 10, haec verba 
+expo<lb break="no" ed="#P" n="45"/>nens, ait : Ategem se esse non negat ; sed regni
+<lb ed="#P" n="46"/>Caesaris se non esse hostem ostendit, quia ejus
+<lb ed="#P" n="47"/>regnum terremum no est, sed cali et terrae, 
+ce<lb break="no" ed="#P" n="48"/>terarumque rerum omniuwn. Similia habet cap.
+<lb ed="#P" n="49"/>12; et Chrysost., hom. 82 in Joan.; et 
+Au<lb break="no" ed="#P" n="50"/>gustinus, tract. 14, inquit : Erat quidem rem,
+<lb ed="#P" n="51"/>non talis qualis ab hominibus fit, sed talis ut
+<lb ed="#P" n="52"/>homines reges facerct ;, et tract. 115, ponderat
+<lb ed="#P" n="53"/>non dixisse Christum : AJegnum mewmn non est
+<lb ed="#P" n="54"/>Aic, seu iu hoc mundo, sed non est hinc, nec de
+<lb ed="#P" n="55"/>hoc mundo. Et in eodem sensu intellivi pos-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>sunt verba Gregorii. hom. 8 in Evangelia,
+<lb ed="#P" n="57"/>ubi, cum dixisset Christum natum esse in via,
+<lb ed="#P" n="58"/>ad indicandum quod in alieno nascebatur,
+<lb ed="#P" n="59"/>subdit : Alienum dico, non secundum 
+potesta<lb break="no" ed="#P" n="60"/>tem, sed secundum naturam, nam secundum 
+po<lb break="no" ed="#P" n="61"/>testatzim in propria venit ; ubi non solum 
+dis<lb break="no" ed="#P" n="62"/>ünguit divinitatem ab humanitate, sed in ipsa
+<lb ed="#P" n="63"/>etiam humanitate distinguit naturalem 
+con<lb break="no" ed="#P" n="64"/>ditionem a potestate quam ratione unionis
+<lb ed="#P" n="65"/>habuit, ratione cujus etiam dici potest venissc
+<lb ed="#P" n="66"/>in propria. Nec videntur haec omnia satis 
+ex<lb break="no" ed="#P" n="67"/>plicari de indirecta potestate, quae non est 
+fa<lb break="no" ed="#P" n="68"/>cultas absolute et simpliciter, sed limitata ad
+<lb ed="#P" n="69"/>spiritualem finem , et quasi sub conditione,
+<lb ed="#P" n="70"/>si usus temporalium rerum ad illum finem
+<lb ed="#P" n="71"/>fuerit necessarius; at vero in citatis 
+testimo<lb break="no" ed="#P" n="72"/>niis videtur tribui Christo absolutum 
+domi<lb break="no" ed="#P" n="73"/>nium, et potestas simpliciter. Quod ita 
+expli<lb break="no" ed="#P" n="74"/>catur et confirmatur, quia, si Christus solum
+<lb ed="#P" n="75"/>haberet potestatem indirectam, non posset
+<lb ed="#P" n="76"/>Angelis , verbi gratia, praecipere , nisi quod
+<lb ed="#P" n="77"/>ad salutem hominum esset necessarium , 
+ne<lb break="no" ed="#P" n="78"/>que posset uti re aliena ad faciendum 
+miracu<lb break="no" ed="#P" n="79"/>lum, si commode posset alio modo id efficere;
+<lb ed="#P" n="80"/>indignum autem videtur , haec et similia de
+<lb ed="#P" n="81"/>Christi potestate sentire. Confirmatur 
+secun<lb break="no" ed="#P" n="82"/>do, quia haec potestas indirecta, non est 
+dis<lb break="no" ed="#P" n="83"/>tincta a potestate spirituali, quae cum 
+sacer<lb break="no" ed="#P" n="84"/>dotio Christi conjuncta est; unde neque 
+re<lb break="no" ed="#P" n="85"/>gnum mere spirituale. distinctum aliquid est
+<lb ed="#P" n="86"/>ab ipso sacerdotio ; at vero Scriptura tribuit
+<lb ed="#P" n="87"/>Christo dignitatem sacerdotis, et regis 
+tan<lb break="no" ed="#P" n="88"/>quam distinctas, ut ex Augustino constat,
+<lb ed="#P" n="89"/>tract. 13 in Joan. Unde ei Melchisedech , qui
+<lb ed="#P" n="90"/>figura fuit Christi, utramque potestatem 
+ha<lb break="no" ed="#P" n="91"/>buit directam et distinctam. Ultima et propria
+<lb ed="#P" n="92"/>ratio est, quia Christus est Filius naturalis, et
+<lb ed="#P" n="93"/>haeres universorum, ut ad Hebr. 1 dicitur; 
+er<lb break="no" ed="#P" n="94"/>go ratione unionis debetur illi hoc dominium
+<lb ed="#P" n="95"/>et potestas, quae suo etiam modo ratione 
+re<lb break="no" ed="#P" n="96"/>demptionis et infiniti meriti deberi potuit,
+<lb ed="#P" n="97"/>quia haec potestas ad quamdam exaltationem
+<lb ed="#P" n="98"/>nominis Christi pertiuet, u£t in nomine Jesu
+<lb ed="#P" n="99"/>omne genu flectatur, ad Philippen. 2.
+</p>
+                  <p xml:id="szstco-l01248-d1e5797">
+                     <lb ed="#P" n="100"/>8. Dubium. — Quaeres an habuerit Christus
+<lb ed="#P" n="101"/>hoc dominium in vita mortali, vel solum post
+<lb ed="#P" n="102"/>resurrectionem. Quibusdam hoc posterius
+<lb ed="#P" n="103"/>placet, quia, 2un hoc mortuus est et resurreat,
+<lb ed="#P" n="104"/>ut vivorum et mortuorum dominetur, ad Rom.
+<lb ed="#P" n="105"/>14. Aliis verius videtur primum, quia ante
+<lb ed="#P" n="106"/>resurrectionem novit Christus omnia dedisse
+<lb ed="#P" n="107"/>sibi Patrem in manus, ut dicit Joan. 13; 
+de<lb break="no" ed="#P" n="108"/>bebatur enim haec dignitas Christo ratione
+<lb ed="#P" n="109"/>unionis, et ideo statim data est, quia ejus 
+ca<lb break="no" ed="#P" n="110"/>rentia, neque ad nostram redemptionem ne-
+<pb ed="#P" n="469"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>cessaria erat, neque ad exemplum 
+pauperta<lb break="no" ed="#P" n="2"/>tis; satis enim fuit privari dominio terreno ,
+<lb ed="#P" n="3"/>et externo splendore , et abundantia 
+tempo<lb break="no" ed="#P" n="4"/>ralium rerum, in his enim versatur humana
+<lb ed="#P" n="5"/>paupertas ; privari autem sua potestate 
+ex<lb break="no" ed="#P" n="6"/>cellentiae, non fuit magis necessarium quam
+<lb ed="#P" n="7"/>privari potestate faciendi miracula; multum
+<lb ed="#P" n="8"/>enim conjuncta est haec potestas cum illo 
+ex<lb break="no" ed="#P" n="9"/>cellenti dominio. Quanquam ergo fuerit 
+ege<lb break="no" ed="#P" n="10"/>nus in usu, et humana proprietate 
+tempora<lb break="no" ed="#P" n="11"/>lium rerum, ut dicitur 2 ad Corinth. 8, dives
+<lb ed="#P" n="12"/>nihilominus fuit altiori genere potestatis ; 
+si<lb break="no" ed="#P" n="13"/>ent etiam, licet exterius se subdiderit', et 
+in<lb break="no" ed="#P" n="14"/>terdum tributum solverit, nihilominus liber
+<lb ed="#P" n="15"/>fuit, et immunis ab omni tributo et 
+subjec<lb break="no" ed="#P" n="16"/>tione humana; hoc enim debitum illi erat 
+ra<lb break="no" ed="#P" n="17"/>tione unionis, neque oportuit aut decuit hac
+<lb ed="#P" n="18"/>-dignitate privari. Et haec posterior sententia
+<lb ed="#P" n="19"/>mihi magis placet , si in rigore loquamur de
+<lb ed="#P" n="20"/>proprietate et potestate excellentiae , nam si
+<lb ed="#P" n="21"/>loquamur de quodam absoluto et perfecto
+<lb ed="#P" n="22"/>usu , et quasi de possessione hujus regni et
+<lb ed="#P" n="23"/>dominii , atque adeo de manifestatione ejus,
+<lb ed="#P" n="24"/>haec post resurrectionem plene ac perfecte
+<lb ed="#P" n="25"/>obtenta sunt.
+</p>
+                  <p xml:id="szstco-l01248-d1e5882">
+                     <lb ed="#P" n="26"/>9. Solutio ad argumenta. — Fundamenta
+<lb ed="#P" n="27"/>prioris sententia probant primam 
+conclusio<lb break="no" ed="#P" n="28"/>nem , et si contra hanc secundam fiant, ex
+<lb ed="#P" n="29"/>dictis soluta sunt, praesertim primum et 
+se<lb break="no" ed="#P" n="30"/>cundum. Circa tertium vero male quidam 
+in<lb break="no" ed="#P" n="31"/>tulerunt, Summum Pontificem habere 
+domi<lb break="no" ed="#P" n="32"/>nium temporale totius orbis, quod nullum
+<lb ed="#P" n="33"/>habet fundamentum, quia Christus non 
+com<lb break="no" ed="#P" n="34"/>municavit Vicario suo omnem potestatem 
+ex<lb break="no" ed="#P" n="35"/>cellentiae. Alii intulerunt a primo instanti
+<lb ed="#P" n="36"/>conceptionis Christi omnes reges privatos
+<lb ed="#P" n="37"/>fuisse suis regnis quoad dominium et 
+pro<lb break="no" ed="#P" n="38"/>prietatem ; quod vanum est et siue 
+fundamen<lb break="no" ed="#P" n="39"/>to, quia hoc excellens dominium, cum sit 
+su<lb break="no" ed="#P" n="40"/>perioris ordinis, non excludit privata 
+domi<lb break="no" ed="#P" n="41"/>nio, sicut neque excludit dominiumDei. Unde
+<lb ed="#P" n="42"/>recte Augustinus, dicto tractat. 115 in Joan.,
+<lb ed="#P" n="43"/>dicit, Christum in illo verbo : Regnum meum
+<lb ed="#P" n="44"/>non est de hoc mundo , tacite dizisse ad omnes
+<lb ed="#P" n="45"/>reges terra : Nolite timere, non impedio 
+domi<lb break="no" ed="#P" n="46"/>nationem vestram ; et Ecclesia canit : Ion 
+eri<lb break="no" ed="#P" n="47"/>pit mortalia, qui regna dat caelestia. Aliqui
+<lb ed="#P" n="48"/>denique haeretici intulerunt omnes reges 
+ter<lb break="no" ed="#P" n="49"/>rae esse Vicarios Christi hominis, et tam in
+<lb ed="#P" n="50"/>spiritualibus quam in temporalibus ejus 
+vi<lb break="no" ed="#P" n="51"/>ces habere. Hoc autem secundum haereticum
+<lb ed="#P" n="52"/>est, ut ex materia de fide constat; primum
+<lb ed="#P" n="53"/>vero in rigore est falsum, ut satis ex dictis
+<lb ed="#P" n="54"/>constat. Quocirca cum D. Thom., in dicto lib.
+<lb ed="#P" n="55"/>de Regim, princip., dicit Augustum Caesarem
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>fuisse Christi Vicarium ab illius nativitate,
+<lb ed="#P" n="57"/>exponendus est. Nam, quia Christus erat 
+su<lb break="no" ed="#P" n="58"/>perior Augusto, et potuisset illius imperium
+<lb ed="#P" n="59"/>occupare, si vellet, ideo dici potest ex tunc
+<lb ed="#P" n="60"/>imperasse ex quadam liberalitate Christi ; et
+<lb ed="#P" n="61"/>hoc sensu dicitur Vicarius ejus, non quia 
+pro<lb break="no" ed="#P" n="62"/>prio dominio et potestate privatus fuerit ; sic
+<lb ed="#P" n="63"/>Sancti interdum dicunt divites esse economos
+<lb ed="#P" n="64"/>Dei, largo quodam modo, qui dominium 
+di<lb break="no" ed="#P" n="65"/>vitiarum non excludit.
+</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

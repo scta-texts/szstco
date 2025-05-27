@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 12</title>
+            <author ref="#FranciscoSuarez">Francisco Suarez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 12</title>
+               <date when="2025-05-27">May 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-sqqv18">Paris 1860, v. 17</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-05-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="74"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="szstco-l01032"><!-- szstco-p3q12 -->
+            <head xml:id="szstco-l01032-Hd1e97">Quaestio 12</head>
+            <div xml:id="szstco-l01032-Dd1e99"><!-- szstco-p3q12a1 -->
+               <head xml:id="szstco-l01032-Hd1e102">Articulus 1</head>
+               <p xml:id="szstco-l01032-d1e104">
+                  <lb ed="#P" n="38" type="fixed=72"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01032-d1e109">
+                  <lb ed="#P" n="39"/>In hoc articulo explicat D. Thom. materiale
+<lb ed="#P" n="40"/>objectum hujus scientiae, et supponit 
+senten<lb break="no" ed="#P" n="41"/>tiam, quam supra docuit, nimirum, Christum
+<lb ed="#P" n="42"/>non habuisse hanc scientiam a Deo infusam,
+<lb ed="#P" n="43"/>sed propria industria et exercitatione, seu
+<lb ed="#P" n="44"/>actione intellectus agentis comparatam. Unde
+<lb ed="#P" n="45"/>concludit, cognovisse Christum per hanc
+<lb ed="#P" n="46"/>scientiam omnia, quae per actionem 
+intellec<lb break="no" ed="#P" n="47"/>tus agentis ab homine sciri possunt, non vero
+<lb ed="#P" n="48"/>substautias separatas, nec singularia praete-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="49"/>rita, praesentia, aut futura, ut dicit in 
+solu<lb break="no" ed="#P" n="50"/>uone ad 3. Contra quam doctrinam objicit D.
+<lb ed="#P" n="51"/>Th. argumenta non facilia. Sed quae in 
+sola<lb break="no" ed="#P" n="52"/>tione eorum dicit, et tota haec sententia 
+in<lb break="no" ed="#P" n="53"/>diget prolixiori examine, ut videbimus 
+dis<lb break="no" ed="#P" n="54"/>putatione sequenti.
+</p>
+            </div>
+            <div xml:id="szstco-l01032-Dd1e149"><!-- szstco-p3q12a2 -->
+               <head xml:id="szstco-l01032-Hd1e152">Articulus 2</head>
+               <p xml:id="szstco-l01032-d1e154">
+                  <lb ed="#P" n="64" type="fixed=73"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01032-d1e159">
+                  <lb ed="#P" n="65"/>Quoniam in articulo praecedenti docuit D.
+<lb ed="#P" n="66"/>Thomas aliquo modo cognovisse Christum
+<lb ed="#P" n="67"/>omnia per hanc scientiam, in hoc explicat,
+<lb ed="#P" n="68"/>quo tempore aetatis suae haec omnia sciverit.
+<lb ed="#P" n="69"/>Et docet, non a principio conceptionis, sed
+<lb ed="#P" n="70"/>paulatim hanc universalem scientiam 
+acqui<lb break="no" ed="#P" n="71"/>sivisse, quia intellectus agens, cujus actione
+<lb ed="#P" n="72"/>ad comparandam hanc scientiam usus est,
+<lb ed="#P" n="73"/>non simul omnia, sed paulatim in temporis
+<lb ed="#P" n="74"/>successione operatur. Quod si interroges
+<lb ed="#P" n="75"/>quando incepit Christus hanc scientiam 
+ac<lb break="no" ed="#P" n="76"/>quirere, et quo tempore ad ultimam ejus
+<lb ed="#P" n="77"/>perfectionem pervenit, respondet D. Thomas,
+<lb ed="#P" n="78"/>in solut. ad 1 et2, in singulis aetatibus 
+habuis<lb break="no" ed="#P" n="79"/>se Christum hanc scientiam cum tota 
+perfec<lb break="no" ed="#P" n="80"/>tione unicuique aetati accommodata, unde
+<lb ed="#P" n="81"/>cum primum coepit uti ratione, modo 
+conna<lb break="no" ed="#P" n="82"/>turali homini, statim videtur incepisse hanc
+<lb ed="#P" n="83"/>scientiam acquirere (juxta hunc dicendi 
+mo<lb break="no" ed="#P" n="84"/>dum) ; postnodum vero intra breve tempus
+<lb ed="#P" n="85"/>ilam consummavit, quam cito potuit ingenio
+<lb ed="#P" n="86"/>et industria humana fieri ; et juxta hunc 
+sen<lb break="no" ed="#P" n="87"/>sum intelligendum censeo, quod D. Thomas
+<lb ed="#P" n="88"/>dixit, in perfecta aetate habuisse Christum
+<lb ed="#P" n="89"/>hanc scientiam consummatam.
+</p>
+            </div>
+            <div xml:id="szstco-l01032-Dd1e217"><!-- szstco-p3q12a3 -->
+               <head xml:id="szstco-l01032-Hd1e220">Articulus 3</head>
+               <p xml:id="szstco-l01032-d1e222">
+                  <lb ed="#P" n="71" type="fixed=74"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01032-d1e227">
+                  <lb ed="#P" n="72"/>Christus nihil ab homine didicit. — Duplex
+<lb ed="#P" n="73"/>est modus acquirendi scientiam, scilicet per
+<lb ed="#P" n="74"/>inventionem, et per disciplinam, in qua 
+ma<lb break="no" ed="#P" n="75"/>gister et doctor esse potest homo, aut 
+Ange<lb break="no" ed="#P" n="76"/>Ius ; quamvis ergo D. Thomas, art. 1, 
+solven<lb break="no" ed="#P" n="77"/>do argumenta, obiter dixerit, Christum 
+in<lb break="no" ed="#P" n="78"/>ventione propria hanc scientiam acquisivisse,
+<lb ed="#P" n="79"/>in hoc et sequenti articulo exponit, an etiam
+<lb ed="#P" n="80"/>per disciplinam aliquid ab homine vel 
+Ange<lb break="no" ed="#P" n="81"/>lo didicerit ; et hic negat aliquid didicisse ab
+<lb ed="#P" n="82"/>homine, quia non decuit supremum 
+Docto<lb break="no" ed="#P" n="83"/>rem a discipulis doceri ; Christus autem est
+<lb ed="#P" n="84"/>supremus Doctor hominum, Isa. 55, etJoan.
+<lb ed="#P" n="85"/>18. Sed dici posset Christum esse datum 
+ho<lb break="no" ed="#P" n="86"/>minibus, ut eos doceret, et illummaret in 
+doc<lb break="no" ed="#P" n="87"/>trina, et veritatibus fidei ad salutem animae
+<lb ed="#P" n="88"/>pertinentibus, non vero in aliis scientiis et
+<lb ed="#P" n="89"/>doctrinis; nunquam enim homines docuit
+<lb ed="#P" n="90"/>physicam aut mathematicam, etc. Non est
+<lb ed="#P" n="91"/>autem inconveniens Doctorem in uno 
+supre<lb break="no" ed="#P" n="92"/>mo genere scientiae, doceri a discipulo de 
+ali<lb break="no" ed="#P" n="93"/>quibus inferioribus rebus. Nihilominus 
+con<lb break="no" ed="#P" n="94"/>clusio D. Thomae recepta est ab omnibus
+<lb ed="#P" n="95"/>Theologis, et eam indicant Patres omnes, 
+ubi<lb break="no" ed="#P" n="96"/>cumque de scientia animae Christi loquuntur,
+<lb ed="#P" n="97"/>quia, quamvis illud, quod in contrarium 
+ob<lb break="no" ed="#P" n="98"/>jicitur, non repugnaverit, hoc tamen magis
+<lb ed="#P" n="99"/>decuit, praesertim propter diguitatem 
+perso<lb break="no" ed="#P" n="100"/>nae Christi, quae cum sit aeterna Dei sapientia,
+<pb ed="#P" n="75"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>non debuit ab hominibus doceri, unde, Joan.
+<lb ed="#P" n="2"/>1, dicebant Judaei : Quomodo hic litteras scit,
+<lb ed="#P" n="3"/>cum non didicerit ? EL Marci 6: Mirabantur
+<lb ed="#P" n="4"/>in doctrina ejus, dicentes : Unde huic heec 
+om<lb break="no" ed="#P" n="5"/>nia, et qua est hecsapientia qua data est ili?
+</p>
+            </div>
+            <div xml:id="szstco-l01032-Dd1e309"><!-- szstco-p3q12a4 -->
+               <head xml:id="szstco-l01032-Hd1e312">Articulus 4</head>
+               <p xml:id="szstco-l01032-d1e314">
+                  <lb ed="#P" n="91" type="fixed=75"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01032-d1e319">
+                  <lb ed="#P" n="92"/>1. Negat D. Thomas, Christum ab Angelis
+<lb ed="#P" n="93"/>aliquid didicisse, et optima utitur conjectura,
+<lb ed="#P" n="94"/>quia neque quoad naturalem cognitionem 
+in<lb break="no" ed="#P" n="95"/>diguit lumine angelico, proprium enim illi
+<pb ed="#P" n="76"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>sufficiebat; neque ad supernaturalem seu
+<lb ed="#P" n="2"/>infusam cognitionem, quia, sicut illa anima
+<lb ed="#P" n="3"/>proxime fuit Verbo conjuncta, ita per illius
+<lb ed="#P" n="4"/>immediatum influsum hujusmodi scientiam
+<lb ed="#P" n="5"/>accepit. Adde, rationem praecedentis articuli
+<lb ed="#P" n="6"/>etiam ad hanc conclusionem applicari posse,
+<lb ed="#P" n="7"/>quoniam Christus non solum hominum, sed
+<lb ed="#P" n="8"/>Angelorum etiam Doctor existit, teste 
+Diony<lb break="no" ed="#P" n="9"/>sio, c. 6, de Coelest. hierar., ubi ait, Christum
+<lb ed="#P" n="10"/>Angelos illuminare; nunquam ergo ab illis
+<lb ed="#P" n="11"/>illuminatus est.
+</p>
+               <p xml:id="szstco-l01032-d1e358">
+                  <lb ed="#P" n="12"/>2. Angelus qualiter in horto Christum 
+con<lb break="no" ed="#P" n="13"/>fortat. — In solutione ad primum, tractat D.
+<lb ed="#P" n="14"/>Thomas locum illum Luc. 22: Appanut 
+au<lb break="no" ed="#P" n="15"/>tem illi Angelus de caeelo, confortans eun, qui
+<lb ed="#P" n="16"/>dupliciter a Patribus exponitur. Primo, 
+mi<lb break="no" ed="#P" n="17"/>nus proprie, et quasi per quemdam 
+meta<lb break="no" ed="#P" n="18"/>phoram, ut, scilicet, illud confortare, non 
+si<lb break="no" ed="#P" n="19"/>gnificet animare, 'seu ad fortiter agendum
+<lb ed="#P" n="20"/>excitare, sed potius fortitudinem Christi 
+prae<lb break="no" ed="#P" n="21"/>dicare, sicut nos dicimur magnificare Deum,
+<lb ed="#P" n="22"/>cum magnitudinem ejus praedicamus. Ita 
+ex<lb break="no" ed="#P" n="23"/>ponit Chrysostomus, tom. 5, hom. de 
+Trini<lb break="no" ed="#P" n="24"/>tate; Epiph., haeres. 69, qui dicit Angelum
+<lb ed="#P" n="25"/>confortasse Christum quasi admirando 
+forti<lb break="no" ed="#P" n="26"/>tudinem ejus, et laudando, et dicendo : Tua
+<lb ed="#P" n="27"/>est potentia, Domine, tua, est fortitudo, etc. ;
+<lb ed="#P" n="28"/>sequitur Theophylact., Lucae 22. Secundo
+<lb ed="#P" n="29"/>proprius, et (ut ego existimo) magis ad rem
+<lb ed="#P" n="30"/>exponitur, Angelum confortasse Christum,
+<lb ed="#P" n="31"/>proponendo rationes quae possent tristitiam
+<lb ed="#P" n="32"/>ejus lenire, et inferiorem portionem 
+confor<lb break="no" ed="#P" n="33"/>tare ; unde non fit, Angelum docuisse 
+Chris<lb break="no" ed="#P" n="34"/>tum ; non enim propterea ad illum eum 
+ser<lb break="no" ed="#P" n="35"/>monem habuit, quia Christus eas rationes
+<lb ed="#P" n="36"/>ignoraret, vel illas per se considerare non
+<lb ed="#P" n="37"/>posset, sed quia ita per rationem superiorem
+<lb ed="#P" n="38"/>illas considerabat, ut nullum inde solatium
+<lb ed="#P" n="39"/>communicari permitteret inferiori parti, et
+<lb ed="#P" n="40"/>ut magis constaret veritas passionis ejus, 
+vo<lb break="no" ed="#P" n="41"/>luit angelico ministerio rationes illas 
+propo<lb break="no" ed="#P" n="42"/>ni, et quasi in memoriam revocari. Et hoc
+<lb ed="#P" n="43"/>modo dicitur Angelus, quantum in se erat,
+<lb ed="#P" n="44"/>confortasse Christum, quanquam ipse neque
+<lb ed="#P" n="45"/>illud consolationis genus acceptare visus sit,
+<lb ed="#P" n="46"/>statim enim factus an agonia prolivius orabat.
+<lb ed="#P" n="47"/>Et hanc expositionem magis indicat D. Thom.
+<lb ed="#P" n="48"/>hic, quam ex Beda refert, Luc. 22 ; sed est
+<lb ed="#P" n="49"/>etiam Hieronym. dial. 2 cont. Pelagianos ;
+<lb ed="#P" n="50"/>Hil., lib. 10 de Trin. ; Cyril. Alex., epist.9;
+<lb ed="#P" n="51"/>Dam., lib. 3 de Fid., c. 20; et Bern., serm.
+<lb ed="#P" n="52"/>1 de Sancto Andrea.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

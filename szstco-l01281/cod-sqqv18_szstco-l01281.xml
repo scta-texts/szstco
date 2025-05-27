@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 26</title>
+            <author ref="#FranciscoSuarez">Francisco Suarez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 26</title>
+               <date when="2025-05-27">May 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-sqqv18">Paris 1860, v. 17</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-05-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="664"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="szstco-l01281"><!-- szstco-p3q26 -->
+            <head xml:id="szstco-l01281-Hd1e97">Quaestio 26</head>
+            <div xml:id="szstco-l01281-Dd1e99"><!-- szstco-p3q26 -->
+               <head xml:id="szstco-l01281-Hd1e102">Praeambulum</head>
+               <p xml:id="szstco-l01281-d1e104">
+                  <lb ed="#P" n="68" type="fixed=663"/>Hanc quaestionem addidit hoc loco D. 
+Tho<lb break="no" ed="#P" n="69"/>mas, solum ut hanc mediatoris appellationem
+<lb ed="#P" n="70"/>explicaret. Breviter autem eam expedit, quia,
+<lb ed="#P" n="71"/>licet nomen diversum sit, res tamen, quae per
+<lb ed="#P" n="72"/>illud significatur, non est alia ab iis quae in
+<lb ed="#P" n="73"/>superioribus explicata sunt. Et ideo de re hac
+<lb ed="#P" n="74"/>specialem disputationem non instituemus, sed
+<lb ed="#P" n="75"/>solum, D. Thomae litteram explicando, 
+pro<lb break="no" ed="#P" n="76"/>priam hujus vocis significationem et usum
+<lb ed="#P" n="77"/>ostendemus.
+</p>
+            </div>
+            <div xml:id="szstco-l01281-Dd1e129"><!-- szstco-p3q26a1 -->
+               <head xml:id="szstco-l01281-Hd1e132">Articulus 1</head>
+               <p xml:id="szstco-l01281-d1e134">
+                  <lb ed="#P" n="82" type="fixed=664"/>COMMENTARBIUS.
+</p>
+               <p xml:id="szstco-l01281-d1e139">
+                  <lb ed="#P" n="83"/>1. Duo in hoc titulo continentur : alterum
+<lb ed="#P" n="84"/>est, an Christus sit mediator; alterum est, an
+<lb ed="#P" n="85"/>praeter illum sint alii mediatores. Indicat 
+au<lb break="no" ed="#P" n="86"/>tem S. Thom. distinctionem mediatoris, 
+scili<lb break="no" ed="#P" n="87"/>cet. perfective, et dispositive seu 
+ministeria<lb break="no" ed="#P" n="88"/>liter. Et respondet solum Christum esse 
+me<lb break="no" ed="#P" n="89"/>diatorem perfectum , seu perfective ; praeter
+<lb ed="#P" n="90"/>eum vero, esse alios ministros, qui dispositive
+<lb ed="#P" n="91"/>seu imperfecte , et per quamdam 
+participa<lb break="no" ed="#P" n="92"/>tionem dici possunt mediatores.
+</p>
+               <p xml:id="szstco-l01281-d1e163">
+                  <lb ed="#P" n="93"/>2. Pro cujus doctrinae intelligentia 
+adver<lb break="no" ed="#P" n="94"/>tendum est, nomen mediatoris in propria 
+si<lb break="no" ed="#P" n="95"/>gnificatione, qua D. Thomas hic usus est, esse
+<lb ed="#P" n="96"/>nomen non substantiae, sed muneris et officii.
+<lb ed="#P" n="97"/>Proprie enim mediator dicitur, qui inter duas
+<lb ed="#P" n="98"/>personas intercedit, ut eas aliquo modo 
+con<lb break="no" ed="#P" n="99"/>jungat, vel in aliquo pacto aut negotio 
+con<lb break="no" ed="#P" n="100"/>sentientes efficiat. Interdum vero usurpatur
+<lb ed="#P" n="101"/>nomen mediatoris ad significandum 
+substan<lb break="no" ed="#P" n="102"/>tiale medium, seu vinculum inter duas et ex-
+<pb ed="#P" n="665"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>treme distantes substantias. Et hoc modo dici
+<lb ed="#P" n="2"/>potest Christus substantialis mediator Dei et
+<lb ed="#P" n="3"/>hominum, quia in eo humana et divina 
+natu<lb break="no" ed="#P" n="4"/>ra substantialiter conjunctae sunt, ut loquitur
+<lb ed="#P" n="5"/>Chrysostomus, hom. 7 in 1 ep. ad Timot.; et
+<lb ed="#P" n="6"/>, Amb., in eamdem epist., c. 2, exponens illa
+<lb ed="#P" n="7"/>verba : Unus Deus, unus mediator Dei et 
+homi<lb break="no" ed="#P" n="8"/>num, homo Christus Jesus. Et ad eumdem 
+mo<lb break="no" ed="#P" n="9"/>dum Augustinus, 1l. 9 de Civit., cap. 15, dicit
+<lb ed="#P" n="10"/>Christum fuisse medium, non solum ratione
+<lb ed="#P" n="11"/>substantiae, quia fuit Deus et homo; sed etiam
+<lb ed="#P" n="12"/>ratione status , quia simul beatus et rmortalis
+<lb ed="#P" n="13"/>fuit. Unde ibidem subdit, bonos Angelos non
+<lb ed="#P" n="14"/>esse medios inter nos et Deum, quia 
+immor<lb break="no" ed="#P" n="15"/>tales sunt et beati ; Angelos autem malos
+<lb ed="#P" n="16"/>quodammodo esse medios , quia immortales
+<lb ed="#P" n="17"/>sunt, in quo cum Dco conveniunt, et miseri,
+<lb ed="#P" n="18"/>ac penitus subjecti, in quo nobiscum aliquo
+<lb ed="#P" n="19"/>modo communicant. Quanquam alia ratione
+<lb ed="#P" n="20"/>considerando et ampliando hanc mediatoris,
+<lb ed="#P" n="21"/>seu potius medii , significationem, Angeli
+<lb ed="#P" n="22"/>beati etiam dici possint mediatores inter nos
+<lb ed="#P" n="23"/>et Deum, quia natura inferiores sunt eo, 
+no<lb break="no" ed="#P" n="24"/>bis autem superiores, et cum illo communem
+<lb ed="#P" n="25"/>habent naturam spiritus et incorruptionis;
+<lb ed="#P" n="26"/>nobiscum vero rationem creaturae indigentis
+<lb ed="#P" n="27"/>divina gratia et influxu , ut hic D. Thomas,
+<lb ed="#P" n="28"/>ad 2, docuit, exponens Dionys., 4c. de Divin.
+<lb ed="#P" n="29"/>nomin.
+</p>
+               <p xml:id="szstco-l01281-d1e254">
+                  <lb ed="#P" n="30"/>3. Omissa vero hac substantiali mediatione,
+<lb ed="#P" n="31"/>quae impropria est, munus mediatoris (si 
+ge<lb break="no" ed="#P" n="32"/>neratim loquamur) latissime patet; proprie
+<lb ed="#P" n="33"/>tamen sic significat eum, qui inter personas
+<lb ed="#P" n="34"/>dissidentes intercedit, ut eas inter se 
+conci<lb break="no" ed="#P" n="35"/>liet. Quod variis modis fieri potest, scilicet,
+<lb ed="#P" n="36"/>rogando, intercedendo, conditiones seu leges
+<lb ed="#P" n="37"/>amicitiae proponendo, ac denique 
+satisfacien<lb break="no" ed="#P" n="38"/>do parti laesae, et ipsam reconciliationem et
+<lb ed="#P" n="39"/>amicitiam perficiendo.
+</p>
+               <p xml:id="szstco-l01281-d1e279">
+                  <lb ed="#P" n="40"/>4. Ex quibus intelligitur primo, solum 
+Chri<lb break="no" ed="#P" n="41"/>stum esse perfectum mediatorem inter Deum
+<lb ed="#P" n="42"/>ct homines. Dissidebant enim inter se, et tota
+<lb ed="#P" n="43"/>natura humana erat Deo invisa et inimica ; 
+ip<lb break="no" ed="#P" n="44"/>se vero proilla Deo satisfecit, et quantum in 
+ip<lb break="no" ed="#P" n="45"/>so est, inimicias abstulit, amicitiamque 
+perfe<lb break="no" ed="#P" n="46"/>cit ; et hic est sensus Pauli, 4 Tim. 2, dicentis,
+<lb ed="#P" n="47"/>Christum esse unicum mediatoremDei et 
+homi<lb break="no" ed="#P" n="48"/>num, ut recte D. Thomas hic exponit; et idem
+<lb ed="#P" n="49"/>intendunt Chrysostomus et Ambrosius et alii
+<lb ed="#P" n="50"/>expositores in illum locum. Quanquam, quia
+<lb ed="#P" n="51"/>ad exercendum hoc perfecto modo mediatoris
+<lb ed="#P" n="52"/>munus necessarium fuit humanam et, divinam
+<lb ed="#P" n="53"/>naturam, in se substantialiter copulare, ideo
+<lb ed="#P" n="54"/>utramque rationem mediatoris, scilicet 
+sub<lb break="no" ed="#P" n="55"/>stantia, et officio, dicit Patres inter se conjun-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="56"/>gunt, et alleram ex altera pendere docent. Et
+<lb ed="#P" n="57"/>eodem fere modo loquitur Augustinus, cit.
+<lb ed="#P" n="58"/>loco ; et Fulg., de Fide ad Pet,, c. 2; et Cyril.,
+<lb ed="#P" n="59"/>dial. 1 de Trin., non longe a principio; 
+cla<lb break="no" ed="#P" n="60"/>rius l. 12 Thesaur., c. 10; Epiphan., in 
+An<lb break="no" ed="#P" n="61"/>cor.; Hilar., 1. 9 de Trin., in princip.
+</p>
+               <p xml:id="szstco-l01281-d1e331">
+                  <lb ed="#P" n="62"/>5. Unde etiam constat hanc rationem vel
+<lb ed="#P" n="63"/>munus mediatoris idem omnino esse in 
+prae<lb break="no" ed="#P" n="64"/>senti materia cum munere Redemptoris, quod
+<lb ed="#P" n="65"/>in Christum perfectissime convenire, 
+ipsius<lb break="no" ed="#P" n="66"/>que proprium esse, supra satis ostensum est,
+<lb ed="#P" n="67"/>cum de Christi satisfactione et merito 
+agere<lb break="no" ed="#P" n="68"/>mus. Et ideo plutra hoc loco addere non est
+<lb ed="#P" n="69"/>necesse. Et ad hoc munus etiam mediatoris
+<lb ed="#P" n="70"/>spectant, quae de Christi oratione et pro nobis
+<lb ed="#P" n="71"/>intercessione diximus.Nam in hoc 
+etiamperfec<lb break="no" ed="#P" n="72"/>tissimam rationem mediatoris habuit : Accedit
+<lb ed="#P" n="73"/>enim per semetipsum ad Deum ad 
+interpellan<lb break="no" ed="#P" n="74"/>dum pro nobis. Huc denique spectant quae de
+<lb ed="#P" n="75"/>illius sacerdotio et potestate ad ferendas leges
+<lb ed="#P" n="76"/>diximus. Nam, quatenus summus sacerdos
+<lb ed="#P" n="77"/>est, pro hominibus est constitutus in iis quae
+<lb ed="#P" n="78"/>sunt ad Deum; quatenus vero est legislator,
+<lb ed="#P" n="79"/>proposuit nobis conditiones pacis et faederis,
+<lb ed="#P" n="80"/>ac media necessaria ut amicitiam cum Deo
+<lb ed="#P" n="81"/>ineamus ; propter; quod Malac.3 dicitur 
+An<lb break="no" ed="#P" n="82"/>getus testamenti. Et ad Heb. 9 et 12, mediator
+<lb ed="#P" n="83"/>novi testamenti appellatur.
+</p>
+               <p xml:id="szstco-l01281-d1e381">
+                  <lb ed="#P" n="84"/>6. Secundo, colligitur ex dictis, quanquam
+<lb ed="#P" n="85"/>haec perfecta ratio mediatoris, Christi sit 
+pro<lb break="no" ed="#P" n="86"/>pria, quamdam tamen participationem ejus,
+<lb ed="#P" n="87"/>seu ministerium tam Angelis quam 
+homini<lb break="no" ed="#P" n="88"/>bus communicari. Et hoc modo alios etiam
+<lb ed="#P" n="89"/>posse mediatores appellari. Nam, sicut 
+Chri<lb break="no" ed="#P" n="90"/>stus est luz vera quae illuminrat omnem 
+homi<lb break="no" ed="#P" n="91"/>nen, etnihilominus ipse dixit discipulis suis :
+<lb ed="#P" n="92"/>Vos estis lus mundi ; et sicut ille est pastor
+<lb ed="#P" n="93"/>bonus et verus magister, et tamen alios 
+con<lb break="no" ed="#P" n="94"/>stituit Doctores et Pastores; ita ipse est 
+me<lb break="no" ed="#P" n="95"/>diator perfectus, et nihilominus alios vult esse
+<lb ed="#P" n="96"/>mediatores, vel, ut Paulus vocat, adjutores,
+<lb ed="#P" n="97"/>1 Cor. 3. Hoc igitur modo Angeli sancti dici
+<lb ed="#P" n="98"/>possunt mediatores inter nos et Deum. Primo
+<lb ed="#P" n="99"/>quidem, quia pro nobis orant, nostrasque
+<lb ed="#P" n="100"/>orationes Deo offerunt. Secundo, quia nos
+<lb ed="#P" n="101"/>custodiunt, et a malo avertunt, et ad bonum
+<lb ed="#P" n="102"/>aliquo modo disponunt ut constat ex c. 
+To<lb break="no" ed="#P" n="103"/>biae 12, Daniel. 10, Psalm. 90, Zach. 1, Matth.
+<lb ed="#P" n="104"/>18, Apoc. 8; et ita loquitur Dion., 4 c. de
+<lb ed="#P" n="105"/>Divin. nomin. Deinde Sancti etiam beati, et
+<lb ed="#P" n="106"/>cum Christo regnantes, possunt aliquo modo
+<lb ed="#P" n="107"/>dici mediatores nostri, quia pro nobis orant
+<lb ed="#P" n="108"/>et intercedunt , nostrasque orationes Deo 
+re<lb break="no" ed="#P" n="109"/>praesentant juxta illud Apoc. 5: Zabentes
+<lb ed="#P" n="110"/>phial s aurcas plenas odoramentorum, quee
+<pb ed="#P" n="666"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>sunt orationes Sanctorum. De qua re, 
+quo<lb break="no" ed="#P" n="2"/>niam propriam disputationem requirit , alius
+<lb ed="#P" n="3"/>erit commodior dicendi locus.
+</p>
+               <p xml:id="szstco-l01281-d1e453">
+                  <lb ed="#P" n="4"/>1. Solum est hic observanda differentia 
+in<lb break="no" ed="#P" n="5"/>ter Christum et alios Dei deprecatores. Nam
+<lb ed="#P" n="6"/>ipse per seipsum accedit, alii per ipsum, 
+ejus<lb break="no" ed="#P" n="7"/>que merito nixi et fundati ; quia nemo venit ad
+<lb ed="#P" n="8"/>Paítrem nisi per me ipsum, Joan. 4, necpetere
+<lb ed="#P" n="9"/>debet nisi in nomine ejus, Joan. 17. Et 
+pro<lb break="no" ed="#P" n="10"/>pterea dixit Bernar., in serm. superilla verba:
+<lb ed="#P" n="11"/>Signum magnum apparuit in callo, esse 
+Virgi<lb break="no" ed="#P" n="12"/>nem mediatricem ad mediatorem ipsum. 
+De<lb break="no" ed="#P" n="13"/>que sacerdotes et ministri Christi dici possunt
+<lb ed="#P" n="14"/>aliquo modo mediatores, quia intercedunt 
+in<lb break="no" ed="#P" n="15"/>ter Deum et populum, et homines disponunt,
+<lb ed="#P" n="16"/>eisque applicant Christi redemptionem 
+tan<lb break="no" ed="#P" n="17"/>quam mysteriorum Dei dispensatores, et hoc
+<lb ed="#P" n="18"/>modo Moyses dicitur medius inter Deum et 
+po<lb break="no" ed="#P" n="19"/>pulum , Deut. 5, ut hic exponit D. Thomas,
+<lb ed="#P" n="20"/>ad 1; et eodem modo dicitur ad Gal. 8 : Lea
+<lb ed="#P" n="21"/>data per Angelos in manu mediatoris, scilicet,
+<lb ed="#P" n="22"/>Moysis , ut sentit Cyrillus Alex. , 1. 13 Thes.,
+<lb ed="#P" n="23"/>c. 10; indicat Greg. Naz., orat. 6, coram Greg.
+<lb ed="#P" n="24"/>Nys. Et juxta haec interpretandus est 
+Augus<lb break="no" ed="#P" n="25"/>tinus , 21. contra Parmen. , c. 8, ubi negat
+<lb ed="#P" n="26"/>Paulum vel Apostolos esse mediatores, sed
+<lb ed="#P" n="27"/>solum Christum. Intelligit enim de mediatore
+<lb ed="#P" n="28"/>perfecto; non excludit tamen ministros, qui
+<lb ed="#P" n="29"/>dum pro Christo legatione funguntur, ut 
+ho<lb break="no" ed="#P" n="30"/>mines Deo reconcilient, 2 ad Cor. 5, 
+secun<lb break="no" ed="#P" n="31"/>darii seu ministeriales mediatores dici 
+pos<lb break="no" ed="#P" n="32"/>sunt ut diserte docuit Cyril. Alexand., lib.
+<lb ed="#P" n="33"/>12 Thes., capite decimo. Et ex his 
+locutio<lb break="no" ed="#P" n="34"/>nes etiam argumentorum relinquuntur 
+ex<lb break="no" ed="#P" n="35"/>positae.
+</p>
+            </div>
+            <div xml:id="szstco-l01281-Dd1e526"><!-- szstco-p3q26a2 -->
+               <head xml:id="szstco-l01281-Hd1e529">Articulus 2</head>
+               <p xml:id="szstco-l01281-d1e531">
+                  <lb ed="#P" n="21" type="fixed=667"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01281-d1e536">
+                  <lb ed="#P" n="22"/>1. Respondet divus Thomas Christum non
+<lb ed="#P" n="23"/>posse dici mediatorem ut Deum, sed ut 
+ho<lb break="no" ed="#P" n="24"/>minem , quod satis dilucide in articulo 
+pro<lb break="no" ed="#P" n="25"/>bat. In cujus expositione plura hoc loco 
+di<lb break="no" ed="#P" n="26"/>cere non oporteret, nisi corrigendi essent
+<lb ed="#P" n="27"/>haeretici hujus temporis, qui imperite satis
+<lb ed="#P" n="28"/>de Christo mediatore loquuntur. Quidam
+<lb ed="#P" n="29"/>enim ex eis affirmant humanitatem fuisse
+<lb ed="#P" n="30"/>mediatricem. Alii divinitati, vel Christo ut
+<lb ed="#P" n="31"/>Deo hoc munus tribuunt, ut referunt Canis.,
+<lb ed="#P" n="32"/>l. 1 de Corruptel. verb. Dei, in proosmio; et
+<lb ed="#P" n="33"/>Robert. Bell., tom. 1 Contr., l. 1 de Christo
+<lb ed="#P" n="34"/>mediatore, ubi fuse contra hos haereticos 
+dis<lb break="no" ed="#P" n="35"/>putat. Si tamen prae oculis habeantur 
+princi<lb break="no" ed="#P" n="36"/>pia supra posita, quaest. 16, de 
+communica<lb break="no" ed="#P" n="37"/>tione idiomatum, non oportebit hoc loco 
+im<lb break="no" ed="#P" n="38"/>morari, sed veras propositiones colligere ,
+<lb ed="#P" n="39"/>quae ex dictis principiis facile elici possunt.
+</p>
+               <p xml:id="szstco-l01281-d1e578">
+                  <lb ed="#P" n="40"/>2. Primo ergo dicendum est, hunc 
+homi<lb break="no" ed="#P" n="41"/>nem Christum esse mediatorem Dei et 
+homi<lb break="no" ed="#P" n="42"/>num. Haec est de fide, ut patet ex d. art. 
+prae<lb break="no" ed="#P" n="43"/>ced., et habetur expresse 1 ad Tim. 2.
+</p>
+               <p xml:id="szstco-l01281-d1e589">
+                  <lb ed="#P" n="44"/>3. Secundo, hinc sequitur, absolute et 
+sim<lb break="no" ed="#P" n="45"/>pliciter concedi posse et debere Verbum et
+<lb ed="#P" n="46"/>Deum esse mediatorem Dei et hominum;
+<lb ed="#P" n="47"/>quia quod absolute dicitur de homine 
+Chris<lb break="no" ed="#P" n="48"/>to, dicitur per communicationem idiomatum
+<lb ed="#P" n="49"/>de Verbo et Deo, praesertim ubi nihil est quod
+<lb ed="#P" n="50"/>repugnet, ut revera contingit in hoc 
+praedi<lb break="no" ed="#P" n="51"/>cato, mediator. Denique Verbum et Deus 
+ab<lb break="no" ed="#P" n="52"/>solute dicitur Redemptor et Pontifex noster,
+<lb ed="#P" n="53"/>et pro nobis suum sanguinem effudisse, ut
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="54"/>in superioribus saepe dictum est, et satis 
+ex<lb break="no" ed="#P" n="55"/>presse habetur Act. 22, 1 ad Cor. 2, ad 
+Phi<lb break="no" ed="#P" n="56"/>lip. 2.
+</p>
+               <p xml:id="szstco-l01281-d1e623">
+                  <lb ed="#P" n="57"/>4. Tertio dicendum est, eum qui est 
+me<lb break="no" ed="#P" n="58"/>diator, et exercuit opera mediatoris, esse
+<lb ed="#P" n="59"/>Deum hominem, ita ut principium guod 
+ta<lb break="no" ed="#P" n="60"/>lium operum sit Deus, seu hic homo, formale
+<lb ed="#P" n="61"/>autem principium quo exercuit opera 
+media<lb break="no" ed="#P" n="62"/>toris, sit humanitas. Haec est mens D. Thomae
+<lb ed="#P" n="63"/>hic et omnium Theologorum in 3, dist. 19;
+<lb ed="#P" n="64"/>et Aug., locis statim citandis. Et probatur 
+fa<lb break="no" ed="#P" n="65"/>cile prior pars, nam in Christo tantum est una
+<lb ed="#P" n="66"/>persona divina , quae est Deus et homo ; sed
+<lb ed="#P" n="67"/>esse mediatorem est proprium munus 
+perso<lb break="no" ed="#P" n="68"/>nae, quia illius est operari tanquam 
+princi<lb break="no" ed="#P" n="69"/>pium quod. Deinde supra variis locis, 
+praeser<lb break="no" ed="#P" n="70"/>lim q. 1, art. 2, late ostensum est, non 
+po<lb break="no" ed="#P" n="71"/>tuisse Christum esse perfectum Redemptorem
+<lb ed="#P" n="72"/>et satisfactorem, nisi esset divina persona, a
+<lb ed="#P" n="73"/>qua valor satisfactionis et perfecta justitia
+<lb ed="#P" n="74"/>originem traxit ; sed hoc idem est munus
+<lb ed="#P" n="75"/>perfecti mediatoris; ergo. Altera vero pars
+<lb ed="#P" n="76"/>probatur, praeter rationem D. Thomae, quia
+<lb ed="#P" n="77"/>actiones mediatoris, quae sunt mereri. 
+satis<lb break="no" ed="#P" n="78"/>facere, sacrificium offerre , interpellare, 
+di<lb break="no" ed="#P" n="79"/>cunt habitudinem ad personam superioris 
+na<lb break="no" ed="#P" n="80"/>turae et voluntatis ; ergo formale principium
+<lb ed="#P" n="81"/>talium operationum non potest esse divinitas,
+<lb ed="#P" n="82"/>ut in superioribus etiam ostensum est; ergo
+<lb ed="#P" n="83"/>formale principium, per quod convenit 
+Chri<lb break="no" ed="#P" n="84"/>sto munus mediatoris, non potest esse 
+divini<lb break="no" ed="#P" n="85"/>tas, sed humanitas.
+</p>
+               <p xml:id="szstco-l01281-d1e688">
+                  <lb ed="#P" n="86"/>5. Quarto, consequenter fit neque 
+divinita<lb break="no" ed="#P" n="87"/>tem , neque humanitatem in abstracto posse
+<lb ed="#P" n="88"/>dici mediatorem seu mediatricem. Probatur,
+<lb ed="#P" n="89"/>quia neque divinitas, neque humanitas 
+mere<lb break="no" ed="#P" n="90"/>tur, nec satisfacit. Irtem neutra illarum 
+suppo<lb break="no" ed="#P" n="91"/>nit pro persona quae est Deus et homo; 
+hu<lb break="no" ed="#P" n="92"/>manitas praeterea per se non est sufficiens ad
+<lb ed="#P" n="93"/>munus mediatoris, quia per se non potest 
+sa<lb break="no" ed="#P" n="94"/>tisfacere Deo de rigore justitiae, cum ex vi suae
+<lb ed="#P" n="95"/>significationis dignitatem personae divinae non
+<lb ed="#P" n="96"/>includat ; divinitas vero nec proprie est 
+prin<lb break="no" ed="#P" n="97"/>cipium quod, nec quo, operum mediatoris; ergo
+<lb ed="#P" n="98"/>in rigore et proprietate sermonis non potest
+<lb ed="#P" n="99"/>dici mediator.
+</p>
+               <p xml:id="szstco-l01281-d1e721">
+                  <lb ed="#P" n="100"/>6. Quinto, Deus, aut Verbum, in quantum
+<lb ed="#P" n="101"/>Deus, non potest dici mediator, ut recte hic
+<lb ed="#P" n="102"/>D. Thomas docet, cum Augustino, l. 10 Conf.,
+<lb ed="#P" n="103"/>c. 43, et ser. 11 de Verbis Apostoli, et 1. 9 de
+<lb ed="#P" n="104"/>Gratia Christ., c. 98. Quibus locis ad hoc 
+com<lb break="no" ed="#P" n="105"/>probandum ponderat , ideo Paulum, 1 ad
+<lb ed="#P" n="106"/>Tim. 2, dixisse : Unus mediator Dei, et 
+homi<lb break="no" ed="#P" n="107"/>num, homo Christus Jesus, ut indicaret 
+Chris<lb break="no" ed="#P" n="108"/>tum non Deum, sed ut hominem esse media-
+<pb ed="#P" n="668"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>torem. Et ratio ex dictis est aperta ; nam quae
+<lb ed="#P" n="2"/>conveniunt Christo per humanam naturam,
+<lb ed="#P" n="3"/>non possunt dici de Christo aut Deo cum 
+re<lb break="no" ed="#P" n="4"/>duplicatione seu determinatione divinitatis,
+<lb ed="#P" n="5"/>quia haec ipsa reduplicatio contrarium 
+signi<lb break="no" ed="#P" n="6"/>ficat, scilicet, tale praedicatum in divinitate,
+<lb ed="#P" n="7"/>seu per divinitatem, ut per formam, Christo
+<lb ed="#P" n="8"/>convenire, ut in dicta q. 16 ostensum est.
+</p>
+               <p xml:id="szstco-l01281-d1e765">
+                  <lb ed="#P" n="9"/>7. Sexto, hinc concluditur Christum, ut 
+ho<lb break="no" ed="#P" n="10"/>minem, vel ut hunc hominem, includendo hoc
+<lb ed="#P" n="11"/>suppositum in humanitate subsistens, esse
+<lb ed="#P" n="12"/>mediatorem. Quod ex dictis satis constat.
+</p>
+               <p xml:id="szstco-l01281-d1e776">
+                  <lb ed="#P" n="13"/>8. Dubium.—Responsio.—Indicat autem D.
+<lb ed="#P" n="14"/>Thomas, in solut. ad 1, breve dubium, 
+scili<lb break="no" ed="#P" n="15"/>cet an concedi possit Christum , in quantum
+<lb ed="#P" n="16"/>Deum hominem, esse mediatorem. Et non
+<lb ed="#P" n="17"/>respondet in forma, sed solum ait, cum 
+Chri<lb break="no" ed="#P" n="18"/>stus, in quantum homo, dicitur esse 
+media<lb break="no" ed="#P" n="19"/>tor, non excludi consortium divinitatis ab 
+hu<lb break="no" ed="#P" n="20"/>mana natura, quia alias excluderetur gratia
+<lb ed="#P" n="21"/>unionis, ratione cujus humanitas habuit ut
+<lb ed="#P" n="22"/>potuerit esse principium operationum 
+media<lb break="no" ed="#P" n="23"/>toris. Es hac vero doctrina colligitur, 
+propo<lb break="no" ed="#P" n="24"/>sitionem illam habere convenientem sensum,
+<lb ed="#P" n="25"/>et esse concedendam. Quia non est sensus
+<lb ed="#P" n="26"/>illius, divinitatem et humanitatem esse for-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="27"/>male principium harum operationum, sed 
+di<lb break="no" ed="#P" n="28"/>gnitatem Dei et naturam hominis necessarias
+<lb ed="#P" n="29"/>fuisse, simulque convenisse ad munus et 
+ope<lb break="no" ed="#P" n="30"/>ra perfecti mediatoris; unamquamque tamen
+<lb ed="#P" n="31"/>modo sibi proportionato, naturam ut, formale
+<lb ed="#P" n="32"/>principium satisfactionis et meriti; personam
+<lb ed="#P" n="33"/>vero, ut radicem et fontem infiniti valoris, et
+<lb ed="#P" n="34"/>dignitatis talis satisfactionis, et meriti in 
+per<lb break="no" ed="#P" n="35"/>fecto mediatore necessarii. Quo sensu dixit
+<lb ed="#P" n="36"/>Augustinus, hom. de Ovibus, c. 12, in tom. 9:
+<lb ed="#P" n="37"/>Aediator Dei et homiuum, quia Deus cum 
+Pa<lb break="no" ed="#P" n="38"/>tre, homo cun hominibus, non mediator homo
+<lb ed="#P" n="39"/>prater deitaten , non aediator Deus prater
+<lb ed="#P" n="40"/>humanitatem ; divinitas sine bumanitate non
+<lb ed="#P" n="41"/>est mediatriv, negue humanitas sine divinitate,
+<lb ed="#P" n="42"/>sed inter humanitatem solam, et divinitatem
+<lb ed="#P" n="43"/>solam, mediatria est humana divinitas, et 
+di<lb break="no" ed="#P" n="44"/>vina hunanitas. Quae posteriora verba minus
+<lb ed="#P" n="45"/>propria sunt, et per priora sunt explicanda ;
+<lb ed="#P" n="46"/>abstractis enim vocibus, pro concretis utitur.
+<lb ed="#P" n="47"/>Et propter eamdem causam dixit Leo Papa:
+<lb ed="#P" n="48"/>Si non esset Deus, non afferret remedium, etc.
+<lb ed="#P" n="49"/>Quae cum mulltis aliis late supra tractavimus,
+<lb ed="#P" n="50"/>quaest. 1, artic. 2. Haec igitur de 
+Incarnatio<lb break="no" ed="#P" n="51"/>ne ad incarnati Verbi et augustissimae matris
+<lb ed="#P" n="52"/>ejus gloriam dicta sint.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

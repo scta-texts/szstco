@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 17</title>
+            <author ref="#FranciscoSuarez">Francisco Suarez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 17</title>
+               <date when="2025-05-27">May 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-sqqv18">Paris 1860, v. 17</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-05-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="256"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="szstco-l01082"><!-- szstco-p3q17 -->
+            <head xml:id="szstco-l01082-Hd1e97">Quaestio 17</head>
+            <div xml:id="szstco-l01082-Dd1e99"><!-- szstco-p3q17a1 -->
+               <head xml:id="szstco-l01082-Hd1e102">Articulus 1</head>
+               <p xml:id="szstco-l01082-d1e104">
+                  <lb ed="#P" n="28" type="fixed=256"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01082-d1e109">
+                  <lb ed="#P" n="29"/>1. Videtur magis D. Thom. tractare hoc
+<lb ed="#P" n="30"/>loco modum loquendi in hac quaestione, quam
+<lb ed="#P" n="31"/>rem ipsam ; res enim ipsa satis in quaest. 2
+<lb ed="#P" n="32"/>tractata et explicata videtur; ibi enim 
+osten<lb break="no" ed="#P" n="33"/>sum est , Christum esse unam personam ex
+<lb ed="#P" n="34"/>duabus naturis compositam , non 
+accidenta<lb break="no" ed="#P" n="35"/>liter , sed per se ac substantialiter. Hic ergo
+<lb ed="#P" n="36"/>inquiritur an hoc satis sit ut Christus 
+simpli<lb break="no" ed="#P" n="37"/>citer dicatur unus, vel unum ; nam, licet divus
+<lb ed="#P" n="38"/>Thomas in titulo tantum proponat an 
+Chri<lb break="no" ed="#P" n="39"/>stus sit unum vel duo in neutro genere , ut
+<lb ed="#P" n="40"/>Cajetanus advertit, tamen in articulo, tam in
+<lb ed="#P" n="41"/>neutro genere quam in masculino satisfacit
+<lb ed="#P" n="42"/>quaestioni.
+</p>
+               <p xml:id="szstco-l01082-d1e142">
+                  <lb ed="#P" n="43"/>2. Respondet ergo D. Thomas duplici 
+as<lb break="no" ed="#P" n="44"/>sertione. Prima est: Christus est unus, etiamsi
+<lb ed="#P" n="45"/>hoc praedicatum masculine sumatur. In qua
+<lb ed="#P" n="46"/>conveniunt cum D. Thoma Scholastici in3,
+<lb ed="#P" n="47"/>dist. 6, ubi bene Scotus, q. 2; et res est certa
+<lb ed="#P" n="48"/>de fide. Quae probari potest primo omnibus
+<lb ed="#P" n="49"/>Scripturae testimoniis, quibus in superioribus
+<lb ed="#P" n="50"/>ostensum est unum et eumdem esse Deum et
+<lb ed="#P" n="51"/>hominem, ad Timot. 2: Unus mediator Dei
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="52"/>et hominum, homo Christus Jesus. Secundo,
+<lb ed="#P" n="53"/>ita docent Concilia omnia quae de hoc 
+myste<lb break="no" ed="#P" n="54"/>rio loquuntur. Ephesinum, in confessione 
+fi<lb break="no" ed="#P" n="55"/>dei, et canon. 2 et 3, ubi damnantur qui 
+Chri<lb break="no" ed="#P" n="56"/>stum in duo dividunt ; Chalcedon., action. 1,
+<lb ed="#P" n="57"/>V Synod., action. 8, VI Synod., action. 11 et
+<lb ed="#P" n="58"/>18, Concil. Lateranen., sub Martin. I. Et 
+de<lb break="no" ed="#P" n="59"/>nique , ubicunque agitur contra Nestorium,
+<lb ed="#P" n="60"/>definitur Christum esse unam personam 
+com<lb break="no" ed="#P" n="61"/>positam; et in Symbolo Athanasii : IVon duo
+<lb ed="#P" n="62"/>tamen, sed unus est Christus ; et infra : Naun
+<lb ed="#P" n="63"/>sicut anima rationalis et caro unus est homo,
+<lb ed="#P" n="64"/>ita Deus et homo unus est Christus ; et infra:
+<lb ed="#P" n="65"/>Unus omnino, non confusione substantie, sed
+<lb ed="#P" n="66"/>unitate persona ; et in Symbolo Nicaeno : Et
+<lb ed="#P" n="67"/>in unum Dominum Jesum Christum ; et 
+Eu<lb break="no" ed="#P" n="68"/>tych. Pap., de Christo loquens, inquit : 
+Utrin<lb break="no" ed="#P" n="69"/>que unus eatstens, dum ipse ea unitis in id 
+ip<lb break="no" ed="#P" n="70"/>swn naturis, nature utriusque res eadem est.
+<lb ed="#P" n="71"/>Et Leo Papa epist. 95, alias 97, ad Leonem
+<lb ed="#P" n="72"/>August., c. 2: Cum ergo, inquit, unus sit 
+Do<lb break="no" ed="#P" n="73"/>ainus Jesus Christus, et vere deitatis , 
+vera<lb break="no" ed="#P" n="74"/>que humanitatis in ipso una prorsus eademque
+<lb ed="#P" n="75"/>persona sit, etc.; et infra : Inseparabiliter
+<lb ed="#P" n="76"/>unus atque idem est , et totus hominis filius
+<lb ed="#P" n="77"/>gropter caruem, et totus Dei Filius, propter
+<lb ed="#P" n="78"/>unam cum Paíire deitatem ; et ibidem multa
+<lb ed="#P" n="79"/>congerit Patrum testimonia in hujus veritatis
+<lb ed="#P" n="80"/>confirmationem. Idem Ambros., 1. 2 deFide,
+<lb ed="#P" n="81"/>c. 4; August., in Enchirid., c. 3S, et tract. 78
+<lb ed="#P" n="82"/>inJoan. dicit : Utrumque simul, scilicet , Deus
+<lb ed="#P" n="83"/>et homo, non duo, sed unus Christus ; Fulgent.,
+<lb ed="#P" n="84"/>lib. de Incarn., c. 11, in hujus 
+confirmatio<lb break="no" ed="#P" n="85"/>nem adducit illud Matth. 98: Baptizantes eos
+<lb ed="#P" n="86"/>in nomine Patris, et Filii, et Spiruus Sancti,
+<lb ed="#P" n="87"/>adjungens quod Actorum 2, et ad Rom. 6,
+<lb ed="#P" n="88"/>dicitur baptismus dari in nomine Christi :
+<lb ed="#P" n="89"/>Nam, quia omnino unus, inquit, est Filius et
+<lb ed="#P" n="90"/>Christus Dees humo , quod datur in nomine
+<lb ed="#P" n="91"/>Filii, dari dicitur in nomine Christi ; similia
+<lb ed="#P" n="92"/>habet Petr. Diaconus, lib. de Incarn., c. 3, et
+<lb ed="#P" n="93"/>ex professo probat Damasc. , lib. 3 de Fide,
+<lb ed="#P" n="94"/>c. 5, 7 et 11; et Cyrillus Alexand., lib. de
+<lb ed="#P" n="95"/>Fide ad Theodosi., dicit, post unionem non
+<lb ed="#P" n="96"/>posse intelligi Christus esse duo : Quia licet
+<lb ed="#P" n="97"/>mens in eo intelligat duas naturas, hec tamen
+<lb ed="#P" n="98"/>contemplatio, inquit, utriusque in unitatem
+<lb ed="#P" n="99"/>concursum non cacludit, unus itague ad 
+nume<lb break="no" ed="#P" n="100"/>rum est Christus. Ratio vero est, quia, unus,
+<lb ed="#P" n="101"/>masculine et simpliciter dictus , indicat 
+uni<lb break="no" ed="#P" n="102"/>tatem suppositi seu personae, ut ex communi
+<lb ed="#P" n="103"/>modo loquendi constat ; unde in Trinitate tres
+<lb ed="#P" n="104"/>personae licet dicantur unum in neutro, et
+<lb ed="#P" n="105"/>unus Deus, non tamen unus simpliciter, ne
+<lb ed="#P" n="106"/>significetur unitas personae. Unus enim hoc
+<pb ed="#P" n="257"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>modo sumptus , adjectivus terminus est, et
+<lb ed="#P" n="2"/>ideo, simpliciter positus a parte praedicati,
+<lb ed="#P" n="3"/>suum significatum applicat supra suppositum
+<lb ed="#P" n="4"/>subjecti. Tandem Christus est unus homo, et
+<lb ed="#P" n="5"/>unus Deus, et unus Deus homo ; ergo.
+</p>
+               <p xml:id="szstco-l01082-d1e301">
+                  <lb ed="#P" n="6"/>3. Secunda assertio D. Thomae est, 
+Chri<lb break="no" ed="#P" n="7"/>stum etiam esse unum simpliciter et absolute,
+<lb ed="#P" n="8"/>quamvis illud praedicatum in neutro genere
+<lb ed="#P" n="9"/>sumatur. Consentiunt etiam Theologi supra
+<lb ed="#P" n="10"/>citati. Marsil., q. 6, art. 3, dub. 1, ad 4, dicit,
+<lb ed="#P" n="11"/>in Christo esse plura individua, licet ipse non
+<lb ed="#P" n="12"/>sit plura, sed illud primum dixit propter 
+plu<lb break="no" ed="#P" n="13"/>res naturas. Et haec conclusio etiam sumitur
+<lb ed="#P" n="14"/>ex omnibus testimoniis citatis, nam hoc etiam
+<lb ed="#P" n="15"/>intendunt, ut bene notavit Nicetas, libro 3
+<lb ed="#P" n="16"/>Thes., c. 38; et constat , quia hoc sensu 
+de<lb break="no" ed="#P" n="17"/>tiniunt in Christo esse veram unitatem per
+<lb ed="#P" n="18"/>propriam compositionem et unitionem sine
+<lb ed="#P" n="19"/>imperfectione. Et hinc sumitur ratio 
+conclu<lb break="no" ed="#P" n="20"/>sionis , quia unum, cum substantive dicatur,
+<lb ed="#P" n="21"/>significat vel unum suppositum, vel unum 
+in<lb break="no" ed="#P" n="22"/>dividuum, vel unum ens; sed Christus est
+<lb ed="#P" n="23"/>unum suppositum, et unum individuum
+<lb ed="#P" n="24"/>utriusque naturae, et unum ens, non simples,
+<lb ed="#P" n="25"/>sed compositum ; quia compositio ex multis
+<lb ed="#P" n="26"/>rebus, praesertim si substantiaus sit, et ex eis
+<lb ed="#P" n="27"/>resultet unum per se, non tollit unitatem
+<lb ed="#P" n="28"/>simpliciter; at vero, licet in Christo sint 
+plu<lb break="no" ed="#P" n="29"/>res naturae, tamen illae substantialiter 
+conjun<lb break="no" ed="#P" n="30"/>guntur ad constituendum per se unum. Alia
+<lb ed="#P" n="31"/>ratione hoc probat D. Thomas, quia in Christo
+<lb ed="#P" n="32"/>non sunt aliqua duo quae de ipso praedicari
+<lb ed="#P" n="33"/>possint, quia, licet in illo sint dua naturae,
+<lb ed="#P" n="34"/>humanitas et divinitas, tamen illae in 
+abstrac<lb break="no" ed="#P" n="35"/>to, et ut duae sunt, non possunt praedicari de
+<lb ed="#P" n="36"/>Christo; ergoChristus simpliciter non est duo;
+<lb ed="#P" n="37"/>ergo est unum, sicut humanitas, licet ex 
+ani<lb break="no" ed="#P" n="38"/>ma et corpore constet, quae duo sunt, tamen,
+<lb ed="#P" n="39"/>quia anima et corpus non praedicantur de
+<lb ed="#P" n="40"/>humanitate , sed compositum ex illis, ideo
+<lb ed="#P" n="41"/>simpliciter non est duo, sed unum. Contra
+<lb ed="#P" n="42"/>hanc D. Thomae doctrinam sentit Durand.,
+<lb ed="#P" n="43"/>in 3, Gist. 6, q. 1, art. 2, qui dicit, Christum
+<lb ed="#P" n="44"/>simpliciter non esse dicendum unum , neque
+<lb ed="#P" n="45"/>plura, sed cum addito , esse unum 
+supposi<lb break="no" ed="#P" n="46"/>tum, et habere duas naturas. Sed multium
+<lb ed="#P" n="47"/>errat in modo loquendi, neque affert 
+proba<lb break="no" ed="#P" n="48"/>bile fundamentum cui oporteat satisfacere.
+</p>
+               <p xml:id="szstco-l01082-d1e398">
+                  <lb ed="#P" n="49"/>4. Solet vero hic disputari circa rationem
+<lb ed="#P" n="50"/>D. Thoma, quamvis Christus non sit duae
+<lb ed="#P" n="51"/>natura divisive, an complesive possit dici
+<lb ed="#P" n="52"/>quod sit duae naturae, sive humanitas, et 
+divi<lb break="no" ed="#P" n="53"/>nitas. Sed de hoc dubio satis dictum est disp.
+<lb ed="#P" n="54"/>praec., sect. 2, in fine.
+</p>
+               <p xml:id="szstco-l01082-d1e414">
+                  <lb ed="#P" n="55"/>5. Argumentum primum D. Thomae funda-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="56"/>tur in testimonio August., lib. 1 de Trinit.,
+<lb ed="#P" n="57"/>c. 7, circa finem, ubi sic inquit : Quia forma
+<lb ed="#P" n="58"/>Det accepit formam servi, utrumque Deus, et
+<lb ed="#P" n="59"/>utrumque homo; sed utrumque Deus propter
+<lb ed="#P" n="60"/>accipientem Deum, utrumque autem homo 
+pro<lb break="no" ed="#P" n="61"/>pter acceptum hominem ; ubi verbum illud,
+<lb ed="#P" n="62"/>utrumque, videtur indicare Christum esse 
+plu<lb break="no" ed="#P" n="63"/>ra; exponit autem D. Thom. Augustinum 
+po<lb break="no" ed="#P" n="64"/>suisse nomen illud , utrumque , non pro 
+duo<lb break="no" ed="#P" n="65"/>bus suppositis, sed pro duobus nominibus 
+si<lb break="no" ed="#P" n="66"/>gnificantibus idem suppositum sub diversis
+<lb ed="#P" n="67"/>naturis, scilicet, Deus et homo. Aliter exponi
+<lb ed="#P" n="68"/>posset mens Augustini ex alio ejus loco sup.
+<lb ed="#P" n="69"/>cit., tract. 78 in Joan., ut, scilicet, nomen 
+il<lb break="no" ed="#P" n="70"/>lud, utrumque, propter duas naturas positum
+<lb ed="#P" n="71"/>sit, ita ut sensus sit, utramque simul unum
+<lb ed="#P" n="72"/>esse, seu componere Christum, qui sensus ex
+<lb ed="#P" n="73"/>verbis ejus colligi videtur , sic enim inquit :
+<lb ed="#P" n="74"/>Agnoscamus geminam substantium Christi, 
+di<lb break="no" ed="#P" n="75"/>vinam, scilicet, que equalis est Patri, 
+kuma<lb break="no" ed="#P" n="76"/>nam, qua major est Pater, utrumque autem 
+st<lb break="no" ed="#P" n="77"/>mul, non duo, sed unus est Christus, ne sit
+<lb ed="#P" n="78"/>quaternitas, non trinitas, Deus ; sicut enam
+<lb ed="#P" n="79"/>unus est homo, anima rationalis et caro, sic
+<lb ed="#P" n="80"/>unus est Christus, Deus et homo, ac per hac
+<lb ed="#P" n="81"/>Christus est Deus , anima rationalis , et caro.
+<lb ed="#P" n="82"/>Ubi es contextu constat illud verbum, u£
+rusa<lb break="no" ed="#P" n="83"/>qu£, ad utramque naturam referri; et 
+eum<lb break="no" ed="#P" n="84"/>dem esse sensum alterius loci, patet ex verbis
+<lb ed="#P" n="85"/>sequentibus ; cum enim dixisset : Utrumque
+<lb ed="#P" n="86"/>Deus et homo, subdit : Neque enim illa 
+susce<lb break="no" ed="#P" n="87"/>ptione alterum eorum in alterum conversum
+<lb ed="#P" n="88"/>est, nec divinitas in creaturam, nec creatura in
+<lb ed="#P" n="89"/>divinitatem. In hoc autem sensu explicari 
+po<lb break="no" ed="#P" n="90"/>test haec propositio in sensu causali, juxta
+<lb ed="#P" n="91"/>supra dicta, disp. praeced. sect. 2.
+</p>
+               <p xml:id="szstco-l01082-d1e499">
+                  <lb ed="#P" n="92"/>6. In secundo, tertio et septimo 
+argumen<lb break="no" ed="#P" n="93"/>to, insinuat D. Thomas dubium, an Christus
+<lb ed="#P" n="94"/>possit dici aliud et aliud, et quidem D. 
+Tho<lb break="no" ed="#P" n="95"/>mas hic simpliciter videtur negare hanc 
+locu<lb break="no" ed="#P" n="96"/>tionem, et rationem reddit ad 3, quia, cum,
+<lb ed="#P" n="97"/>aliud, sit relativum diversitatis substantiae ,
+<lb ed="#P" n="98"/>proprie refertur ad suppositum : et hanc 
+sen<lb break="no" ed="#P" n="99"/>tentiam sequitur Scotus, dist. 6. At veroidem
+<lb ed="#P" n="100"/>D. Thomas supra, q. 2, art. 3, ad 1, expresse
+<lb ed="#P" n="101"/>docuit contrariam sententiam, dicens, sicut
+<lb ed="#P" n="102"/>alterum et allerum in creaturis non 
+siguift<lb break="no" ed="#P" n="103"/>cant diversitatem suppositorum, sed formarum
+<lb ed="#P" n="104"/>accidentalium , ita aliud et aliud in 
+Chri<lb break="no" ed="#P" n="105"/>sto, non significare distincta supposita, sed
+<lb ed="#P" n="106"/>diversas naturas substantiales ; quam 
+sen<lb break="no" ed="#P" n="107"/>tentiam sequuntur Palud. et Richard., dicta
+<lb ed="#P" n="108"/>dist. 6 ; et Waldens., lib. 1 Doctrin. fid. 
+an<lb break="no" ed="#P" n="109"/>tiq., c. 29. et videtur esse expressa sententia
+<lb ed="#P" n="110"/>Damasc., lib. 3 de Fid., c. 7, dicentis : Alius
+<pb ed="#P" n="258"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>personam indicat, aliud naturam; unde 
+Au<lb break="no" ed="#P" n="2"/>gust., lib. contra Felician., c. 11 : InAhomine,
+<lb ed="#P" n="3"/>inquit, non alius homo anima, altus homo 
+cor<lb break="no" ed="#P" n="4"/>pus, sed aliud anima, aliud corpus, sic in 
+Me<lb break="no" ed="#P" n="5"/>diatore, aliud Dei Filius, aliud hominis fius,
+<lb ed="#P" n="6"/>sed non alius ct alius, sed unus et idem. Idem
+<lb ed="#P" n="7"/>fere in Enchirid., c. 35 et 36. Et confirmari
+<lb ed="#P" n="8"/>potest, nam, si aliud et aliud diceret 
+diversita<lb break="no" ed="#P" n="9"/>tem suppositorum, in Trinitate Pater et Filius
+<lb ed="#P" n="10"/>possent dici aliud et aliud, quod est contra
+<lb ed="#P" n="11"/>omnes Sanctos, Augustin. et Damasc., supra,
+<lb ed="#P" n="12"/>Nazian., et alios, quos statim referam. Quod
+<lb ed="#P" n="13"/>si respondeatur relativum aliud, dicere 
+diver<lb break="no" ed="#P" n="14"/>sitatem sunpositi et naturae, et ex secundo 
+ca<lb break="no" ed="#P" n="15"/>pite, illam locutionem in Trinitate esse 
+fal<lb break="no" ed="#P" n="16"/>sam, contra hoc est ratio quae ex D. Thoma
+<lb ed="#P" n="17"/>supra desumitur, quia alterum et alterum non
+<lb ed="#P" n="18"/>dicunt diversitatem suppositi, nam idem 
+di<lb break="no" ed="#P" n="19"/>citur alter a se ipso, si accidentaliter mutatus
+<lb ed="#P" n="20"/>sit ; ergo neque aliud et aliud necessario 
+di<lb break="no" ed="#P" n="21"/>cit diversitatem suppositorum; nam, licet sit
+<lb ed="#P" n="22"/>relativum substantiae, solum dicit 
+diversita<lb break="no" ed="#P" n="23"/>tem essentialem in natura substantialt.
+</p>
+               <p xml:id="szstco-l01082-d1e597">
+                  <lb ed="#P" n="24"/>7. Christus non potest dici alius et aluus.
+<lb ed="#P" n="25"/>— An possit dici aliud et aliud. — In hac re
+<lb ed="#P" n="26"/>primo certum est, Christum non posse dici
+<lb ed="#P" n="27"/>alium et alium. Ita dccent Patres citati, quia,
+<lb ed="#P" n="28"/>sicut unus masculine proprie refertur ad 
+uni<lb break="no" ed="#P" n="29"/>tatem personse, ita alius, ad ejusdem 
+distinc<lb break="no" ed="#P" n="30"/>tionem, et ideo in Trinitate Pater dicitur alius
+<lb ed="#P" n="31"/>a FEilio. Secundo, est certum in Christo esse
+<lb ed="#P" n="32"/>aliud et aliud, quia natura divina est aliud ab
+<lb ed="#P" n="33"/>humana, et e converso, quomodo Nazian. :
+<lb ed="#P" n="34"/>Aliud, inquis, et aliud sunt, ev quibus est 
+Sal<lb break="no" ed="#P" n="35"/>vator, non tamen alius atque aluus, ambo enam
+<lb ed="#P" n="36"/>hecconnedione unum sunt : cujus contrarium
+<lb ed="#P" n="37"/>dicit esse in Trinitate, ubi Pater est aliusa
+<lb ed="#P" n="38"/>Filio, non aliud. Quae doctrina Nazianz. 
+refer<lb break="no" ed="#P" n="39"/>tur et probatur in Conc. Chalced., act. 4, et 
+si<lb break="no" ed="#P" n="40"/>milem habet Athanas., ep. ad Epict., sub fin.;
+<lb ed="#P" n="41"/>Cyril., lib. deIncarn., c. 36, ubi dicit 
+Chris<lb break="no" ed="#P" n="42"/>tum esse Deum et hominem, secundum aliud
+<lb ed="#P" n="43"/>et aliud. Leo Pap., ep. 10, c. 4: Quamvis in
+<lb ed="#P" n="44"/>Domino Jesu Christo Dei et hominis una 
+per<lb break="no" ed="#P" n="45"/>sona sit, aliud tamen, unde contumelia in 
+utro<lb break="no" ed="#P" n="46"/>que communis, alaud unde comnunis est gloria.
+<lb ed="#P" n="47"/>Tertio , illa propositio : CAristus est aliud et
+<lb ed="#P" n="48"/>aliud, neganda potius est, quam concedenda,
+<lb ed="#P" n="49"/>quia justa communem significationem et 
+sen<lb break="no" ed="#P" n="50"/>sum cjus, significando diversitatem in natura
+<lb ed="#P" n="51"/>substantiah , significat ctiam diversitatem in
+<lb ed="#P" n="52"/>supposito,quia significat diversitatem 
+simplici<lb break="no" ed="#P" n="53"/>ter, quae includit utramque distinctionem , in
+<lb ed="#P" n="54"/>quo differt ab illo relativo, alterum, quod 
+tan<lb break="no" ed="#P" n="55"/>tum dicit diversitatem secundum quid. Etlicet
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="56"/>fortasse contrarium probabiliter defendi 
+pos<lb break="no" ed="#P" n="57"/>set. tamen cum propostitio sit ambigua, et 
+pos<lb break="no" ed="#P" n="58"/>sit facere erroneum sensum, simpliciter 
+ad<lb break="no" ed="#P" n="59"/>mittenda non est; dicatur ergo Christus habere
+<lb ed="#P" n="60"/>aliud et aliud, et esse Deum et hominem 
+se<lb break="no" ed="#P" n="61"/>cundum aliud et aliud, et componi ex his quae
+<lb ed="#P" n="62"/>sunt aliud et aliud ; non vero simpliciter esse
+<lb ed="#P" n="63"/>aliud et aliud. In solutione ad 3, docet D.
+<lb ed="#P" n="64"/>Thomas hanc propositionem esse falsam :
+<lb ed="#P" n="65"/>Christus est tantun homo, quia illa dictio 
+ex<lb break="no" ed="#P" n="66"/>clusiva posita in praedicato cadit supra 
+for<lb break="no" ed="#P" n="67"/>male ejus, unde excludit aliam naturam, non
+<lb ed="#P" n="68"/>aliud suppositum, unde eadem ratione haec
+<lb ed="#P" n="69"/>etiam est falsa : Christus est tantum Deus, et
+<lb ed="#P" n="70"/>constat, quia est utrumque ; ergo non est
+<lb ed="#P" n="71"/>tantum alterum illorum.
+</p>
+               <p xml:id="szstco-l01082-d1e706">
+                  <lb ed="#P" n="72"/>8. Objectio. — Responsio. — Quod si 
+obji<lb break="no" ed="#P" n="73"/>ciatur quia illa dictio exclusiva ita resolvenda
+<lb ed="#P" n="74"/>est, quia Christus est homo, et non est aliud
+<lb ed="#P" n="75"/>quam homo ; sed utraque est vera, quia, 
+jux<lb break="no" ed="#P" n="76"/>ta dicta, Christus non est aliud et aliud : 
+res<lb break="no" ed="#P" n="77"/>pondet D. Thomas illam propositionem 
+exclu<lb break="no" ed="#P" n="78"/>sivam non ita esse exponendam, sed hoc 
+mo<lb break="no" ed="#P" n="79"/>do : Christus est homo, et non habet aliud esse
+<lb ed="#P" n="80"/>quam hominis , et haec posterior falsa est.
+<lb ed="#P" n="81"/>Quam doctrinam admittunt Scotus, et fere
+<lb ed="#P" n="82"/>alii Theologi, in 3, dist. 6, et est consentanea
+<lb ed="#P" n="83"/>Damas.,lib. 3 de Fid.,c. ,qui addit 
+hanclocu<lb break="no" ed="#P" n="84"/>tionem posse admitti : Totus Christus est 
+ho<lb break="no" ed="#P" n="85"/>0o, et totus Christus est Deus, et Christus est
+<lb ed="#P" n="86"/>totus homo, et Christus est totus Deus. Et 
+qui<lb break="no" ed="#P" n="87"/>dem in his posterioribus locutionibus, cum
+<lb ed="#P" n="88"/>particula, totus, est pars praedicati, nulla est
+<lb ed="#P" n="89"/>difficultas, quia, ut bene Damascenus inquit,
+<lb ed="#P" n="90"/>in cis solum significatur, Christum esse 
+per<lb break="no" ed="#P" n="91"/>fectum Deum, et perfectum hominem, et 
+ha<lb break="no" ed="#P" n="92"/>bere in se totam Dei naturam, et totam 
+homi<lb break="no" ed="#P" n="93"/>nis naturam ; at vero in prioribus 
+locutioni<lb break="no" ed="#P" n="94"/>bus ubi particula totus, est pars subjecti, et
+<lb ed="#P" n="95"/>conjungitur cum Christo, cavenda est 
+ambi<lb break="no" ed="#P" n="96"/>guitas ; significari enim perillas potest, totam
+<lb ed="#P" n="97"/>personam Christi esse Deum, et totam esse
+<lb ed="#P" n="98"/>hominem, et ita sunt verae, ut recte Damasc.
+<lb ed="#P" n="99"/>explicavit ; significari etiam potest Christum
+<lb ed="#P" n="100"/>totaliter, ut ita dicam, constitui humanitate
+<lb ed="#P" n="101"/>vel divinitate, atque adeo vel divinitatem 
+so<lb break="no" ed="#P" n="102"/>lam, vel humanitatem esse totam formam
+<lb ed="#P" n="103"/>qua Christus constituitur, et hic sensus esset
+<lb ed="#P" n="104"/>falsus, et ideo non videtur esse loquendum
+<lb ed="#P" n="105"/>sine sufficienti expositionc. Sic cnim dixit
+<lb ed="#P" n="106"/>Augustinus, sermon. 30 de Verbis Apostoli :
+<lb ed="#P" n="107"/>Qui Jesum Christum plus quam hominem qon,
+<lb ed="#P" n="108"/>noverunt, Jesum Christum utique non 
+mnove<lb break="no" ed="#P" n="109"/>runt; si enim tantummodo homo est, et mihit
+<lb ed="#P" n="110"/>amplius. non est ipse Jesus Christus.
+<pb ed="#P" n="259"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Reliqua argumenta D. Thomae alia 
+exposi<lb break="no" ed="#P" n="2"/>tione non indigent.
+</p>
+            </div>
+            <div xml:id="szstco-l01082-Dd1e803"><!-- szstco-p3q17a2 -->
+               <head xml:id="szstco-l01082-Hd1e806">Articulus 2</head>
+               <p xml:id="szstco-l01082-d1e808">
+                  <lb ed="#P" n="18" type="fixed=260"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01082-d1e813">
+                  <lb ed="#P" n="19"/>in hoc articulo, non solum est quaestio de
+<lb ed="#P" n="20"/>modo loquendi, sed etiam de re ipsa. Et 
+quo<lb break="no" ed="#P" n="21"/>niam meus D. Thomae in toto articulo 
+obs<lb break="no" ed="#P" n="22"/>cura est, prius res ipsa disputanda videtur,
+<lb ed="#P" n="23"/>ct deinde sensus D. Thomae, et vera ejus
+<lb ed="#P" n="24"/>mens acsententia explicanda ; ipse enim 
+sim<lb break="no" ed="#P" n="25"/>pliciter docet, in Christo esse tantum unum
+<lb ed="#P" n="26"/>esse personalis. Quid autem intelligat nomine
+<lb ed="#P" n="27"/>esse personalis, quomodo etiam illud 
+aftir<lb break="no" ed="#P" n="28"/>met esse unum, non satis declarat, neque
+<lb ed="#P" n="29"/>etiam exponit quomodo per illud esse 
+huma<lb break="no" ed="#P" n="30"/>nitas ipsa existat ; omnia ergo haec ex 
+sequen<lb break="no" ed="#P" n="31"/>ti disputatione constabunt.
+</p>
+            </div>
+            <div xml:id="szstco-l01082-Dd1e845"><!-- szstco-p3q17-d36 -->
+               <head xml:id="szstco-l01082-Hd1e848">Disputatio 36</head>
+               <head xml:id="szstco-l01082-Hd1e850" type="question-title">
+De esse existentiae christi et humanitatis
+ejus
+</head>
+               <p xml:id="szstco-l01082-d1e853">
+                  <lb ed="#P" n="32" type="fixed=260"/>DISPUTATIO XXXVI
+<lb ed="#P" n="33"/>In duas sectiones distributa.
+<lb ed="#P" n="34"/>DE ESSE EXISTENTIAE CHRISTI ET HUMANITATIS
+<lb ed="#P" n="35"/>EJUS.
+</p>
+               <p xml:id="szstco-l01082-d1e864">
+                  <lb ed="#P" n="36"/>Duo breviter in hac disputatione tractanda
+<lb ed="#P" n="37"/>sunt. Primum est. per quam existentiam 
+hu<lb break="no" ed="#P" n="38"/>manitas Christi in rerum natura existat; 
+at<lb break="no" ed="#P" n="39"/>terum vero estan et quomodo esse existentiae
+<lb ed="#P" n="40"/>Christi unum sit ; quae disputatio, quod ad
+<lb ed="#P" n="41"/>rem ipsam attinet, et praesertim quoad 
+pri<lb break="no" ed="#P" n="42"/>mam ejus partem, ad quaestionem secundam
+<lb ed="#P" n="43"/>D. Thomae pertinebat, ubi mysterium ipsum
+<lb ed="#P" n="44"/>et unio incarnationis explicata est. Ibi enim
+<lb ed="#P" n="45"/>videndum erat an haec unio sit in ipsa 
+exis<lb break="no" ed="#P" n="46"/>tentia increata, necne ; tamen in hunc locum
+<lb ed="#P" n="47"/>remissa est, ut hoc consuetudini daremus, et
+<lb ed="#P" n="48"/>quia maxime videtur haec disputatio 
+necessa<lb break="no" ed="#P" n="49"/>ria ad ea intelligenda, quae D. Thomas in hoc
+<lb ed="#P" n="50"/>articulo tradit.
+</p>
+               <div xml:id="szstco-l01082-Dd1e899"><!-- szstco-p3q17-d36s1 -->
+                  <head xml:id="szstco-l01082-Hd1e902">Sectio 1</head>
+                  <head xml:id="szstco-l01082-Hd1e904" type="question-title">
+an humanitas christi formaliter et intrinsece 
+existat in rerum natura per existentiam increatam.
+vel per propriam et creatam
+</head>
+                  <p xml:id="szstco-l01082-d1e907">
+                     <cb ed="#P" n="b"/>
+                     <lb ed="#P" n="51" type="fixed=260"/>SECTIO I.
+<lb ed="#P" n="52"/>An humanitas Christi formaliter et intrinsece 
+exis<lb break="no" ed="#P" n="53"/>tat in rerum natura per existentiam increatam.
+<lb ed="#P" n="54"/>vel per propriam et creatam.
+</p>
+                  <p xml:id="szstco-l01082-d1e920">
+                     <lb ed="#P" n="55"/>1. Prima sententia negat in Christi 
+huma<lb break="no" ed="#P" n="56"/>nitate esse aliquam existentiam creatam, sed
+<lb ed="#P" n="57"/>per unionem assumptam esse ad existendum
+<lb ed="#P" n="58"/>per ipsam existentiam increatam Verbi 
+divi<lb break="no" ed="#P" n="59"/>ni. Haec est sententia communis 
+Thomista<lb break="no" ed="#P" n="60"/>rum : Cajet. hic ; Capreol., in 3, dist. 6; 
+Fer<lb break="no" ed="#P" n="61"/>rar.. 4 contra Gent., c. 35et 41; tenet etiam
+<lb ed="#P" n="62"/>Henric., Quodlib. 3, q. 2, et communiter 
+cen<lb break="no" ed="#P" n="63"/>setur esse D. Thom. Quae sententia supponit
+<lb ed="#P" n="64"/>unum metaphysicum fundamentum, scilicet,
+<lb ed="#P" n="65"/>existentiam et essentiam in rebus creatis 
+re<lb break="no" ed="#P" n="66"/>aliter, seu ex natura rei, ita distingui, ut 
+pos<lb break="no" ed="#P" n="67"/>sit natura creata in essentia sua conservari,
+<lb ed="#P" n="68"/>et privari sua existentia, et per alienam
+<lb ed="#P" n="69"/>terminari. Nam ex hoc fundamento sequitur,
+<lb ed="#P" n="70"/>possibile esse humanitatem Christi esse 
+pri<lb break="no" ed="#P" n="71"/>vatam propria existentia creata, et per 
+exis<lb break="no" ed="#P" n="72"/>tentiam Verbi ita esse terminatam, ut per eam
+<lb ed="#P" n="73"/>formaliter existat. Sicut enim supra 
+diceba<lb break="no" ed="#P" n="74"/>mus, Verbum potuisse assumere naturam ad
+<lb ed="#P" n="75"/>suam subsistentiam, quia ex parte naturae est
+<lb ed="#P" n="76"/>distinctio sufficiens, et ex parte Verbi nulla
+<lb ed="#P" n="77"/>est imperfectio, seu defectus perfectionis 
+un<lb break="no" ed="#P" n="78"/>de hoc possit impediri, ita. supposita 
+distinc<lb break="no" ed="#P" n="79"/>tione existentiae creatae ab essentia, est ex
+<lb ed="#P" n="80"/>parte naturae sufficiens fundamentum, ut 
+pos<lb break="no" ed="#P" n="81"/>sit privari propria existentia, et assumi ad
+<lb ed="#P" n="82"/>existendum existentia aliena ; ex parte 
+au<lb break="no" ed="#P" n="83"/>tem Verbi est sufficiens perfectio, ut possit
+<lb ed="#P" n="84"/>supplere existentiam alienam, quia est suum
+<lb ed="#P" n="85"/>esse perfectissimum et infinitum, eminenter
+<lb ed="#P" n="86"/>continens omne esse creaturae, et sine 
+im<lb break="no" ed="#P" n="87"/>perfectione hoc facere potest per mutationem
+<lb ed="#P" n="88"/>creatura, sine mutatione sui. Quod si hoc
+<lb ed="#P" n="89"/>fieri potest, non est negandum quin factum
+<lb ed="#P" n="90"/>sit in hoc mysterio : primo quidem, quia ita
+<lb ed="#P" n="91"/>insinuant sancti Patres, Sophron., Damasc. et
+<lb ed="#P" n="92"/>D. Thomas. Et deindc, quia hoc modo melius
+<lb ed="#P" n="93"/>intelligitur substantialis unio ac per se, quae
+<lb ed="#P" n="94"/>alia ratione vix potest intelligi. Quae omnia
+<lb ed="#P" n="95"/>commodius proponemus infra, cum illis 
+satis<lb break="no" ed="#P" n="96"/>faciendum erit ; nunc solum insinuata sunt
+<lb ed="#P" n="97"/>ad explicandum fundamentum hujus 
+sen<lb break="no" ed="#P" n="98"/>tentiae.
+</p>
+                  <p xml:id="szstco-l01082-d1e1018">
+                     <lb ed="#P" n="99"/>2. Impossibile est humanitatem existere 
+exis<lb break="no" ed="#P" n="100"/>tentia increata. — Dico primo : impossibile est
+<lb ed="#P" n="101"/>humanitatem existere in rerum natura per
+<lb ed="#P" n="102"/>existentiam increatam Dei, seu divini Verbi,
+<lb ed="#P" n="103"/>unde necesse est ut existat per existentiam
+<pb ed="#P" n="261"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>propriam et creatam. Haec est communior
+<lb ed="#P" n="2"/>sententia Theologorum, Altisiod., lib. tertio
+<lb ed="#P" n="3"/>Summr., tract. 1. c. 1, q. 8; Albert., in 3,
+<lb ed="#P" n="4"/>dist. 6, q. 2, art. 4; et ibi Scot., Durand.,
+<lb ed="#P" n="5"/>Gabr., Almay.; Bonavent., dist. 5, a. 2, q. 1,
+<lb ed="#P" n="6"/>ad argum. ; et ex Thomistis, Hervae., dist. 9,
+<lb ed="#P" n="7"/>q. 1, art, 3; Paludan., q. 3, qui late 
+defen<lb break="no" ed="#P" n="8"/>dit hanc sententiam non esse contrariam D.
+<lb ed="#P" n="9"/>Thomase, sed potius illius doctrine 
+consenta<lb break="no" ed="#P" n="10"/>neam. In Conciliis vel sanctis Patribus pauca
+<lb ed="#P" n="11"/>reperientur, quibus satis possit haec conclusio
+<lb ed="#P" n="12"/>confirmari ; in hoc vero favent huic 
+assertio<lb break="no" ed="#P" n="13"/>ni, quod loquentes de hoc mysterio, semper
+<lb ed="#P" n="14"/>supponunt humanitatem Christi habere in se
+<lb ed="#P" n="15"/>intrinsecam entitatem actualem creatam, 
+dis<lb break="no" ed="#P" n="16"/>tinctam ab entitate et actualitate Verbi, et
+<lb ed="#P" n="17"/>praerequisitam ad ipsam unionem. Ex quo
+<lb ed="#P" n="18"/>principio potisimum confirmanda nobis est
+<lb ed="#P" n="19"/>haec conclusio. Deinde in VII Synod., act. 6,
+<lb ed="#P" n="20"/>tom. 3, col. 8, quidam Epiphanius Episcopus
+<lb ed="#P" n="21"/>ita distinguit naturam ab hypostasi, quod 
+na<lb break="no" ed="#P" n="22"/>tura dicit tantum humanitatem existentem,
+<lb ed="#P" n="23"/>hypostasis vero addit subsistentiam. Praeterea
+<lb ed="#P" n="24"/>Damasc., lib. 3, cap. 3, dicit 
+Verbumassump<lb break="no" ed="#P" n="25"/>sisse humanitatem , nec substantia , nec 
+eas<lb break="no" ed="#P" n="26"/>tentia privatam. Sic enim vertit Faber , 
+ali<lb break="no" ed="#P" n="27"/>ter enim vertit Billius, scilicet: Assumpsit 
+hu<lb break="no" ed="#P" n="28"/>manitatem non redactam in nihilum,id est, non
+<lb ed="#P" n="29"/>privatam existentia. Hoc enim ad litteram 
+si<lb break="no" ed="#P" n="30"/>gnificat vos graeca, ac si idem sit privari
+<lb ed="#P" n="31"/>existentia, quod redigi in nihilum. Etc. 11 et
+<lb ed="#P" n="32"/>12, dicit Damasc. humanitatem habuisse
+<lb ed="#P" n="33"/>existentiam in Verbo, non per Verbum ; et
+<lb ed="#P" n="34"/>ibidem distinguit existentiam humanitatis ab
+<lb ed="#P" n="35"/>assumptione.
+</p>
+                  <p xml:id="szstco-l01082-d1e1113">
+                     <lb ed="#P" n="36"/>3. Existentia quid sit. — Ut ratione 
+pro<lb break="no" ed="#P" n="37"/>bemus hanc conclusionem. oportet ut in
+<lb ed="#P" n="38"/>aequivoco non laboremus, et inter auctores
+<lb ed="#P" n="39"/>utriusque opinionis conveniat, quid nomine
+<lb ed="#P" n="40"/>existentiae significetur. Ego enim per 
+exis<lb break="no" ed="#P" n="41"/>tentiam intelligo id, quo unaquaeque res 
+for<lb break="no" ed="#P" n="42"/>maliter habet, ut sit actualis entitas in rerum
+<lb ed="#P" n="43"/>natura, et extra nihil, seu extra causas suas;
+<lb ed="#P" n="44"/>ut, verbi gratia, anima Christi, vel humanitas
+<lb ed="#P" n="45"/>priusquam crearetur, actu nihil erat, sed 
+so<lb break="no" ed="#P" n="46"/>lum in potentia; cum primum ergo intelligitur
+<lb ed="#P" n="47"/>exire ex illa potentia in actum,et desinere esse
+<lb ed="#P" n="48"/>nihil, intelligitur actu existens ; et existentia 
+il<lb break="no" ed="#P" n="49"/>lius erit ille modus, vel illa actualitas quo 
+intrin<lb break="no" ed="#P" n="50"/>sece et formaliter constituitur extra nihil. Quod
+<lb ed="#P" n="51"/>autem iste sit proprius et praecisus conceptus
+<lb ed="#P" n="52"/>existentiae, late ostensum est in propria 
+dis<lb break="no" ed="#P" n="53"/>putatione metaphysica de hac re. Nunc 
+bre<lb break="no" ed="#P" n="54"/>viter declaratur primo, quia res, quae actu
+<lb ed="#P" n="55"/>est extra nihil, et extra causas, hoc ipso in-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>telligitur actu existens; quid enim aliud 
+si<lb break="no" ed="#P" n="57"/>gnificare potest hoc verbum existendi ? Sed
+<lb ed="#P" n="58"/>existentia est id, quo res existit formaliter ;
+<lb ed="#P" n="59"/>ergo. Secundo, omnis res. cum primum 
+intel<lb break="no" ed="#P" n="60"/>irigitur producta a sua causa, et esse extra
+<lb ed="#P" n="61"/>nihil, intelligitur habere aliquod esse, quod
+<lb ed="#P" n="62"/>ab aeterno non habuit ; ergo illud esse est esse
+<lb ed="#P" n="63"/>existentie. Antecedens per se notum est,
+<lb ed="#P" n="64"/>quia habet aliquod esse quod est terminus
+<lb ed="#P" n="65"/>actionis novae quae ab aeterno non fuit. 
+Con<lb break="no" ed="#P" n="66"/>sequentia vero probatur, quia illud esse non
+<lb ed="#P" n="67"/>est essentiae, ut sic, quia esse essentiae, quod
+<lb ed="#P" n="68"/>a D. Thoma aliquando distinguitur ab esse
+<lb ed="#P" n="69"/>existentiae in creaturis, dicitur esse 
+aeter<lb break="no" ed="#P" n="70"/>num et immutabile, et inseparabile ab 
+essen<lb break="no" ed="#P" n="71"/>iia; et propterea distingui dicitur ab ipsa
+<lb ed="#P" n="72"/>existentia ; at vero hoc esse novum, quod 
+ha<lb break="no" ed="#P" n="73"/>bet res, cum primo producitur, seu per ipsam
+<lb ed="#P" n="74"/>productionem, est temporale, et separabile
+<lb ed="#P" n="75"/>ab essentia; potest enim res amittere hoc
+<lb ed="#P" n="76"/>esse, quamvis rei essentia semper eadem
+<lb ed="#P" n="77"/>maneat ; non est ergo hoc esse essentiae, sed
+<lb ed="#P" n="78"/>existentia. Tertio, quia si ex hoc quod res
+<lb ed="#P" n="79"/>intelligitur actu esse in rerum natura extra
+<lb ed="#P" n="80"/>causas suas, non intelligitur actu existens,
+<lb ed="#P" n="81"/>quaero quid illi addat existentia postea 
+adve<lb break="no" ed="#P" n="82"/>niens. Certe non potest illi tribuere ut actu
+<lb ed="#P" n="83"/>sit, hoc enim aperte supponitur ex vi prioris
+<lb ed="#P" n="84"/>conceptus; tribuet ergo quod hoc vel illo
+<lb ed="#P" n="85"/>modo sit ; at vero hoc jam non pertinet ad
+<lb ed="#P" n="86"/>rationem existendi absolute, sed ad 
+determi<lb break="no" ed="#P" n="87"/>nationem quamdam et modificationem ipsius
+<lb ed="#P" n="88"/>existentie, unde hoc potius pertinet ad 
+ra<lb break="no" ed="#P" n="89"/>tionem subsistentiae vel inhaerentiae. Quod si
+<lb ed="#P" n="90"/>quis contendat, hunc modum determinautem,
+<lb ed="#P" n="91"/>ut ita dicam, entitatem actualem, ut sic vel
+<lb ed="#P" n="92"/>aliter sit, vocari existentiam, et non illud 
+ip<lb break="no" ed="#P" n="93"/>sum esse, quo constituitur res in esse 
+entita<lb break="no" ed="#P" n="94"/>tisactualis, de significatione vocis potius quam
+<lb ed="#P" n="95"/>de re contendit, et contra communem 
+mo<lb break="no" ed="#P" n="96"/>dum concipiendi non solum sapientum, sed
+<lb ed="#P" n="97"/>etiam omnium hominum, utitur nominibus ;
+<lb ed="#P" n="98"/>quamvis enim quantitas, verbi gratia, in 
+sa<lb break="no" ed="#P" n="99"/>cramento Eucharistiae mutet modum 
+existen<lb break="no" ed="#P" n="100"/>di, nullus tamen dicet mutare ipsam 
+existen<lb break="no" ed="#P" n="101"/>tiam, quae eadem est in quantitate, sive 
+inhae<lb break="no" ed="#P" n="102"/>reat, sive a subjecto separetur.
+</p>
+                  <p xml:id="szstco-l01082-d1e1263">
+                     <lb ed="#P" n="103"/>4. Existentia est de formali conceptu entis
+<lb ed="#P" n="104"/>in actu. —Ex ratione vero existentiae sic 
+ex<lb break="no" ed="#P" n="105"/>plicata, colligitur primo, fieri non posse ut
+<lb ed="#P" n="106"/>aliquid sit ens in actu, seu ut concipiatur
+<lb ed="#P" n="107"/>tanquam actualis entitas, quin in suo 
+conce<lb break="no" ed="#P" n="108"/>ptu formaliter et intrinsece includat 
+existen<lb break="no" ed="#P" n="109"/>tiam, ita ut nec per abstractionem 
+praecisi<lb break="no" ed="#P" n="110"/>vam intellectus, possit unum ab altero sepa-
+<pb ed="#P" n="262"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>rari, manente vero conceptu utriusque. Quod
+<lb ed="#P" n="2"/>patet ex dictis, addito generali principio, 
+im<lb break="no" ed="#P" n="3"/>possibile esse concipere effectum aliquem 
+for<lb break="no" ed="#P" n="4"/>maliter constitutum per aliquam formam, aut
+<lb ed="#P" n="5"/>per actum intrinsecum similem formae, quin
+<lb ed="#P" n="6"/>in illo includatur talis forma. Exemplis res fit
+<lb ed="#P" n="7"/>manifesta : non enim potest concipi album
+<lb ed="#P" n="8"/>constitutum in ratione albi, quin in illo 
+con<lb break="no" ed="#P" n="9"/>ceptu intrinsece includatur albedo; et in
+<lb ed="#P" n="10"/>1oc mysterio impossibile est concipere 
+Chri<lb break="no" ed="#P" n="11"/>stum constitutum hominem, quin ibi 
+includa<lb break="no" ed="#P" n="12"/>tur humanitas, quae est forma constituens 
+ho<lb break="no" ed="#P" n="13"/>minem. Et pariratione, impossibile est 
+conci<lb break="no" ed="#P" n="14"/>pere eumdem Christum constitutum iu 
+ratio<lb break="no" ed="#P" n="15"/>ne hujus personae compositae, quin ibi 
+inclu<lb break="no" ed="#P" n="16"/>datur subsistentia Verbi, tanquam intrinsecus
+<lb ed="#P" n="17"/>terminus quasi formaliter constituens 
+Chri<lb break="no" ed="#P" n="18"/>stum in esse personae. Et ratio generalis est.
+<lb ed="#P" n="19"/>quia causa formalis vel actus quasi formalis
+<lb ed="#P" n="20"/>concurrit ad suum effectum vel quasi 
+effec<lb break="no" ed="#P" n="21"/>tum, intrinsece et per se ipsum illum 
+consti<lb break="no" ed="#P" n="22"/>tuendo, et ideo intime includitur in conceptu
+<lb ed="#P" n="23"/>constituti; constat autem ex dictis, entitatem
+<lb ed="#P" n="24"/>actualem ut sic, intrinsece et quasi formaliter
+<lb ed="#P" n="25"/>constitui in esse entitatis actualis per 
+existen<lb break="no" ed="#P" n="26"/>tiam ; ergo impossibile est concipere 
+entita<lb break="no" ed="#P" n="27"/>tem actualem ut sic, quin in illa intrinsece
+<lb ed="#P" n="28"/>includatur existentia. Unde, mea sententia,
+<lb ed="#P" n="29"/>valde decipiuntur, qui dicunt essentiam 
+crea<lb break="no" ed="#P" n="30"/>tam intrinsece constitui in esse entitatis 
+ac<lb break="no" ed="#P" n="31"/>tualis, non per existentiam ipsam, sed per
+<lb ed="#P" n="32"/>habitudinem ad existentiam, seu per 
+capaci<lb break="no" ed="#P" n="33"/>tatem existentiae, ita ut rem esse entitatem
+<lb ed="#P" n="34"/>actualem, sit esse proxime capacem 
+existen<lb break="no" ed="#P" n="35"/>tiae; ipsa vero existentia sit quaedam conditio,
+<lb ed="#P" n="36"/>seu quidam ultimus terminus et actus illius
+<lb ed="#P" n="37"/>entitatis, seu capacitatis. Est enim hoc 
+repu<lb break="no" ed="#P" n="38"/>gnans verae ac propriae rationi existentiae a
+<lb ed="#P" n="39"/>nobis explicatae ; et improbatur facile, quia
+<lb ed="#P" n="40"/>essentia secundum se, ut dicitur esse aeterna
+<lb ed="#P" n="41"/>in potentia suae causae, est capax existentiae
+<lb ed="#P" n="42"/>secundum potentiam objectivam, seu per 
+ex<lb break="no" ed="#P" n="43"/>trinsecam denominationem a potentia suae
+<lb ed="#P" n="44"/>causae ; entitas ergo actualis non consistit in
+<lb ed="#P" n="45"/>hac capacitate, ut sic.
+</p>
+                  <p xml:id="szstco-l01082-d1e1385">
+                     <lb ed="#P" n="46"/>5. Objectio. — Responsio. — Dicetur 
+fortas<lb break="no" ed="#P" n="47"/>se, hanc esse capacitatem remotam, 
+ratio<lb break="no" ed="#P" n="48"/>nem vero entitatis actualis consistere in 
+ca<lb break="no" ed="#P" n="49"/>pacitate proxima. Sed contra, nam vel haec
+<lb ed="#P" n="50"/>capacitas proxima est objectiva tantum, et
+<lb ed="#P" n="51"/>sic non est extra latitudinem entis in 
+poten<lb break="no" ed="#P" n="52"/>tia, neque est realitas actu producta ; vel
+<lb ed="#P" n="53"/>est capacitas subjectiva fundata in aliqua 
+ac<lb break="no" ed="#P" n="54"/>tuali entitate jam producta, et sic necesse
+<lb ed="#P" n="55"/>est ut illa entitas, in qua fundatur, habeat ali-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>quod esse intrinsecum novum et productum;
+<lb ed="#P" n="57"/>quod necesse est ut sit esse existentiae, ut
+<lb ed="#P" n="58"/>probatum est; ergo talis entitas non 
+consti<lb break="no" ed="#P" n="59"/>tuitur per capacitatem existentiae, sed 
+intrin<lb break="no" ed="#P" n="60"/>sece per existentiam ipsam. Quin potius, ut
+<lb ed="#P" n="61"/>supra dicebam, si res jam habet hoc esse 
+ac<lb break="no" ed="#P" n="62"/>tualis entitatis, non intelligitur quomodo sit
+<lb ed="#P" n="63"/>in potentia vel capacitate, ut ulterius 
+termi<lb break="no" ed="#P" n="64"/>netur per existentiam ; sed recte intelligitur
+<lb ed="#P" n="65"/>esse in potentia, ut terminetur per 
+inhaeren<lb break="no" ed="#P" n="66"/>tiam, vel per subsistentiam ; nam, ut recte
+<lb ed="#P" n="67"/>dixit Damascenus, lib. 5, c. 3, subsistentia
+<lb ed="#P" n="68"/>est modus eaistentie. Unde etiam obiter 
+in<lb break="no" ed="#P" n="69"/>telligitur, essentiam non vere neque proprie
+<lb ed="#P" n="70"/>comparari ad existentiam per modum 
+subjec<lb break="no" ed="#P" n="71"/>ti, vel potentiae receptivae ; quia in subjecto,
+<lb ed="#P" n="72"/>vel receptiva potentia, necesse est 
+praeintel<lb break="no" ed="#P" n="73"/>ligi actualitatem aliquam, ut possit alium 
+ac<lb break="no" ed="#P" n="74"/>tum suscipere ; ipsi vero existentiae nulla 
+ac<lb break="no" ed="#P" n="75"/>iualitas seu actualis entitas supponitur, sed
+<lb ed="#P" n="76"/>per illam intime et formaliter constituitur. Et
+<lb ed="#P" n="77"/>eadem ratione obiter colligitur, essentiam
+<lb ed="#P" n="78"/>non comparari ad existentiam per modum
+<lb ed="#P" n="79"/>principii effectivi, neque per propriam 
+actio<lb break="no" ed="#P" n="80"/>nem , neque per naturalem resultantiam;
+<lb ed="#P" n="81"/>quia in omni principio effectivo supponi debet
+<lb ed="#P" n="82"/>aliquod actuale esse, ut ab illo possit aliquid
+<lb ed="#P" n="83"/>fieri vel manere. Quod enim actualiter nihil
+<lb ed="#P" n="84"/>est, nullo modo potest aliquid efficere ; at 
+ve<lb break="no" ed="#P" n="85"/>ro essentia, ut praeintelligitur existentiee, non
+<lb ed="#P" n="86"/>est actualis entitas, sed in potentia tantum;
+<lb ed="#P" n="87"/>nihil ergo potest efficere, nisi prius peripsam
+<lb ed="#P" n="88"/>existentiam constituatur in esse actualis 
+enti<lb break="no" ed="#P" n="89"/>tatis; ergo impossibile est ut sit principrum
+<lb ed="#P" n="90"/>efficiens ipsam existentiam.
+</p>
+                  <p xml:id="szstco-l01082-d1e1487">
+                     <lb ed="#P" n="91"/>6. Humanitas Christi, ut condistincía a
+<lb ed="#P" n="92"/>Verbo , est actualis entitas.—Ex his principiis
+<lb ed="#P" n="93"/>metaphysicis demonstratur Theologica 
+con<lb break="no" ed="#P" n="94"/>clusio a nobis posita, quia humanitas Christi,
+<lb ed="#P" n="95"/>ut condistincta a Verbo , intelligitur esse
+<lb ed="#P" n="96"/>quaedam actualis entitas, quam ipsa secum 
+af<lb break="no" ed="#P" n="97"/>fert, et illam a Verbo formaliter non recipit;
+<lb ed="#P" n="98"/>ergo intelligitur esse existens per existentiam
+<lb ed="#P" n="99"/>propriam et creatam, omnino a Verbo 
+distin<lb break="no" ed="#P" n="100"/>ctam. Consequentia patet ex dictis, quia idem
+<lb ed="#P" n="101"/>est esse entitatem existentem, quod entitatem
+<lb ed="#P" n="102"/>actualem, et quia in intrinseco conceptu 
+enti<lb break="no" ed="#P" n="103"/>tatis actualis includitur existentia ; in 
+intrin<lb break="no" ed="#P" n="104"/>seco autem conceptu humanitatis, ut est 
+en<lb break="no" ed="#P" n="105"/>titas actualis, non includitur Verbum. Quod
+<lb ed="#P" n="106"/>simul cum antecedenti probatur, primum, ex
+<lb ed="#P" n="107"/>modo quo Concilia et Sancti explicant hoc
+<lb ed="#P" n="108"/>mysterium; dicunt enim factum esse per 
+in<lb break="no" ed="#P" n="109"/>effabilem compositionem unius personae ex
+<lb ed="#P" n="110"/>duabus naturis realibus et actualibus, et ut
+<pb ed="#P" n="263"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>sic inter se distinctis; unde plane significant,
+<lb ed="#P" n="2"/>sicut divinitas seu Verbum habet suam 
+actua<lb break="no" ed="#P" n="3"/>lem entitatem, in cujus intrinseco conceptu
+<lb ed="#P" n="4"/>non includitur humanitas, ita et e converso,
+<lb ed="#P" n="5"/>humanitatem habere etiam suam entitatem
+<lb ed="#P" n="6"/>actualem, in qua intrinsece non includitur
+<lb ed="#P" n="7"/>Verbum, neque aliquid increatum ; necesse
+<lb ed="#P" n="8"/>est ergo ut ibi includatur existentia creata.
+<lb ed="#P" n="9"/>Et revera per se incredibile est humanitatem,
+<lb ed="#P" n="10"/>quae, ut est actualis entitas , tota est creata,
+<lb ed="#P" n="11"/>formaliter constitui in esse talis entitatis per
+<lb ed="#P" n="12"/>divinitatem, seu Verbum increatum, quod 
+ar<lb break="no" ed="#P" n="13"/>gumentum infra amplius urgebimus.
+</p>
+                  <p xml:id="szstco-l01082-d1e1565">
+                     <lb ed="#P" n="14"/>7. Secundo hoc declaratur, nam Angelus
+<lb ed="#P" n="15"/>bonus vel malus virtute naturali intuitive 
+vi<lb break="no" ed="#P" n="16"/>det humanitatem Christi et totam actualem
+<lb ed="#P" n="17"/>entitatem ejus; ergo videt id, quo illa 
+huma<lb break="no" ed="#P" n="18"/>nitas intrinsece et formaliter constituitur in
+<lb ed="#P" n="19"/>esse talis entitatis actualis. Fieri enim non
+<lb ed="#P" n="20"/>potest, neque intelliei, ut a'iquis intuitive 
+vi<lb break="no" ed="#P" n="21"/>deat album ut album, et non videat albedinem
+<lb ed="#P" n="22"/>ipsam; sed Angelus virtute naturali non 
+po<lb break="no" ed="#P" n="23"/>terat intueri Verbum, vel divinitatem unitam
+<lb ed="#P" n="24"/>humanitati ; ergo signum evidens est, 
+huma<lb break="no" ed="#P" n="25"/>nitatem non constitui in esse actualis 
+entita<lb break="no" ed="#P" n="26"/>tis per hanc unionem, nec per rem increatam,
+<lb ed="#P" n="27"/>sed per existentiam propriam et creatam,
+<lb ed="#P" n="28"/>quam Angelus intueri potest. Quod ex codem
+<lb ed="#P" n="29"/>mysterio ita confirmatur, nam quia 
+humani<lb break="no" ed="#P" n="30"/>tas Christi in ratione subsistentis constituitur
+<lb ed="#P" n="31"/>per ipsam subsistentiam increatam , quam
+<lb ed="#P" n="32"/>daemon intueri non potest, fit ut ipse non 
+pos<lb break="no" ed="#P" n="33"/>sit illam intueri et clare videre in ratione
+<lb ed="#P" n="34"/>subsistentis ; ergo, si per existentiam divinam
+<lb ed="#P" n="35"/>constitueretur in esse actualis entitatis, non
+<lb ed="#P" n="36"/>posset illam sub hac ratione clare intueri,
+<lb ed="#P" n="37"/>non visa ipsa existentia divina, quod est 
+evi<lb break="no" ed="#P" n="38"/>denter falsum.
+</p>
+                  <p xml:id="szstco-l01082-d1e1622">
+                     <lb ed="#P" n="39"/>8. Tertio, humanitas ut actualis entitas 
+or<lb break="no" ed="#P" n="40"/>dine naturee supponitur assumptioni; ergo
+<lb ed="#P" n="41"/>non consttuitur in esse actualis entitatis per
+<lb ed="#P" n="42"/>ipsam assumptionem, et consequenter nec
+<lb ed="#P" n="43"/>per existentiam increatam, nam terminus 
+as<lb break="no" ed="#P" n="44"/>sumptionis non potest illi supponi. 
+Antece<lb break="no" ed="#P" n="45"/>dens primum est D. Thom. supra, q. 4, art.
+<lb ed="#P" n="46"/>2 et 3, ubi inquit, quod assumitur non esse
+<lb ed="#P" n="47"/>terminum assumptionis , sed praeintelligi 
+as<lb break="no" ed="#P" n="48"/>sumptioni; vult autem praeintelligi secundum
+<lb ed="#P" n="49"/>esse existentiae actualis, nam secundum esse
+<lb ed="#P" n="50"/>in potentia, etiam quod creatur, 
+praeintelligi<lb break="no" ed="#P" n="51"/>tar creationi, et terminus resultans per 
+as<lb break="no" ed="#P" n="52"/>sumpiionem praeintelligitur ut possibilis; et
+<lb ed="#P" n="53"/>ideo apertius q. 6, art. 4, ad 3, dicit, carnem
+<lb ed="#P" n="54"/>Christi non prius natura esse ens quam sit a
+<lb ed="#P" n="55"/>Verbo effecia, prius autem natura esse ens
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>quam sit Verbo personaliter unita. Ratione
+<lb ed="#P" n="57"/>vero probatur primo , quia quod assumitur,
+<lb ed="#P" n="58"/>oportet ut sit aliquod ens in actu, quia 
+Ver<lb break="no" ed="#P" n="59"/>bum non assumit essentiam humanitatis ,
+<lb ed="#P" n="60"/>prout intelligitur esse in potentia objectiva,
+<lb ed="#P" n="61"/>sed prout intelligitur esse in actu. Secundo,
+<lb ed="#P" n="62"/>quia esse, ordine naturae, prius est quam 
+uni<lb break="no" ed="#P" n="63"/>ri, quia, quod assumitur in hac unione, est
+<lb ed="#P" n="64"/>subjectum unionis, et ideo supponitur illi, ut
+<lb ed="#P" n="65"/>actuale ens.
+</p>
+                  <p xml:id="szstco-l01082-d1e1686">
+                     <lb ed="#P" n="66"/>9. Objectio.— Responsio.— Dices : interdum
+<lb ed="#P" n="67"/>aliquid non prius natura fit quam uniatur,
+<lb ed="#P" n="68"/>quia, si fit in alio ut accidens, simul fit et
+<lb ed="#P" n="69"/>unitur, quia in ipso subjecto fit, unde 
+acci<lb break="no" ed="#P" n="70"/>dens non prius natura est quam insit; idem
+<lb ed="#P" n="71"/>ergo dici poterit de humanitate Christi, 
+scili<lb break="no" ed="#P" n="72"/>cet. fieri in ipso supposito Verbi, et ideo non
+<lb ed="#P" n="73"/>prius natura existere quam uniri. 
+Responde<lb break="no" ed="#P" n="74"/>tur non esse simile exemplum quod affertur,
+<lb ed="#P" n="75"/>nam quando forma fit in subjecto per 
+muta<lb break="no" ed="#P" n="76"/>tionem ipsius subjecti, et per actionem in ipso
+<lb ed="#P" n="77"/>susceptam, et cum concursu materiali ipsius
+<lb ed="#P" n="78"/>subjecti ex quo educitur forma, tunc recte
+<lb ed="#P" n="79"/>intelligitur, illamet actione et concursu 
+for<lb break="no" ed="#P" n="80"/>mam fieri et uniri subjecto. At vero, cum in
+<lb ed="#P" n="81"/>praesenti mysterio actio unitiva et mutatio
+<lb ed="#P" n="82"/>non recipiatur in supposito Verbi tanquam in
+<lb ed="#P" n="83"/>subjecto, sed in ipsa humanitate, necesse est
+<lb ed="#P" n="84"/>ut humanitas ipsa supponatur unioni , sicut
+<lb ed="#P" n="85"/>subjectum ejus; non potest autem supponi ut
+<lb ed="#P" n="86"/>subjectum, nisi supponatur in ratione 
+actua<lb break="no" ed="#P" n="87"/>lis entis jam producti. Quod ita confirmatur,
+<lb ed="#P" n="88"/>nam modus rei, praesertim extraneus, 
+suppo<lb break="no" ed="#P" n="89"/>nit ordine naturae rem cujus est modus; unio
+<lb ed="#P" n="90"/>autem vel assumptio est modus ipsius 
+huma<lb break="no" ed="#P" n="91"/>nitatis extra naturam ejus; ergo ordine 
+natu<lb break="no" ed="#P" n="92"/>rae suppontt illam in ratione entis actualis, et
+<lb ed="#P" n="93"/>consequenter non habet humanitas, per hanc
+<lb ed="#P" n="94"/>unionem , ipsam rationem actualis entis, 
+at<lb break="no" ed="#P" n="95"/>que adeo neque existentiam ipsam.
+</p>
+                  <p xml:id="szstco-l01082-d1e1754">
+                     <lb ed="#P" n="96"/>10. Unde arguitur quarto, nam creatio 
+ani<lb break="no" ed="#P" n="97"/>mae Christi, et unio illius ad Verbum, sunt 
+ac<lb break="no" ed="#P" n="98"/>iiones distinctae, quarum prima secundae 
+sup<lb break="no" ed="#P" n="99"/>ponitur, sicut creatio ejusdem animae 
+distinc<lb break="no" ed="#P" n="100"/>ta est ab unione ad corpus, et illi supponitur;
+<lb ed="#P" n="101"/>sed per creationem recipit anima aliquod 
+es<lb break="no" ed="#P" n="102"/>se; ergo existentiam creatam. Major supra
+<lb ed="#P" n="103"/>probata est, disp. 1, sect. 9, tum rationibus,
+<lb ed="#P" n="104"/>tum auctoritate D. Thomae et aliorum 
+Theo<lb break="no" ed="#P" n="105"/>logorum. Nunc breviter declaratur, tum quia
+<lb ed="#P" n="106"/>creatio animae est productio ex nihilo, unio
+<lb ed="#P" n="107"/>vero est mutatio vel actio ex praesupposito
+<lb ed="#P" n="108"/>subjecto ; tum etiam quia creatio animae
+<lb ed="#P" n="109"/>Christi est actio naturalis ejusdem ordinis et
+<lb ed="#P" n="110"/>rationis cum creatione alterius animae ; at
+<pb ed="#P" n="264"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>vero unitio est actio supernaturalis distinctae
+<lb ed="#P" n="2"/>rationis et ordinis. Tum etiam quia, ut supra
+<lb ed="#P" n="3"/>dicebam, non potest intelligi Verbum 
+termi<lb break="no" ed="#P" n="4"/>nare animam, ut erat ab aeterno in potentia,
+<lb ed="#P" n="5"/>sed ut est aliquid jam factum ; ergo alia est
+<lb ed="#P" n="6"/>actio per quam anima fit, et alia per quam
+<lb ed="#P" n="7"/>unitur, ut terminetur a Verbo ; et idem 
+pro<lb break="no" ed="#P" n="8"/>portionaliter est de tota humanitate. Prima
+<lb ed="#P" n="9"/>vero et secunda consequentia probantur, quia
+<lb ed="#P" n="10"/>per illam creationem fit aliquod esse in ipsa
+<lb ed="#P" n="11"/>anima; et non fit esse essentiae, ut 
+condistin<lb break="no" ed="#P" n="12"/>guitur ab esse existentiae, quia ut sic non est
+<lb ed="#P" n="13"/>esse novum, sed aeternum, quia revera 
+tan<lb break="no" ed="#P" n="14"/>tum est esse in potentia ; est ergo esse 
+exis<lb break="no" ed="#P" n="15"/>tentia creatum , cum per creationem fiat ;
+<lb ed="#P" n="16"/>quod manet in ipsa anima Verbo unita ; non
+<lb ed="#P" n="17"/>enim potest perdere per assumptionem illud
+<lb ed="#P" n="18"/>esse, quod per creationem habuit ; alias non
+<lb ed="#P" n="19"/>possent creatio et assumptio simul esse in 
+eo<lb break="no" ed="#P" n="20"/>dem instanti.
+</p>
+                  <p xml:id="szstco-l01082-d1e1837">
+                     <lb ed="#P" n="21"/>11. Ad hanc et praecedentem rationem, 
+re<lb break="no" ed="#P" n="22"/>spondet quidam modernus auctor, verum
+<lb ed="#P" n="23"/>quidem esse, creationem et assumptionem
+<lb ed="#P" n="24"/>animae et humanitatis esse actiones seu 
+mu<lb break="no" ed="#P" n="25"/>tationes diversas, et creationem in via seu in
+<lb ed="#P" n="26"/>fiéri praesuppositam fuisse ordine naturae 
+as<lb break="no" ed="#P" n="27"/>sumptioni ; nihilominus tamen in termino
+<lb ed="#P" n="28"/>seu in facto esse, assumptionem fuisse 
+prio<lb break="no" ed="#P" n="29"/>rem productione, ita ut licet haec propositio
+<lb ed="#P" n="30"/>vera sit, ZTumanitas prius natura producitur,
+<lb ed="#P" n="31"/>quam sit assumpta, haec tamen sit falsa, 
+Zfu<lb break="no" ed="#P" n="32"/>manitas prius natura est producta, quam 
+as<lb break="no" ed="#P" n="33"/>sumpta ; sed e contrario verum sit, 
+humani<lb break="no" ed="#P" n="34"/>tatem prius natura fuisse assumptam quam
+<lb ed="#P" n="35"/>productam ; atque hinc defendit, per illam
+<lb ed="#P" n="36"/>creationem in fieri non fuisse communicatum
+<lb ed="#P" n="37"/>animae Christi aliquod esse existentiae, quia
+<lb ed="#P" n="38"/>per assumptionem fuit praeventa, ne ad suum
+<lb ed="#P" n="39"/>terminum deveniret ; nam ex vi creationis in
+<lb ed="#P" n="40"/>fieri tendebat anima Christi ad existendum,
+<lb ed="#P" n="41"/>non tamen obtinuit existentiam, quia per
+<lb ed="#P" n="42"/>unionem impedita est, seu praeventa.
+</p>
+                  <p xml:id="szstco-l01082-d1e1887">
+                     <lb ed="#P" n="43"/>12. Verumtamen haec responsio et doctrina
+<lb ed="#P" n="44"/>tot includit falsa et inintelligibilia, ut ad 
+con<lb break="no" ed="#P" n="45"/>firmandam doctrinam nostram sufficiat. Nam
+<lb ed="#P" n="46"/>imprimis manifestam involvit repugnantiam,
+<lb ed="#P" n="47"/>quod aliquid intelligatur prius assumptum,
+<lb ed="#P" n="48"/>quam productum, vel creatum ; quamvis enim
+<lb ed="#P" n="49"/>defendi possit, aliquid non prius produci
+<lb ed="#P" n="50"/>quam uniri, tamen, quod uniatur priusquam
+<lb ed="#P" n="51"/>producatur, aperta est repugnantia, cum esse
+<lb ed="#P" n="52"/>unitum essentialiter supponat vel includat
+<lb ed="#P" n="53"/>esse, et consequenter unio in rerum natura
+<lb ed="#P" n="54"/>existens supponat vel includat productionem
+<lb ed="#P" n="55"/>vel existentiam unibilium cum proportione
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>debita, id est, si unio sit in fieri, supponat vel
+<lb ed="#P" n="57"/>includat productionem in fieri; si vero in
+<lb ed="#P" n="58"/>facto esse, similiter. Et declaratur in 
+praesen<lb break="no" ed="#P" n="59"/>ti, nam haec unio vel supponit existentiam,
+<lb ed="#P" n="60"/>et est ad subsistendum ; et sic necessario
+<lb ed="#P" n="61"/>supponit rem productam quoad existentiam,
+<lb ed="#P" n="62"/>ut nos dicimus ; vel est ad existendum simul
+<lb ed="#P" n="63"/>et subsistendum, ut alii aiunt ; et sic necesse
+<lb ed="#P" n="64"/>est ut in quocumque signo intelligitur 
+huma<lb break="no" ed="#P" n="65"/>nitas assumpta et unita in facto esse , 
+intelli<lb break="no" ed="#P" n="66"/>gatur etiam existens , et consequenter 
+pro<lb break="no" ed="#P" n="67"/>ducta ; non ergo potest esse prius natura
+<lb ed="#P" n="68"/>assumpta, quam producta in facto esse. Quod
+<lb ed="#P" n="69"/>vero neque in praesenti materia illa duo sint
+<lb ed="#P" n="70"/>omnino simul, late probatum est, cit. dis. $,
+<lb ed="#P" n="71"/>seet. 1.
+</p>
+                  <p xml:id="szstco-l01082-d1e1955">
+                     <lb ed="#P" n="72"/>13. Deinde ex his, quae in illa responsione
+<lb ed="#P" n="73"/>conceduntur, demonstratur aperte; nam cum
+<lb ed="#P" n="74"/>dicitur creatio in fieri esse prius natura quam
+<lb ed="#P" n="75"/>assumptio, interrogo an in re ipsa talis 
+crea<lb break="no" ed="#P" n="76"/>tio existat, ut est fieri passivum humanitatis,
+<lb ed="#P" n="77"/>an non. Hoc posterius consequenter dici non
+<lb ed="#P" n="78"/>potest, quia alioqui non intervenient ibi duae
+<lb ed="#P" n="79"/>mutationes, ut conceditur, si utraque in re
+<lb ed="#P" n="80"/>ipsa non existit. Item , quomodo est prior
+<lb ed="#P" n="81"/>creatio in fieri, si secundum illud fieri in 
+re<lb break="no" ed="#P" n="82"/>rum natura non est? Admittenda ergo est
+<lb ed="#P" n="83"/>juxta illam responsionem vera et realis 
+crea<lb break="no" ed="#P" n="84"/>tio in fieri in re ipsa existens. Hoc autem 
+po<lb break="no" ed="#P" n="85"/>sito, impossibile est talem creationem seu
+<lb ed="#P" n="86"/>quasi mutationem impediri, ne in re ipsa
+<lb ed="#P" n="87"/>suum habeat terminum, quod in universum in
+<lb ed="#P" n="88"/>omni mutatione vel actione, seu in omni fieri,
+<lb ed="#P" n="89"/>verum est, quia actio seu fieri dicit 
+essentia<lb break="no" ed="#P" n="90"/>lem habitudinem ad terminum, non 
+aptitudi<lb break="no" ed="#P" n="91"/>nalem, ut sic dicam, sed actualem, ut est,
+<lb ed="#P" n="92"/>quatenus actu fit ; ergo implicat 
+contradictio<lb break="no" ed="#P" n="93"/>nem, quod ipsum fieri in rerum natura 
+pona<lb break="no" ed="#P" n="94"/>tur, et quod impediatur terminus juxta 
+gra<lb break="no" ed="#P" n="95"/>dum et latitudinem talis fieri ; unde , si fieri
+<lb ed="#P" n="96"/>est momentaneum et simul totum, necessario
+<lb ed="#P" n="97"/>habet integrum terminum. Et declaratur in
+<lb ed="#P" n="98"/>praesenti, nam, si ordine naturae antecessit
+<lb ed="#P" n="99"/>creatio animae in fieri, quidnam factum est,
+<lb ed="#P" n="100"/>aut quidnam consecuta est illa anima per
+<lb ed="#P" n="101"/>tale fieri ? Respondent, nihil in re esse 
+con<lb break="no" ed="#P" n="102"/>secutam , nisi quod tendebat ad 
+existen<lb break="no" ed="#P" n="103"/>dum , nisi impediretur. Sed quidnam, 
+quae<lb break="no" ed="#P" n="104"/>so, est tendere ad existendum? Aut quid 
+es<lb break="no" ed="#P" n="105"/>se potest talis tendentia , nisi ipsa 
+existen<lb break="no" ed="#P" n="106"/>tia, prout in fieri? tendere enim ad 
+calo<lb break="no" ed="#P" n="107"/>rem nihil aliud est quam habere calorem in
+<lb ed="#P" n="108"/>fieri ; et idem est in omnibus aliis 
+tenden<lb break="no" ed="#P" n="109"/>tiis ; sicut ergo impossibile est esse actualem
+<lb ed="#P" n="110"/>calefactionem, seu tendentiam ad calorem,
+<pb ed="#P" n="265"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>quin resultet aliquis calor, ita impossibile est
+<lb ed="#P" n="2"/>intellisere tendentiam ad existendum per 
+ve<lb break="no" ed="#P" n="3"/>ram creationem in fieri, quin per tale fieri
+<lb ed="#P" n="4"/>aliqua existentia facta intelligatur ; si ergo
+<lb ed="#P" n="5"/>creatio infieri ordine naturae antecedit, et illa
+<lb ed="#P" n="6"/>non potuit impediri per assumptionem a suo
+<lb ed="#P" n="7"/>intrinseco termino, necesse est ut secundum
+<lb ed="#P" n="8"/>eumdem naturae ordinem in facto esse 
+ante<lb break="no" ed="#P" n="9"/>cesserit. Quod si quis tandem respondeat, 
+ve<lb break="no" ed="#P" n="10"/>rum esse creationem illam in fieri non 
+impe<lb break="no" ed="#P" n="11"/>diri a suo intrinseco termino , hunc autem
+<lb ed="#P" n="12"/>terminum non esse rem secundum esse 
+exis<lb break="no" ed="#P" n="13"/>tentiae, sed secundum esse essentiae, hoc 
+im<lb break="no" ed="#P" n="14"/>primis nihil confert ad praedictam 
+responsio<lb break="no" ed="#P" n="15"/>nem defendendam ; concedendum enim 
+con<lb break="no" ed="#P" n="16"/>sequenter est, animam Christi non solum
+<lb ed="#P" n="17"/>prius natura creari quam assumti, sed etiam
+<lb ed="#P" n="18"/>prius patura esse creatam quam assumptam,
+<lb ed="#P" n="19"/>quia illa creatio non fuit impedita quoad
+<lb ed="#P" n="20"/>suum intrinsecum terminum; et quia anima
+<lb ed="#P" n="21"/>secundum illud esse essentiae, quod dicitur
+<lb ed="#P" n="22"/>habere per creationem, supponitur assump -
+<lb ed="#P" n="23"/>tioni. Deinde satis ostensum est in 
+superiori<lb break="no" ed="#P" n="24"/>bus, illud esse, cum sit novum et temporale,
+<lb ed="#P" n="25"/>necessario esse debere esse existentiae.
+</p>
+                  <p xml:id="szstco-l01082-d1e2101">
+                     <lb ed="#P" n="26"/>14. Quinto, eadem numero entitas actualis
+<lb ed="#P" n="27"/>humanitatis, quae nunc est unita Verbo, 
+pos<lb break="no" ed="#P" n="28"/>set in rerum natura conservari separata a
+<lb ed="#P" n="29"/>Verbo ; ergo in utroque statu constitueretur
+<lb ed="#P" n="30"/>in esse actualis entis per eumdem 
+nume<lb break="no" ed="#P" n="31"/>ro actum, atque adeo per eamdem 
+nume<lb break="no" ed="#P" n="32"/>ro existentiam ; sed separata constituitur in
+<lb ed="#P" n="33"/>esse entis per existentiam creatam, ut per se
+<lb ed="#P" n="34"/>notum est; ergo et unita. Antecedens 
+evi<lb break="no" ed="#P" n="35"/>dens est, ex iis quae supra diximus de hac
+<lb ed="#P" n="36"/>unione, unde a nemine in dubium revocatur.
+<lb ed="#P" n="37"/>Prima vero consequentia probatur, quia 
+im<lb break="no" ed="#P" n="38"/>possibile est effectum formalem , seu rem
+<lb ed="#P" n="39"/>constitutam per aliquem intrinsecum actum
+<lb ed="#P" n="40"/>seu formam, esse eamdem numero, quin 
+ac<lb break="no" ed="#P" n="41"/>tus seu forma qua constituitur, eadem 
+nu<lb break="no" ed="#P" n="42"/>mero sit; ut in hoc eodem mysterio, separata
+<lb ed="#P" n="43"/>humanitate , non maneret eadem numeroc
+<lb ed="#P" n="44"/>persona, quia non constitueretur in esse 
+per<lb break="no" ed="#P" n="45"/>sonae per eamdem numero personalitatem
+<lb ed="#P" n="46"/>increatam. Si ergo humanitas unita 
+consti<lb break="no" ed="#P" n="47"/>tueretur in esse entis actualis per ipsam 
+exis<lb break="no" ed="#P" n="48"/>tentiam increatam, dissoluta unione non 
+pos<lb break="no" ed="#P" n="49"/>set conservari eadem numero entitas 
+actua<lb break="no" ed="#P" n="50"/>lis; unde etiam fit, dissoluta unione, 
+humani<lb break="no" ed="#P" n="51"/>tatem corrumpi, quia amitteret suum esse
+<lb ed="#P" n="52"/>existentie, et hoc est corrumpi ; et eadem
+<lb ed="#P" n="53"/>ratione, si maneret sub alia existentia, 
+pro<lb break="no" ed="#P" n="54"/>duceretur de novo, quia acquireret novum
+<lb ed="#P" n="55"/>esse existentiae, quod est proprius terminus
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>productionis, ut ostensum est ; esset ergo 
+en<lb break="no" ed="#P" n="57"/>titas numero distincta , vel maneret eadem
+<lb ed="#P" n="58"/>numero entitas in eodem instanti producta et
+<lb ed="#P" n="59"/>corrupta, quod inintelligibile est.
+</p>
+                  <p xml:id="szstco-l01082-d1e2180">
+                     <lb ed="#P" n="60"/>15. Sexto, in Christo Domino sunt duae 
+na<lb break="no" ed="#P" n="61"/>turae habentes distinctas entitates actuales,
+<lb ed="#P" n="62"/>creatam et increatam ; ergo, constituuntur in
+<lb ed="#P" n="63"/>suis entitatibus per existentias distinctas ,
+<lb ed="#P" n="64"/>creatam et increatam ; patet consequentia,
+<lb ed="#P" n="65"/>tum ex ratione facta, quod non possunt 
+effec<lb break="no" ed="#P" n="66"/>tus, seu res constitutae per aliquem actum, 
+es<lb break="no" ed="#P" n="67"/>se distinctae, ut constituuntur per illum, et
+<lb ed="#P" n="68"/>tamen actus, quo constituuntur, esse omnino
+<lb ed="#P" n="69"/>iidem; tum etiam quia, si existentia est qua
+<lb ed="#P" n="70"/>formaliter constituitur actualis entitas, 
+intel<lb break="no" ed="#P" n="71"/>ligi non potest per existentiam increatam
+<lb ed="#P" n="72"/>constitui entitatem aliquam in esse entitatis
+<lb ed="#P" n="73"/>creatae ; sicut, quia personalitas est formale
+<lb ed="#P" n="74"/>constitutivum personae, intelligi non potest
+<lb ed="#P" n="75"/>per increatam personalitatem constitui 
+per<lb break="no" ed="#P" n="76"/>sonam creatam ; formalis enim effectus, vel
+<lb ed="#P" n="77"/>quasi effectus, debet esse proportionatus 
+ac<lb break="no" ed="#P" n="78"/>tui intrinseco , seu formae per quam 
+consti<lb break="no" ed="#P" n="79"/>tuitur. Scio, multa ex his argumentis posse
+<lb ed="#P" n="80"/>juxta contrariam sententiam nonnullis 
+exem<lb break="no" ed="#P" n="81"/>plis metaphysicis enervari, ut , verbi gratia,
+<lb ed="#P" n="82"/>de materia, quae juxta multorum opinionem
+<lb ed="#P" n="83"/>nullam habet propriam existentiam, et sub
+<lb ed="#P" n="84"/>diversis formis per diversas existentias eedem
+<lb ed="#P" n="85"/>numero existit. Sed haec et similia non solum
+<lb ed="#P" n="86"/>non impediunt rationes factas, verum eisdem
+<lb ed="#P" n="87"/>aut similibus convincuntur illa exempla esse
+<lb ed="#P" n="88"/>falsa.
+</p>
+                  <p xml:id="szstco-l01082-d1e2245">
+                     <lb ed="#P" n="89"/>16. Ultimo tandem arguitur ex propriis
+<lb ed="#P" n="90"/>principiis theologicis, quia, si humanitas
+<lb ed="#P" n="91"/>Christi existit per increatam existentiam, 
+se<lb break="no" ed="#P" n="92"/>quitur unionem incarnationis factam esse in
+<lb ed="#P" n="93"/>aliquo essentiali, quod est omnino falsum, ut
+<lb ed="#P" n="94"/>supra, contra Durand.. visum est ex 
+senten<lb break="no" ed="#P" n="95"/>tia etiam D. Thomae et totius scholae ejus. 
+Se<lb break="no" ed="#P" n="96"/>queia patet , quia esse existentiae in Deo est
+<lb ed="#P" n="97"/>esse absolutum et essentiale, ut supra visum
+<lb ed="#P" n="98"/>est, et hic ad 3 docet S. Tbom. Ex quo 
+ulte<lb break="no" ed="#P" n="99"/>rius sequitur, harc unionem factam esse in
+<lb ed="#P" n="100"/>natura, quia compositio in esse et essentia
+<lb ed="#P" n="101"/>est compositio unius naturae existentis; vel
+<lb ed="#P" n="102"/>certe sequitur hic esse duas uniones, saltem
+<lb ed="#P" n="103"/>ratione distinctas , allPeram essentiae 
+humani<lb break="no" ed="#P" n="104"/>tatis ad existentiam Dei, alteram humanitatis
+<lb ed="#P" n="105"/>existentis ad suppositum, et illam terminari
+<lb ed="#P" n="106"/>ad absolutum, hanc vero ad relativum, atque
+<lb ed="#P" n="107"/>adeo illam per hanc deternitinari ad unam
+<lb ed="#P" n="108"/>tantum personam, quae tamen omnia seu 
+si<lb break="no" ed="#P" n="109"/>milia graviter in Durando reprehenduntur.
+<lb ed="#P" n="110"/>Ad hanc vero rationem responderi potest,
+<pb ed="#P" n="266"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>primo, existentiam naturae creatae, nihil aliud
+<lb ed="#P" n="2"/>esse quam personalitatem ejus, et ideo unica
+<lb ed="#P" n="3"/>assumptione et unione assumptam esse 
+hu<lb break="no" ed="#P" n="4"/>manitatem ad existeatiam et personalitatem
+<lb ed="#P" n="5"/>alienam. Sed haec responsio imprimis 
+funda<lb break="no" ed="#P" n="6"/>tur in opinione Capreoli, quam pauciores 
+Tho<lb break="no" ed="#P" n="7"/>mistae sequuntur, scilicet, subsistentiam seu
+<lb ed="#P" n="8"/>personalitatem naturae creatae esse illius 
+exis<lb break="no" ed="#P" n="9"/>tentiam, quae opinio falsa est, ut in disp. 
+me<lb break="no" ed="#P" n="10"/>taph. de hacre latius tractavi, et ex dictis 
+su<lb break="no" ed="#P" n="11"/>pra, circa q. 2 D. Thom., et hic, non obscure
+<lb ed="#P" n="12"/>intelligi potest , quia, naturam substantialem
+<lb ed="#P" n="13"/>existere , nihil aliud est quam esse actu ens
+<lb ed="#P" n="14"/>extra nihil et extra causas suas; subsistere
+<lb ed="#P" n="15"/>vero aut personari pertinet ad modum per se
+<lb ed="#P" n="16"/>et complete existendi. Deinde , suppositis iis
+<lb ed="#P" n="17"/>quae supra, disp. 11, diximus, negari non 
+po<lb break="no" ed="#P" n="18"/>test quin existentia absoluta in Deo a 
+perso<lb break="no" ed="#P" n="19"/>nalitate Verbi, saliem ratione, distinguatur.
+<lb ed="#P" n="20"/>Sed responderi potest secundo, in Trinitate
+<lb ed="#P" n="21"/>dari in singulis personis existentias relativas
+<lb ed="#P" n="22"/>ratione distinctas ab absoluta , quae in 
+singu<lb break="no" ed="#P" n="23"/>lis personis non distinguuntur a propriis 
+re<lb break="no" ed="#P" n="24"/>lationibus; et ita unica unione humanitatis 
+ter<lb break="no" ed="#P" n="25"/>minata ad proprietatem Verbi assumi potuisse
+<lb ed="#P" n="26"/>humanitatem, tam ad existendum quam ad
+<lb ed="#P" n="27"/>subsistendum quia illa proprietas et 
+subsis<lb break="no" ed="#P" n="28"/>tentia est. et existentia relativa. Sed 
+quan<lb break="no" ed="#P" n="29"/>quam haec videri possit apparens fuga vel
+<lb ed="#P" n="30"/>evasio, tamen non sibi constat, neque 
+conse<lb break="no" ed="#P" n="31"/>quenter loquitur; nam ex eodem fundamento,
+<lb ed="#P" n="32"/>ex quo cogimur ponere in Trinitate 
+existen<lb break="no" ed="#P" n="33"/>tuam absolutam et relativam, cogimur ponere
+<lb ed="#P" n="34"/>in duabus Christi naturis existentiam creatam
+<lb ed="#P" n="35"/>et increatam, et ideo vel utrumque 
+affirman<lb break="no" ed="#P" n="36"/>dum esset, vel utrumque negandum. Quod
+<lb ed="#P" n="37"/>ita declaratur , quia, si in Deo est existentia
+<lb ed="#P" n="38"/>absoluta et relativa, ideo est quia existentia
+<lb ed="#P" n="39"/>nihil aliud intrinsece est quam ipsa actualis
+<lb ed="#P" n="40"/>entitas rei, et ideo quot sunt modi entitatum,
+<lb ed="#P" n="41"/>tot necesse est esse modos existentiarum; et
+<lb ed="#P" n="42"/>hinc concluditur , quia in Deo est entitas 
+ab<lb break="no" ed="#P" n="43"/>soluta et relativa ratione distinctae, esse etiam
+<lb ed="#P" n="44"/>proportionalem existentiam; ergo, pari 
+ra<lb break="no" ed="#P" n="45"/>tione, quia in Christo sunt duae naturae, quae
+<lb ed="#P" n="46"/>sunt duae entitates actuales, altera creata, 
+al<lb break="no" ed="#P" n="47"/>tera increata, proportionaliter erunt 
+existen<lb break="no" ed="#P" n="48"/>tia creata et increata. Vel e contrario 
+confir<lb break="no" ed="#P" n="49"/>matur, quia si in persona creata existentia
+<lb ed="#P" n="50"/>est unicus actus indivisibilis, per quam et
+<lb ed="#P" n="51"/>persona et natura existit, multo magis in
+<lb ed="#P" n="52"/>personis divinis ipsum esse absolutum naturae
+<lb ed="#P" n="53"/>erit etiam existentia omnium relationum, et
+<lb ed="#P" n="54"/>existentia erit tantum absoluta, et in ea facta
+<lb ed="#P" n="55"/>erit unio, et procedet ratio facta. Si autem in
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>Deo , sicut persona et natura ratione 
+distin<lb break="no" ed="#P" n="57"/>guuntur , ita etiam esse naturae et esse 
+per<lb break="no" ed="#P" n="58"/>sonae, ergo multo magis in natura et persona
+<lb ed="#P" n="59"/>creata distinguetur esse naturae ab esse 
+per<lb break="no" ed="#P" n="60"/>sonae , et in Christo homine distinguetur esse
+<lb ed="#P" n="61"/>naturae creatae, quod creatum est, ab esse
+<lb ed="#P" n="62"/>personae increato. Et confirmatur tandem,
+<lb ed="#P" n="63"/>quia humanitas Christi est res absoluta; ergo
+<lb ed="#P" n="64"/>constituitur ut sic per aliquod esse 
+absolu<lb break="no" ed="#P" n="65"/>tum, et non per relativum; sicut e contrario,
+<lb ed="#P" n="66"/>persona Christi non est absoluta, sed relativa,
+<lb ed="#P" n="67"/>quia in ratione personae non constituitur per
+<lb ed="#P" n="68"/>terminum absolutum, sed per relativum.
+</p>
+                  <p xml:id="szstco-l01082-d1e2449">
+                     <lb ed="#P" n="69"/>17. Qualis sit existentia creata anime 
+Chri<lb break="no" ed="#P" n="70"/>sti. — Dico secundo : creata existentia 
+huma<lb break="no" ed="#P" n="71"/>nitatis Christi non est omnino perfecta et
+<lb ed="#P" n="72"/>completa in genere substantiae, et ideo habet
+<lb ed="#P" n="73"/>potius rationem inexistentiae, quam 
+existen<lb break="no" ed="#P" n="74"/>tiae simpliciter. Haec conclusio colligitur ex
+<lb ed="#P" n="75"/>auctoribus supra citatis, et ipso mysterio ;
+<lb ed="#P" n="76"/>nam per hanc existentiam non habet 
+huma<lb break="no" ed="#P" n="77"/>nitas Christi ut in se existat, seu per se, et
+<lb ed="#P" n="78"/>independenter ab alio, existit enim in Verbo
+<lb ed="#P" n="79"/>a quo pendet; unde caret ultimo termino et
+<lb ed="#P" n="80"/>complemento suo, et habet modum existendi
+<lb ed="#P" n="81"/>in alio, sicut supra, disp. 9, explicatum est ;
+<lb ed="#P" n="82"/>habet ergo rationem inexistentiae.
+</p>
+                  <p xml:id="szstco-l01082-d1e2482">
+                     <lb ed="#P" n="83"/>18. Objectio.— Responsio. — Dices : hinc 
+so<lb break="no" ed="#P" n="84"/>lum colligitur deesse illi humanitati et 
+exis<lb break="no" ed="#P" n="85"/>tentiae ejus, ultiimum et connaturalem 
+termi<lb break="no" ed="#P" n="86"/>num, qui est propria subsistentia, seu 
+perso<lb break="no" ed="#P" n="87"/>nalitas, quae ex natura rei distinguitur ab
+<lb ed="#P" n="88"/>existentia natura ; non tamen inde fit, ipsam
+<lb ed="#P" n="89"/>existentiam naturae esse in se minus 
+petfec<lb break="no" ed="#P" n="90"/>tam et completam, quam in quacunque alia
+<lb ed="#P" n="91"/>humana natura. Respondetur ex principiis
+<lb ed="#P" n="92"/>positis, quidquid actu est, eo modo quo est,
+<lb ed="#P" n="93"/>habere aliquid existentiae ; unde fit ut 
+perso<lb break="no" ed="#P" n="94"/>nalitas creata, eo modo quo est aliquid 
+dis<lb break="no" ed="#P" n="95"/>tinctum a natura, ita suo modo habeat 
+pro<lb break="no" ed="#P" n="96"/>priam existentiam, qua conjuncta cum 
+exis<lb break="no" ed="#P" n="97"/>tentia naturae, ex utraque conflatur una 
+abso<lb break="no" ed="#P" n="98"/>luta et completa substantialis existentia.
+<lb ed="#P" n="99"/>Existentia igitur solius naturae, comparata
+<lb ed="#P" n="100"/>cum hac completa existentia, dicitur 
+imper<lb break="no" ed="#P" n="101"/>fecta et incompleta ; nam, sicut ipsa natura
+<lb ed="#P" n="102"/>seu humanitas, praecisa a persona, est 
+incom<lb break="no" ed="#P" n="103"/>pleta substantia, ita ejus existentia praecise
+<lb ed="#P" n="104"/>sumpta incompleta est, ct hoc modo dicimus .
+<lb ed="#P" n="105"/>existentiam humanitatis Christi esse 
+incom<lb break="no" ed="#P" n="106"/>pletam, et capacem modi inexistendi in 
+Ver<lb break="no" ed="#P" n="107"/>bo ; quia, licet nihil illi desit de existentia 
+na<lb break="no" ed="#P" n="108"/>turae, tamen hoc totum est de se 
+incomple<lb break="no" ed="#P" n="109"/>tum praecise sumptum, et carens ultimo suo
+<lb ed="#P" n="110"/>termino, ut explicatum est. Fundamentum
+<pb ed="#P" n="267"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>contraria sententiae fere ex dictis eversum
+<lb ed="#P" n="2"/>est. Ostensum est enim, existentiam non ita
+<lb ed="#P" n="3"/>distingui ab essentia, ut possit res aliqua
+<lb ed="#P" n="4"/>existere per existentiam alterius, sicut non
+<lb ed="#P" n="5"/>potest esse entitas per entitatem alterius ;
+<lb ed="#P" n="6"/>quia, sicut nihil est magis intrinsecum, et (ut
+<lb ed="#P" n="7"/>ita dicam) magis idem cum unaquaque re,
+<lb ed="#P" n="8"/>quam ipsa ejus entitas, ita nullus quasi 
+effec<lb break="no" ed="#P" n="9"/>tus formalis requirit actum magisintrinsecum
+<lb ed="#P" n="10"/>et proprium ipsius rei, quam ipsum existere;
+<lb ed="#P" n="11"/>et propterea illa compositio ex essentia creata
+<lb ed="#P" n="12"/>et existentia increata, et in universum ex 
+es<lb break="no" ed="#P" n="13"/>sentia propria, et existentia aliena, 
+impossi<lb break="no" ed="#P" n="14"/>bilis est. Sed ne videamur difficultatem 
+sub<lb break="no" ed="#P" n="15"/>terfugere, oportet in particulari dissolvere
+<lb ed="#P" n="16"/>quae in contrarium objici solent.
+</p>
+                  <p xml:id="szstco-l01082-d1e2584">
+                     <lb ed="#P" n="17"/>19. Objectio.—Abesponsio. — Objicitur enim
+<lb ed="#P" n="18"/>primo auctoritas Sophronii, VI Synod., act.
+<lb ed="#P" n="19"/>11, ubi, de Christi humanitate loquens, 
+in<lb break="no" ed="#P" n="20"/>quit : Zn ipso, id est in Verbo, et non in se,
+<lb ed="#P" n="21"/>halnuit evistentium unam cum Verbo. Secundo,
+<lb ed="#P" n="22"/>objicitur auctoritas Damasc., lib. 3, c. 22, ubi
+<lb ed="#P" n="23"/>dicit humanitatem Christi existere per 
+exis<lb break="no" ed="#P" n="24"/>tentiam Verbi. Haec duo testimonia affert 
+Me<lb break="no" ed="#P" n="25"/>dina hic, his eisdem verbis ; idcirco ita illa
+<lb ed="#P" n="26"/>proposui. Addunt etiam auctoritatem D. 
+Tho<lb break="no" ed="#P" n="27"/>mae, quam nunc omitto, quia de illius mente
+<lb ed="#P" n="28"/>latius sectione sequenti dicturus sum. 
+Adjun<lb break="no" ed="#P" n="29"/>gi vero potest testiimonium Leonis Papae,
+<lb ed="#P" n="30"/>epist. 11, dicentis humanitatem Christi ipsa
+<lb ed="#P" n="31"/>assumptione fuisse creatam ; et Fulgent., lib.
+<lb ed="#P" n="32"/>de Incarnat., cap. 3, ubi sic ait: 7psa 
+acce<lb break="no" ed="#P" n="33"/>ptatio carnis fuit conceptio cirginalis. Ad 
+So<lb break="no" ed="#P" n="34"/>phrónium respondetur primum, illam 
+par<lb break="no" ed="#P" n="35"/>ticulam ultimam, scilicet cum Verbo, additam
+<lb ed="#P" n="36"/>esse ab arguente, non enim ita habetur in
+<lb ed="#P" n="37"/>textu ; qua sublata, reliqua verba simpliciter
+<lb ed="#P" n="38"/>intellecta, ut sonant, nostram sententiam 
+po<lb break="no" ed="#P" n="39"/>tius confirmant, quia non est sermo de 
+Chri<lb break="no" ed="#P" n="40"/>sto, sed de humanitate, ut patet aperte ex
+<lb ed="#P" n="41"/>verbis antecedentibus : Simul, inquit, caro,
+<lb ed="#P" n="42"/>simul Dei Verbi caro, simul caro animata 
+va<lb break="no" ed="#P" n="43"/>trionalis, simul Dei Verbi caro animata 
+ratio<lb break="no" ed="#P" n="44"/>nals, in illo ataque, et non in semetipsa, 
+ha<lb break="no" ed="#P" n="45"/>buit eaistentium unam ; de humanitate autem
+<lb ed="#P" n="46"/>verissime dicitur habere tantum unicam 
+exis<lb break="no" ed="#P" n="47"/>tentiam, eamque non in se, sed in Verbo.
+<lb ed="#P" n="48"/>Verus tamen sensus Sophronii, ejusque 
+in<lb break="no" ed="#P" n="49"/>tentio est, docere contra haereticos, 
+humani<lb break="no" ed="#P" n="50"/>tatem, in eodem instanti temporis in quo 
+in<lb break="no" ed="#P" n="51"/>cepit esse in rerum natura, fuisse Verbo 
+uni<lb break="no" ed="#P" n="52"/>tam ; et hoc modo dicit , semper habuisse
+<lb ed="#P" n="53"/>unam existentiam invariatam , et ejusdem
+<lb ed="#P" n="54"/>modi, quia non prius per se extitit, postea in
+<lb ed="#P" n="55"/>Verbo, sed semper in Verbo. Qui sensus fa-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>cile patet ex verbis citatis, et ex omnibus
+<lb ed="#P" n="57"/>qua antecedunt ab illo loco : Incarnatur 
+er<lb break="no" ed="#P" n="58"/>go Verbum Deus, quod nostrum est, non 
+pra<lb break="no" ed="#P" n="59"/>facte carni copulatus, prefyrmative atque in
+<lb ed="#P" n="60"/>sese praesubsistenti aliquando corpori 
+conlini<lb break="no" ed="#P" n="61"/>tus vel anime praecistenti conjunctus ; sed
+<lb ed="#P" n="62"/>tunc his ad subsistendum cenientibus, quando
+<lb ed="#P" n="63"/>eis ipsum Verbum et Deus naturaliter copulatus
+<lb ed="#P" n="64"/>est, contemporalem habens unitionem atque 
+sub<lb break="no" ed="#P" n="65"/>sistentium, et non ante verissinum ipsius 
+Ver<lb break="no" ed="#P" n="66"/>bi conventum in se ipsis unquam eatiterunt, vel
+<lb ed="#P" n="67"/>cuguspiam secundum nos alterius hominis 
+pe<lb break="no" ed="#P" n="68"/>nitus eatiterunt, sed Verbi ipsius naturali 
+con<lb break="no" ed="#P" n="69"/>ventu subsistentiam habitura concurrerunt, et
+<lb ed="#P" n="70"/>nec quantum in ictu, oculi, hanc quam illam
+<lb ed="#P" n="71"/>prioren habentia , sicut Paulus Samos. 
+per<lb break="no" ed="#P" n="72"/>strepit, atque Nestorius ; simul quippe, etc.
+<lb ed="#P" n="73"/>ut supra ; et postea subjungit rationem, qua
+<lb ed="#P" n="74"/>id ipsum declarat, dicens : Cum conceptu 
+quip<lb break="no" ed="#P" n="75"/>pe Verbi hec ad subsistendum prolata sunt,
+<lb ed="#P" n="76"/>etc. Difficiliora videri possunt verba, quae
+<lb ed="#P" n="77"/>post tres fere columnas subjunxit, dicens:
+<lb ed="#P" n="78"/>Quae enim extat persona composita ez 
+incon<lb break="no" ed="#P" n="79"/>fuso constans temperamento, partituonem 
+con<lb break="no" ed="#P" n="80"/>venientuum nescit, sed esse unum, et permanere
+<lb ed="#P" n="81"/>unwn indivisum sortitur ; et infra : Est unum
+<lb ed="#P" n="82"/>et duo: unum secundum subsistentiaum atque
+<lb ed="#P" n="83"/>personam. duo vero secundum psas naturas,
+<lb ed="#P" n="84"/>atque carwn proprietates, ev quibus esse unum
+<lb ed="#P" n="85"/>sortitur natura duplex, et unum permanere
+<lb ed="#P" n="86"/>servavit. Respondetur tamen, eumdem 
+sen<lb break="no" ed="#P" n="87"/>sum per haec omnia verba intendere, scilicet,
+<lb ed="#P" n="88"/>illas naturas semper fuisse unitas, et hoc 
+mo<lb break="no" ed="#P" n="89"/>do bhabuisse semper unum esse personale,
+<lb ed="#P" n="90"/>in quo semper permanserunt indivisae et 
+in<lb break="no" ed="#P" n="91"/>dissolutae, componendo semper unam 
+perso<lb break="no" ed="#P" n="92"/>nam Christi. Possunt etiam haec verba ultima
+<lb ed="#P" n="93"/>explicari juxta doctrinam statim sectione 
+se<lb break="no" ed="#P" n="94"/>quenti tradendam, quae illis poterit 
+confir<lb break="no" ed="#P" n="95"/>mari.
+</p>
+                  <p xml:id="szstco-l01082-d1e2760">
+                     <lb ed="#P" n="96"/>20. Testimonium Damasceni falso 
+confic<lb break="no" ed="#P" n="97"/>tum est, quia nec illa verba, nec alia similia,
+<lb ed="#P" n="98"/>vel in citato capite, vel in toto 3 lib. de Fide
+<lb ed="#P" n="99"/>reperiuntur, sed in illo c. 22 dicit, carnem ab
+<lb ed="#P" n="100"/>ultimo ortu Deo Verbo unitam esse, imo potaus
+<lb ed="#P" n="101"/>in ipso eatitisse, ac personalem cum eo 
+adenti<lb break="no" ed="#P" n="102"/>tatem habuisse. Quae verba aliter vertit Faber,
+<lb ed="#P" n="103"/>dicens , Verbum fuisse unitum carni eatrema
+<lb ed="#P" n="104"/>ecistentia. Ex quo verbo aliqui nituntur 
+nos<lb break="no" ed="#P" n="105"/>tram sententiam confirmare, quia indicat 
+Ver<lb break="no" ed="#P" n="106"/>bum fuisse unitum carni existentia eatrema,
+<lb ed="#P" n="107"/>id est, imperfecta existentia. Sed melius 
+ver<lb break="no" ed="#P" n="108"/>tit Billus in citatis verbis, quorum verus
+<lb ed="#P" n="109"/>sensus est, carnem ab ultimo ortu, id est,
+<lb ed="#P" n="110"/>a sui initio et primo ortu, seu conceptione,
+<pb ed="#P" n="268"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>fuisse Verbo unitam, et in eo extitisse, ubi
+<lb ed="#P" n="2"/>non dicit per illud, sed àn illo extitisse, quia
+<lb ed="#P" n="3"/>Verbum non est ipsa existentia 
+humanita<lb break="no" ed="#P" n="4"/>tis, sed terminus existentiae ejus.
+</p>
+                  <p xml:id="szstco-l01082-d1e2809">
+                     <lb ed="#P" n="5"/>21. Ad Leonem Papam et Fulgent. 
+respon<lb break="no" ed="#P" n="6"/>detur, sensum eorum esse eumdem qui 
+So<lb break="no" ed="#P" n="7"/>phronii, scilicet, in eodem instanti fuisse 
+ani<lb break="no" ed="#P" n="8"/>mam seu humanitatem creatam et 
+assum<lb break="no" ed="#P" n="9"/>ptam. Sic enim ait Leo: Natura nostra non
+<lb ed="#P" n="10"/>sic assumpta est, ut prius creata, postea, 
+as<lb break="no" ed="#P" n="11"/>sumeretur, sed ut ipsa, id est, in ipsa 
+assump<lb break="no" ed="#P" n="12"/>tione crearetur; ubi illad prius, et posterius
+<lb ed="#P" n="13"/>ad temporis successionem manifeste 
+referun<lb break="no" ed="#P" n="14"/>tur. Fulgentius vero ita rem esposutt : Zanc
+<lb ed="#P" n="15"/>carnem tunc ez se natura Virginis concipientis
+<lb ed="#P" n="16"/>echibuit, cum in eadem Deus concipiendus 
+ad<lb break="no" ed="#P" n="17"/>venit ; non est igitur aliquod intervallum 
+eais<lb break="no" ed="#P" n="18"/>tinandum inter initium carnis, et adventum
+<lb ed="#P" n="19"/>majcstatis. Addi potest, per creationem ex
+<lb ed="#P" n="20"/>natura sua produci rem subsistentem, et ideo
+<lb ed="#P" n="21"/>quodammodo dici potest creatio non esse 
+con<lb break="no" ed="#P" n="22"/>summata, donec res ad subsistendum perducta
+<lb ed="#P" n="23"/>sit. Quia ergo productio animae vel 
+humanita<lb break="no" ed="#P" n="24"/>tis Christi non fuit terminata ad subsistentiam,
+<lb ed="#P" n="25"/>nisi ratione assumptionis, ideo quodammodo
+<lb ed="#P" n="26"/>dici potest ipsa assumptione fuisse creatam.
+</p>
+                  <p xml:id="szstco-l01082-d1e2859">
+                     <lb ed="#P" n="27"/>22. Objectio secunda. — Secundo, 
+objiciun<lb break="no" ed="#P" n="28"/>tur rationes metaphysicae. Prima, quae supra
+<lb ed="#P" n="29"/>insinuata est, quia esse existentiae in 
+creatu<lb break="no" ed="#P" n="30"/>ris distinguitur ex natura rei ab essentia; 
+er<lb break="no" ed="#P" n="31"/>go potest Deus separare essentiam ab 
+exis<lb break="no" ed="#P" n="32"/>tentia, et per propriam existentiam 
+increa<lb break="no" ed="#P" n="33"/>tam iilam supplere, sicut de subsistentia 
+di<lb break="no" ed="#P" n="34"/>cimus ; ergo ita factum est. Secunda, quia vel
+<lb ed="#P" n="35"/>existentia substantiae nibil est aliud quam 
+sub<lb break="no" ed="#P" n="36"/>sistentia ipsa, quia est existentia per se; vel
+<lb ed="#P" n="37"/>si aliquo modo distinguuntur subsistentia et
+<lb ed="#P" n="38"/>existentia substantialis, sunt ita per se 
+ordi<lb break="no" ed="#P" n="39"/>natae, ut existentia propria necessario 
+suppo<lb break="no" ed="#P" n="40"/>nat propriam subsistentiam; quia existentia
+<lb ed="#P" n="41"/>est proprius actus suppositi, nam id, quod est
+<lb ed="#P" n="42"/>et quod fit, est suppositum ; ergo neutro 
+mo<lb break="no" ed="#P" n="43"/>do poni potest in Christi humanitate 
+existen<lb break="no" ed="#P" n="44"/>tia creata. Nam si prior dicendi modus 
+asse<lb break="no" ed="#P" n="45"/>ratur, sicut in illa humanitate non potest 
+pc<lb break="no" ed="#P" n="46"/>ni secundum fidem subsistentia creata, ita
+<lb ed="#P" n="47"/>nec creata existentia substantialis, quia 
+po<lb break="no" ed="#P" n="48"/>nuntur esse omnino idem ; si autem 
+affirme<lb break="no" ed="#P" n="49"/>tur posterior modus, constat in his, quae sunt
+<lb ed="#P" n="50"/>per se subordinata, ablato priori, 
+consequen<lb break="no" ed="#P" n="51"/>ter tollii id quod posterius est, atque adeo,
+<lb ed="#P" n="52"/>ablato proprio susceptivo existentiae, quod est
+<lb ed="#P" n="53"/>suppositum, auferri existentiam. Neque enim
+<lb ed="#P" n="54"/>potest existentia creata recipi in persona 
+in<lb break="no" ed="#P" n="55"/>creata, vel esse actus ejus; alias Verbum
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>existeret per existentiam creatam, et 
+exis<lb break="no" ed="#P" n="57"/>tentia creata esset perfectio personahtatis
+<lb ed="#P" n="58"/>Verbi, quae impossibilia sunt.
+</p>
+                  <p xml:id="szstco-l01082-d1e2933">
+                     <lb ed="#P" n="59"/>23. Responsio. — Essentia ab existentia in
+<lb ed="#P" n="60"/>creaturis quomodo distinguatur. — Objectio.
+<lb ed="#P" n="61"/>— Responsio.— Ad primam rationem 
+respon<lb break="no" ed="#P" n="62"/>detur, essentiam creaturae, ut abstrahit ab
+<lb ed="#P" n="63"/>actuali existentia, solum significare rem 
+pos<lb break="no" ed="#P" n="64"/>sibilem, quae ut sic nihil actu est, neque 
+ha<lb break="no" ed="#P" n="65"/>bet entitatem actualem, sed in potentia 
+tan<lb break="no" ed="#P" n="66"/>tum objective; unde ut sic distinguitur ab 
+ac<lb break="no" ed="#P" n="67"/>tuali existentia seu entitate, sicut res in 
+po<lb break="no" ed="#P" n="68"/>tentia a re in actu; at vero essentia creaturae
+<lb ed="#P" n="69"/>ut jam facta, seu ut actualis entitas, vel 
+for<lb break="no" ed="#P" n="70"/>maliter est ipsamet actualis existentia, vel ita
+<lb ed="#P" n="71"/>illam includit, ut nulla ratione possit ab illa
+<lb ed="#P" n="72"/>praescindi vel separari. Et ideo impossibile
+<lb ed="#P" n="73"/>est ut essentia creata sua propria 
+existen<lb break="no" ed="#P" n="74"/>tia privata assumptibilis maneat, quia non
+<lb ed="#P" n="75"/>assumitur ens in potentia, sed ens in actu,
+<lb ed="#P" n="76"/>unde non est eadem ratio de subsistentia seu
+<lb ed="#P" n="77"/>personalitate ; quia personalitas creata non
+<lb ed="#P" n="78"/>constituit naturam in ratione actualis 
+entita<lb break="no" ed="#P" n="79"/>tis, sed supponit in illa entitatem, et 
+termi<lb break="no" ed="#P" n="80"/>nat illam tanquam modus illius; et ideo, 
+se<lb break="no" ed="#P" n="81"/>parata personalitate, intelligitur natura 
+ma<lb break="no" ed="#P" n="82"/>nere assumptibilis, et terminabilis 
+personali<lb break="no" ed="#P" n="83"/>tate aliena ; at vero, ablata existentia, nihil
+<lb ed="#P" n="84"/>manet in re quod assumi possit. Dices esse
+<lb ed="#P" n="85"/>verum, si res privaretur omni existentia, non
+<lb ed="#P" n="86"/>vero si ablata propria assumatur ad 
+alie<lb break="no" ed="#P" n="87"/>nam ; sic enim id, quod assumitur, erit 
+ali<lb break="no" ed="#P" n="88"/>quid in actu saltem per alienam existentiam.
+<lb ed="#P" n="89"/>Sed hoc jam rejectum est; ostensum est enim,
+<lb ed="#P" n="90"/>id, quod assumitur, debere esse aliquid in
+<lb ed="#P" n="91"/>actu, ut supponitur assumptioni; ostensum
+<lb ed="#P" n="92"/>est etiam nullam entitatem actualem posse
+<lb ed="#P" n="93"/>constitui in esse talis entitatis per existentiam
+<lb ed="#P" n="94"/>aut entitatem alienam.
+</p>
+                  <p xml:id="szstco-l01082-d1e3014">
+                     <lb ed="#P" n="95"/>24. Existentia a subsistentiua quomodo 
+dis<lb break="no" ed="#P" n="96"/>tinguatur. — Ad secundam rationem 
+respon<lb break="no" ed="#P" n="97"/>detur ad priorem partem, subsistentiam ex
+<lb ed="#P" n="98"/>natura rei distingui ab existentia substantiali
+<lb ed="#P" n="99"/>naturae creatae ; nam, licet illa existentia 
+di<lb break="no" ed="#P" n="100"/>catur esse per se, ut distinguitur contra esse
+<lb ed="#P" n="101"/>in alio per modum accidentis, quia ex 
+natu<lb break="no" ed="#P" n="102"/>ra sua est apta ut terminetur per 
+subsisten<lb break="no" ed="#P" n="103"/>tiam, tamen in suo formali conceptu non 
+in<lb break="no" ed="#P" n="104"/>cludit actualem modum per se essendi, in
+<lb ed="#P" n="105"/>quo subsistentia consistit. Et hoc sensu 
+sub<lb break="no" ed="#P" n="106"/>sistentia est modus existentiae, ut recte 
+Da<lb break="no" ed="#P" n="107"/>mascenus dixit ; sicutin accidentibus, 
+existen<lb break="no" ed="#P" n="108"/>tia accidentalis potest dici esse in alio, non
+<lb ed="#P" n="109"/>quia actualis inhaerentia sit de conceptu ejus,
+<lb ed="#P" n="110"/>sed quia natura sua apta est per illam ter-
+<pb ed="#P" n="269"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>minari; ipsa vero actualis inhaerentia 
+mo<lb break="no" ed="#P" n="2"/>dus est ab illa distinctus, et de potentia
+<lb ed="#P" n="3"/>absoluta ab illa separabilis; sic igitur ab
+<lb ed="#P" n="4"/>humanitate Christi separabilis fuit 
+subsis<lb break="no" ed="#P" n="5"/>tentia creata, servata existentia ipsius 
+huma<lb break="no" ed="#P" n="6"/>nitatis. Ad alteram vero partem respondetur,
+<lb ed="#P" n="7"/>existentiam substantialem completam et 
+in<lb break="no" ed="#P" n="8"/>tegram ex omni parte in creaturis tantum 
+re<lb break="no" ed="#P" n="9"/>periri in supposito scu persona, et ideo disi
+<lb ed="#P" n="10"/>supra, existentiam creatam humanitatis 
+Chris<lb break="no" ed="#P" n="11"/>ti non esse hoc modo completam ; at vero,
+<lb ed="#P" n="12"/>generatim et absolute loquendo, existentia
+<lb ed="#P" n="13"/>non est actus suppositi, sed est actus 
+cujus<lb break="no" ed="#P" n="14"/>cunque entis, seu potius est ipsa actualis
+<lb ed="#P" n="15"/>entitas cujuscunque rei. Et hoc modo 
+exis<lb break="no" ed="#P" n="16"/>tentia naturae est actus vel entitas 
+ipsius<lb break="no" ed="#P" n="17"/>met naturae, quae in omni natura creata
+<lb ed="#P" n="18"/>prior natura est quam subsistentia, unde 
+po<lb break="no" ed="#P" n="19"/>tius natura per suam existentiam constituitur
+<lb ed="#P" n="20"/>capax personalitatis quam e contrario, 
+quam<lb break="no" ed="#P" n="21"/>vis totum suppositum compleatur in suo esse
+<lb ed="#P" n="22"/>per personalitatem, et ideo illud dicatur 
+sim<lb break="no" ed="#P" n="23"/>pliciter esse et fieri. Quocirca, ablata 
+perso<lb break="no" ed="#P" n="24"/>nalitate creata ab humanitate Christi, licet
+<lb ed="#P" n="25"/>non permanserit esse completum personale
+<lb ed="#P" n="26"/>et creatum, potuit tamen manere esse ipsius
+<lb ed="#P" n="27"/>naturae, quod non est posterius, sed prius
+<lb ed="#P" n="28"/>quam personalitas. Et ideo non seguitur 
+Ver<lb break="no" ed="#P" n="29"/>bum simpliciter existereper 
+existentiamcrea<lb break="no" ed="#P" n="30"/>tam, quia, ut supra. q. 16, art. 9, dicebamus,
+<lb ed="#P" n="31"/>existere absolute dictum et secundum 
+adja<lb break="no" ed="#P" n="32"/>cens, significat esse simpliciter ejus cui 
+tri<lb break="no" ed="#P" n="33"/>buitur ; at vero esse simpliciter Verbi non est
+<lb ed="#P" n="34"/>creatum ; vere autem dici potest, quod 
+Ver<lb break="no" ed="#P" n="35"/>bum existit homo per existentiam creatam et
+<lb ed="#P" n="36"/>humanam, non quia illa existentia sit actus
+<lb ed="#P" n="37"/>suppositi secundum se, sed ut est homo, seu
+<lb ed="#P" n="38"/>quia est actus humanitatis in eo existentis.
+<lb ed="#P" n="39"/>25. Christus per generationem haluit a 
+ma<lb break="no" ed="#P" n="40"/>Ire existentiam humanitatis. — Tertio , 
+obji<lb break="no" ed="#P" n="41"/>ciunt rationes Theologicas. Prima et 
+praeci<lb break="no" ed="#P" n="42"/>pua est, quia sequitur, unionem humanitatis
+<lb ed="#P" n="43"/>ad Verbum esse accidentalem ; non enim 
+po<lb break="no" ed="#P" n="44"/>test intelligi inter aliqua duo substantialis
+<lb ed="#P" n="45"/>unio, nisi in quantum unum trahitur ad esse
+<lb ed="#P" n="46"/>alterius ; unde si anima et corpus haberent
+<lb ed="#P" n="47"/>proprias existentias, non posset intelligi inter
+<lb ed="#P" n="48"/>ea substantialis unio, praesertim quia 
+existen<lb break="no" ed="#P" n="49"/>tia humanitatis est completa, et existentia
+<lb ed="#P" n="50"/>Verbi similiter ; ergo non potest una alteri
+<lb ed="#P" n="51"/>advenire nisi accidentaliter. Secunda, quia
+<lb ed="#P" n="52"/>alias sequitur humanitatem Christi habere
+<lb ed="#P" n="53"/>existentiam a matre per generationem ; 
+ter<lb break="no" ed="#P" n="54"/>minus ergo illius generationis erit hoc esse
+<lb ed="#P" n="55"/>creatum humanitatis; erit ergo Beata Virgo
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>mater humanitatis, et non Dei. Tertio, addi
+<lb ed="#P" n="57"/>potest, quia id , quod est simpliciter unum,
+<lb ed="#P" n="58"/>tantum habet unum esse. Sed de hoc dicemus
+<lb ed="#P" n="59"/>sectione sequenti. Ad primam ergo rationem
+<lb ed="#P" n="60"/>respondetur negaudo sequelam , quia unie
+<lb ed="#P" n="61"/>naturae cum supposito substantialis est, et
+<lb ed="#P" n="62"/>hujusmodi est haec unio, ut Concilia 
+tra<lb break="no" ed="#P" n="63"/>dunt, quae nunquam dixerunt hanc unionem
+<lb ed="#P" n="64"/>esse essentiae cum existentia, sed naturae 
+rea<lb break="no" ed="#P" n="65"/>lis cum supposito increato ; cui unioni 
+tan<lb break="no" ed="#P" n="66"/>tum abest, ut repugnet existentia creata ipsius
+<lb ed="#P" n="67"/>naturae, ut sine iila potius nec intelligi 
+pos<lb break="no" ed="#P" n="68"/>sit ; quia sine illa non esset natura realis in
+<lb ed="#P" n="69"/>actu, et consequenter neque assumptibilis.
+<lb ed="#P" n="70"/>Neque est verum unionem substantialem 
+dua<lb break="no" ed="#P" n="71"/>rum rerum in hoc consistere, quod una 
+tra<lb break="no" ed="#P" n="72"/>hat aliam ad suum esse existentiae; nam etiam
+<lb ed="#P" n="73"/>anima et corpus revera habent partiales 
+exis<lb break="no" ed="#P" n="74"/>tentias suas, incompletas quidem in suo 
+ge<lb break="no" ed="#P" n="75"/>nere, substantialiter tamen uniuntur per 
+mo<lb break="no" ed="#P" n="76"/>dum actus et potentiae ad constituendam
+<lb ed="#P" n="77"/>unam completam naturam ejusdem generis
+<lb ed="#P" n="78"/>substantiae ; tota vero humanitas licet in 
+ra<lb break="no" ed="#P" n="79"/>tione naturae completa sit, tamen in ratione
+<lb ed="#P" n="80"/>substentiae adhuc est incompleta et caret 
+ul<lb break="no" ed="#P" n="81"/>timo termino, etideo substantialiter uniri 
+po<lb break="no" ed="#P" n="82"/>test subsistentiae Verbi, ut cum illa componat
+<lb ed="#P" n="83"/>unum suppositum ac personam humanam.
+<lb ed="#P" n="84"/>Ad secundum concedo primam sequelam, imo
+<lb ed="#P" n="85"/>non video qua ratione id negari possit, quia,
+<lb ed="#P" n="86"/>si Christus non habuit a matre existentiam
+<lb ed="#P" n="87"/>humanitatis, nihil ab illa habuit, quia ab illa
+<lb ed="#P" n="88"/>non habuit existentiam increatam , neque
+<lb ed="#P" n="89"/>unionem ad Verbum; essentiam autem 
+nu<lb break="no" ed="#P" n="90"/>dam ab illa habere non potuit, quia illa nihil
+<lb ed="#P" n="91"/>est nisi tantum quaedam res in potentia. 
+Ne<lb break="no" ed="#P" n="92"/>gatur vero ultima consequentia, quia, licet
+<lb ed="#P" n="93"/>formalis terminus ilius generationis sit 
+hu<lb break="no" ed="#P" n="94"/>manitas cum sua existentia, tamen ultimus
+<lb ed="#P" n="95"/>terminus, qui generatur, nonest humanitas,
+<lb ed="#P" n="96"/>sed hic homo ; quia illa humanitas et 
+existen<lb break="no" ed="#P" n="97"/>tia ejus non inse fit, sed in Verbo, et ideo
+<lb ed="#P" n="98"/>Verbum vere dicitur generari et nasci ex 
+Vir<lb break="no" ed="#P" n="99"/>gine. Sicut interfectores Christi vere 
+priva<lb break="no" ed="#P" n="100"/>runt humanttatem existentia sua, non enim
+<lb ed="#P" n="101"/>extitit humanitas in illo triduo ; tamen, quia
+<lb ed="#P" n="102"/>humanitas non est passa, nec privata 
+existen<lb break="no" ed="#P" n="103"/>tia secundum se, sed ut in hoc supposito
+<lb ed="#P" n="104"/>existens, ideo vere dicitur hic homo 
+inter<lb break="no" ed="#P" n="105"/>fectus, et Deus mortuus. Unde hoc 
+argumen<lb break="no" ed="#P" n="106"/>tum multo magis retorqueri potest contra
+<lb ed="#P" n="107"/>Thomistas, quia si humanitas Christi non 
+ha<lb break="no" ed="#P" n="108"/>bet existentiam creatam, vix intelligi potest
+<lb ed="#P" n="109"/>quid habuerit Christus a matre, ut sit filius
+<lb ed="#P" n="110"/>cjus. Et quamvis ipsi dicant habuisse esse es-
+<pb ed="#P" n="270"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>sentiae ipsius humanitatis, hoc praeterquam
+<lb ed="#P" n="2"/>quod repugnantiam involvit in ipsis terminis,
+<lb ed="#P" n="3"/>ut ostensum est, quia esse essentiae non fit
+<lb ed="#P" n="4"/>nisi ratione existentiae , evidenter ostendit
+<lb ed="#P" n="5"/>quam sit invaldum dictum argumentum ,
+<lb ed="#P" n="6"/>nam si hoc illis satis esse videtur, ut Beata
+<lb ed="#P" n="7"/>Virgo sit mater Dei et hominis, multo magis
+<lb ed="#P" n="8"/>videri debet sufficiens, quod nos dicimus,
+<lb ed="#P" n="9"/>habuisse, scilicet, Verbum et Christum a 
+ma<lb break="no" ed="#P" n="10"/>tre non solum essentiam, sed existentiam 
+hu<lb break="no" ed="#P" n="11"/>manitatis.
+</p>
+               </div>
+               <div xml:id="szstco-l01082-Dd1e3326"><!-- szstco-p3q17-d36s2 -->
+                  <head xml:id="szstco-l01082-Hd1e3329">Sectio 2</head>
+                  <head xml:id="szstco-l01082-Hd1e3331" type="question-title">
+utrum simpliciter dicendum sit, christum habere
+unum esse vel plura
+</head>
+                  <p xml:id="szstco-l01082-d1e3334">
+                     <lb ed="#P" n="12" type="fixed=270"/>SECTIO II.
+<lb ed="#P" n="13"/>Utrum simpliciter dicendum sit, Christum habere
+<lb ed="#P" n="14"/>unum esse vel plura.
+</p>
+                  <p xml:id="szstco-l01082-d1e3343">
+                     <lb ed="#P" n="15"/>1. In hoc dubio fere jam non relinquitur
+<lb ed="#P" n="16"/>quaestio in re ipsa, sed iu modo loquendi, et
+<lb ed="#P" n="17"/>enunciandi propositiones ; nam in re constat,
+<lb ed="#P" n="18"/>suppositis quae diximus, sicut natura humana
+<lb ed="#P" n="19"/>et divina in Christo distinctae res sunt, ita
+<lb ed="#P" n="20"/>etiam habere existentias distinctas prout ad
+<lb ed="#P" n="21"/>naturas pertinent. Constat autem ex fide illas
+<lb ed="#P" n="22"/>naturas ita esse distinctas, ut tamen 
+substan<lb break="no" ed="#P" n="23"/>tialiter unitae sint et conjunctae in uno Christo.
+<lb ed="#P" n="24"/>Solum ergo videtur relinqui quaestio de 
+pro<lb break="no" ed="#P" n="25"/>positionibus ipsis, an, simpliciter loquendo,
+<lb ed="#P" n="26"/>Christus dicendus sit habere plura esse 
+pro<lb break="no" ed="#P" n="27"/>pter naturas, vel unum esse propter 
+suppo<lb break="no" ed="#P" n="28"/>situm ; et hunc existimo esse sensum 
+quaes<lb break="no" ed="#P" n="29"/>tionis aD. Thoma hic propositae, quidquid 
+Ca<lb break="no" ed="#P" n="30"/>jetanus dicat, quod ex sequentibus 
+consta<lb break="no" ed="#P" n="31"/>bit.
+</p>
+                  <p xml:id="szstco-l01082-d1e3382">
+                     <lb ed="#P" n="32"/>2. Scotus ergo, Durandus, et fere alii 
+auc<lb break="no" ed="#P" n="33"/>tores citati sectione praecedenti pro nostra
+<lb ed="#P" n="34"/>sententia, simpliciter ita loquuntur: sicut in
+<lb ed="#P" n="35"/>Christo sunt plures naturae, et plures formae,
+<lb ed="#P" n="36"/>ita etiam esse plures existentias, sicut etiam
+<lb ed="#P" n="37"/>dicuntur esse in illo plures voluntates, seu
+<lb ed="#P" n="38"/>plures operationes, quarum formalia 
+princi<lb break="no" ed="#P" n="39"/>pia sunt ipsae naturae , quamvis suppositum
+<lb ed="#P" n="40"/>volens et operans sit unum et idem. At vero
+<lb ed="#P" n="41"/>D. Thom. hic expresse docet in Christo 
+tan<lb break="no" ed="#P" n="42"/>tum esse unum esse. Cujus sententiam 
+se<lb break="no" ed="#P" n="43"/>quuntur omnes ejus discipuli, qui modus 
+lo<lb break="no" ed="#P" n="44"/>quendi mihi magis probatur.
+</p>
+                  <p xml:id="szstco-l01082-d1e3414">
+                     <lb ed="#P" n="45"/>3. Unde breviter dico primo : simpliciter 
+di<lb break="no" ed="#P" n="46"/>cendum est esse in Christo tantum unum esse
+<lb ed="#P" n="47"/>substantiale, completum et perfectum. Hanc
+<lb ed="#P" n="48"/>existimo esse mentem D. Thomae hic, et 
+po<lb break="no" ed="#P" n="49"/>test confirmari verbis Sophronii supra citatis.
+<lb ed="#P" n="50"/>Et optime probatur ratione D. Thomae, nam
+<lb ed="#P" n="51"/>ens in actu constituitur per ipsum essc, ut
+<lb ed="#P" n="52"/>ostensum est; ergo quod est simpliciter unum
+<lb ed="#P" n="53"/>ens. simpliciter habet unum esse quo consti-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>tuatur sed Christus est simpliciter unum ens,
+<lb ed="#P" n="55"/>ut dictum est articulo primo ; ergo et babet
+<lb ed="#P" n="56"/>unum esse. Et confirmatur rationibus 
+Tho<lb break="no" ed="#P" n="57"/>mistarum sectione praecedenti allatis, quae in
+<lb ed="#P" n="58"/>bono sensu ad hanc conclusionem 
+confirman<lb break="no" ed="#P" n="59"/>dam accommodari possunt hoc modo ; quia
+<lb ed="#P" n="60"/>omnis substantialis unio, sicut terminatur ad
+<lb ed="#P" n="61"/>unam substantiam, ita et ad unum ens per
+<lb ed="#P" n="62"/>se; ergo et ad unum esse simpliciter. Et hoc
+<lb ed="#P" n="63"/>sensu necesse est ea, quae substantialiter
+<lb ed="#P" n="64"/>uniuntur, convenire aliquo modo in uno esse
+<lb ed="#P" n="65"/>totius; cum ergo in Christo sit substantialis
+<lb ed="#P" n="66"/>unio, necesse est ut in Christo sit tantum
+<lb ed="#P" n="67"/>unum esse.
+</p>
+                  <p xml:id="szstco-l01082-d1e3469">
+                     <lb ed="#P" n="68"/>4. Esse unum in Christo , sed non omnino
+<lb ed="#P" n="69"/>simpler. — Dico secundo : hoc esse Christi
+<lb ed="#P" n="70"/>Domini, quatenus Deus et homo est, non est
+<lb ed="#P" n="71"/>unum per omnimodam simplicitatem, sed per
+<lb ed="#P" n="72"/>admirabilem compositionem et substantialem
+<lb ed="#P" n="73"/>unionem naturae humanae cum persona 
+Ver<lb break="no" ed="#P" n="74"/>bi, et naturalis existentiae humanitatis cum
+<lb ed="#P" n="75"/>personali existentia seu subsistentia Verbi
+<lb ed="#P" n="76"/>Dei. Haec conclusio sequitur evidenter ex 
+dic<lb break="no" ed="#P" n="77"/>tis; constat enim esse existentiae Verbi Dei
+<lb ed="#P" n="78"/>secundum se, esse unum omnino simplex ;
+<lb ed="#P" n="79"/>diximus autem, praeter hoc esse increatum,
+<lb ed="#P" n="80"/>esse in humanitate Christi suum esse 
+existen<lb break="no" ed="#P" n="81"/>tiaa creatum, non omnino perfectum, sed
+<lb ed="#P" n="82"/>quale esse potest esse solius naturae ; et 
+rur<lb break="no" ed="#P" n="83"/>sus addidimus in Christo Deo homine 
+simpli<lb break="no" ed="#P" n="84"/>citer dari unum esse ; ergo necesse est esse
+<lb ed="#P" n="85"/>unum compositione , non simplicitate. Et 
+ra<lb break="no" ed="#P" n="86"/>tio etiam hoc suadet : omne enim ens ita 
+ha<lb break="no" ed="#P" n="87"/>bet unum esse , sicut ipsum est unum; sicut
+<lb ed="#P" n="88"/>ergo Christus Deus homo non est unus 
+sim<lb break="no" ed="#P" n="89"/>plicitate, sed compositione, ita proportionali
+<lb ed="#P" n="90"/>modo habebit unum esse. Quod exemplo 
+sub<lb break="no" ed="#P" n="91"/>stantiae corporeae explicari et confirmari 
+po<lb break="no" ed="#P" n="92"/>test : sicut enim homo constat ex anima 
+ra<lb break="no" ed="#P" n="93"/>tionali et corpore , ita habet unum esse , non
+<lb ed="#P" n="94"/>quidem omnino simplex , quia aliud est esse
+<lb ed="#P" n="95"/>partiale animae, et aliud corporis , sed per
+<lb ed="#P" n="96"/>compositionem ex utroque; et idem est in
+<lb ed="#P" n="97"/>tota substantia, quatenus ex partibus 
+inte<lb break="no" ed="#P" n="98"/>grantibus constat. Et ex hac conclusione 
+in<lb break="no" ed="#P" n="99"/>telligitur ratio, propter quam in Christo Deo
+<lb ed="#P" n="100"/>et homme, sicut fatemur duas naturas, ita et
+<lb ed="#P" n="101"/>duas voluntates ct operationes, et non 
+sim<lb break="no" ed="#P" n="102"/>pliciter unam, et tamen simpliciter fatemur
+<lb ed="#P" n="103"/>unum esse, ct non duo, nisi cum addito et
+<lb ed="#P" n="104"/>secundum quid. Ratio enim est quia duae 
+na<lb break="no" ed="#P" n="105"/>turae non uniuntur in unam naturam , sed
+<lb ed="#P" n="106"/>tantum in unam personam, et ita in rationc
+<lb ed="#P" n="107"/>naturarum semper manent duae et distinctae ;
+<lb ed="#P" n="108"/>et similiter duae voluntates non uniuntur in
+<pb ed="#P" n="271"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>unam voluntatem , nec duae operationes in
+<lb ed="#P" n="2"/>unam operationem , sed omnino distinctae
+<lb ed="#P" n="3"/>manent istae proprietates, sicut ipsae naturae,
+<lb ed="#P" n="4"/>quibus mediantibus solum uniuntur in una
+<lb ed="#P" n="5"/>persona. At vero natura et persona 
+simplici<lb break="no" ed="#P" n="6"/>ter uniuntur in uno esse , quia (ut saepe dixi)
+<lb ed="#P" n="7"/>existentia est ipsa actualis entitas rei, vel 
+in<lb break="no" ed="#P" n="8"/>trinsecus actus ejus; unde non potest fieri
+<lb ed="#P" n="9"/>unio inter ipsas entitates ut sic, quin fiat 
+in<lb break="no" ed="#P" n="10"/>ter ipsa esse, et ideo sicut ex unione 
+substan<lb break="no" ed="#P" n="11"/>tiali resultat simpliciter unum ens, ita unum
+<lb ed="#P" n="12"/>esse, non simplex, sed compositum.
+</p>
+                  <p xml:id="szstco-l01082-d1e3591">
+                     <lb ed="#P" n="13"/>5. Quid senserit D. Thomas de existentia
+<lb ed="#P" n="14"/>humanitatis Christi.— Juxta doctrinam hanc
+<lb ed="#P" n="15"/>existimo posse convenienter explicari 
+senten<lb break="no" ed="#P" n="16"/>tiam D. Thomae in hoc articulo. Primo 
+qui<lb break="no" ed="#P" n="17"/>dem, quia nunquam ipse docuit , 
+humanita<lb break="no" ed="#P" n="18"/>tem Christi existere per existentiam 
+increa<lb break="no" ed="#P" n="19"/>tam Verbi, sed solum esse in Christo unum
+<lb ed="#P" n="20"/>esse personale, quod juxta doctrinam positam
+<lb ed="#P" n="21"/>optime intelligi potest. Secundo, quia ex 
+prin<lb break="no" ed="#P" n="22"/>cipiis ab eodem D. Thoma positis, aliis locis,
+<lb ed="#P" n="23"/>aperte intulimus nostram sententiam de 
+exis<lb break="no" ed="#P" n="24"/>tentia creata humanitatis. Tertio, quia divus
+<lb ed="#P" n="25"/>Thomas , quaest. de Unione Verbi incarnati,
+<lb ed="#P" n="26"/>art. 4, hoc diserte docuit, et nunquam aperte
+<lb ed="#P" n="27"/>retractavit. Quarto, quia supra, q. 2, art. 6,
+<lb ed="#P" n="28"/>ad 2. dicit humanitatem esse assumptam ad
+<lb ed="#P" n="29"/>unum esse, non ut est esse naturae, sicut 
+cor<lb break="no" ed="#P" n="30"/>pus assumitur ad esse animae, sed prout est
+<lb ed="#P" n="31"/>hypostasis vel persona; ubi aperte loquitur
+<lb ed="#P" n="32"/>de esse existentiae naturae; sic enim dicitur ab
+<lb ed="#P" n="33"/>codem corpus assumi ad esse animae, 1 p.,
+<lb ed="#P" n="34"/>q. 76, art. 1. Quinto, quia quoties D. Thomas
+<lb ed="#P" n="35"/>loquitur óe hoc uno esse Christi, addit 
+ahi<lb break="no" ed="#P" n="36"/>quid, quo suam sententiam limitet et 
+expli<lb break="no" ed="#P" n="37"/>cet; ut hic semper addit illam particulam,
+<lb ed="#P" n="38"/>esse personale ; et similem addit, Quodlibeto
+<lb ed="#P" n="39"/>9, art. 3; in 3, dist. 5, q. 2, art. 2; et supra,
+<lb ed="#P" n="40"/>hac 3 p., q. 9, art. 4, ad 3, dicit unionem
+<lb ed="#P" n="41"/>factam esse ad hoc unum esse personale. Et
+<lb ed="#P" n="42"/>infra, q. 19, art. 1, ad 4, dicit esse pertinere
+<lb ed="#P" n="43"/>ad constitutionem personae, et ideo unitatem
+<lb ed="#P" n="44"/>personae requirere unitatem ipsius esse 
+com<lb break="no" ed="#P" n="45"/>pleti et personalis ; non ergo sine causa divus
+<lb ed="#P" n="46"/>Thomas tam caute semper loquitur, sed ut
+<lb ed="#P" n="47"/>indicet hoc unum esse personale, non 
+exclu<lb break="no" ed="#P" n="48"/>dere existentiam ipsius naturae, quae ad 
+com<lb break="no" ed="#P" n="49"/>ponendum ipsum esse totius personae 
+con<lb break="no" ed="#P" n="50"/>currit , quia ita unitur supposito , ut ex illa
+<lb ed="#P" n="51"/>unione resultet unum esse simpliciter totius
+<lb ed="#P" n="52"/>personae compositae. In quo differt 
+humani<lb break="no" ed="#P" n="53"/>tas ab accidcntibus, quia accidentia nullo
+<lb ed="#P" n="54"/>modo pertinent ad constitutionem personae,
+<lb ed="#P" n="55"/>sed adveniunt illi jam plene constitutae ; unde
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>in dicto Quodlibeto sic loquitur D. Thomas :
+<lb ed="#P" n="57"/>Rei substantiali duplea esse tribuitur : unum,
+<lb ed="#P" n="58"/>resulians em iis em quilus ejus unitas 
+integra<lb break="no" ed="#P" n="59"/>tur, quod est esse suppositi substantiale; aliud
+<lb ed="#P" n="60"/>superadditum per accidens ; quia ergo in 
+Chri<lb break="no" ed="#P" n="61"/>sto ponimus unam vem subsistentem tantum,
+<lb ed="#P" n="62"/>ad cujus integritatem concurrit etium 
+lnuma<lb break="no" ed="#P" n="63"/>nitas, ideo est unuwm esse substantiale Christi ,
+<lb ed="#P" n="64"/>habens unitatem ea parte suppositi, non em 
+na<lb break="no" ed="#P" n="65"/>tura. Sentit ergo hoc unum esse coalescere
+<lb ed="#P" n="66"/>aliquo modo ex esse ipsius naturae, quamvis
+<lb ed="#P" n="67"/>unitatem simpliciter habeat ex ccnjunctione
+<lb ed="#P" n="68"/>ad suppositum. Sexto, ex discursu hujus 
+ar<lb break="no" ed="#P" n="69"/>ticuli hoc colligi potest, tum quia in 
+princi<lb break="no" ed="#P" n="70"/>pio dicit, esse pertinere ad naturam et ad
+<lb ed="#P" n="71"/>hypostasim ; ad hypostasim, ut ad habentem
+<lb ed="#P" n="72"/>esse ; ad naturam vero ut ad id quo aliquid
+<lb ed="#P" n="73"/>habet esse ; habet ergo natura aliquo modo
+<lb ed="#P" n="74"/>suum esse, quo concurrit ad esse totius 
+sup<lb break="no" ed="#P" n="75"/>positi. Neque enim verisimile est quod 
+Caje<lb break="no" ed="#P" n="76"/>tanus hic et alii Thomistae dicunt, naturam
+<lb ed="#P" n="77"/>esse quo aliquid est, quia est principium 
+ip<lb break="no" ed="#P" n="78"/>sius esse ; quia, ut supra ostensum est. non
+<lb ed="#P" n="79"/>potest natura esse principium ipsius esse,
+<lb ed="#P" n="80"/>nisi ipsa existat. Unde minus credibile est
+<lb ed="#P" n="81"/>quod Cajetanus ait, et indicat Capreol., in 3,
+<lb ed="#P" n="82"/>dist. 5, q. 2, art. 3, ad 4 et 5 principale, ut
+<lb ed="#P" n="83"/>natura existat , non oportere ipsam actuari
+<lb ed="#P" n="84"/>per existentiam , sed sufficere quod ipsa sit,
+<lb ed="#P" n="85"/>qua aliquis existit; quamvis enim natura non
+<lb ed="#P" n="86"/>sit ens completum , tamen est vernm ens 
+in<lb break="no" ed="#P" n="87"/>trinsece includens propriam entitatem suam
+<lb ed="#P" n="88"/>actualem ; quae sine intrinseca existentia 
+ve<lb break="no" ed="#P" n="89"/>luti actuante seu constituente ipsam 
+entita<lb break="no" ed="#P" n="90"/>tem, nec mente concipi potest. Tum etiam
+<lb ed="#P" n="91"/>quia aperte D. Thomas explicat unitatem 
+hu<lb break="no" ed="#P" n="92"/>jus esse personalis per conjunctionem seu
+<lb ed="#P" n="93"/>constitutionem unius ex multis; unde in 
+exem<lb break="no" ed="#P" n="94"/>plo quo utitur, sic inquit : Esse autem 
+capita<lb break="no" ed="#P" n="95"/>tum, et esse corporeum, et esse animatum, totum
+<lb ed="#P" n="96"/>pertinet ad unam personam Socratis; et ideo ea
+<lb ed="#P" n="97"/>omnibus his non fit nisi unum esse in Socrate;
+<lb ed="#P" n="98"/>et postea adhibet exemplum de parte 
+inte<lb break="no" ed="#P" n="99"/>grante, quae advenit supposito jam 
+constitu<lb break="no" ed="#P" n="100"/>to; quam dicit non afferre novum esse, sed
+<lb ed="#P" n="101"/>trahi ad unum esse suppositi, cum tamen
+<lb ed="#P" n="102"/>evidentissimum videatur, partem 
+integran<lb break="no" ed="#P" n="103"/>tem habere suam existentiam partialem, licet
+<lb ed="#P" n="104"/>ex omnibus his partibus unitis resultet unum
+<lb ed="#P" n="105"/>esse totius, non simplex , sed compositum.
+<lb ed="#P" n="106"/>Tum denique quia discursus, et ratio D. 
+Tho<lb break="no" ed="#P" n="107"/>mae non concludit esse in Ghristo unum esse,
+<lb ed="#P" n="108"/>nisi praedicto modo ; non est ergo cur 
+asscra<lb break="no" ed="#P" n="109"/>mus D. Thom. plus intendisse quam probat.
+</p>
+                  <p xml:id="szstco-l01082-d1e3806">
+                     <lb ed="#P" n="110"/>6. Objectio prima. — Responsio. — Objectio
+<pb ed="#P" n="272"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>secunda. — Responsio. — Possunt vero 
+con<lb break="no" ed="#P" n="2"/>tra hanc expositionem divi Thomae nonnulla
+<lb ed="#P" n="3"/>objici. Primum est , quia constat in 
+doc<lb break="no" ed="#P" n="4"/>trina divi Thomae existentiam realiter 
+dis<lb break="no" ed="#P" n="5"/>tingui ab essentia, ex quo fundamento 
+vi<lb break="no" ed="#P" n="6"/>detur in hoc articulo procedere. Sed haec
+<lb ed="#P" n="7"/>objectio in praesenti non urget , tum quia
+<lb ed="#P" n="8"/>sensus divi Thoma in illa quaestione 
+meta<lb break="no" ed="#P" n="9"/>physica variis modis exponitur , etiam a 
+dis<lb break="no" ed="#P" n="10"/>cipulis divi Thomae ; tum etiam quia 
+prae<lb break="no" ed="#P" n="11"/>sens quaestio theologica non omnino ab illa
+<lb ed="#P" n="12"/>pendet, ut constat ex rationibus sectione 
+prae<lb break="no" ed="#P" n="13"/>cedenti factis. Secundo vero objicitur, quia
+<lb ed="#P" n="14"/>D. Thomas nullo alio loco disputavit de 
+pro<lb break="no" ed="#P" n="15"/>pria existentia humanitatis ; de unitate 
+au<lb break="no" ed="#P" n="16"/>tem personae Christi satis in superioribus 
+di<lb break="no" ed="#P" n="17"/>xerat; ergo hic non intendit agere de hoc
+<lb ed="#P" n="18"/>secundo, sed de primo. Respondetur forte
+<lb ed="#P" n="19"/>D. Thomam non movisse specialem 
+quaestio<lb break="no" ed="#P" n="20"/>nem de creata existentia humanitatis, quia
+<lb ed="#P" n="21"/>ut evidens supposuit hanc esse actualem et
+<lb ed="#P" n="22"/>realem entitatem creatam, quae sine creata
+<lb ed="#P" n="23"/>existentia neque mente concipi potest. Ideo
+<lb ed="#P" n="24"/>vero movit quaestionem de unitate ipsius esse
+<lb ed="#P" n="25"/>Christi, quia haec consequens erat ad 
+quaes<lb break="no" ed="#P" n="26"/>tionem de unitate ipsius Christi. Unde, sicut
+<lb ed="#P" n="27"/>ex superioribus constare poterat Christum
+<lb ed="#P" n="28"/>esse unum , quia ostensum fuerat esse unam
+<lb ed="#P" n="29"/>personam compositam, et hanc unionem esse
+<lb ed="#P" n="30"/>substantialem, et nihilominus quia unitas est
+<lb ed="#P" n="31"/>veluti quid consequens ipsum ens, ideo hic
+<lb ed="#P" n="32"/>D. Thomas specialiter disseruit quomodo 
+sen<lb break="no" ed="#P" n="33"/>tiendum sit de unitate Christi , ita, licet ex
+<lb ed="#P" n="34"/>dictis de unitate personae et substantiali 
+unio<lb break="no" ed="#P" n="35"/>ne incarnationis , constare posset esse in
+<lb ed="#P" n="36"/>Christo unum esse, nihilominus hoc diserte
+<lb ed="#P" n="37"/>explicandum fuit, propter eamdem raiionem.
+<lb ed="#P" n="38"/>Concedo ergo hic esse sermonem de esse
+<lb ed="#P" n="39"/>existentiae ut sic, et de unitate illius, non 
+ta<lb break="no" ed="#P" n="40"/>men de unitate simplici, sed composita , nec
+<lb ed="#P" n="41"/>de existentia solius humanitatis, sed totius
+<lb ed="#P" n="42"/>Christi Dei et hominis , de quo in praecedenti
+<lb ed="#P" n="43"/>articulo quaesitum fuerat, an sit unum vel
+<lb ed="#P" n="44"/>duo. Et quod hic fuerit sensus hujus 
+quaes<lb break="no" ed="#P" n="45"/>tionis D. Thomae, inde etiam confirmari 
+po<lb break="no" ed="#P" n="46"/>test , quia hoc modo explicata proprie 
+perti<lb break="no" ed="#P" n="47"/>nebat ad hunc locum ; si autem quaestio esset
+<lb ed="#P" n="48"/>de unione essentiae creatae cum existentia 
+in<lb break="no" ed="#P" n="49"/>creata , potius pertineret haec quaestio ad 
+ex<lb break="no" ed="#P" n="50"/>plicationem ipsius mysterii, quae supra, q. 2,
+<lb ed="#P" n="51"/>tradita est, ut ex ibi etiam dictis facile 
+con<lb break="no" ed="#P" n="52"/>starc potest. Quam difficultatem vidit 
+Cajeta<lb break="no" ed="#P" n="53"/>nus hic in explicatione tituli, eamque 
+expedi<lb break="no" ed="#P" n="54"/>vit, dicens, omnia, quae antea tractata sunt,
+<lb ed="#P" n="55"/>pertinere ad esse vel fieri incarnationis in se,
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>vel in enuuciationtibus ; nune vero agi de 
+uni<lb break="no" ed="#P" n="57"/>tate quae sequitur ens. Sed re vera non ita est,
+<lb ed="#P" n="58"/>nam, quae supra de scientia et gratia, et 
+simi<lb break="no" ed="#P" n="59"/>libus , dicta sunt, non pertinent ad esse vel
+<lb ed="#P" n="60"/>fieri incarnationis quoad substantiam ejus ;
+<lb ed="#P" n="61"/>unio autem in existentia ipsius naturae 
+maxi<lb break="no" ed="#P" n="62"/>me pertineret ad substantiam mysterii, si 
+re<lb break="no" ed="#P" n="63"/>vera intercessisset.
+</p>
+                  <p xml:id="szstco-l01082-d1e3954">
+                     <lb ed="#P" n="64"/>1. Objectio teriia.— Responsio. — Tertio 
+ob<lb break="no" ed="#P" n="65"/>jici potest, quia D. Th. aperte hic dicit, 
+secun<lb break="no" ed="#P" n="66"/>dum humanam naturam non advenire Filio
+<lb ed="#P" n="67"/>Dei novum esse, sed solum habitudinem esse
+<lb ed="#P" n="68"/>praeexistentis ad humanam naturam. 
+Respon<lb break="no" ed="#P" n="69"/>detur tamen facile ex dictis, non negare 
+sim<lb break="no" ed="#P" n="70"/>pliciter novum esse , sed novum esse 
+perso<lb break="no" ed="#P" n="71"/>nale; advenit enim humanitas Verbo, 
+tan<lb break="no" ed="#P" n="72"/>quam natura supposito, et ideo non afftert
+<lb ed="#P" n="73"/>esse simpliciter, et completum, tanquam id
+<lb ed="#P" n="74"/>quod est, sed solum esse naturae, quod est
+<lb ed="#P" n="75"/>esse secundum quid, et potius habet rationem
+<lb ed="#P" n="76"/>inexistentiae in Verbo. Unde , licet respectu
+<lb ed="#P" n="77"/>Verbi secundum se, nullum esse illi addatur
+<lb ed="#P" n="78"/>per unionem humanitatis, sed solum 
+quae<lb break="no" ed="#P" n="79"/>dam habitudo ad ipsam, tamen respectu
+<lb ed="#P" n="80"/>Verbi ut hominis, revera additur esse 
+natu<lb break="no" ed="#P" n="81"/>rale ipsius humanitatis. Et ad eumdem 
+mo<lb break="no" ed="#P" n="82"/>dum facile intelliguntur omnia , quae D. 
+Tho<lb break="no" ed="#P" n="83"/>mas dicit in solutionibus argumentorum.
+</p>
+                  <p xml:id="szstco-l01082-d1e4000">
+                     <lb ed="#P" n="84"/>S. Objectio quarta. — Rsponsio. — Unum
+<lb ed="#P" n="85"/>solum, quod in solutione ad tertium dicit,
+<lb ed="#P" n="86"/>scilicet, tres personas divinas non habere nisi
+<lb ed="#P" n="87"/>unum esse, quia in eis idem est esse naturae
+<lb ed="#P" n="88"/>et personae , difficile est. Ostendimus enim in
+<lb ed="#P" n="89"/>superioribus, esse in Trinitate non tantum
+<lb ed="#P" n="90"/>unum esse absolutum, sed etiam tria relativa.
+<lb ed="#P" n="91"/>Sed haec difficultas solvenda est etiam a 
+dis<lb break="no" ed="#P" n="92"/>cipulis D. Thomae, qui admittunt tres 
+existen<lb break="no" ed="#P" n="93"/>tias relativas. Unde dicendum est, D. 
+Tho<lb break="no" ed="#P" n="94"/>mam loqui de esse perfectissimo, quod est
+<lb ed="#P" n="95"/>esse simpliciter Dei. et omnium personarum,
+<lb ed="#P" n="96"/>quod secundum se et ex proprio conceptu est,
+<lb ed="#P" n="97"/>non solum existentia, sed etiam subsistentia;
+<lb ed="#P" n="98"/>et ideo ratione illius tres personae sunt unum
+<lb ed="#P" n="99"/>absolute, et habent simpliciter unum esse,
+<lb ed="#P" n="100"/>quamvis personaliter distinguantur, et ut sic
+<lb ed="#P" n="101"/>habeant distincta esse relativa, et secundum
+<lb ed="#P" n="102"/>quid.
+</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

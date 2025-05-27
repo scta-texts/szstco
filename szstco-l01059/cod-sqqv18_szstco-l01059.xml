@@ -1,0 +1,1568 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 14</title>
+            <author ref="#FranciscoSuarez">Francisco Suarez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 14</title>
+               <date when="2025-05-27">May 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-sqqv18">Paris 1860, v. 17</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-05-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="170"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="szstco-l01059"><!-- szstco-p3q14 -->
+            <head xml:id="szstco-l01059-Hd1e97">Quaestio 14</head>
+            <div xml:id="szstco-l01059-Dd1e99"><!-- szstco-p3q14prae -->
+               <head xml:id="szstco-l01059-Hd1e102">Praeambulum</head>
+               <p xml:id="szstco-l01059-d1e104">
+                  <lb ed="#P" n="52" type="fixed=165"/>Postquam disseruit D. Thom. de perfectio-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="53"/>nibus humanitatis assumptae, disputare 
+ag<lb break="no" ed="#P" n="54"/>sgreditur de defectibus ejus, tum in corpore,
+<lb ed="#P" n="55"/>quod in hac quaestione agit, tum in anima,
+<lb ed="#P" n="56"/>quod expedit quaestione sequenti. Dici autem
+<lb ed="#P" n="57"/>videntur hoc loco defectus corporis, non 
+om<lb break="no" ed="#P" n="58"/>nes qui in corpore fiunt seu recipiuntur ; hoc
+<lb ed="#P" n="59"/>enim modo omnes defectus sensibiles ad 
+cor<lb break="no" ed="#P" n="60"/>pus pertinent, et tamen quaestione sequenti
+<lb ed="#P" n="61"/>inter defectus animae numerantur; sunt ergo
+<lb ed="#P" n="62"/>defectus corporis, qui de se corpori 
+conve<lb break="no" ed="#P" n="63"/>niunt, et non per animam, nec per proprias
+<lb ed="#P" n="64"/>potentias ejus, eas praesertim quae ad 
+cognos<lb break="no" ed="#P" n="65"/>cendum et amandum deserviunt.
+</p>
+            </div>
+            <div xml:id="szstco-l01059-Dd1e140"><!-- szstco-p3q14a1 -->
+               <head xml:id="szstco-l01059-Hd1e143">Articulus 1</head>
+               <p xml:id="szstco-l01059-d1e145">
+                  <lb ed="#P" n="3" type="fixed=167"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01059-d1e150">
+                  <lb ed="#P" n="4"/>Responsio. — Affirmat D. Thomas 
+assum<lb break="no" ed="#P" n="5"/>psisse Christum hos defectus, cujus 
+asser<lb break="no" ed="#P" n="6"/>tionis tres rationes assignat es fine ipsius 
+in<lb break="no" ed="#P" n="7"/>carnationis desumptas. Primam , ex fine 
+sa<lb break="no" ed="#P" n="8"/>tisfaciendi pro nobis. Secundam, ex fine 
+con<lb break="no" ed="#P" n="9"/>firmandi et ostendendi magis veritatem 
+in<lb break="no" ed="#P" n="10"/>carnationis. Tertiam, ut nobis esset 
+exem<lb break="no" ed="#P" n="11"/>plum; quae omnes clarae sunt. Solum circa
+<lb ed="#P" n="12"/>primam dubitare potest aliquis; quia enim hi
+<lb ed="#P" n="13"/>defectus corporis sunt in nobis paenae peccati,
+<lb ed="#P" n="14"/>infert D. Thomas fuisse conveniens ut 
+Chri<lb break="no" ed="#P" n="15"/>stus in se assumeret eas paenas quae nobis
+<lb ed="#P" n="16"/>erant debitae. Quo argumento posset etiam
+<lb ed="#P" n="17"/>concludere , fuisse conveniens ut assumeret
+<lb ed="#P" n="18"/>poenam purgatorii , vel inferni, ut quidam
+<lb ed="#P" n="19"/>hujus temporis haeretici blasphemant ; quia
+<lb ed="#P" n="20"/>etiam hae paenae sunt debitae hominibus 
+pec<lb break="no" ed="#P" n="21"/>catoribus, et pro illis omnibus Christus 
+satis<lb break="no" ed="#P" n="22"/>fecit. Respondetur tamen non esse eamdem
+<lb ed="#P" n="23"/>rationem, tum quia illae poenae non decebant
+<lb ed="#P" n="24"/>sanctissimam Christi animam, ut suo loco 
+di<lb break="no" ed="#P" n="25"/>cetur; tum etiam quia illae poenae non sunt
+<lb ed="#P" n="26"/>proprie ordinatae ad eum modum 
+satisfactio<lb break="no" ed="#P" n="27"/>nis voluntariae, qui viatorum est proprius, et
+<lb ed="#P" n="28"/>exercetur per modum condignae 
+recompen<lb break="no" ed="#P" n="29"/>sationis, sed sunt ad propriam vindictam 
+ip<lb break="no" ed="#P" n="30"/>sius peccati, quae ab ipso judice sumitur , seu
+<lb ed="#P" n="31"/>imperatur ; pcenae autem hujus vitae , quales
+<lb ed="#P" n="32"/>sustinentur per defectus et infBrmitates 
+cor<lb break="no" ed="#P" n="33"/>poris , sunt accommodatissimae ad proprium
+<lb ed="#P" n="34"/>moedum satisfaciendi per voluntariam 
+recom<lb break="no" ed="#P" n="35"/>pensationem , quam Christus viator exhibere
+<lb ed="#P" n="36"/>debuit. Tum denique quia poena inferni vel
+<lb ed="#P" n="37"/>purgatorii non est necessario subeunda 
+pec<lb break="no" ed="#P" n="38"/>catoribus , sed solum quasi sub conditione,
+<lb ed="#P" n="39"/>scilicet, si mortalis peccati veniam non 
+fue<lb break="no" ed="#P" n="40"/>rint in hac vita consecuti, quoad poenam 
+in<lb break="no" ed="#P" n="41"/>ferni; velsi pro peccato non plene satisfecerint
+<lb ed="#P" n="42"/>in hac vita, loquendo quoad paenam 
+purga<lb break="no" ed="#P" n="43"/>torii. At vero corporis defectus seu 
+poenali<lb break="no" ed="#P" n="44"/>tates omnino sustinendae sunt hominibus a
+<lb ed="#P" n="45"/>Christo redemptis, neque per aliquam 
+satis<lb break="no" ed="#P" n="46"/>factionem propriam possunt illas vitare,
+<lb ed="#P" n="47"/>quamvis illis uti possint ad satisfaciendum
+<lb ed="#P" n="48"/>pro peccatis , et ideo maxime decuit ut 
+Chri<lb break="no" ed="#P" n="49"/>stus in his paenis fieret similis hominibus 
+pec<lb break="no" ed="#P" n="50"/>catoribus, et per eas pro illis satisfaceret. Sed
+<lb ed="#P" n="51"/>in hac ratione cavendum est aliud extremum;
+<lb ed="#P" n="52"/>quidam enim existimant , supposito hoc fine
+<lb ed="#P" n="53"/>incarnationis, scilicet, satisfaciendi pro homi-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="54"/>nibus, non solum conveniens, sed omnino
+<lb ed="#P" n="55"/>necessarium fuisse, Christum assumere hos
+<lb ed="#P" n="56"/>corporis defectus. Ita indicat Bonav., in3,
+<lb ed="#P" n="57"/>dist. 16, art. 1, q. 3; Durand., in 3, dist. 13,
+<lb ed="#P" n="58"/>q. 1, n. 6, qui in eam sententiam citant 
+An<lb break="no" ed="#P" n="59"/>selmum, in lib. Cur Deus homo. Sed tamen
+<lb ed="#P" n="60"/>revera hoc non sequitur necessario ex fine
+<lb ed="#P" n="61"/>redemptionis. Primo quidem , quia uno solo
+<lb ed="#P" n="62"/>actu amoris posset nos per modum meriti
+<lb ed="#P" n="63"/>sufficienter redimere, ut constat ex supra
+<lb ed="#P" n="64"/>tractatis, q. 1. art. 2; potuisset autem 
+exer<lb break="no" ed="#P" n="65"/>cere hunc actum in corpore impassibili ,
+<lb ed="#P" n="66"/>etiamsi corporis defectus non assumpsisset.
+<lb ed="#P" n="67"/>Et simili modo potuisset pro culpa et injuria
+<lb ed="#P" n="68"/>in Deum commissa satisfacere per actum 
+re<lb break="no" ed="#P" n="69"/>verentiae et obsequii ad Deum, et veniam 
+ho<lb break="no" ed="#P" n="70"/>minibus deprecando , et per alios similes 
+ac<lb break="no" ed="#P" n="71"/>tus divini cultus. Ac denique per actum 
+dolo<lb break="no" ed="#P" n="72"/>ris vel tristitiae in sola anima conceptae , 
+abs<lb break="no" ed="#P" n="73"/>que passione corporali, potuisset satisfacere
+<lb ed="#P" n="74"/>pro qualibet poena hominibus debita; 
+quan<lb break="no" ed="#P" n="75"/>quam praeter naturalem ordinem rerum esset
+<lb ed="#P" n="76"/>habere animam passibilem in corpore 
+impas<lb break="no" ed="#P" n="77"/>sibili; ergo simpliciter non fuerunt necessarii
+<lb ed="#P" n="78"/>defectus corporis ad satisfaciendum pro 
+no<lb break="no" ed="#P" n="79"/>bis, fuerunt tamen aptissimi et 
+accommoda<lb break="no" ed="#P" n="80"/>tissimi, propter rationes dictas. Solutiones
+<lb ed="#P" n="81"/>argumentorum clarae sunt, sed valde 
+no<lb break="no" ed="#P" n="82"/>tandae.
+</p>
+            </div>
+            <div xml:id="szstco-l01059-Dd1e327"><!-- szstco-p3q14a2 -->
+               <head xml:id="szstco-l01059-Hd1e330">Articulus 2</head>
+               <p xml:id="szstco-l01059-d1e332">
+                  <lb ed="#P" n="54" type="fixed=168"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01059-d1e337">
+                  <lb ed="#P" n="55"/>Defectus corporis, de quibus hic agit D.
+<lb ed="#P" n="56"/>Thomas, considerari possunt , vel in actu 
+pri<lb break="no" ed="#P" n="57"/>mo, ut esse passibilem, mortalem ; vel quasi
+<lb ed="#P" n="58"/>in actu secundo, ut pati, mori. D. Thomas
+<lb ed="#P" n="59"/>ergo in corpore articuli praecipue tractat
+<lb ed="#P" n="60"/>quaestionem de his defectibus posteriori 
+mo<lb break="no" ed="#P" n="61"/>do consideratis, scilicet , quatenus in actuali
+<lb ed="#P" n="62"/>aliqua passione positi sunt, ut ex illis explicet
+<lb ed="#P" n="63"/>ipsam dispositionem, et quasi potentiam
+<lb ed="#P" n="64"/>quam in suo corpore Christus suscepit ad
+<lb ed="#P" n="65"/>has passiones sustinendas. Unde proprius
+<lb ed="#P" n="66"/>sensus hujus quaestionis est, an Verbum in
+<lb ed="#P" n="67"/>tali dispositione assumpserit corpus, ut ex
+<lb ed="#P" n="68"/>illa necessario consecuti fuerint hi defectus ,
+<lb ed="#P" n="69"/>qui sunt per modum actus secundi, seu 
+pas<lb break="no" ed="#P" n="70"/>sionis actualis. Et hoc sensu respondet divus
+<lb ed="#P" n="71"/>Thomas assumpsisse Christum necessitatem
+<lb ed="#P" n="72"/>naturalem his defectibus subjacendi, quia
+<lb ed="#P" n="73"/>assumpsit corpus ita dispositum, et carens
+<lb ed="#P" n="74"/>superiori dono gloriae , ut, suae naturae 
+relic<lb break="no" ed="#P" n="75"/>tum, non posset non subjacere his defectibus,
+<lb ed="#P" n="76"/>supposita intrinseca compositione, et natura
+<lb ed="#P" n="77"/>corporis humani, et extrinsecis agentibus; et
+<lb ed="#P" n="78"/>hoc sensu dixit Damasc., lib. 3, cap. 15, 
+cor<lb break="no" ed="#P" n="79"/>pori Christi permissum esse a divinitatis 
+age<lb break="no" ed="#P" n="80"/>re et pati quae propria. Ex quo infert ulterius
+<lb ed="#P" n="81"/>D. Thomas assumpsisse Christum 
+necessita<lb break="no" ed="#P" n="82"/>tem coactionis, quae naturali appetitui 
+oppo<lb break="no" ed="#P" n="83"/>nitur ; multa enim contra naturalem corporis
+<lb ed="#P" n="84"/>propensionem ex quadam naturali 
+necessita<lb break="no" ed="#P" n="85"/>te patiebatur, quae tamen absolutae et 
+delibe<lb break="no" ed="#P" n="86"/>ratae voluntati coacta non erant. Reliqua clara
+<lb ed="#P" n="87"/>sunt in textu.
+</p>
+            </div>
+            <div xml:id="szstco-l01059-Dd1e412"><!-- szstco-p3q14a3 -->
+               <head xml:id="szstco-l01059-Hd1e415">Articulus 3</head>
+               <p xml:id="szstco-l01059-d1e417">
+                  <lb ed="#P" n="65" type="fixed=169"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01059-d1e422">
+                  <lb ed="#P" n="66"/>Titulus articuli.—Haec tota quaestio posita
+<lb ed="#P" n="67"/>est in significatione verbi contrahendi; hi
+<lb ed="#P" n="68"/>cenim defectus, si nudam hominis naturam
+<lb ed="#P" n="69"/>consideremus , necessario consequuntur ad
+<lb ed="#P" n="70"/>humanam generationem, et naturalem 
+homi<lb break="no" ed="#P" n="71"/>nis conditionem et compositionem; et hoc
+<lb ed="#P" n="72"/>modo dixit Durand., in 3, dist. 15, q. 1, n.8
+<lb ed="#P" n="73"/>( ut illi imponi solet), Christum contraxisse
+<lb ed="#P" n="74"/>hos defectus, quamvis revera ipse non dicat
+<lb ed="#P" n="75"/>contraxisse , sed ex necessitate quadam 
+na<lb break="no" ed="#P" n="76"/>turali illos habuisse; quanquam neque hic
+<lb ed="#P" n="77"/>modus loquendi placeat, ut statim dicam, 
+li<lb break="no" ed="#P" n="78"/>cet res, quam ipse intendit, vera sit. Si autem
+<lb ed="#P" n="79"/>consideremus humanam naturam, prout a
+<lb ed="#P" n="80"/>Deo est condita, non habuit hos defectus, 
+ne<lb break="no" ed="#P" n="81"/>que habuisset unquam, nisi intervenisset 
+pec<lb break="no" ed="#P" n="82"/>catum , propter quod dorio justitiae privata
+<lb ed="#P" n="83"/>est, quod illam ab his defectibus immunem
+<lb ed="#P" n="84"/>reddebat ; et ideo in his hominibus qui ab
+<lb ed="#P" n="85"/>Adamo naturali generatione descendunt, non
+<lb ed="#P" n="86"/>dicuntur absolute hi defectus esse ex 
+natu<lb break="no" ed="#P" n="87"/>rali necessitate, sed ex peccato contracti; et
+<lb ed="#P" n="88"/>hoc sensu certissimum et de fide est non 
+con<lb break="no" ed="#P" n="89"/>traxisse Christum hos defectus , quia non est
+<lb ed="#P" n="90"/>conceptus ex semine viri, sed Spiritus Sancti
+<lb ed="#P" n="91"/>opere, et ideo nec peccato originali obnoxius
+<lb ed="#P" n="92"/>fuit, neque defectus ab illo manantes 
+contra<lb break="no" ed="#P" n="93"/>xit. Neque etiam simpliciter dicendum est, ex
+<lb ed="#P" n="94"/>necessitate naturali subditum fuisse his 
+de<lb break="no" ed="#P" n="95"/>fectibus, quia, propter conditionem et 
+digni<lb break="no" ed="#P" n="96"/>tatem personae, debita illi erat talis naturae
+<lb ed="#P" n="97"/>perfectio, quae omnes hos defectus impediret;
+<lb ed="#P" n="98"/>et ideo nec contracti, nec simpliciter 
+natura<lb break="no" ed="#P" n="99"/>les dicendi sunt, sed voluntarie assumpti. Quae
+<lb ed="#P" n="100"/>tota doctrina sumpta est ex Augustino, lib.
+<lb ed="#P" n="101"/>5 contra Julian., c. 9, versus finem; et 
+Da<lb break="no" ed="#P" n="102"/>masc., lib. 3 de Fid.. c. 20; et Anselmo, lib.
+<lb ed="#P" n="103"/>1 Cur Deus homo, c. 10, et lib. 2, c. 10, 11
+<lb ed="#P" n="104"/>et seq.
+</p>
+            </div>
+            <div xml:id="szstco-l01059-Dd1e511"><!-- szstco-p3q14a4 -->
+               <head xml:id="szstco-l01059-Hd1e514">Articulus 4</head>
+               <p xml:id="szstco-l01059-d1e516">
+                  <lb ed="#P" n="85" type="fixed=170"/>COMMENTARIUS.
+</p>
+               <p xml:id="szstco-l01059-d1e521">
+                  <lb ed="#P" n="86"/>1. Objectio. — Responsio. — Tribus 
+asser<lb break="no" ed="#P" n="87"/>tionibus D. Thomas respondet. Prima est, non
+<lb ed="#P" n="88"/>assumpsisse Christum illos defectus, qui cum
+<lb ed="#P" n="89"/>scientiae et gratie perfectione pugnant. Haec
+<lb ed="#P" n="90"/>satis constat ex iis quae supra de gratia et
+<lb ed="#P" n="91"/>scientia Christi dicta sunt, et ex parte 
+trac<lb break="no" ed="#P" n="92"/>tanda est late quaestione sequenti. Non 
+im<lb break="no" ed="#P" n="93"/>merito tamen percontatur Cajetanus quare
+<lb ed="#P" n="94"/>D. Thomas horum defectuum mentionem hic
+<pb ed="#P" n="171"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>fecerit, qui ad animam potius quam ad 
+cor<lb break="no" ed="#P" n="2"/>pus pertinent, ut sunt ignorantia, propensio
+<lb ed="#P" n="3"/>ad malum, difficultas in bono. Responderi
+<lb ed="#P" n="4"/>tamen potest, obiter tantum haec attigisse D.
+<lb ed="#P" n="5"/>Thom., ut illam generalem regulam statueret,
+<lb ed="#P" n="6"/>scilicet, praeter eos defectus, qui ad veritatem
+<lb ed="#P" n="7"/>humanae naturae pertinent, illos tantum 
+de<lb break="no" ed="#P" n="8"/>fectus Christum assumpsisse, qui ad finem
+<lb ed="#P" n="9"/>incarnationis utiles esse poterant ; non vero
+<lb ed="#P" n="10"/>qui ad hunc finem nihil conferunt , ut sunt
+<lb ed="#P" n="11"/>ignorantia, etc. Vel certe dici potest non 
+lo<lb break="no" ed="#P" n="12"/>qui hic D. Thom. de his defectibus, prout 
+for<lb break="no" ed="#P" n="13"/>maliter ad animam pertinent, sed prout ex
+<lb ed="#P" n="14"/>dispositione corporis originem trahunt, ut
+<lb ed="#P" n="15"/>sensus sit, non assumpsisse Christum corpus
+<lb ed="#P" n="16"/>ita dispositum, vel ita praedominans animae,
+<lb ed="#P" n="17"/>ut perfectionem scientiae et gratiae posset 
+im<lb break="no" ed="#P" n="18"/>pedire.
+</p>
+               <p xml:id="szstco-l01059-d1e586">
+                  <lb ed="#P" n="19"/>2. Secunda assertio, non assumpsisse 
+Chris<lb break="no" ed="#P" n="20"/>tum particulares defectus corporis, qui non
+<lb ed="#P" n="21"/>sunt toti naturae communes, ut sunt 
+aegritu<lb break="no" ed="#P" n="22"/>do, et deformitas. Ratio est, quia in Christo
+<lb ed="#P" n="23"/>non sunt inventae causae ex quibus hi 
+defec<lb break="no" ed="#P" n="24"/>tus oriri solent, quae sunt, aut imperfecta 
+vir<lb break="no" ed="#P" n="25"/>tus formans corpus, aut imperfectum 
+regi<lb break="no" ed="#P" n="26"/>men ipsiusmet corporis.
+</p>
+               <p xml:id="szstco-l01059-d1e606">
+                  <lb ed="#P" n="27"/>3. Tertia est, assumpsisse Christum 
+defec<lb break="no" ed="#P" n="28"/>tus communes omnibus hominibus, quos 
+Da<lb break="no" ed="#P" n="29"/>mascenus vocat naturales et irreprehensibiles
+<lb ed="#P" n="30"/>hominis affectiones. Circa quam 
+conclusio<lb break="no" ed="#P" n="31"/>nem et caeteras nihil notandum occurrit, 
+prae<lb break="no" ed="#P" n="32"/>ter ea quae statim disputabimus. Solum est 
+ob<lb break="no" ed="#P" n="33"/>servandum illud principium positum. a D.
+<lb ed="#P" n="34"/>Thom. in principio corporis articuli, et in
+<lb ed="#P" n="35"/>solutione ad 2 repetitum, scilicet, 
+perfectio<lb break="no" ed="#P" n="36"/>nem omnem humanmae naturae convenientem
+<lb ed="#P" n="37"/>per se debitam esse humanitati ratione 
+unio<lb break="no" ed="#P" n="38"/>nis; defectus vero tantum esse assumptos
+<lb ed="#P" n="39"/>propter nos. Hoc enim principium, et pro
+<lb ed="#P" n="40"/>qualitate materiae per se notum est, et illo in
+<lb ed="#P" n="41"/>superioribus saepe usi sumus, et in 
+sequenti<lb break="no" ed="#P" n="42"/>bus utemur.
+</p>
+            </div>
+            <div xml:id="szstco-l01059-Dd1e644"><!-- szstco-p3q14-d32 -->
+               <head xml:id="szstco-l01059-Hd1e647">Disputatio 32</head>
+               <head xml:id="szstco-l01059-Hd1e649" type="question-title">
+De perfectionibus et defectibus corporis
+christi.
+</head>
+               <p xml:id="szstco-l01059-d1e652">
+                  <lb ed="#P" n="43" type="fixed=171"/>DISPUTATIO XXXII,
+<lb ed="#P" n="44"/>In quatuor sectiones distributa.
+<lb ed="#P" n="45"/>DE PERFECTIONIBUS ET DEFECTIBUS CORPORIS
+<lb ed="#P" n="46"/>CHRISTI.
+</p>
+               <p xml:id="szstco-l01059-d1e663">
+                  <lb ed="#P" n="47"/>Quoniam defectus carentiam quamdam 
+per<lb break="no" ed="#P" n="48"/>fectionis indicat, idem enim defectus 
+nomi<lb break="no" ed="#P" n="49"/>ne quod voce imperfectionis significari 
+vi<lb break="no" ed="#P" n="50"/>detur, ideo ad explicandum quos defectus
+<lb ed="#P" n="51"/>Christus in corpore suo assumpserit, a 
+per<lb break="no" ed="#P" n="52"/>fectionibus assumptis inchoandum est, ut per
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="53"/>habitum privatio facilius cognoscatur. 
+Adver<lb break="no" ed="#P" n="54"/>tendum autem est duplices esse posse 
+perfec<lb break="no" ed="#P" n="55"/>tiones in corpore humano: quaedam sunt 
+con<lb break="no" ed="#P" n="56"/>naturales, et debitae tali corpori secundum
+<lb ed="#P" n="57"/>debitum statum ejus, ut suntpulchritudo, 
+sa<lb break="no" ed="#P" n="58"/>nitas et similes; aliae sunt supra debitum 
+na<lb break="no" ed="#P" n="59"/>turae, ut sunt dotes, quas corpus habebit in
+<lb ed="#P" n="60"/>gloria, et ad has revocari possunt 
+perfectio<lb break="no" ed="#P" n="61"/>nes quas haberet in statu innocentiae, in quo
+<lb ed="#P" n="62"/>esset aliquo modo impassibile et immortale ;
+<lb ed="#P" n="63"/>quarum quidem perfectionum carentia , 
+de<lb break="no" ed="#P" n="64"/>fectus quidam est, qui, solum consideratus 
+se<lb break="no" ed="#P" n="65"/>cundum id quod naturae humanae de se 
+debi<lb break="no" ed="#P" n="66"/>tum est, solum est veluti negatio quaedam,
+<lb ed="#P" n="67"/>seu negativa imperfectio ; tamenrespectu 
+na<lb break="no" ed="#P" n="68"/>turae humanae elevatae ad superiorem 
+quem<lb break="no" ed="#P" n="69"/>dam statum, et praesertim ad unionem 
+hypos<lb break="no" ed="#P" n="70"/>taticam, cui omnis illa perfectio debita est,
+<lb ed="#P" n="71"/>magis habet rationem privationis et proprii
+<lb ed="#P" n="72"/>detfectus, seu imperfectionis. Praeter hos vero
+<lb ed="#P" n="73"/>considerari possunt in humano corpore alii
+<lb ed="#P" n="74"/>defectus omnino connaturales illi, qui non
+<lb ed="#P" n="75"/>privant illud aliqua perfectione, inaliquo statu
+<lb ed="#P" n="76"/>sibi debita , sed solum negant perfectionem
+<lb ed="#P" n="77"/>propriam alicujus naturae superioris, ut sunt
+<lb ed="#P" n="78"/>circumscribi loco, et esse loco mutabilem, et
+<lb ed="#P" n="79"/>ali similes, de quibus breviter sigillatim 
+di<lb break="no" ed="#P" n="80"/>cendum est.
+</p>
+               <div xml:id="szstco-l01059-Dd1e741"><!-- szstco-p3q14-d32s1 -->
+                  <head xml:id="szstco-l01059-Hd1e744">Sectio 1</head>
+                  <head xml:id="szstco-l01059-Hd1e746" type="question-title">
+utrum verbum assumpserit in corpore humano
+perfectiones corporis gloriosi, vel potius 
+defectus illis repugnantes, ut esse passibile, 
+mortale, etc.
+</head>
+                  <p xml:id="szstco-l01059-d1e749">
+                     <lb ed="#P" n="81" type="fixed=171"/>SECTIO I.
+<lb ed="#P" n="82"/>Utrum Verbum assumpserit in corpore humano
+<lb ed="#P" n="83"/>perfectiones corporis gloriosi, vel potius 
+defec<lb break="no" ed="#P" n="84"/>tus illis repugnantes, ut esse passibile, 
+mor<lb break="no" ed="#P" n="85"/>tale, etc.
+</p>
+                  <p xml:id="szstco-l01059-d1e762">
+                     <lb ed="#P" n="86"/>1. Sensus hujus dubii est de principio 
+tem<lb break="no" ed="#P" n="87"/>poris quo facta est assumptio, et de toto
+<lb ed="#P" n="88"/>tempore viae. Nam, quod postresurrectionem
+<lb ed="#P" n="89"/>habuerit Christus in corpore suo omnes has
+<lb ed="#P" n="90"/>perfectiones, et caruerit omnibus his 
+defec<lb break="no" ed="#P" n="91"/>tibus, dubium non est, de qua re infra in 
+pro<lb break="no" ed="#P" n="92"/>prio loco disputabimus. Est ergo primus 
+er<lb break="no" ed="#P" n="93"/>ror eorum, qui negarunt assumpsisse 
+Chris<lb break="no" ed="#P" n="94"/>tum corpus passibile, etiamsi non negarent 
+as<lb break="no" ed="#P" n="95"/>sumpsisse verum corpus humanum. Auctor
+<lb ed="#P" n="96"/>hujus fuit Julianus Halicarnassaeus, et 
+Caia<lb break="no" ed="#P" n="97"/>nus, ut refert Damascenus, haeres. 84; et 
+Nice<lb break="no" ed="#P" n="98"/>phorus, lib. 17 Hist., c. 29, etin eumdem 
+er<lb break="no" ed="#P" n="99"/>rorem dicitur incidisse Justinianus 
+impera<lb break="no" ed="#P" n="100"/>tor, ut est apud Evagrium, lib. 4 Hist., c. 19,
+<lb ed="#P" n="101"/>et Nicephorum supra, c. 31, qui tamen 
+excu<lb break="no" ed="#P" n="102"/>sat imperatorem, eo quod per ignorantiam
+<lb ed="#P" n="103"/>lapsus fuerit, ut non propterea sit inter 
+hae<lb break="no" ed="#P" n="104"/>reticos reputandus, praesertim quia in VI 
+Sy<lb break="no" ed="#P" n="105"/>nodo, in praefatione ejus, et aliis locis in qui-
+<pb ed="#P" n="172"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>bus fit mentio Justiniani imperatoris, inter
+<lb ed="#P" n="2"/>Catholices et justos numeratur. 
+Fundamen<lb break="no" ed="#P" n="3"/>tum hujus erroris solum fuit, quia non 
+exis<lb break="no" ed="#P" n="4"/>timabant isti haeretici Verbum divinum 
+cor<lb break="no" ed="#P" n="5"/>pus passibile decuisse. In quorum favorem
+<lb ed="#P" n="6"/>adjungi potest illud Psal. 15, et Actorum 2:
+<lb ed="#P" n="7"/>Non dabis Sanctum tuum videre corruptionem.
+<lb ed="#P" n="8"/>Secundus error hic referri potest 
+quorum<lb break="no" ed="#P" n="9"/>dam, qui negarunt assumpsisse Christum 
+cor<lb break="no" ed="#P" n="10"/>pus grave quod natura sua deorsum ferretur.
+<lb ed="#P" n="11"/>Ita sensit Theodorus quidam, ut refert Beda,
+<lb ed="#P" n="12"/>lib. 9 in Marc., c. 28; et D. Thomas, in 
+Ca<lb break="no" ed="#P" n="13"/>tena, Matth. 14 ; <name xml:id="szstco-l01059-Nd1e840">Clictov.</name>, super Damascen.,
+<lb ed="#P" n="14"/>lib. 3, c. 15. Fundamentum fortasse fuit quia
+<lb ed="#P" n="15"/>Christus super aquas ambulabat.
+</p>
+                  <p xml:id="szstco-l01059-d1e847">
+                     <lb ed="#P" n="16"/>2. Dico tamen primo, assumpsisse 
+Ver<lb break="no" ed="#P" n="17"/>bum corpus humanum vere passibile ac
+<lb ed="#P" n="18"/>mortale, atque adeo carens dotibus seu
+<lb ed="#P" n="19"/>perfectionibus gloriae. Est de fide, quae satis
+<lb ed="#P" n="20"/>constat ex illo Luc. 22 : NNonne oportuit pati
+<lb ed="#P" n="21"/>Christum, et ita intrare in gloriam suam?
+<lb ed="#P" n="22"/>constat etiam ex toto Evangelit discursu, in
+<lb ed="#P" n="23"/>quo affirmatur Christum passum fuisse 
+fa<lb break="no" ed="#P" n="24"/>mem, Matth. 4, sitim, Matth. 271, corporis 
+de<lb break="no" ed="#P" n="25"/>fatigationem, Joannis 4, quae vera esse non
+<lb ed="#P" n="26"/>possunt, si corpus vere passibile non habuit.
+<lb ed="#P" n="27"/>Dicere autem, specie solum, et non veritate
+<lb ed="#P" n="28"/>haec passum esse, contra fidem Scripturae est,
+<lb ed="#P" n="29"/>praesertim cum Isai. 53 dicatur : Vere 
+languo<lb break="no" ed="#P" n="30"/>res nostros ipse tulit ; est etiam contra 
+veri<lb break="no" ed="#P" n="31"/>tatem redemptionis. et fidei nostrae, quia si
+<lb ed="#P" n="32"/>non vere mortuus est, nec vere nos redemit,
+<lb ed="#P" n="33"/>nec vere resurrexit; vana esset ergo fides
+<lb ed="#P" n="34"/>nostra, ut in simili argumentatur Paul., 1 ad
+<lb ed="#P" n="35"/>Cor. 15. Denique Paulus, ad Hebr. 2, propter
+<lb ed="#P" n="36"/>corpus passibile dicit, Christum paulo fuisse
+<lb ed="#P" n="37"/>minoratum ab Angelis, et causam reddit 
+di<lb break="no" ed="#P" n="38"/>cens, quia pueri communicaverunt carni et
+<lb ed="#P" n="39"/>sanguini (per quae corpus passibile 
+significa<lb break="no" ed="#P" n="40"/>tur), oportuisse Filium Dei, eisdem 
+partici<lb break="no" ed="#P" n="41"/>passe, et fieri fratribus similem, ut misericors
+<lb ed="#P" n="42"/>fieret; et c. 12 aliam reddit rationem, quam
+<lb ed="#P" n="43"/>etiam docuit Petrus, prima canonica, c. 2,
+<lb ed="#P" n="44"/>dicens : Christus passus est pro nobis, vobis
+<lb ed="#P" n="45"/>relinguens exremplum, etc. Denique contra hos
+<lb ed="#P" n="46"/>haereticos faciunt omnes Scripturae, quae 
+su<lb break="no" ed="#P" n="47"/>pra contra Manichaeos et alios adductae sunt.
+<lb ed="#P" n="48"/>Ilud enim inter hos hereticos convenit, quod
+<lb ed="#P" n="49"/>solum specie et apparentia Christum passum
+<lb ed="#P" n="50"/>esse dicebant, propter quod Phantasiastae
+<lb ed="#P" n="51"/>dicti sunt, ut Nicephorus refert, lib. 18, cap.
+<lb ed="#P" n="52"/>45. Secundo, definita est haec veritas in toto
+<lb ed="#P" n="53"/>Concilio Ephesino; Chalced., act. 5; V Synodo,
+<lb ed="#P" n="54"/>act. 8; VI Synodo, act. 11, 13 et 18; 
+Late<lb break="no" ed="#P" n="55"/>ran., sub Martino, et aliis; et tradit Dama-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>sus Papa, in epist. et in professione suae fidei
+<lb ed="#P" n="57"/>ad Paulinum; et Eutychianus Papa, epist. 1;
+<lb ed="#P" n="58"/>Leo Papa, epist. 11; Ambrosius, lib. 2 de
+<lb ed="#P" n="59"/>Fide, c. 4, et lib. de Incarn. Dom. sacram.,
+<lb ed="#P" n="60"/>c. 6 et 7; Augustinus, epist. 146; 
+Damasce<lb break="no" ed="#P" n="61"/>nus, lib. 3, c. 28; et Tertullianus, lib. de 
+Car<lb break="no" ed="#P" n="62"/>ne Christi; et alios in sequentibus referam.
+<lb ed="#P" n="63"/>Tertio, ratio potissima snmenda est ex fine
+<lb ed="#P" n="64"/>redemptionis ; nam, licet corpus passibile
+<lb ed="#P" n="65"/>non fuerit conveniens Christo secundum se,
+<lb ed="#P" n="66"/>propter unionem ad Verbum. et propter 
+ani<lb break="no" ed="#P" n="67"/>mae gloriam , tamen, supposito lapsu 
+huma<lb break="no" ed="#P" n="68"/>nae naturae, et necessitate redemptionis 
+nos<lb break="no" ed="#P" n="69"/>trae, expediens omnino fuit Christum 
+hujus<lb break="no" ed="#P" n="70"/>modi corpus suscipere, ut exponendo textum
+<lb ed="#P" n="71"/>D. Thomae satis declaratum est, et supra
+<lb ed="#P" n="72"/>etiam, q. 1, art. 2, et dicetur infra, q. 46 et
+<lb ed="#P" n="73"/>AT. Utuntur etiam Patres interdum illa 
+ra<lb break="no" ed="#P" n="74"/>tione, quia alias corpus Christi non esset
+<lb ed="#P" n="75"/>ejusdem naturae cum nostro, ut constat ex
+<lb ed="#P" n="76"/>Damasceno, Nicephoro, et aliis supra citatis.
+<lb ed="#P" n="77"/>Quae ratio per se sumpta non videtur efficax,
+<lb ed="#P" n="78"/>quia potuit esse corpus Christi Domini 
+ejus<lb break="no" ed="#P" n="79"/>dem naturae specificae cum corporibus 
+alio<lb break="no" ed="#P" n="80"/>rum hominum, et tamen non habere 
+eam<lb break="no" ed="#P" n="81"/>dem conditionem, seu statum corruptionis.
+<lb ed="#P" n="82"/>Solum ergo potest procedere illa ratio, 
+sup<lb break="no" ed="#P" n="83"/>ponendo ex fide, Christum a principio, dotes
+<lb ed="#P" n="84"/>gloriae suo corpori non communicasse. Unde
+<lb ed="#P" n="85"/>fit, si corpus illud fuit impassibile, id non
+<lb ed="#P" n="86"/>habuisse ex dono superiori, sed ex natura
+<lb ed="#P" n="87"/>sua ; quo pacto recte sequeretur esse alterius
+<lb ed="#P" n="88"/>naturae a corporibus aliorum hominum.
+</p>
+                  <p xml:id="szstco-l01059-d1e1011">
+                     <lb ed="#P" n="89"/>3. Dico secundo, assumpsisse Verbum in
+<lb ed="#P" n="90"/>corpore humano illos defectus, qui sunt 
+ve<lb break="no" ed="#P" n="91"/>luti naturales proprietates, comitantes 
+con<lb break="no" ed="#P" n="92"/>ditionem corporis mortalis seu passibilis. Est
+<lb ed="#P" n="93"/>certa conclusio, quae ex D. Thoma hie 
+colli<lb break="no" ed="#P" n="94"/>gitur, et ex aliis Scholasticis, in 3, dist. 15,
+<lb ed="#P" n="95"/>et sequitur aperte ex praecedenti, et ex 
+trac<lb break="no" ed="#P" n="96"/>tatis supra, q. 5 et 6, ubi probatum est 
+as<lb break="no" ed="#P" n="97"/>sumpsisse Christum omnes proprietates 
+hu<lb break="no" ed="#P" n="98"/>manme naturae, et quidquid in illa plantavit ;
+<lb ed="#P" n="99"/>et in speciedeclaratur contra secundum 
+erro<lb break="no" ed="#P" n="100"/>rem supra citatum ; quia, sicut corpus Christi
+<lb ed="#P" n="101"/>caruit gloriae immortalitate , impassibihtate ,
+<lb ed="#P" n="102"/>ita etiam caruit claritate et agilitate ; fuit ergo
+<lb ed="#P" n="103"/>corpus ejus grave, sicut sunt nostra; sequitur
+<lb ed="#P" n="104"/>enim haec proprietas naturaliter ex humani
+<lb ed="#P" n="105"/>corporis compositione, nisi supernaturaliter
+<lb ed="#P" n="106"/>impediatur; non est autem impedita in 
+cor<lb break="no" ed="#P" n="107"/>pore passibili, cujus signum certissimum est,
+<lb ed="#P" n="108"/>quia corpus illud ambulando fatigabatur, ut
+<lb ed="#P" n="109"/>constat Joan. 4; illa enim defatigatio ex 
+gra<lb break="no" ed="#P" n="110"/>vitate et corporis corruptione provenit. Ea-
+<pb ed="#P" n="173"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>dem autem ratio est de similibus 
+proprieta<lb break="no" ed="#P" n="2"/>tibus.
+</p>
+                  <p xml:id="szstco-l01059-d1e1070">
+                     <lb ed="#P" n="3"/>4. Ad fundamentum primi erroris ex dictis
+<lb ed="#P" n="4"/>patet responsio; quid enim Deum deceat,
+<lb ed="#P" n="5"/>non ex humano sensu, sed ex divina 
+sapien<lb break="no" ed="#P" n="6"/>tia et bonitate judicandum est; passibile 
+er<lb break="no" ed="#P" n="7"/>go corpus, quamvis de se non esset 
+conve<lb break="no" ed="#P" n="8"/>niens Deo, tamen neque per se fuit indecens,
+<lb ed="#P" n="9"/>et ad redemptionem nostram, virtutisque
+<lb ed="#P" n="10"/>exemplum, fuit maxime decens. In verbis 
+au<lb break="no" ed="#P" n="11"/>tem illis : Non dalis Sanctum tuum videre
+<lb ed="#P" n="12"/>corruptionem, non est sermo de passione aut
+<lb ed="#P" n="13"/>morte humani corporis, sed de corruptione
+<lb ed="#P" n="14"/>corporis jam emortui per putrefactionem,
+<lb ed="#P" n="15"/>vel resolutionem in elementa; haec enim 
+cor<lb break="no" ed="#P" n="16"/>ruptio in corpore Christi locum non habuit.
+</p>
+                  <p xml:id="szstco-l01059-d1e1103">
+                     <lb ed="#P" n="17"/>5. Ad fundamentum secundi erroris 
+res<lb break="no" ed="#P" n="18"/>pondetur : sicut in transfiguratione 
+commu<lb break="no" ed="#P" n="19"/>nicata fuit ad breve tempus humanitati 
+Chri<lb break="no" ed="#P" n="20"/>sti quaedam claritas, vel ejusdem rationis, vel
+<lb ed="#P" n="21"/>aliquo modo similis claritati corporis gloriosi,
+<lb ed="#P" n="22"/>ut infra, suo loco, dicemus, non tamen 
+pro<lb break="no" ed="#P" n="23"/>pterea putandum est Christum habuisse illam
+<lb ed="#P" n="24"/>claritatem toto tempore vitae suae, ita, cum
+<lb ed="#P" n="25"/>aliquando ambulavit super aquas, 
+communi<lb break="no" ed="#P" n="26"/>cavit corpori suo quoddam vestigium 
+agilita<lb break="no" ed="#P" n="27"/>tis corporis gloricsi, non tamen propterea
+<lb ed="#P" n="28"/>existimandum est toto tempore vitae suae 
+il<lb break="no" ed="#P" n="29"/>lam dotem habuisse. An vero pro illo parvo
+<lb ed="#P" n="30"/>tempore communicata sit illi corpori propria
+<lb ed="#P" n="31"/>agilitas corporis gloriosi, quanquam Abulens.,
+<lb ed="#P" n="32"/>Matth. 14, q. 153, id affirmet, incertum est
+<lb ed="#P" n="33"/>tamen ; disputatione enim praecedenti 
+assi<lb break="no" ed="#P" n="34"/>gnavimus duos alios modos, quibus id fieri
+<lb ed="#P" n="35"/>potuit absque qualitate alia, vel mutatione
+<lb ed="#P" n="36"/>facta in ipso corpore Christi, qui eo 
+probabi<lb break="no" ed="#P" n="37"/>liores videntur, quo faciliores sunt. An vero
+<lb ed="#P" n="38"/>effectus ille dicendus sit miraculosus, vel 
+po<lb break="no" ed="#P" n="39"/>tius connaturalis illi corpori ratione unionis,
+<lb ed="#P" n="40"/>vel ratione gloriae ipsius animae, dicemus 
+la<lb break="no" ed="#P" n="41"/>tius infra, quasst. 46, de transfiguratione
+<lb ed="#P" n="42"/>tractantes. Nunc breviter dicitur, supposita
+<lb ed="#P" n="43"/>dispositione illius corporis, et priori 
+miracu<lb break="no" ed="#P" n="44"/>lo, quo factum erat ut ex gloria animae 
+glo<lb break="no" ed="#P" n="45"/>ria ad corpus non redundaret, illud fuisse 
+sim<lb break="no" ed="#P" n="46"/>pliciter miraculosum opus, ct praeter 
+natura<lb break="no" ed="#P" n="47"/>lem conditionem talis corporis, ut loquuntur
+<lb ed="#P" n="48"/>Hieronymus, Chrysostomus, et alii, Matth.
+<lb ed="#P" n="49"/>14; et Dionys., 2 cap. de Divin. nominib., et
+<lb ed="#P" n="50"/>epist. 4 ad Caium; et Augustinus, sermon.
+<lb ed="#P" n="51"/>183 de Tempore; et Hilar., 10 de Trinit.
+</p>
+               </div>
+               <div xml:id="szstco-l01059-Dd1e1183"><!-- szstco-p3q14-d32s2 -->
+                  <head xml:id="szstco-l01059-Hd1e1186">Sectio 2</head>
+                  <head xml:id="szstco-l01059-Hd1e1188" type="question-title">
+utrum assumpserit verbum omnes perfectiones
+connaturales humano corpori, vel potius 
+defectus aliquos illis repugnantes
+</head>
+                  <p xml:id="szstco-l01059-d1e1191">
+                     <cb ed="#P" n="b"/>
+                     <lb ed="#P" n="52" type="fixed=173"/>SECTIO II.
+<lb ed="#P" n="53"/>Utrum assumpserit Verbum omnes perfectiones
+<lb ed="#P" n="54"/>connaturales humano corpori, vel potius 
+defec<lb break="no" ed="#P" n="55"/>tus aliquos illis repugnantes.
+</p>
+                  <p xml:id="szstco-l01059-d1e1204">
+                     <lb ed="#P" n="56"/>1. Duplex potest esse haec perfectio aut 
+de<lb break="no" ed="#P" n="57"/>fectus, scilicet aut per modum actus primi,
+<lb ed="#P" n="58"/>seu permanentis formae, vel habitus, vel 
+pas<lb break="no" ed="#P" n="59"/>sibilis qualitatis, aut per modum actus 
+se<lb break="no" ed="#P" n="60"/>cundi, seu actionis et passionis transeuntis.
+</p>
+                  <p xml:id="szstco-l01059-d1e1217">
+                     <lb ed="#P" n="61"/>2. Dico ergo primo, assumpsisse Christum
+<lb ed="#P" n="62"/>corpus humanum, perfectum, et bene 
+dispo<lb break="no" ed="#P" n="63"/>situm juxta conditionem et statum ex natura
+<lb ed="#P" n="64"/>rei debitum tali corpori ; unde non assumpsit
+<lb ed="#P" n="65"/>defectus huic dispositioni et perfectioni 
+repu<lb break="no" ed="#P" n="66"/>gnantes. Haec est mens D. Thomae hic, art. 4,
+<lb ed="#P" n="67"/>et aliorum Theologorum in 3, dist. 15 ; et
+<lb ed="#P" n="68"/>Bonavent., art. 1, q. 1 et 2; Richard., q. 2 et
+<lb ed="#P" n="69"/>3 ; Durand., q. 1. Et ratio generalis reddi 
+po<lb break="no" ed="#P" n="70"/>test, quia hae perfectiones, cum pertineant ad
+<lb ed="#P" n="71"/>debitam compositionem humani corporis, per
+<lb ed="#P" n="72"/>se decebant et conveniebant corpori humauo
+<lb ed="#P" n="73"/>perfecto ; aliunde vero defectus repugnantes
+<lb ed="#P" n="74"/>huic perfectioni, cum non consistantin aliqua
+<lb ed="#P" n="75"/>actione, vel passione, non conferebant ad 
+me<lb break="no" ed="#P" n="76"/>ritum vel satisfactionem ; non ergo 
+oporte<lb break="no" ed="#P" n="77"/>bat illos assumi. Sed in particulari hoc 
+me<lb break="no" ed="#P" n="78"/>lius explicatur : sequitur enim ex hac 
+conclu<lb break="no" ed="#P" n="79"/>sione, assumpsisse Christum optimum 
+tempe<lb break="no" ed="#P" n="80"/>ramentum seu complexionem humani 
+cor<lb break="no" ed="#P" n="81"/>poris, vut ex ratione facta constat. Et 
+praete<lb break="no" ed="#P" n="82"/>rea, quia tale corpus debetur perfectissimae
+<lb ed="#P" n="83"/>animae, habenti perfectam intelligendi vim;
+<lb ed="#P" n="84"/>hujusmodi autem erat anima Christi, ut 
+su<lb break="no" ed="#P" n="85"/>pra ostensum est ; ac denique quia defectus
+<lb ed="#P" n="86"/>hujus perfectionis nihil ad redemptionem 
+nos<lb break="no" ed="#P" n="87"/>tram deservire poterat.
+</p>
+                  <p xml:id="szstco-l01059-d1e1279">
+                     <lb ed="#P" n="88"/>3. Secundo, ex eadem conclusione 
+colligi<lb break="no" ed="#P" n="89"/>tur, assumpsisse Christum perfectam 
+corpo<lb break="no" ed="#P" n="90"/>ris pulchritudinem, quam in corpore 
+huma<lb break="no" ed="#P" n="91"/>no ac virili esse oportebat ; quod sine causa
+<lb ed="#P" n="92"/>ac temere negare ausus est Michael Medina,
+<lb ed="#P" n="93"/>lib. 2 de Rectain Deum fide, cap. 7. Est enim
+<lb ed="#P" n="94"/>haec communis sententia Sanctorum, ad quam
+<lb ed="#P" n="95"/>accommodari potest illud Psalm. 44 : 
+Specio<lb break="no" ed="#P" n="96"/>sus forma pra filiüs Lomiram ; nam, licet 
+Ba<lb break="no" ed="#P" n="97"/>sil. ibi, et Cyrillus, lib. 5 sup. 53 c. Isai., de
+<lb ed="#P" n="98"/>pulchritudine divinitatis hunc locum 
+intelli<lb break="no" ed="#P" n="99"/>gant, Theodoretus vero, Remigius, et 
+Arno<lb break="no" ed="#P" n="100"/>bius ibi, et Gregorius, lib. 1 Regum, c. 1. de
+<lb ed="#P" n="101"/>pulchritudine gratiae exponant, tamen de 
+pul<lb break="no" ed="#P" n="102"/>chritudine corporis interpretantur Augustinus
+<lb ed="#P" n="103"/>ef Cassiodor. ibi, et Bernardus, serm. 1de
+<lb ed="#P" n="104"/>Omnibus Sanctis ; Chrysostomus, hom. 18 in
+<pb ed="#P" n="174"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>Matt.. ubi de hac pulchritudine Christi 
+pul<lb break="no" ed="#P" n="2"/>chre loquens, inter alia inquit : Sicutinsignis
+<lb ed="#P" n="3"/>perficiendis miraculas fuit, ita visu 
+gratiosissi<lb break="no" ed="#P" n="4"/>mtts fuisse dicitur ; inferius vero tractans 
+il<lb break="no" ed="#P" n="5"/>lud Isai. 53 : Non erat ei species, neque decor,
+<lb ed="#P" n="6"/>dictum esse exponit , vel quia pulchritudo 
+di<lb break="no" ed="#P" n="7"/>vinitatis sub mortali corpore occultabatur, ut
+<lb ed="#P" n="8"/>etiam Cyrillus supra citatus exponit ; vel quia
+<lb ed="#P" n="9"/>ipsa corporis pulchritudo, per ejusdem 
+ma<lb break="no" ed="#P" n="10"/>cerationem, passionem et tormenta, quasi
+<lb ed="#P" n="11"/>deformata et abolita fuit, vel potius occultata,
+<lb ed="#P" n="12"/>juxta id, quod statim subjungitur : Et quasi
+<lb ed="#P" n="13"/>absconditus vultus ejus ; quam expositionem
+<lb ed="#P" n="14"/>probavit etiam Tertullianus, lib. contra 
+Ju<lb break="no" ed="#P" n="15"/>daeos, c. de Claritate gentium, et 3 lib. 
+con<lb break="no" ed="#P" n="16"/>tra Marcion., et Vigilius, lib. 2 contra 
+Euty<lb break="no" ed="#P" n="17"/>chem ; et in eumdem sensum tractat 
+utrum<lb break="no" ed="#P" n="18"/>que locum Hieronym., tom. 2, epist. 160, ad
+<lb ed="#P" n="19"/>Principiam, ubi inquit: Absque passionibus
+<lb ed="#P" n="20"/>corporis, universis pulchrior est, virgo de 
+Vir<lb break="no" ed="#P" n="21"/>gine, qui non em sanguinibus, sed ex Deo 
+na<lb break="no" ed="#P" n="22"/>tus est. Et ad eumdem sensum dicit Nazianz.,
+<lb ed="#P" n="23"/>orat. 9 Paschae, inresurrectione fuisse 
+Chris<lb break="no" ed="#P" n="24"/>to Domino pulchritudinem restitutam , non
+<lb ed="#P" n="25"/>quod naturalis corporis fonma, membrorum
+<lb ed="#P" n="26"/>proportio, et nativus color mutata fuerint ,
+<lb ed="#P" n="27"/>sed quia perfectum statum suum habuere, et
+<lb ed="#P" n="28"/>per corporis gloriam quasi illustrata sunt, ut
+<lb ed="#P" n="29"/>D. Thomas infra dicit, q. 54, art. 1, ad 3. In
+<lb ed="#P" n="30"/>hac denique sententia est Clemens Alexand.,
+<lb ed="#P" n="31"/>lib. Paedag.. c. 1; et Abulens., Parad. 1.
+</p>
+                  <p xml:id="szstco-l01059-d1e1390">
+                     <lb ed="#P" n="32"/>4. Ratione ita declaratur, quia, ut D. 
+Tho<lb break="no" ed="#P" n="33"/>mas docet, 4 p., q. 39, a. 8, et 2. 2, q. 155,
+<lb ed="#P" n="34"/>a. 2, ex Dionys., c. 4 de Div. nomin. , et 
+Au<lb break="no" ed="#P" n="35"/>gustin., 22 de Civit., cap. 19, pulchritudo
+<lb ed="#P" n="36"/>ex tribus consurgit : primo, ex omnium 
+mem<lb break="no" ed="#P" n="37"/>brorum integritate, quam fuisse in corpore
+<lb ed="#P" n="38"/>Christi Domini certissimum est; non enim 
+ac<lb break="no" ed="#P" n="39"/>cepit corpus mutilum aut monstrosum, sed
+<lb ed="#P" n="40"/>in naturali sua integritate, sic enim docent
+<lb ed="#P" n="41"/>Patres assumpsisse omnia quae in nostra 
+na<lb break="no" ed="#P" n="42"/>tura plantavit. Secundo, ex eorumdem 
+mem<lb break="no" ed="#P" n="43"/>brorum debita proportione, ct hanc fuisse
+<lb ed="#P" n="44"/>etiam in corpore Christi facile persuaderi 
+po<lb break="no" ed="#P" n="45"/>test, tum quia tale corpus debebatur 
+perfec<lb break="no" ed="#P" n="46"/>tissimae animae ejus ; tum etiam quia oportuit
+<lb ed="#P" n="47"/>ut corpus illud esset aptissimum ad omnia
+<lb ed="#P" n="48"/>opera vitae exercenda, quae aptitudo multum
+<lb ed="#P" n="49"/>ex dicta proportione pendet ; denique hoc 
+fa<lb break="no" ed="#P" n="50"/>cile colligitur ex forma ejus, quam describit
+<lb ed="#P" n="51"/>Nicephorus, lib. 1 Hist., c. ulum. Tertio, 
+re<lb break="no" ed="#P" n="52"/>quiritur ad pulchritudinem conveniens color
+<lb ed="#P" n="53"/>nativus, qui oritur ex optimo temperamento
+<lb ed="#P" n="54"/>ct complexione ; sicut ergo baec fuit optima
+<lb ed="#P" n="55"/>in Christi corpore, ita illi erat connaturalis
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>perfectus color, et ad pulchritudinem 
+corpo<lb break="no" ed="#P" n="57"/>ris humani maxime accommodatus. Et 
+con<lb break="no" ed="#P" n="58"/>firmatur primo, quia corpus Christi Domini
+<lb ed="#P" n="59"/>Spiritus Sancti virtute fabricatum est; sed
+<lb ed="#P" n="60"/>opera, quae Deus per se ipsum facit, sunt 
+pul<lb break="no" ed="#P" n="61"/>cherrima et perfecta; ergo. Confirmatur 
+se<lb break="no" ed="#P" n="62"/>cundo, quia Adam, eo quod ab ipso Deo 
+im<lb break="no" ed="#P" n="63"/>mediate effectus est, fuit pulcherrimus et 
+op<lb break="no" ed="#P" n="64"/>time dispositus; multo ergo magis Christus.
+<lb ed="#P" n="65"/>Confirmatur tertio, quia corpus Christi 
+futu<lb break="no" ed="#P" n="66"/>rum est veluti objectum beatitudinis corporis
+<lb ed="#P" n="67"/>nostri, ut supra, disputatione 5, cum 
+Augus<lb break="no" ed="#P" n="68"/>tino et Cypriano dicebamus; est etiam 
+futu<lb break="no" ed="#P" n="69"/>rum exemplar pulchritudinis omnium 
+corpo<lb break="no" ed="#P" n="70"/>rum beatorum ; ergo est ipsum 
+pulcherrt<lb break="no" ed="#P" n="71"/>mum. Tandem confirmatur, quia nec per se
+<lb ed="#P" n="72"/>fuit expetibile ut Christus hac perfectione
+<lb ed="#P" n="73"/>careret, nec defectus illius nostrae 
+deservie<lb break="no" ed="#P" n="74"/>bat redemptiont.
+</p>
+                  <p xml:id="szstco-l01059-d1e1488">
+                     <lb ed="#P" n="75"/>5. Objectio. — Responsio. — Dices, imo per
+<lb ed="#P" n="76"/>se decuisse, et ad quandam reverentiam Deo
+<lb ed="#P" n="77"/>debitam pertinuisse, ne pulchritudinem 
+affec<lb break="no" ed="#P" n="78"/>taret, quia quamvis neque oportuerit illum
+<lb ed="#P" n="79"/>esse deformem , tamen virum religiosum, et
+<lb ed="#P" n="80"/>Evangelii praedicatorem nec pulchritudo 
+de<lb break="no" ed="#P" n="81"/>cebat, sed quaedam mediocris gravisque 
+ve<lb break="no" ed="#P" n="82"/>nustas. Respondetur : naturalis et virilis 
+pul<lb break="no" ed="#P" n="83"/>chritudo, cum summa virtute et modestia
+<lb ed="#P" n="84"/>conjuncta, maxime decet et ornat 
+quemcun<lb break="no" ed="#P" n="85"/>que sanctum virum, et incitat ad reverentiam
+<lb ed="#P" n="86"/>et dilectionem; praesertim quando propter
+<lb ed="#P" n="87"/>labores et afflictiones corporis ita est 
+mode<lb break="no" ed="#P" n="88"/>raia, ut per se ostendat, solum ab ipsa 
+na<lb break="no" ed="#P" n="89"/>turali compositione et formatione perfecta
+<lb ed="#P" n="90"/>proficisci, non ex humana curiositate seu 
+at<lb break="no" ed="#P" n="91"/>fectatione.
+</p>
+                  <p xml:id="szstco-l01059-d1e1527">
+                     <lb ed="#P" n="92"/>6. Dico secundo, non assumpsisse Christum
+<lb ed="#P" n="93"/>omnes perfectiones naturales commodas 
+cor<lb break="no" ed="#P" n="94"/>pori humano, quae in actione aliqua, vel 
+pas<lb break="no" ed="#P" n="95"/>sione, seu in actuali dispositione consistunt ;
+<lb ed="#P" n="96"/>sed potius defectus contrarios , cujusmodi
+<lb ed="#P" n="97"/>sunt fames , sitis, defatigatio corporis, et 
+si<lb break="no" ed="#P" n="98"/>miles. Haec conclusio, hoc sensu explicata,
+<lb ed="#P" n="99"/>est certa secundum fidem, et probatur satis
+<lb ed="#P" n="100"/>ex testimoniis Scripturae citatis sectione 
+prae<lb break="no" ed="#P" n="101"/>cedenti. Et ratio est qua D. Thomas est usus,
+<lb ed="#P" n="102"/>quia hi defectus sunt poenae accommodatae
+<lb ed="#P" n="103"/>ad satisfaciendum pro nobis, et praebenda
+<lb ed="#P" n="104"/>exempla virtutis. Solum superest 
+explican<lb break="no" ed="#P" n="105"/>dum quos ex his defectibus assumpserit ;
+<lb ed="#P" n="106"/>constat enim non assumpsisse omnes 
+possi<lb break="no" ed="#P" n="107"/>biles humano corpori , quia neque oportuit,
+<lb ed="#P" n="108"/>neque convenienter fieri potuit. In quo 
+bre<lb break="no" ed="#P" n="109"/>viter dicendum est primo, suscepisse 
+passio<lb break="no" ed="#P" n="110"/>nes illas, quae intrinsece oriuntur ex corpore
+<pb ed="#P" n="175"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>mortali, et toti naturae communes sunt ; 
+per<lb break="no" ed="#P" n="2"/>tinebat enim hoc ad veritatem corporis 
+mor<lb break="no" ed="#P" n="3"/>talis, et ad fidem ejus comprobandam. 
+Susce<lb break="no" ed="#P" n="4"/>pit deinde aliquas passiones, vel defectus ab
+<lb ed="#P" n="5"/>extrinseca causa naturali vel violenta 
+prove<lb break="no" ed="#P" n="6"/>nientes ; sic enim interdum passus est frigus
+<lb ed="#P" n="7"/>vel calorem , flagella et crucem. Regula 
+au<lb break="no" ed="#P" n="8"/>tem seu mensura harum passionum fuit 
+aeter<lb break="no" ed="#P" n="9"/>na Dei sapientia, qua definitum fuit quid n
+<lb ed="#P" n="10"/>hoc genere expediret suscipere. Unde 
+tan<lb break="no" ed="#P" n="11"/>dem dicitur non accepisse quosdam defectus,
+<lb ed="#P" n="12"/>qui vel indecentiam aliquam continent , vel
+<lb ed="#P" n="13"/>communes non sunt toti naturae, sed ex 
+ali<lb break="no" ed="#P" n="14"/>qua speciali imperfectione oriuntur, ut hic
+<lb ed="#P" n="15"/>D. Thomas, et cum illo omnes Theologi 
+do<lb break="no" ed="#P" n="16"/>cent.
+</p>
+                  <p xml:id="szstco-l01059-d1e1610">
+                     <lb ed="#P" n="17"/>7. Nullum morium nueque eegritudinem 
+as<lb break="no" ed="#P" n="18"/>sunpsit Christus.— Ohjectio. — Responsio. —
+<lb ed="#P" n="19"/>Ex quo expeditur commune dubium , an in
+<lb ed="#P" n="20"/>Christo fuerit morbus aliquis, ut febris, aut
+<lb ed="#P" n="21"/>morbus caducus; non enim defuerunt, qui
+<lb ed="#P" n="22"/>assererent Christum assumpsisse hujusmodi
+<lb ed="#P" n="23"/>eeeritudines, ut in omnibus fratribus 
+assimi<lb break="no" ed="#P" n="24"/>laretur. Sed est sententia temeraria, et 
+pia<lb break="no" ed="#P" n="25"/>rum aurium offensiva, eo magis quo 
+aegritu<lb break="no" ed="#P" n="26"/>do Christo attributa majorem imperfectionem
+<lb ed="#P" n="27"/>vel indecentiam continuerit. Dicendum ergo
+<lb ed="#P" n="28"/>est. neque morbum, neque aegritudinem 
+as<lb break="no" ed="#P" n="29"/>sumpsisse, ut sensit D. Thomas hic, et alu,
+<lb ed="#P" n="30"/>in 3, dist. 15 et 16; et docuit ctiam Abul.,
+<lb ed="#P" n="31"/>Paradox. 3, c. 21; Cajet., 2 tom. Opusc.,
+<lb ed="#P" n="32"/>opusculo 13 ; Glossae, Lyra, et alii expositores
+<lb ed="#P" n="33"/>Matth. 8, ubi citatur illud Isai. 53: Vere 
+lan<lb break="no" ed="#P" n="34"/>guores mostros ipse tulii, qui exponunt, id est,
+<lb ed="#P" n="35"/>non in se accepit, sed a nobis abstulit et 
+de<lb break="no" ed="#P" n="36"/>pulit; quod multi referunt ad virtutem 
+mira<lb break="no" ed="#P" n="37"/>culorum , per quam morbos hominum 
+sana<lb break="no" ed="#P" n="38"/>bat, ut videre est in D. Hieron. super Isai.; et
+<lb ed="#P" n="39"/>August., tract. 91 in Joan. ; et Basilio, in 
+re<lb break="no" ed="#P" n="40"/>gulis brevioribus, in 177; quamvis locus ille
+<lb ed="#P" n="41"/>Isai. alium etiam litteralem sensum habere
+<lb ed="#P" n="42"/>possit, ut constat ex 1 epist. Petri, c. 2. Juxta
+<lb ed="#P" n="43"/>praedictum vero sensum, videtur dixisse 
+Atha<lb break="no" ed="#P" n="44"/>nasius, libro de Incarnat., ante medium, non
+<lb ed="#P" n="45"/>decuisse ut is, qui ad tollendas infirmitates
+<lb ed="#P" n="46"/>nostras veniebat , aegritudines susciperet ;
+<lb ed="#P" n="47"/>unde cum Isaias Christum vocat virum 
+dolo<lb break="no" ed="#P" n="48"/>rum , et scientem infirmitatem , infirmitatem
+<lb ed="#P" n="49"/>vocat ipsam passionem et corporis 
+afflictio<lb break="no" ed="#P" n="50"/>nem, ut omnes Patres exponunt, non aliquem
+<lb ed="#P" n="51"/>morbum vel corporis aegritudinem. Ratio
+<lb ed="#P" n="52"/>redditur a D. Thoma, quia morbus vel 
+aegri<lb break="no" ed="#P" n="53"/>tudo non oritur nisi vel ex imperfecta 
+corpo<lb break="no" ed="#P" n="54"/>ris formatione, quae in Christo locum non 
+ha<lb break="no" ed="#P" n="55"/>buit, ut constat; vel ex aliqua immoderatione
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>in cibo et potu, aut ex alia simili causa, quae
+<lb ed="#P" n="57"/>quam longissime etiam a Christo abfuit. 
+Di<lb break="no" ed="#P" n="58"/>ces: interdum potest etiam provenire ex causa
+<lb ed="#P" n="59"/>extrinseca, ut ex inclementia aeris, vel ex 
+in<lb break="no" ed="#P" n="60"/>fluentia coeli. Respondetur corpus optime
+<lb ed="#P" n="61"/>temperatum, quale fuit corpus Christi, facile
+<lb ed="#P" n="62"/>resistere et superare hujusmodi injuriam vel
+<lb ed="#P" n="63"/>intemperiem coeli, praesertim quia hujusmodi
+<lb ed="#P" n="64"/>causa nimium violentae facile poterant ab
+<lb ed="#P" n="65"/>ipso Christo vitari, quod et expediens fuit,
+<lb ed="#P" n="66"/>cum hujusmodi defectus nec per se divinam
+<lb ed="#P" n="67"/>personam decerent, neque nobis essent 
+ne<lb break="no" ed="#P" n="68"/>cessarii vel utiles.
+</p>
+                  <p xml:id="szstco-l01059-d1e1727">
+                     <lb ed="#P" n="69"/>8. Objectio. — Responsio.— Christus absque
+<lb ed="#P" n="70"/>ulla aegritudine tandem moreretur , si per vcin
+<lb ed="#P" n="71"/>non esset interfectus.—Sed dicet aliquis : ergo
+<lb ed="#P" n="72"/>si Christus non fuisset per vim interfectus,
+<lb ed="#P" n="73"/>nunquam fuisset mortuus, quod repugnat
+<lb ed="#P" n="74"/>conditioni corporis mortalis. Sequela vero
+<lb ed="#P" n="75"/>patet, quia nunquam contraheret morbum
+<lb ed="#P" n="76"/>aut aegritudinem; ex sententia autem 
+medi<lb break="no" ed="#P" n="77"/>corum, non potest homo senio confici aut
+<lb ed="#P" n="78"/>naturaliter mori , nisi in illo aliqua aegritudo
+<lb ed="#P" n="79"/>intercedat. Respondetur, nos tantum fuisse
+<lb ed="#P" n="80"/>locutos de facto; nam de possibili, si Christus
+<lb ed="#P" n="81"/>usque ad senilem et decrepitam aetatem 
+vi<lb break="no" ed="#P" n="82"/>veret, fortasse non repugnaret ut in aliquam
+<lb ed="#P" n="83"/>segritudinem incidere posset levem, et ad
+<lb ed="#P" n="84"/>breve tempus, qualem eam medici describunt
+<lb ed="#P" n="85"/>accidere in iis qui, naturaliter senio confecti,
+<lb ed="#P" n="86"/>quasi sponte sua occidunt. Secundo vero dici
+<lb ed="#P" n="87"/>pctest esse disparem rationem de morte et
+<lb ed="#P" n="88"/>eegritudiue ; mors enim habet intrinsecam et
+<lb ed="#P" n="89"/>sufticientem causam in ipsa naturali 
+compo<lb break="no" ed="#P" n="90"/>sitione et conservatione humani corporis, ex
+<lb ed="#P" n="91"/>qua fit ut naturalis calor et humidum radicale
+<lb ed="#P" n="92"/>paulatim remittantur et debilitentur, et 
+tan<lb break="no" ed="#P" n="93"/>dem deficiant; morbus autem vel aegritudo
+<lb ed="#P" n="94"/>non habet sufliciens principium intrinsecum
+<lb ed="#P" n="95"/>in ipsa natura , si corpus ipsum bene 
+forma<lb break="no" ed="#P" n="96"/>tum sit, et convenienter gubernatum. llla
+<lb ed="#P" n="97"/>enim remissio vel debilitas, quae paulatim fit
+<lb ed="#P" n="98"/>in ipsa naturali virtute, non habet rationem
+<lb ed="#P" n="99"/>eeeritudinis, sed naturalis dispositionis, in
+<lb ed="#P" n="100"/>tali aetate convenientis humano corpori. 
+Quo<lb break="no" ed="#P" n="101"/>circa sententia illa medicorum, si vera est,
+<lb ed="#P" n="102"/>juxta communem usum vitae humanae 
+inter<lb break="no" ed="#P" n="103"/>pretanda est; per se autem et intrinsece non
+<lb ed="#P" n="104"/>repugnat corpori humano usque ad mortem
+<lb ed="#P" n="105"/>pervenire per actionem mutuam caloris 
+na<lb break="no" ed="#P" n="106"/>turalis, et alimenti, etc., absque propria 
+aegri<lb break="no" ed="#P" n="107"/>tudine intercedente; nam dispositio naturalis,
+<lb ed="#P" n="108"/>in qua potest humanum corpus conservari,
+<lb ed="#P" n="109"/>habet certum terminum saltem extrinsecum,
+<lb ed="#P" n="110"/>et statim ac illum attingit, deficit, et unio
+<pb ed="#P" n="176"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>corporis et animae dissolvitur. Potest autem
+<lb ed="#P" n="2"/>remissio naturalis caloris usque ad illum 
+ter<lb break="no" ed="#P" n="3"/>minum paulatim pervenire absque 
+aegritudi<lb break="no" ed="#P" n="4"/>ne, quia in singulis aetatibus potest corpus
+<lb ed="#P" n="5"/>illud in convenienti dispositione conservari.
+<lb ed="#P" n="6"/>Nam, sicut pueritiae conveniens est talis 
+dis<lb break="no" ed="#P" n="7"/>positio , sic etiam senectuti et aliis aetatibus;
+<lb ed="#P" n="8"/>morbus autem proprie consistit in defectu
+<lb ed="#P" n="9"/>naturalis et convenientis dispositionis corpori
+<lb ed="#P" n="10"/>humano in tali statu vel aetate debitae. Poterat
+<lb ed="#P" n="11"/>autem corpus Christi nunquam carere 
+hujus<lb break="no" ed="#P" n="12"/>modi dispositione , et nihilominus naturaliter
+<lb ed="#P" n="13"/>mori, ut explicatum est.
+</p>
+               </div>
+               <div xml:id="szstco-l01059-Dd1e1854"><!-- szstco-p3q14-d32s3 -->
+                  <head xml:id="szstco-l01059-Hd1e1857">Sectio 3</head>
+                  <head xml:id="szstco-l01059-Hd1e1859" type="question-title">
+an hi defectus fuerint necessarii vel voluntarii
+christo domino
+</head>
+                  <p xml:id="szstco-l01059-d1e1862">
+                     <lb ed="#P" n="14" type="fixed=176"/>SECTIO III.
+<lb ed="#P" n="15"/>An hi defectus fuerint necessarii vel voluntarii
+<lb ed="#P" n="16"/>Christo Domino.
+</p>
+                  <p xml:id="szstco-l01059-d1e1871">
+                     <lb ed="#P" n="17"/>1. Dubium hoc solum habet locum, proprie
+<lb ed="#P" n="18"/>loquendo, in his defectibus qui in aliqua 
+ac<lb break="no" ed="#P" n="19"/>tione vel passione consistunt. Et ratio dubii
+<lb ed="#P" n="20"/>sumi potest ex Damasc., lib. de Haeret., in 84,
+<lb ed="#P" n="21"/>ubi inter haereses Juliani et aliorum ponit,
+<lb ed="#P" n="22"/>quod dicerent has passiones non fuisse in
+<lb ed="#P" n="23"/>Christo sicut in nobis, quia in nobis 
+necessa<lb break="no" ed="#P" n="24"/>riae, in Christo autem voluntariae extiterunt.
+<lb ed="#P" n="25"/>In contrarium vero est, quia ipse Damasc., l.
+<lb ed="#P" n="26"/>3 de Fid., c. 20, dicit has passiones fuisse in
+<lb ed="#P" n="27"/>Christo voluntarias, imo et supernaturales
+<lb ed="#P" n="28"/>eas vocat, quia non praeveniebant voluntatem,
+<lb ed="#P" n="29"/>quamvis etiam appellet illas naturales, quia
+<lb ed="#P" n="30"/>sunt secundum naturam.
+</p>
+                  <p xml:id="szstco-l01059-d1e1904">
+                     <lb ed="#P" n="31"/>2. Supponendum vero est sermonem esse
+<lb ed="#P" n="32"/>de voluntario, prout ab actu voluntatis 
+hu<lb break="no" ed="#P" n="33"/>manae denominatio haec sumi potest, nam 
+se<lb break="no" ed="#P" n="34"/>cundum voluntatem divinam constat, hos 
+de<lb break="no" ed="#P" n="35"/>fectus fuisse voluntarios, tum in ipsa 
+assum<lb break="no" ed="#P" n="36"/>ptione voluntaria corporis passibilis , tum
+<lb ed="#P" n="37"/>etiam in se ipsis; quia dum Christus 
+patieba<lb break="no" ed="#P" n="38"/>tur, hoc ipsum divina voluntas volebat et 
+efti<lb break="no" ed="#P" n="39"/>ciebat ; loquimur enim de innoxiis et 
+poenali<lb break="no" ed="#P" n="40"/>bus defectibus, ut erant omnes Christi 
+passio<lb break="no" ed="#P" n="41"/>nes. Respectu vero voluntatis humanae , 
+du<lb break="no" ed="#P" n="42"/>pliciter potest aliquid dici voluntarium, 
+scili<lb break="no" ed="#P" n="43"/>cet, vel ut effectus seu actus cujus principium
+<lb ed="#P" n="44"/>est voluntas, vel ut objectum tantum quod
+<lb ed="#P" n="45"/>voluntas ipsa amat, seu acceptat, quamvis 
+il<lb break="no" ed="#P" n="46"/>lius principium non sit. Denique voluntas 
+hu<lb break="no" ed="#P" n="47"/>mana Christi considerari potest, vel 
+secun<lb break="no" ed="#P" n="48"/>dum naturales vires suas, vel ut 
+instrumen<lb break="no" ed="#P" n="49"/>tum Verbi, habens vim ad efficienda opera
+<lb ed="#P" n="50"/>quae naturam superant.
+</p>
+                  <p xml:id="szstco-l01059-d1e1951">
+                     <lb ed="#P" n="51"/>3. Hi defectus quomodo Christo necessarii
+<lb ed="#P" n="52"/>fuerint. — Dico ergo primo : supposita 
+dis<lb break="no" ed="#P" n="53"/>positione naturali, in qua corpus Christi pas-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>sibile formatum est, et positis etiam aliis 
+na<lb break="no" ed="#P" n="55"/>turalibus causis, necessitate quadam naturali
+<lb ed="#P" n="56"/>patiebatur Christus hos defectus, ut famem,
+<lb ed="#P" n="57"/>sitim, etc., nec poterat eos per vires 
+natura<lb break="no" ed="#P" n="58"/>les humanae voluntatis impedire ; et hoc 
+mo<lb break="no" ed="#P" n="59"/>do dicitur Christus assumpsisse necessitatem
+<lb ed="#P" n="60"/>subjacendi his defectibus, et eodem sensu 
+di<lb break="no" ed="#P" n="61"/>cuntur necessarii. Hic est sensus D. Thomae
+<lb ed="#P" n="62"/>hic, art. 4, et praeced. q., art. 3, in quo 
+con<lb break="no" ed="#P" n="63"/>sentiunt Theologi, in 3, dist. 15 et 16; 
+Mar<lb break="no" ed="#P" n="64"/>sil. , q. 11; Alexand. Alens., 3 p., q. 17,
+<lb ed="#P" n="65"/>memb. 1; et hoc sensu videtur Damasc. 
+con<lb break="no" ed="#P" n="66"/>trariam sententiam ut haereticam damnare ;
+<lb ed="#P" n="67"/>videntur enim illi haeretici dixisse, tale fuisse
+<lb ed="#P" n="68"/>corpus Christi, taliterque dispositum,ut etiam
+<lb ed="#P" n="69"/>ab igne sibi applicato non necessario 
+calefie<lb break="no" ed="#P" n="70"/>ret, etiam secluso miraculo, et ideo dicebant
+<lb ed="#P" n="71"/>non paruisse naturae legibus. Quae sententia
+<lb ed="#P" n="72"/>eo haeretica est, quod in re negat corpus
+<lb ed="#P" n="73"/>Christi vere fuisse passibile ; unde ex 
+contra<lb break="no" ed="#P" n="74"/>rio principio fidei sufficienter probatur 
+con<lb break="no" ed="#P" n="75"/>clusio. Quae confirmatur, nam corpus Christi
+<lb ed="#P" n="76"/>vere et naturaliter indiguit cibo et potu;
+<lb ed="#P" n="77"/>quando ergo haec deerant, famem et sitim 
+na<lb break="no" ed="#P" n="78"/>turali necessitate sentiebat. Quare, quod 
+qua<lb break="no" ed="#P" n="79"/>draginta diebus fuerit sine cibo, in miraculis
+<lb ed="#P" n="80"/>ejus a Patribus numeratur. Unde etiam 
+con<lb break="no" ed="#P" n="81"/>firmatur ; nam augmentum et decrementum,
+<lb ed="#P" n="82"/>et diversarum aetatum successio ex naturali
+<lb ed="#P" n="83"/>necessitate inventa est in corpore Christi ; 
+er<lb break="no" ed="#P" n="84"/>go alteratio ex calore naturali, vel ex 
+alimen<lb break="no" ed="#P" n="85"/>to, et aliae similes naturali necessitate fuerunt
+<lb ed="#P" n="86"/>in ipso ; ergo et naturales defectus, qui hinc
+<lb ed="#P" n="87"/>sequuntur, ut fames, sitis, defatigatio, et 
+de<lb break="no" ed="#P" n="88"/>nique mors naturaliter esset secuta, nisi per
+<lb ed="#P" n="89"/>violentiam anticipata fuisset, ut Augustinus
+<lb ed="#P" n="90"/>docuit lib. 2 de Peccatorum merit. et remis.,
+<lb ed="#P" n="91"/>c. 29. et D. Thomas, in 3, d. 16, q. 1, art. 2.
+</p>
+                  <p xml:id="szstco-l01059-d1e2045">
+                     <lb ed="#P" n="92"/>4. Quomodo fuerint voluntarii.— Dico 
+se<lb break="no" ed="#P" n="93"/>cundo : nihilominus hi defectus fuerunt 
+Chri<lb break="no" ed="#P" n="94"/>sto homini voluntarii : primo, per modum 
+ob<lb break="no" ed="#P" n="95"/>jecti voluntarie acceptati et amati, vel in 
+ip<lb break="no" ed="#P" n="96"/>samet assumptione corporis passibilis, juxta
+<lb ed="#P" n="97"/>illud : Corpus autem adaptasti mihi, tunc 
+di<lb break="no" ed="#P" n="98"/>ai Ecce venio, in capite libri scriptum est de
+<lb ed="#P" n="99"/>ine, ut facerem voluntatem tuam, Deus meus.
+<lb ed="#P" n="100"/>volui ; vel in singulis occasionibus, cum se
+<lb ed="#P" n="101"/>offerebat opportunitas vel necessitas 
+sustinen<lb break="no" ed="#P" n="102"/>di hujusmodi defectus. Secundo, per modum
+<lb ed="#P" n="103"/>effectus aliquo modo procedentis ab ipsamet
+<lb ed="#P" n="104"/>voluntate Christi, vel quia occasiones, et 
+cau<lb break="no" ed="#P" n="105"/>sas hujusmodi defectuum voluntarie 
+assumc<lb break="no" ed="#P" n="106"/>bat, ut cum jejunabat, et usque ad 
+defatiga<lb break="no" ed="#P" n="107"/>tionem ambulabat; vel quia saltem ut 
+instru<lb break="no" ed="#P" n="108"/>mentum Verbi poterat has passiones impe-
+<pb ed="#P" n="177"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>dire, et nolebat; et hic est sensus Damasceni.
+<lb ed="#P" n="2"/>secundo loco supra citato, et Sophronii, in
+<lb ed="#P" n="3"/>Epistola Synodali, quae refertur VI Synod.,
+<lb ed="#P" n="4"/>act. 11; D. Thomae hic, et aliorum. Quae 
+doc<lb break="no" ed="#P" n="5"/>trina et per se satis probata est, et 
+confirma<lb break="no" ed="#P" n="6"/>ri potest, quia Christus assumpsit hos 
+defec<lb break="no" ed="#P" n="7"/>tus, ut per eos pro nobis satistaceret ; 
+opor<lb break="no" ed="#P" n="8"/>tuit ergo ut essent voluntarii, alias non 
+fuis<lb break="no" ed="#P" n="9"/>sent ad satisfaciendum idonei.
+</p>
+                  <p xml:id="szstco-l01059-d1e2108">
+                     <lb ed="#P" n="10"/>5. Et ex his sequitur primo, hujyusmodi 
+de<lb break="no" ed="#P" n="11"/>tectus seu passiones non fuisse Christo 
+sim<lb break="no" ed="#P" n="12"/>pliciter coactas, quia, licet essent contra 
+ap<lb break="no" ed="#P" n="13"/>petitum naturae, et interdum contra 
+natura<lb break="no" ed="#P" n="14"/>lem aliquam displicentiam voluntatis, ut 
+na<lb break="no" ed="#P" n="15"/>tura est , fuerunt tamen consentanei 
+delibe<lb break="no" ed="#P" n="16"/>ratae atque absolutae et efficaci voluntati, a
+<lb ed="#P" n="17"/>qua habet actio, ut sit voluntaria simpliciter,
+<lb ed="#P" n="18"/>quamvis sit involuntaria aut violenta 
+secun<lb break="no" ed="#P" n="19"/>dum quid, ut constat ex 3 Ethic., c. 1, et 1.
+<lb ed="#P" n="20"/>2. q. 6, art. 6, de qua re plura dicemus 
+infe<lb break="no" ed="#P" n="21"/>rius, quaestione 18. Secundo, ex his intelligi
+<lb ed="#P" n="22"/>et conciliari possunt varia Theolocorum 
+dic<lb break="no" ed="#P" n="23"/>ta ; affimant enim aliqui, Christum 
+Domi<lb break="no" ed="#P" n="24"/>num non fuisse ita subjectum necessitati 
+ha<lb break="no" ed="#P" n="25"/>rum aftectionum, quin fuerit in ejus 
+volun<lb break="no" ed="#P" n="26"/>tate positum illas non sentire, etiamsi 
+contra<lb break="no" ed="#P" n="27"/>ria agentia essent sufficienter applicata, 
+quo<lb break="no" ed="#P" n="28"/>modo loquitur Abulensis supra. Alii 
+veroom<lb break="no" ed="#P" n="29"/>nes contrario modo loquuntur. Sed primum
+<lb ed="#P" n="30"/>est verum, considerata Christi voluntate, ut
+<lb ed="#P" n="31"/>Verbi instrumentum est. Secundum vero,
+<lb ed="#P" n="32"/>consideratis solum naturalibus viribus 
+huma<lb break="no" ed="#P" n="33"/>nae voluntatis. Deinde dicunt aliqui, 
+passio<lb break="no" ed="#P" n="34"/>nes has fuisse Christo voluntarias, solum 
+vo<lb break="no" ed="#P" n="35"/>luntate concomitanti, ut Bonav., Almain. et
+<lb ed="#P" n="36"/>alii loquuntur, quod quidem est verum in 
+ali<lb break="no" ed="#P" n="37"/>quibus passionibus, et considerata voluntate
+<lb ed="#P" n="38"/>Christi, solum juxta vires naturales ; 
+nihilo<lb break="no" ed="#P" n="39"/>minus tamen, considerata illa voluntate ut
+<lb ed="#P" n="40"/>instrumento Verbi, omnes defectus possunt
+<lb ed="#P" n="41"/>dici voluntarii, etiam antecedenter, et multi
+<lb ed="#P" n="42"/>eorum fuerunt eodem modo voluntarii, etiam
+<lb ed="#P" n="43"/>respectu voluntatis per vires suas naturales
+<lb ed="#P" n="44"/>operants, ut explicatum est.
+</p>
+               </div>
+               <div xml:id="szstco-l01059-Dd1e2187"><!-- szstco-p3q14-d32s4 -->
+                  <head xml:id="szstco-l01059-Hd1e2190">Sectio 4</head>
+                  <head xml:id="szstco-l01059-Hd1e2192" type="question-title">
+utrum assumpserit christus sui corporis localem
+circumscriptionem et mutationem
+</head>
+                  <p xml:id="szstco-l01059-d1e2195">
+                     <lb ed="#P" n="45" type="fixed=177"/>SECTIO IV.
+<lb ed="#P" n="46"/>Utrum assumpserit Christus sui corporis localem
+<lb ed="#P" n="47"/>circumscriptionem et mutationem.
+</p>
+                  <p xml:id="szstco-l01059-d1e2204">
+                     <lb ed="#P" n="48"/>1. Haec quaestio in superioribus est virtute
+<lb ed="#P" n="49"/>definita, et ideo fortasse a D. Thoma et aliis
+<lb ed="#P" n="50"/>antiquis Scholasticis praetermissa est, quia
+<lb ed="#P" n="51"/>eo tempore non erat in dubium revocata;
+<lb ed="#P" n="52"/>nunc vero propter novos nostri temporis 
+hae<lb break="no" ed="#P" n="53"/>relicos necessario disputanda est, breviter
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="54"/>tamen juxta scholasticum institutum. Dicunt
+<lb ed="#P" n="55"/>ergo isti haeretici, non assumpsisse Christum
+<lb ed="#P" n="56"/>Dominum corporis sui circumscriptionem,
+<lb ed="#P" n="57"/>seu definitionem ad unum locum, sed ex vi
+<lb ed="#P" n="58"/>unionis illi communicatum esse , ut sit 
+ubi<lb break="no" ed="#P" n="59"/>que sicut ipsa divinitas, quamvis non in 
+om<lb break="no" ed="#P" n="60"/>nibus locis visibili modo apparuerit. Unde fit,
+<lb ed="#P" n="61"/>consequenter eos esse dicturos, illud corpus
+<lb ed="#P" n="62"/>nunquam fuisse vere et in re ipsa localiter
+<lb ed="#P" n="63"/>motum ; quanquam enim in hoc loco 
+inter<lb break="no" ed="#P" n="64"/>dum se ostenderit, et in alio occuitaverit,
+<lb ed="#P" n="65"/>nunquam tamen vel priorem locum reliquit,
+<lb ed="#P" n="66"/>vel novum occupavit. Hujus erroris primus
+<lb ed="#P" n="67"/>auctor censetur fuisse Jacobus Faber 
+Stapu<lb break="no" ed="#P" n="68"/>lensis , super 4 ad Cor. 12, ubi dicit, corpus
+<lb ed="#P" n="69"/>Christi replere caelum et terram, et idem 
+ha<lb break="no" ed="#P" n="70"/>bet in cap. 14 Joan. Et ab hoc creditur 
+hau<lb break="no" ed="#P" n="71"/>sisse hunc errorem Lutherus, quem secutus
+<lb ed="#P" n="72"/>est Brentius, Kemnitius, et alii hujusmodi, ut
+<lb ed="#P" n="73"/>refert Prateolus, sub eorum nominibus; 
+Lin<lb break="no" ed="#P" n="74"/>danus , Dialog. 2; Sanderus, lib. 7 de Visib
+<lb ed="#P" n="75"/>Monarch. , haeres. 2085 et 655; et Claud. de
+<lb ed="#P" n="76"/>sainct., in lib. de Eucharist. , repetitione 4;
+<lb ed="#P" n="77"/>et ex nostris optime et nuperrime Robertus
+<lb ed="#P" n="78"/>Bellarminus , lib. 3 de Incarnat. , c. 1. 
+Fun<lb break="no" ed="#P" n="79"/>damentum horum haereticorum fuit, quia ex
+<lb ed="#P" n="80"/>unione bypostatica consequi neccssario 
+pu<lb break="no" ed="#P" n="81"/>tant, ut proprietates unius naturae alteri 
+com<lb break="no" ed="#P" n="82"/>municatae sint, non solum in concreto, 
+res<lb break="no" ed="#P" n="83"/>pectu personae, per communicationem 
+idio<lb break="no" ed="#P" n="84"/>matum, sed etiam in abstracto, pcr realem
+<lb ed="#P" n="85"/>communicationem proprietatum et 
+natura<lb break="no" ed="#P" n="86"/>rum inter se. Sed observandum est, 
+haereti<lb break="no" ed="#P" n="87"/>cos non eodem modo neque constanter hunc
+<lb ed="#P" n="88"/>errorem asserulisse : principio enim dixisse
+<lb ed="#P" n="89"/>videntur, Christi humanitatem ab ipsa 
+incar<lb break="no" ed="#P" n="90"/>natione, ct ex vi unionis habuissc hanc, quam
+<lb ed="#P" n="91"/>ubiquitatem vocant; postea vero, quia 
+vide<lb break="no" ed="#P" n="92"/>batur hoc Scripturis repugnare, dixerunt
+<lb ed="#P" n="93"/>hanc ubiquitatem dupliciter haberi posse,
+<lb ed="#P" n="94"/>primo, quast in radice, vel in actu primo, et
+<lb ed="#P" n="95"/>hoc modo habuisse illam ab initio 
+incarna<lb break="no" ed="#P" n="96"/>tionis; quod nihil aliud esse videtur quam
+<lb ed="#P" n="97"/>fuisse illi debitam hanc perfectionem ratione
+<lb ed="#P" n="98"/>unionis, quanquam propter statum corporis
+<lb ed="#P" n="99"/>passibilis re ipsa non statim communicata
+<lb ed="#P" n="100"/>fuerit. Secundo ergo modo haberi potest haec
+<lb ed="#P" n="101"/>proprietas actu, et in se ipsa, quod vocant
+<lb ed="#P" n="102"/>ipsi, illam habere in actu secundo; non enim
+<lb ed="#P" n="103"/>possunt hi termini in proposito habere alium
+<lb ed="#P" n="104"/>sensum ; quia, in attributis quae non 
+consis<lb break="no" ed="#P" n="105"/>tunt in operatione , neque in principio illius,
+<lb ed="#P" n="106"/>sed in aliqua formali perfectione, ut est hoc
+<lb ed="#P" n="107"/>de quo agimus, scilicet, immensitas, vel 
+ubi<lb break="no" ed="#P" n="108"/>quitas, actus secundus nihil aliud esse potest
+<pb ed="#P" n="178"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>quam ipsum esse actuale et formale talis
+<lb ed="#P" n="2"/>perfectionis ; hoc ergo modo dixerunt postea,
+<lb ed="#P" n="3"/>ubiquitatem non esse communicatam 
+huma<lb break="no" ed="#P" n="4"/>nitati Christi usque ad resurrectionem, vel,
+<lb ed="#P" n="5"/>ut alii tandem dixerunt, usque ad 
+ascensio<lb break="no" ed="#P" n="6"/>nem.
+</p>
+                  <p xml:id="szstco-l01059-d1e2358">
+                     <lb ed="#P" n="7"/>2. Hereticorum responsio confutatur.—
+Hae<lb break="no" ed="#P" n="8"/>reticorum responsio secunda. — Confutatur.—
+<lb ed="#P" n="9"/>Dico tamen primo , Christi humanitatem non
+<lb ed="#P" n="10"/>esse nunc , neque unquam fuisse ubique, 
+at<lb break="no" ed="#P" n="11"/>que adeo corpus ejus loco circumscribi, sicut
+<lb ed="#P" n="12"/>alia. Quae veritas , simpliciter loquendo, de
+<lb ed="#P" n="13"/>fide est, et probatur primo, nam de tempore
+<lb ed="#P" n="14"/>quo fuit viator, dicitur Joan. 6 : Cum vidisset
+<lb ed="#P" n="15"/>turha quod Jesus non esset ibi, et c. 11: Ut
+<lb ed="#P" n="16"/>sciatis quia non eram ibi. De tempore vero
+<lb ed="#P" n="17"/>post mortem et resurrectionem dicitur Joan.
+<lb ed="#P" n="18"/>16 : ARelinguo mundum et vado ad Patrem;
+<lb ed="#P" n="19"/>Marc. 16 : Surreait, non est lhic; et Act. 1:
+<lb ed="#P" n="20"/>Assumptus est in celum ; et infra : Sic veniet,
+<lb ed="#P" n="21"/>quemadmodum vidistis emn eunten in celum.
+<lb ed="#P" n="22"/>Quod testimonium etiam de tempore post
+<lb ed="#P" n="23"/>ascensionem procedit ; et Act. 2 dicitur, 
+ani<lb break="no" ed="#P" n="24"/>mam Christi aliquando fuisse in inferno, non
+<lb ed="#P" n="25"/>tamen semper ibi mansisse; non ergo erat
+<lb ed="#P" n="26"/>ubique; et eodem modo dicitur in 
+Evange<lb break="no" ed="#P" n="27"/>liis, corpus depositum esse de cruce, et 
+posi<lb break="no" ed="#P" n="28"/>tum in sepulcro; et satis significatur tunc
+<lb ed="#P" n="29"/>alibi non fuisse. Respondent haeretici in his
+<lb ed="#P" n="30"/>locis sermonem esse de existentia visibili 
+cor<lb break="no" ed="#P" n="31"/>poris Christi in loco, et ideo negari fuisse
+<lb ed="#P" n="32"/>alicubi, quia ibi non erat localiter, seu 
+visi<lb break="no" ed="#P" n="33"/>biliter ; et eedem modo exponunt ascendisse
+<lb ed="#P" n="34"/>vel descendisse, etc. Sed haec fuga primo est
+<lb ed="#P" n="35"/>contra vim et proprietatem verborum; 
+secun<lb break="no" ed="#P" n="36"/>do, contra communem expositionem et 
+tradi<lb break="no" ed="#P" n="37"/>tionem Patrum; tertio, contra veritatem 
+mys<lb break="no" ed="#P" n="38"/>terii incarnationis Christi; sequitur enim, non
+<lb ed="#P" n="39"/>vere, sed secundum apparentiam quamdam
+<lb ed="#P" n="40"/>fuisse factam. ut, verbi gratia, sequitur non
+<lb ed="#P" n="41"/>vere fuisse inclusum Christi corpus in utero
+<lb ed="#P" n="42"/>Virginis , neque vere ex illo per humanam
+<lb ed="#P" n="43"/>nativitatem exivisse, neque vere fuisse 
+ingres<lb break="no" ed="#P" n="44"/>sum ad discipulos januis clausis; et alia 
+si<lb break="no" ed="#P" n="45"/>milia, quae sine vcra loci mutatione, et reali
+<lb ed="#P" n="46"/>existentia in uno et non in alio, proprie ac
+<lb ed="#P" n="47"/>vere intelligi non possunt. Quarto est in 
+ri<lb break="no" ed="#P" n="48"/>gore contra veritatem illarun locutionum;
+<lb ed="#P" n="49"/>non enim vere dici potest Christum non esse
+<lb ed="#P" n="50"/>hic, signata hostia consecrata, solum quia ibi
+<lb ed="#P" n="51"/>non est visibiliter, seu localiter. Sed 
+retor<lb break="no" ed="#P" n="52"/>quent hoc argumentum haeretici, nam Joan.
+<lb ed="#P" n="53"/>16 dicit Christus, se relinqguere mundum et
+<lb ed="#P" n="54"/>ire ad Patrem, quamvis revera manserit in
+<lb ed="#P" n="55"/>Eucharistia ; ergo dicitur relinquere , solum
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>quia visibiliter in mundo non mansit. 
+Rhes<lb break="no" ed="#P" n="57"/>pondetur, illa verba proprie et vere, et cum
+<lb ed="#P" n="58"/>toto rigore intelligi, nam Christus, 
+ascenden<lb break="no" ed="#P" n="59"/>do in ccelum, vere reliquit mundum , illi 
+au<lb break="no" ed="#P" n="60"/>ferens suam realem praesentiam, non solum
+<lb ed="#P" n="61"/>secundum visibilem apparentiam, sed 
+secun<lb break="no" ed="#P" n="62"/>dum realem existentiam in mundo; reliquit
+<lb ed="#P" n="63"/>autem Christus mundum , seu existentiam in
+<lb ed="#P" n="64"/>mundo, quod erat ex vi illius motus et 
+ascen<lb break="no" ed="#P" n="65"/>sionis ; quod vero aliunde, scilicet, per aliud
+<lb ed="#P" n="66"/>mysterium, et alio modo in mundo manserit,
+<lb ed="#P" n="67"/>est accidentarium ad illorum verborum 
+veri<lb break="no" ed="#P" n="68"/>tatem, et fortasse, quando Christus ascendit,
+<lb ed="#P" n="69"/>pro illo tempore in nullo inferiori loco 
+man<lb break="no" ed="#P" n="70"/>sit, quia nulla tunc erat hostia consecrata ;
+<lb ed="#P" n="71"/>quanquam etiam hoc sit per accidens. Adde,
+<lb ed="#P" n="72"/>illa verba satis proprie intelligi de morte, per
+<lb ed="#P" n="73"/>quam Christus proprie ita reliquit mundum,
+<lb ed="#P" n="74"/>ut in eo non manserit secundum 
+humanita<lb break="no" ed="#P" n="75"/>tem.
+</p>
+                  <p xml:id="szstco-l01059-d1e2513">
+                     <lb ed="#P" n="76"/>3. Secundo, argumentor traditione 
+Conci<lb break="no" ed="#P" n="77"/>liorum et Patrum; in VI enim Synod., act.
+<lb ed="#P" n="78"/>11, expresse dicitur assumpsisse Christum
+<lb ed="#P" n="79"/>corporis circumscriptionem, et in VII Synod.,
+<lb ed="#P" n="80"/>act. 6, tom. 6, ubi damnatur nonus canon
+<lb ed="#P" n="81"/>Conciliabuli Constantinopolitani, et ex 
+pro<lb break="no" ed="#P" n="82"/>fesso variis testimoniis Scripturae probatur ,
+<lb ed="#P" n="83"/>Christum, ante et post resurrectionem, fuisse
+<lb ed="#P" n="84"/>loco secundum humanitatem circumscriptum;
+<lb ed="#P" n="85"/>et inferius, act. 7, post fidei definitionem,
+<lb ed="#P" n="86"/>anathemate feriuntur qui hoc negant; et in
+<lb ed="#P" n="87"/>Concil. Lateram, sub Martin. 1, can. 4: Si
+<lb ed="#P" n="88"/>quis non confitetur Christum circunscriptum
+<lb ed="#P" n="89"/>corpore, et incircumscriptum deitate , 
+condem<lb break="no" ed="#P" n="90"/>natus sit. Preeterea ex Graecis Patribus, 
+Atha<lb break="no" ed="#P" n="91"/>nas. contra Arium, disputatione coram 
+Pro<lb break="no" ed="#P" n="92"/>bo, tom. 4, ex hac proprietate, corporis 
+Chri<lb break="no" ed="#P" n="93"/>sti veritatem confirmat ; Cyril. Alex., lib. 9in
+<lb ed="#P" n="94"/>Joan., c. 21, dicit Christum corpore nobis
+<lb ed="#P" n="95"/>abesse, et divinitate esse praesentem. idem
+<lb ed="#P" n="96"/>repetit lib. 11, c. 21; et similia habet Cyril.
+<lb ed="#P" n="97"/>Hierosol., catech. 14; et Theodor., dialog. 2,
+<lb ed="#P" n="98"/>qui refert in eamdem sententiam Gregor.
+<lb ed="#P" n="99"/>Nyssen., orat. contra Eunom. ; etDamasc., 3
+<lb ed="#P" n="100"/>lib. de fidc. c. 7 : Carne, inquit, minuitur et
+<lb ed="#P" n="101"/>contrahitur, nam secundum divinitatem, 
+om<lb break="no" ed="#P" n="102"/>nem refugit circumscriptionem ; ueqgue enim
+<lb ed="#P" n="103"/>corpus una cum divinitate, qua incircunscripta
+<lb ed="#P" n="104"/>est, se porrigit et evtendit. Idem Damasc. orat.
+<lb ed="#P" n="105"/>de Transfig. : Corpus, inquit , illud sane 
+cir<lb break="no" ed="#P" n="106"/>cumscriptun et definitum erat ; negue enim
+<lb ed="#P" n="107"/>cum in Thabor staret, ectra montem 
+pertinge<lb break="no" ed="#P" n="108"/>bat, at deitas captum omnem eacedebat, atque
+<lb ed="#P" n="109"/>ultra omnia eraz. Ex Latinis, Aug. , serm. 58
+<lb ed="#P" n="110"/>de Verbis Domiui, circa illud Joan. 14: lado
+<pb ed="#P" n="179"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>ad eum qui misit ane : Ibat, inquit, per id quod
+<lb ed="#P" n="2"/>in uno loco erat , nanebat per id quod ubique
+<lb ed="#P" n="3"/>erat; et tractat. 50 in Joan. , dicit Christum
+<lb ed="#P" n="4"/>nunc nobis esse absentem et praesentem, quia
+<lb ed="#P" n="5"/>suum, inquit, corpus intutit in celum, 
+majes<lb break="no" ed="#P" n="6"/>tatem non abstulit mundo. Idem , epist. 57 ad
+<lb ed="#P" n="7"/>Dardanum ; et Ambros., lib. 2 de Fide, c. 4,
+<lb ed="#P" n="8"/>in princ.; Hieron., 3 tom., epist. 148, ad
+<lb ed="#P" n="9"/>Marcellam, quae incipit : Magnis nos provocas
+<lb ed="#P" n="10"/>quastionibus ; et Greg., hom. 28 in Evangelia,
+<lb ed="#P" n="11"/>tractans illud Joan. 4 : Erat quidam 
+rega<lb break="no" ed="#P" n="12"/>lus, etc. : Corporalem, inquit, presentiam 
+Do<lb break="no" ed="#P" n="13"/>minà quaerebat, qui per spiritum nutsquam 
+dee<lb break="no" ed="#P" n="14"/>rat ; minus itaque in illum credidit, quem non
+<lb ed="#P" n="15"/>putavit posse salutem dare , nisi preesens esset
+<lb ed="#P" n="16"/>et corpore. Idem docet Fulgent., lib. 2 ad
+<lb ed="#P" n="17"/>Trasimundum, c. 17; et Vigilius, lib. 1 et 4,
+<lb ed="#P" n="18"/>contra Eutychetem, et alii Patres frequenter,
+<lb ed="#P" n="19"/>tractantes de ascensione Christi Domini, et
+<lb ed="#P" n="20"/>descensu ad inferos, et aliis similibus 
+myste<lb break="no" ed="#P" n="21"/>riis.
+</p>
+                  <p xml:id="szstco-l01059-d1e2641">
+                     <lb ed="#P" n="22"/>4. Ubiquitas, ut ab haereticis ponitur, 
+regu<lb break="no" ed="#P" n="23"/>gnat rei creatae. — Ultimo arguitur ratione,
+<lb ed="#P" n="24"/>quia, vel haec proprietas communicata esset
+<lb ed="#P" n="25"/>humanitati necessario ex vi unionis, vel 
+vo<lb break="no" ed="#P" n="26"/>luntarie ; ncutrum dici potest. Primum 
+proba<lb break="no" ed="#P" n="27"/>tur primo, quia unio hypostatica non 
+requi<lb break="no" ed="#P" n="28"/>rit ut proprietates unius noaturae 
+communi<lb break="no" ed="#P" n="29"/>centur alteri, nam hoc esset confundere 
+na<lb break="no" ed="#P" n="30"/>turas, et in errorem Eutychetis incidere, ut
+<lb ed="#P" n="31"/>patet ex distis quaest. 2, disp. 7, et in 
+quaes<lb break="no" ed="#P" n="32"/>tione praecedenti, disp. 31, in principio. Et
+<lb ed="#P" n="33"/>probatur aperte, quia alias ex vi unionis, 
+hu<lb break="no" ed="#P" n="34"/>manitas etiam esset aeterna, sicut dicitur esse
+<lb ed="#P" n="35"/>immensa, et necessario existeret in omnibus
+<lb ed="#P" n="36"/>temporibus, praeteritis et futuris, sicut 
+dici<lb break="no" ed="#P" n="37"/>tur esse in omnibus locis; similiter esset
+<lb ed="#P" n="38"/>omnipotens, et alia. quae plane sunt 
+impossi<lb break="no" ed="#P" n="39"/>bilia. Secundo, quia alias fatendum esset 
+hae<lb break="no" ed="#P" n="40"/>reticis, humanitatem a principio conceptionis
+<lb ed="#P" n="41"/>esse ubique, non tantum aptitudine, sed 
+ac<lb break="no" ed="#P" n="42"/>tu, quod multi eorum non audent concedere,
+<lb ed="#P" n="43"/>quia repugnat veritati mysteriorum ad 
+huma<lb break="no" ed="#P" n="44"/>nitatem pertinentium ; quomodo enim vere
+<lb ed="#P" n="45"/>inortuus esset, et descendisset ad infernum
+<lb ed="#P" n="46"/>secundum animam, et non secundum corpus,
+<lb ed="#P" n="47"/>Jjacuisset vero in sepulcro secundum corpus,
+<lb ed="#P" n="48"/>et non sccundum animam, nisi secundum eas
+<lb ed="#P" n="49"/>partes circumscriberetur aut definiretur loco,
+<lb ed="#P" n="50"/>ita ut partesillae inter se loco distarent? 
+Ter<lb break="no" ed="#P" n="51"/>tio, declaratur exemplo naturali, nam, licet
+<lb ed="#P" n="52"/>materia capitis, verbi gratia, sit 
+substantiali<lb break="no" ed="#P" n="53"/>ter conjuncta tou animae, non inde 
+necessa<lb break="no" ed="#P" n="54"/>rio sequitur illam esse ubicumque est anima.
+<lb ed="#P" n="55"/>Secundum de voluntaria communicatione fa-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>cile excluditur, primo, quia communicatio
+<lb ed="#P" n="57"/>hujus ubiquitatis, prout ab ipsis haereticis 
+in<lb break="no" ed="#P" n="58"/>telligi vidctur, et contradictionem involvit, et
+<lb ed="#P" n="59"/>ipsi mysterio incarnationis repugnat; volunt
+<lb ed="#P" n="60"/>enim ipsammet immensitatem divinitatis 
+for<lb break="no" ed="#P" n="61"/>maliter communicari humanitati, et per se
+<lb ed="#P" n="62"/>ipsam ita illam perficere, ut faciat ilam 
+ubi<lb break="no" ed="#P" n="63"/>que existere; quod plane intelligi non potest
+<lb ed="#P" n="64"/>sine naturarum confusione, talique unione ut
+<lb ed="#P" n="65"/>ex eis una natura resultet. Quod si intelligant
+<lb ed="#P" n="66"/>humanitatem constitui ubique per quamdam
+<lb ed="#P" n="67"/>participationem creatam immensitatis -Dei,
+<lb ed="#P" n="68"/>ita tamen ut aeque sit ubique ac ipse Deus,
+<lb ed="#P" n="69"/>adhuc mihi videtur omnino impossibile quod
+<lb ed="#P" n="70"/>affirmant; nam Deus ita est ubique , ut 
+sub<lb break="no" ed="#P" n="71"/>stantia ejus sit quasi infinite diffusa, quod a
+<lb ed="#P" n="72"/>nobis explicatur, vel in ordine ad spatia 
+ima<lb break="no" ed="#P" n="73"/>ginaria, vel ad corpora quae in majori et 
+ma<lb break="no" ed="#P" n="74"/>jori quantitate in infinitum creari possunt, in
+<lb ed="#P" n="75"/>quibus omnibus Deus esse potest sine ulla sui
+<lb ed="#P" n="76"/>mutatione ; hinc enim aperte constat ipsam
+<lb ed="#P" n="77"/>divinam substantiam ita in se esse, ut ita 
+di<lb break="no" ed="#P" n="78"/>cam, dispositam seu immensam, ut sit actu
+<lb ed="#P" n="79"/>veluti infinite diffusa ; hic autem modus 
+im<lb break="no" ed="#P" n="80"/>mensitatis et existendi ubique, cum in suo
+<lb ed="#P" n="81"/>ordine sit actu infinitus, non minus repugnat
+<lb ed="#P" n="82"/>corpori quam infinita quantitas vel extensio.
+</p>
+                  <p xml:id="szstco-l01059-d1e2778">
+                     <lb ed="#P" n="83"/>5. Ubiquitatem, prout dicit esse àn omnibus
+<lb ed="#P" n="84"/>creaturis, humanitati Christi tribuere 
+luereti<lb break="no" ed="#P" n="85"/>cum est. — Quod si tandem intelligant 
+huma<lb break="no" ed="#P" n="86"/>nitatem Christi ex speciali et voluntario dono
+<lb ed="#P" n="87"/>Dei esse ubique, id estin omnibus rebus 
+crea<lb break="no" ed="#P" n="88"/>tis quae intra finitum spatium terminantur ,
+<lb ed="#P" n="89"/>non intelligo hoc esse impossibile, aut 
+impli<lb break="no" ed="#P" n="90"/>care contradictionem, ut aperte ostendit 
+Eu<lb break="no" ed="#P" n="91"/>charistiae mysterium ; sicut enim nunc Christi
+<lb ed="#P" n="92"/>humanitas realiter est praesens multis locis,
+<lb ed="#P" n="93"/>ita potuisset toti universo fieri praesens ; 
+nul<lb break="no" ed="#P" n="94"/>lam enim majorem repugnantiam involvit ;
+<lb ed="#P" n="95"/>imo ex illius mysterii vi posset in universo
+<lb ed="#P" n="96"/>orbe existere, si in omnibus partibus 
+univer<lb break="no" ed="#P" n="97"/>si esset materia ex qua illud mysterium 
+con<lb break="no" ed="#P" n="98"/>ficitur, et a debito ministro convenienti 
+in<lb break="no" ed="#P" n="99"/>tentione forma applicaretur. Dicere autem de
+<lb ed="#P" n="100"/>facto ita esse, non solum esttemerarium, quia
+<lb ed="#P" n="101"/>est contra Patrum auctoritatem et 
+Theologo<lb break="no" ed="#P" n="102"/>rum omnium, et sine fundamento sed etiam
+<lb ed="#P" n="103"/>haereticum, quia est contra Scripturam, ct
+<lb ed="#P" n="104"/>contra alia mysteria fidei, ut explicatum est,
+<lb ed="#P" n="105"/>et specialiter contra mysterium Eucharistiae,
+<lb ed="#P" n="106"/>pront ab universa Ecclesia intelligitur, quia,
+<lb ed="#P" n="107"/>posita illa ubiquitate, non magis esset 
+pra<lb break="no" ed="#P" n="108"/>sens corpus Christi in speciebus panis quam
+<lb ed="#P" n="109"/>in aliis rebus ; neque quoad realem 
+praesen<lb break="no" ed="#P" n="110"/>tiam magis sumeretur a nobis in Eucharistia
+<pb ed="#P" n="180"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>quam in communi cibo ; unde ad illam 
+efti<lb break="no" ed="#P" n="2"/>ciendam nulla esset necessaria conversio sen
+<lb ed="#P" n="3"/>transubstantiatio, quae omnia sunt contra 
+fi<lb break="no" ed="#P" n="4"/>dem. Unde concludo Christi corpus tantum
+<lb ed="#P" n="5"/>esse in coelo et in Eucharistia ; seclusoque
+<lb ed="#P" n="6"/>eodem Eucharisiae mysterio, non solum non
+<lb ed="#P" n="7"/>esse corpus Christi ubique, sed neque etiam esse
+<lb ed="#P" n="8"/>alibi quam in coelo ; et contrarium asserere
+<lb ed="#P" n="9"/>esset magna temeritas, sine fundamento, et
+<lb ed="#P" n="10"/>contra omnes Theologos, in 3, d. 22; D.Thom.
+<lb ed="#P" n="11"/>infra, q. 52, art. 3, et 4 contra Gent., c. 49.
+</p>
+                  <p xml:id="szstco-l01059-d1e2869">
+                     <lb ed="#P" n="12"/>6. Objectio. — Responsio. — Haec 
+proposi<lb break="no" ed="#P" n="13"/>tic, Christus ubique est homo, quomodo 
+intel<lb break="no" ed="#P" n="14"/>ligenda. — Sed conira primo. Verbum est
+<lb ed="#P" n="15"/>ubique ; ergo et Christus est ubique per 
+com<lb break="no" ed="#P" n="16"/>municationem idiomatum, ut Patres 
+commu<lb break="no" ed="#P" n="17"/>niter loquuntur, August., serm. 14 de Verb.
+<lb ed="#P" n="18"/>Apostoli, et Cbrys., hom. 17 in ad Hebrae. ;
+<lb ed="#P" n="19"/>Ambr., lib. 7 in Luc. ; Hierony., contra 
+Vigi<lb break="no" ed="#P" n="20"/>lant., et alii communiter ; ergo et ipsa 
+huma<lb break="no" ed="#P" n="21"/>nitas est ubique : probatur haec consequentia
+<lb ed="#P" n="22"/>ultima, quia Christus ubique est homo. 
+Res<lb break="no" ed="#P" n="23"/>pondetur ex S. Thoma, dist. 22, q. 1, art. 2,
+<lb ed="#P" n="24"/>et aliis Theologis ibi, ut Christus dicatur esse
+<lb ed="#P" n="25"/>ubique, per idiomatum communicationem ,
+<lb ed="#P" n="26"/>satis esse ut ipsa persona sit ubique ; sicut,
+<lb ed="#P" n="27"/>ut dicatur aeternus , satis est ut ipsa persona
+<lb ed="#P" n="28"/>aeterna sit. De illa autem propositione, 
+Chris<lb break="no" ed="#P" n="29"/>tus ubique est homo, si illud, ubique, cadat 
+su<lb break="no" ed="#P" n="30"/>pra praedicatum, 5omo, D. Thomas dicit, in 
+ri<lb break="no" ed="#P" n="31"/>core esse falsam, quia praedicata formaliter
+<lb ed="#P" n="32"/>tenentur ; et ideo illud, ubigtue , cadit supra
+<lb ed="#P" n="33"/>humanitatem ipsam, et significat illam esse
+<lb ed="#P" n="34"/>ubique, seu ubique copulari tali supposito.
+<lb ed="#P" n="35"/>Sicut haec etiam est falsa propositio : Christus
+<lb ed="#P" n="36"/>ab eterno est homo, propter eamdem 
+ratio<lb break="no" ed="#P" n="37"/>nem ; et haec similiter : Antma, ubicumque est,
+<lb ed="#P" n="38"/>informat manum ; et si unus homo esset in
+<lb ed="#P" n="39"/>pluribus locis, et in eis haberet proprietates
+<lb ed="#P" n="40"/>diversas verbi gratia, in uno albedinem, et
+<lb ed="#P" n="41"/>in alio nigredinem, talsum esset dicere illum
+<lb ed="#P" n="42"/>ubique esse album; et nunc falsum est 
+dicc<lb break="no" ed="#P" n="43"/>re, corpus Christi, ubicumque est, esse 
+ex<lb break="no" ed="#P" n="44"/>tensum in ordine ad locum, Quae omnia vera
+<lb ed="#P" n="45"/>sunt, intellecta propositione in illo sensu, qui
+<lb ed="#P" n="46"/>videtur maxime formalis et rigorosus ; si 
+ta<lb break="no" ed="#P" n="47"/>men adverbium praecise conjungatur cum
+<lb ed="#P" n="48"/>subjecto, admitti potest illa locutio ; sensus
+<lb ed="#P" n="49"/>enim erit, hoc suppositum, quod est ubique,
+<lb ed="#P" n="50"/>esse hominem, et de illo, ubique existente,
+<lb ed="#P" n="51"/>vere dici posse esse hominem.
+</p>
+                  <p xml:id="szstco-l01059-d1e2958">
+                     <lb ed="#P" n="52"/>7. Objectio. — Reesponsio. —Sed contra 
+se<lb break="no" ed="#P" n="53"/>cundo, quia Matth. ult. dicit Dominus : Data
+<lb ed="#P" n="54"/>est mihi omnis potestas in celo et iuterra ; 
+er<lb break="no" ed="#P" n="55"/>go saltem ex tunc accepit hanc ubiquitatem,
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>seu praesentiam in coelo et in terra. 
+Respon<lb break="no" ed="#P" n="57"/>detur : jam supra diximus illam potestatem,
+<lb ed="#P" n="58"/>humanitati Christi communicatam, non esse
+<lb ed="#P" n="59"/>ipsammet omnipotentiam Dei, sed quamdam
+<lb ed="#P" n="60"/>potestatem excellentiae in omnes creaturas,
+<lb ed="#P" n="61"/>quae non requirit realem praesentiam in 
+om<lb break="no" ed="#P" n="62"/>nibus creaturis ; existens enim in coelo potest
+<lb ed="#P" n="63"/>omnibus imperare, easque immutare, ut 
+su<lb break="no" ed="#P" n="64"/>pra declaratum est.
+</p>
+                  <p xml:id="szstco-l01059-d1e2991">
+                     <lb ed="#P" n="65"/>8. Objectio. — Responsio. — Sed contra 
+ter<lb break="no" ed="#P" n="66"/>tio, nam ad Ephes. 4 dicitur Christus 
+ascen<lb break="no" ed="#P" n="67"/>disse in coelum, ut adimpleret omnia ; ergo
+<lb ed="#P" n="68"/>saltem ex tunc caepit esse in omnibus rebus.
+<lb ed="#P" n="69"/>Respondetur , satis ineptum esse exponere
+<lb ed="#P" n="70"/>hunc locum dc corporali praesentia, ita ut
+<lb ed="#P" n="71"/>Christus dicatur omnia implevisse, quia 
+om<lb break="no" ed="#P" n="72"/>nibus rebus coepit esse localiter praesens. Ut
+<lb ed="#P" n="73"/>quid enim Christus ascendisset in coelum, ut
+<lb ed="#P" n="74"/>inde veluti localiter se diffunderet omniaque
+<lb ed="#P" n="75"/>repleret? vel si jam hoc modo replet omnia,
+<lb ed="#P" n="76"/>non vere postea descendet ad judicium, ut
+<lb ed="#P" n="77"/>dicitur Act. 1. Ascendit ergo Christus ut 
+ad<lb break="no" ed="#P" n="78"/>impleret omnia, id est, ut suam 
+peregrinatic<lb break="no" ed="#P" n="79"/>nem concluderet ac terminaret , ut ait S.
+<lb ed="#P" n="80"/>Thom. ; vel, ut adimpleret omnia quae de illo
+<lb ed="#P" n="81"/>praedicta erant, ut Chrys. ct Hieronym. 
+expo<lb break="no" ed="#P" n="82"/>nunt, juxta communem phrasim Scripturae,
+<lb ed="#P" n="83"/>ut Luc. 24: Necesse est impleri omuia quae
+<lb ed="#P" n="84"/>scripta sunt de me. Vel, tertio, ut rerum 
+om<lb break="no" ed="#P" n="85"/>nium testimonio se dominum universorum
+<lb ed="#P" n="86"/>ostenderet, ut exponit Bernard., serm. 2 de
+<lb ed="#P" n="87"/>Ascensione. Vel, quarto, ut inde impleret 
+Ec<lb break="no" ed="#P" n="88"/>clesiam donis gratiae et Spiritus Sancti, ut 
+di<lb break="no" ed="#P" n="89"/>cit Ambr., epist. 16. Vel denique, si velimus
+<lb ed="#P" n="90"/>hoc ad localem praesentiam referre, exponi
+<lb ed="#P" n="91"/>potest, ut impleret omnia non simul, sed
+<lb ed="#P" n="92"/>successive, neque existendo in omnibus 
+indi<lb break="no" ed="#P" n="93"/>viduis locis, sed in omnibus partibus mundi,
+<lb ed="#P" n="94"/>nunc in terra, postea in aere, ac tandem in
+<lb ed="#P" n="95"/>caelo, ut videtur OEcumenius exponere.
+</p>
+                  <p xml:id="szstco-l01059-d1e3062">
+                     <lb ed="#P" n="96"/>9. Dub., quomodo Christus motus fuerit 
+la<lb break="no" ed="#P" n="97"/>caliter, nulla facta àn Verbo mutatione. — 
+Dbi<lb break="no" ed="#P" n="98"/>co secundo, Christum secundum corpus vere
+<lb ed="#P" n="99"/>fuisse localiter motum. Haec conclusio 
+habe<lb break="no" ed="#P" n="100"/>tur in terminis in VI Synod., act. 11, et 
+se<lb break="no" ed="#P" n="101"/>quitur evidenter ex praecedenti, et eisdem
+<lb ed="#P" n="102"/>testimoniis et rationibus probanda est ; 
+so<lb break="no" ed="#P" n="103"/>lum eam distinguo, ut eponam difficultatem
+<lb ed="#P" n="104"/>hic occurrentem, scilicet, quo modo potuerit
+<lb ed="#P" n="105"/>Christus secundum humanitatem 
+substantia<lb break="no" ed="#P" n="106"/>liter unitam Verbo mutare locum, nulla facta
+<lb ed="#P" n="107"/>in Verbo mutatione. Dicetur fortasse hoc ideo
+<lb ed="#P" n="108"/>fieri potuisse, quia Verbum est ubique, non
+<lb ed="#P" n="109"/>autem humanitas. Sed in hoc est difficultas.
+<lb ed="#P" n="110"/>quia, cum humanitas sit substantialiter unita
+<pb ed="#P" n="181"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>Verbo existenti in hoc loco, non videtur fieri
+<lb ed="#P" n="2"/>posse ut haec humanitas transferatur ab uno
+<lb ed="#P" n="3"/>loco in alium, nisi vel simul secum quasi 
+de<lb break="no" ed="#P" n="4"/>ferat Verbum sibi unitum, et consequenter
+<lb ed="#P" n="5"/>Verbum ipsum per accidens moveatur, vel
+<lb ed="#P" n="6"/>ipsa unio ad Verbum quasi continue 
+dissol<lb break="no" ed="#P" n="7"/>vatur ab ipso Verbo, prout est in illo loco;
+<lb ed="#P" n="8"/>et iterum fiat in eodem Verbo prout est in
+<lb ed="#P" n="9"/>alio. Exemplo res explicatur : nam, licet tota
+<lb ed="#P" n="10"/>anima sit in singulis partibus corporis, si 
+ta<lb break="no" ed="#P" n="11"/>men intelligamus partem unam moveri ad
+<lb ed="#P" n="12"/>locum alterius per penetrationem, 
+nihilomi<lb break="no" ed="#P" n="13"/>nus intelligimus animam per accidens 
+mo<lb break="no" ed="#P" n="14"/>veri simul cum parte mota, propter unionem
+<lb ed="#P" n="15"/>substantialem indissolutam, quamvis in alia
+<lb ed="#P" n="16"/>parte tota anima existeret. Aliud exemplum
+<lb ed="#P" n="17"/>est, nam si hostia consecrata circulari motu
+<lb ed="#P" n="18"/>intra suam sphaeram movetur, corpus Christi
+<lb ed="#P" n="19"/>per accidens movetur, propter unionem cum
+<lb ed="#P" n="20"/>speciebus, quamvis totus sit praesens in toto
+<lb ed="#P" n="21"/>illo loco, et totus in qualibet parte. 
+Respon<lb break="no" ed="#P" n="22"/>detur, sicut Verbum divinum ubique est
+<lb ed="#P" n="23"/>unum et indivisibile, ita unionem 
+humani<lb break="no" ed="#P" n="24"/>tatis ad ipsum, ubicunque existat. eamdem
+<lb ed="#P" n="25"/>omnino esse; unde, sicut corpus vel 
+huma<lb break="no" ed="#P" n="26"/>nitas mutat locum, ita secum defert illam
+<lb ed="#P" n="27"/>unionem ad Verbum, et ita, immanente 
+pror<lb break="no" ed="#P" n="28"/>sus eadem unione, intelligitur fieri mutatio
+<lb ed="#P" n="29"/>in humanitate, nulla facta mutatione in 
+Ver<lb break="no" ed="#P" n="30"/>ho. Et exempla adducta potius valent ad hoc
+<lb ed="#P" n="31"/>confirmandum quam ad impugnandum, quia
+<lb ed="#P" n="32"/>anima non potest moveri ad locum in quo 
+an<lb break="no" ed="#P" n="33"/>tea erat, cum non intelligatur in eodem loco
+<lb ed="#P" n="34"/>bis esse, etiam si fortasse in eodem loco 
+in<lb break="no" ed="#P" n="35"/>formet duas materias se penetrantes 
+secun<lb break="no" ed="#P" n="36"/>dum locum. Et eodem modo corpus Christi
+<lb ed="#P" n="37"/>Domini, in casu posito, non movetur per 
+ac<lb break="no" ed="#P" n="38"/>cidens, quia semper retinet eamdem 
+praesen<lb break="no" ed="#P" n="39"/>tiam secundum se totum, et secundum omnes
+<lb ed="#P" n="40"/>partes suas ad species, et ad omnes partes
+<lb ed="#P" n="41"/>earum, et eamdem relationem distantiae et
+<lb ed="#P" n="42"/>propinquitatis ad caetera corpora.
+</p>
+                  <p xml:id="szstco-l01059-d1e3192">
+                     <lb ed="#P" n="43"/>10. Objectio. — Responsio. — Dices : ergo
+<lb ed="#P" n="44"/>per communicationem idiomatum concedi
+<lb ed="#P" n="45"/>posset, Verbum aut Deum esse mutatum,
+<lb ed="#P" n="46"/>quando Christus mutatus est. Aliqui 
+respon<lb break="no" ed="#P" n="47"/>dent hoc posse et debere concedi in 
+determi<lb break="no" ed="#P" n="48"/>natis seu specificis mutationibus; sic enim
+<lb ed="#P" n="49"/>dicimus Deum ambulasse , passum esse, 
+as<lb break="no" ed="#P" n="50"/>cendisse, etc., quia istae locutiones nihil 
+in<lb break="no" ed="#P" n="51"/>olvunt aut requirunt ad suam veritatem,
+<lb ed="#P" n="52"/>quod repugnet Verbo secundum se; quia 
+sa<lb break="no" ed="#P" n="53"/>tis est ut illa praedicata conveniant personae
+<lb ed="#P" n="54"/>ratione alicujus natura , et ex ipsis terminis
+<lb ed="#P" n="55"/>satis indicatur illa non dici de Verbo secun-
+<cb ed="#P" n="b"/>
+                     <lb ed="#P" n="56"/>dum se, sed ratione naturae assumptae ; at
+<lb ed="#P" n="57"/>vero sub generali nomine mutationis negant
+<lb ed="#P" n="58"/>illam locutionem ; quia non est usitata a 
+Pa<lb break="no" ed="#P" n="59"/>tribus et Conciliis. Mihi tamen videtur esse
+<lb ed="#P" n="60"/>ambiguam et distinguendam, ne videatur 
+si<lb break="no" ed="#P" n="61"/>gnitcare Deum in se ipso mutatum esse 
+ra<lb break="no" ed="#P" n="62"/>tione hujus mysterii, nam in hoc sensu falsa
+<lb ed="#P" n="63"/>est, et negatur a Patribus ; si tamen sit sermo
+<lb ed="#P" n="64"/>de sola communicatione idiomatum , propter
+<lb ed="#P" n="65"/>mutationem factam in humanitate jam unita
+<lb ed="#P" n="66"/>Verbo, vera est propositio, ut argumentum
+<lb ed="#P" n="67"/>probat , neque habet majus inconveniens
+<lb ed="#P" n="68"/>quam quod Deus sit mortuus , vel genitus ex
+<lb ed="#P" n="69"/>virgine.
+</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
