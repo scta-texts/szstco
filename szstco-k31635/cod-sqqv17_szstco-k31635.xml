@@ -655,7 +655,7 @@ Abra<lb break="no" ed="#P" n="96"/>he apprehendit; et cap. 2: Quia pueri
 com<lb break="no" ed="#P" n="97"/>qwwnicaverunt carni e£ sanguini, e£. F'ilius Dei
 <lb ed="#P" n="98"/>participavit eisdem ; ad Roman. 1: Qwi factus
 <lb ed="#P" n="99"/>est ei em semine David secundum. caruem;
-<lb ed="#P" n="100"/>Petr. 4: <quote source="http://scta.info/resource/Ipetr4_1@1-10">Christo igitur passo in carne, et vos
+<lb ed="#P" n="100"/>Petr. 4: <quote xml:id="szstco-k31635-Qd1e1357" source="http://scta.info/resource/Ipetr4_1@1-10">Christo igitur passo in carne, et vos
 <lb ed="#P" n="101"/>eadem cogitatione armamini.</quote> Secundo deüniunt
 <lb ed="#P" n="102"/>hoc omnia Concilia citata sectione praecedenti,
 <lb ed="#P" n="103"/>el specialiter traduntur circa hoc multa in.
@@ -760,7 +760,7 @@ pec<lb break="no" ed="#P" n="87"/>cali.
 </p>
                   <p xml:id="szstco-k31635-d1e1563">
                      <lb ed="#P" n="88"/>7. Secundo, objicitur illud 1 ad Corint. 15:
-<quote source="http://scta.info/resource/Icor15_47@1-10"><lb ed="#P" n="89"/>Primus homo de terra terrenus, secundus homo
+<quote xml:id="szstco-k31635-Qd1e1580" source="http://scta.info/resource/Icor15_47@1-10"><lb ed="#P" n="89"/>Primus homo de terra terrenus, secundus homo
 <lb ed="#P" n="90"/>de calo celestis</quote> ; volunt enim Christum dici
 <lb ed="#P" n="91"/>celestem hominem propter cecleste corpus.
 <lb ed="#P" n="92"/>Sed non intelligit Paulus, qui statim etiam eos
@@ -1460,9 +1460,9 @@ car<lb break="no" ed="#P" n="51"/>ne et anima. Atque adeo si in triduo
 conse<lb break="no" ed="#P" n="52"/>craretur sauzuis, non esset ibi Verbum per
 <lb ed="#P" n="53"/>concomitantiam ; quod videtur omnino 
 fal<lb break="no" ed="#P" n="54"/>sum, nam Christus, Joan. 6, sque de carne
-<lb ed="#P" n="55"/>et sanguine dixit ; <quote source="http://scta.info/resource/io6_56@1-9">Caro mea vere est cibus, et
+<lb ed="#P" n="55"/>et sanguine dixit ; <quote xml:id="szstco-k31635-Qd1e3054" source="http://scta.info/resource/io6_56@1-9">Caro mea vere est cibus, et
 <cb ed="#P" n="b"/>
-                     <lb ed="#P" n="56"/>sanguis meus vere est potus</quote>; <quote source="http://scta.info/resource/io6_57@1-15">qui manducat
+                     <lb ed="#P" n="56"/>sanguis meus vere est potus</quote>; <quote xml:id="szstco-k31635-Qd1e3062" source="http://scta.info/resource/io6_57@1-15">qui manducat
 <lb ed="#P" n="57"/>meam carnem et bibit meum sanguinem; in me
 <lb ed="#P" n="58"/>manet, et ego in eo</quote>; ergo quandocumque ex
 <lb ed="#P" n="59"/>vi consecrationis sanguis est sub illis 

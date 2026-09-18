@@ -70,7 +70,7 @@ per<lb break="no" ed="#P" n="19"/>spicuis rationibus confirmat.
 </p>
                <p xml:id="szstco-l01067-d1e131">
                   <lb ed="#P" n="20"/>2. In solutione ad primum, tractat locum
-<lb ed="#P" n="21"/>ilum Psalmi 21 : <quote source="http://scta.info/resource/ps21_2@10-16">Longe a salute mea verba
+<lb ed="#P" n="21"/>ilum Psalmi 21 : <quote xml:id="szstco-l01067-Qd1e139" source="http://scta.info/resource/ps21_2@10-16">Longe a salute mea verba
 de<lb break="no" ed="#P" n="22"/>lictorum meorum.</quote> In quo observandum est,
 <lb ed="#P" n="23"/>juxta veritatem Hebraicam, non legi 
 delicto<lb break="no" ed="#P" n="24"/>rum meorum, sed verba rugitus mei, seu 
@@ -105,11 +105,11 @@ om<lb break="no" ed="#P" n="52"/>nium nostrorum. Alia expositio esse posset,
 <lb ed="#P" n="53"/>ut Christus delicta sua vocet, non quae revera
 <cb ed="#P" n="b"/>
                   <lb ed="#P" n="54"/>habebat, sed quae illi faleo imponebantur, 
-si<lb break="no" ed="#P" n="55"/>cut exponit <name xml:id="szstco-l01067-Nd1e213">Ruffinus</name> verba illa Psal. 68 : <quote source="http://scta.info/resource/ps68_6@1-5">Deus,
+si<lb break="no" ed="#P" n="55"/>cut exponit <name xml:id="szstco-l01067-Nd1e213">Ruffinus</name> verba illa Psal. 68 : <quote xml:id="szstco-l01067-Qd1e221" source="http://scta.info/resource/ps68_6@1-5">Deus,
 <lb ed="#P" n="56"/>tu scis insipientiam meam</quote> , id est, passionem
 <lb ed="#P" n="57"/>meam, quae ab hominibus insipientia
 repu<lb break="no" ed="#P" n="58"/>tata est, ut etiam Augustinus et Hilarius
-ex<lb break="no" ed="#P" n="59"/>ponunt. <quote source="http://scta.info/resource/ps68_6@6-13">Et delicta mea a te non sunt
+ex<lb break="no" ed="#P" n="59"/>ponunt. <quote xml:id="szstco-l01067-Qd1e233" source="http://scta.info/resource/ps68_6@6-13">Et delicta mea a te non sunt
 abscon<lb break="no" ed="#P" n="60"/>dita</quote>, id est, delicta quae mihi homines
 impu<lb break="no" ed="#P" n="61"/>tant, tu scis qualia sint, quia revera nulla
 <lb ed="#P" n="62"/>sunt. Et ad eumdem modum exponi possunt
@@ -301,7 +301,7 @@ in<lb break="no" ed="#P" n="100"/>cidisse, quos significasse dicunt illis verbis
 <lb ed="#P" n="101"/>Deus Deus meus, ut quid dereliquisti me? 
 Cal<lb break="no" ed="#P" n="102"/>vinus etiam asseruisse fertur Christum in
 <lb ed="#P" n="103"/>horto ita fuisse turbatum, et tentationibus 
-agi<lb break="no" ed="#P" n="104"/>tatum, ut sine spiritu oraverit, dicens : <quote source="http://scta.info/resource/mt26_39@12-20">Pater,
+agi<lb break="no" ed="#P" n="104"/>tatum, ut sine spiritu oraverit, dicens : <quote xml:id="szstco-l01067-Qd1e629" source="http://scta.info/resource/mt26_39@12-20">Pater,
 <lb ed="#P" n="105"/>si possibile est, transeat a me calic iste</quote>; et
 <pb ed="#P" n="186"/>
                      <cb ed="#P" n="a"/>
@@ -335,7 +335,7 @@ ple<lb break="no" ed="#P" n="19"/>num extitisse. Et ratio est, non solum quia
 <lb ed="#P" n="26"/>c. 9. De actuali, quod in Christo locum non
 <lb ed="#P" n="27"/>habuerit, sunt expressa testimonia, Joan. 8:
 <lb ed="#P" n="28"/>Quis em volis arguet me de peccato?* et ad
-<lb ed="#P" n="29"/>Heb. 4: <quote source="http://scta.info/resource/hebr4_15@1-18">Non habemus Pontificem qui non
+<lb ed="#P" n="29"/>Heb. 4: <quote xml:id="szstco-l01067-Qd1e704" source="http://scta.info/resource/hebr4_15@1-18">Non habemus Pontificem qui non
 pos<lb break="no" ed="#P" n="30"/>sit compati infirmitatibus nostris, tentatum
 <lb ed="#P" n="31"/>ger omnia pro similitudine absque peccato</quote> ; et
 <lb ed="#P" n="32"/>cap. 9: Semetipsum obtulit immaculatum Deo,
@@ -343,7 +343,7 @@ pos<lb break="no" ed="#P" n="30"/>sit compati infirmitatibus nostris, tentatum
 <lb ed="#P" n="34"/>inventus est dolus n ore ejus. Ex quo loco
 <lb ed="#P" n="35"/>colligit etiam August. supra, in Christo non
 <lb ed="#P" n="36"/>fuisse originale peccatum. Denique, 2 ad Cor.
-<lb ed="#P" n="37"/>5: <quote source="http://scta.info/resource/IIcor5_21@1-9">Eum, qui non noverat peccatum, pro nobis
+<lb ed="#P" n="37"/>5: <quote xml:id="szstco-l01067-Qd1e724" source="http://scta.info/resource/IIcor5_21@1-9">Eum, qui non noverat peccatum, pro nobis
 <lb ed="#P" n="38"/>peccatum fecit</quote>, id est, hostiam pro peccato, ut
 <lb ed="#P" n="39"/>cum Ambrosio exponit hic D. Thomas, citans
 <lb ed="#P" n="40"/>illud Oseae 4: Peccata populi mei comedent,
@@ -485,7 +485,7 @@ subjectio<lb break="no" ed="#P" n="52"/>nem et conformitatem ad Patris voluntate
                      <lb ed="#P" n="56"/>transfer calicem hunc a me, etc. Quapropter
 <lb ed="#P" n="57"/>recte dixit Justinus Martyr, dialog. contra
 <lb ed="#P" n="58"/>Triphonem, in illa oratione impletam esse
-<lb ed="#P" n="59"/>prophetiam David. , Psal. 21 : <quote source="http://scta.info/resource/ps21_3@3-15">Clamabo per
+<lb ed="#P" n="59"/>prophetiam David. , Psal. 21 : <quote xml:id="szstco-l01067-Qd1e1032" source="http://scta.info/resource/ps21_3@3-15">Clamabo per
 <lb ed="#P" n="60"/>diem, et non ezaudies ; et nocte, et non ad
 insi<lb break="no" ed="#P" n="61"/>gientiam mihi</quote>; nam, licet Christus ita tunc
 <lb ed="#P" n="62"/>oraverit , ut exauditus non fuerit, quia non
@@ -626,7 +626,7 @@ Incar<lb break="no" ed="#P" n="57"/>nat., satis post med.; cum enim Apollinaris
 jus<lb break="no" ed="#P" n="66"/>tum, et immutabilem ad malum ; et in hoc
 <lb ed="#P" n="67"/>dicit superasse primum hominem et Angelos;
 <lb ed="#P" n="68"/>et ad hoc accommodat verba illa Psalm. 44:
-<quote source="http://scta.info/resource/ps44_8@1-16"><lb ed="#P" n="69"/>Dilesisti justitiam, et odisti iniguitatem,
+<quote xml:id="szstco-l01067-Qd1e1322" source="http://scta.info/resource/ps44_8@1-16"><lb ed="#P" n="69"/>Dilesisti justitiam, et odisti iniguitatem,
 pro<lb break="no" ed="#P" n="70"/>pterea uncit te Deus, Deus tuus oleo letitie
 <lb ed="#P" n="71"/>pre consortibus tuis</quote>, inteliigens per illam
 <lb ed="#P" n="72"/>unctionem, ipsam unionem hypostaticam; et
@@ -2628,7 +2628,7 @@ sa<lb break="no" ed="#P" n="83"/>tis convincitur ex illo Marc. 14: Capit pavere,
 <lb ed="#P" n="84"/>et tedere. Quod cum proprietate 
 intelligen<lb break="no" ed="#P" n="85"/>dum est, et maxime potest esse verum de 
 ti<lb break="no" ed="#P" n="86"/>more sensibili, praesertim cum statim 
-adda<lb break="no" ed="#P" n="87"/>tur : <quote source="http://scta.info/resource/mt26_41@9-15">Spiritus quidem promptus est , caro
+adda<lb break="no" ed="#P" n="87"/>tur : <quote xml:id="szstco-l01067-Qd1e5562" source="http://scta.info/resource/mt26_41@9-15">Spiritus quidem promptus est , caro
 au<lb break="no" ed="#P" n="88"/>tem infirma.</quote> Quod vero cum proprietate hoc
 <lb ed="#P" n="89"/>sit intellgendum, constat ex generali regula
 <lb ed="#P" n="90"/>exponendi Scripturam proprie, et praesertim
@@ -3171,7 +3171,7 @@ ca<lb break="no" ed="#P" n="67"/>ruerit, in q. 14 demonstratum est. Et ex his
 <lb ed="#P" n="71"/>munus viatoris. Caetera legantur in D. 
 Tho<lb break="no" ed="#P" n="72"/>ma, nam littera ejus expositione non indiget.
 <lb ed="#P" n="73"/>Solum in argumento Sed contra, notetur 
-tes<lb break="no" ed="#P" n="74"/>timonium Jeremiae 14: <quote source="http://scta.info/resource/ier14_8@8-20">Quare colonus futurus
+tes<lb break="no" ed="#P" n="74"/>timonium Jeremiae 14: <quote xml:id="szstco-l01067-Qd1e6719" source="http://scta.info/resource/ier14_8@8-20">Quare colonus futurus
 <lb ed="#P" n="75"/>es in terra, et quasi viator declinans ad
 manen<lb break="no" ed="#P" n="76"/>dum ?</quote> In sensu enim omnino proprio et
 litte<lb break="no" ed="#P" n="77"/>rali non satis probat conclusionem; quia vel
