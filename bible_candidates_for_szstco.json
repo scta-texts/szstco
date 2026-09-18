@@ -1,0 +1,2488 @@
+{
+  "szstco-k00003": {
+    "szstco-k00003-d1e715": [
+      {
+        "candidate_id": "Itim3_16",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e1136": [
+      {
+        "candidate_id": "gen49_10",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e1939": [
+      {
+        "candidate_id": "Ireg8_25",
+        "intersectionCount": 14,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Ireg8_24",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "MS quote is v.25 (Conserva famulo tuo David...), not v.24"
+      }
+    ],
+    "szstco-k00003-d1e2102": [
+      {
+        "candidate_id": "Ichr26_15",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "deut14_25",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "wrong verse; paragraph cites Deut 17:8, not Deut 14:25"
+      },
+      {
+        "candidate_id": "deut17_8",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e2711": [
+      {
+        "candidate_id": "dan9_24",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "quote spans dan9:24-27; encoded with all four verses"
+      },
+      {
+        "candidate_id": "dan9_27",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "dan9_26",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "dan9_25",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e3969": [
+      {
+        "candidate_id": "dan9_25",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "quote continues into dan9:26"
+      }
+    ],
+    "szstco-k00003-d1e4885": [
+      {
+        "candidate_id": "ag2_8",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "part of the joint ag2:7-10 quote"
+      },
+      {
+        "candidate_id": "ag2_10",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "quote spans ag2:7-10, cited jointly"
+      }
+    ],
+    "szstco-k00003-d1e5198": [
+      {
+        "candidate_id": "mal3_1",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e5261": [
+      {
+        "candidate_id": "ag2_8",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "same phrase already encoded earlier in paragraph with ag2_8 source"
+      },
+      {
+        "candidate_id": "ag2_4",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e5739": [
+      {
+        "candidate_id": "is66_19",
+        "intersectionCount": 16,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc7_19",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites Matt. 14 for \"Tu es qui venturus es\"; encoded with mt11_3 candidate instead"
+      },
+      {
+        "candidate_id": "lc7_20",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites Matt. 14 for \"Tu es qui venturus es\"; encoded with mt11_3 candidate instead"
+      },
+      {
+        "candidate_id": "mt11_3",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is49_6",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e5959": [
+      {
+        "candidate_id": "am9_13",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e6072": [
+      {
+        "candidate_id": "is11_6",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e6101": [
+      {
+        "candidate_id": "is2_2",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e6353": [
+      {
+        "candidate_id": "io10_33",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io8_40",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io9_11",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "deut18_15",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e6785": [
+      {
+        "candidate_id": "act13_33",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "multi-source with ps2_7/hebr5_5, MS explicitly cites Paul in Hebrews and Acts 13 using this Psalm text"
+      },
+      {
+        "candidate_id": "hebr5_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "multi-source with ps2_7/act13_33"
+      },
+      {
+        "candidate_id": "ps2_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "multi-source with hebr5_5/act13_33"
+      },
+      {
+        "candidate_id": "IIsam7_16",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr1_5",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "quote spans two occurrences in paragraph (Ps2:7 and 2Sam7:14 as quoted in Hebr1:5)"
+      },
+      {
+        "candidate_id": "ps88_30",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e6920": [
+      {
+        "candidate_id": "act2_34",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "not explicitly cited in this paragraph (only Ps 109 and Matt 22 named)"
+      },
+      {
+        "candidate_id": "lc20_42",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "not explicitly cited in this paragraph"
+      },
+      {
+        "candidate_id": "mc12_36",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "not explicitly cited in this paragraph"
+      },
+      {
+        "candidate_id": "mt22_44",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "multi-source with ps109_1"
+      },
+      {
+        "candidate_id": "ps101_26",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps109_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "multi-source with mt22_44"
+      }
+    ],
+    "szstco-k00003-d1e7056": [
+      {
+        "candidate_id": "is9_6",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e7134": [
+      {
+        "candidate_id": "is35_2",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e7269": [
+      {
+        "candidate_id": "is52_10",
+        "intersectionCount": 14,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e7321": [
+      {
+        "candidate_id": "ier23_6",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e7433": [
+      {
+        "candidate_id": "zac2_8",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e7506": [
+      {
+        "candidate_id": "zac13_6",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "zac13_2",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k00003-d1e7629": [
+      {
+        "candidate_id": "deut18_16",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "deut18_15",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-k07650": {
+    "szstco-k07650-d1e2239": [
+      {
+        "candidate_id": "phil2_6",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e2815": [
+      {
+        "candidate_id": "io18_37",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e4539": [
+      {
+        "candidate_id": "hebr2_10",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e5207": [
+      {
+        "candidate_id": "sir29_20",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e5453": [
+      {
+        "candidate_id": "dan9_24",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e5516": [
+      {
+        "candidate_id": "gal2_16",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites \"ibidem\" (Rom 3) not Galatians; actual text is Rom 3:20"
+      },
+      {
+        "candidate_id": "rom3_24",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom3_20",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e5781": [
+      {
+        "candidate_id": "Icor7_23",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr9_12",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is50_1",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e5903": [
+      {
+        "candidate_id": "is49_26",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Iio2_2",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_16",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph2_13",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is49_25",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "quote spans is49:24-25"
+      }
+    ],
+    "szstco-k07650-d1e5989": [
+      {
+        "candidate_id": "is53_4",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e6239": [
+      {
+        "candidate_id": "is40_2",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e15002": [
+      {
+        "candidate_id": "eph2_18",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e17081": [
+      {
+        "candidate_id": "ap1_5",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e19068": [
+      {
+        "candidate_id": "is53_10",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is53_11",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps2_8",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e19229": [
+      {
+        "candidate_id": "IItim4_8",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e19577": [
+      {
+        "candidate_id": "IItim1_12",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e26505": [
+      {
+        "candidate_id": "Iio3_14",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim1_5",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "no explicit 1 Tim citation located in this paragraph on charity/justification; likely vocabulary-overlap false positive"
+      }
+    ],
+    "szstco-k07650-d1e28166": [
+      {
+        "candidate_id": "Iio3_14",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e28659": [
+      {
+        "candidate_id": "Icor6_11",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e29080": [
+      {
+        "candidate_id": "ps50_6",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "MS mislabels as \"Psalm trigesimo\""
+      }
+    ],
+    "szstco-k07650-d1e29256": [
+      {
+        "candidate_id": "act26_18",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e29627": [
+      {
+        "candidate_id": "ier18_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "MS mislabels as \"Jerem. 8\""
+      },
+      {
+        "candidate_id": "sap11_24",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ioel2_13",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e30029": [
+      {
+        "candidate_id": "act8_22",
+        "intersectionCount": 13,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ion3_9",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS quotes Zac 1:3 phrasing (\"Convertimini ad me\"), not Jonah"
+      },
+      {
+        "candidate_id": "ps50_19",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e34773": [
+      {
+        "candidate_id": "mic6_7",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e35823": [
+      {
+        "candidate_id": "ez33_14",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e36655": [
+      {
+        "candidate_id": "Iio1_9",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "MS mislabels as \"1 Joan. 4\""
+      }
+    ],
+    "szstco-k07650-d1e37717": [
+      {
+        "candidate_id": "col1_24",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e37842": [
+      {
+        "candidate_id": "io15_4",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e38527": [
+      {
+        "candidate_id": "Icor2_7",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph1_5",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e45297": [
+      {
+        "candidate_id": "gal4_5",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io3_16",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor9_21",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "no 1 Cor 9 citation found in this paragraph; likely vocabulary overlap"
+      }
+    ],
+    "szstco-k07650-d1e46737": [
+      {
+        "candidate_id": "sir24_34",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e47422": [
+      {
+        "candidate_id": "Icor15_49",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "MS mislabels as \"Gen. 4\""
+      }
+    ],
+    "szstco-k07650-d1e50709": [
+      {
+        "candidate_id": "hebr2_10",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e52102": [
+      {
+        "candidate_id": "eph1_5",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "quote spans eph1:4-6; encoded with all three verses"
+      },
+      {
+        "candidate_id": "eph1_6",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "multi-source with eph1_4/eph1_5"
+      }
+    ],
+    "szstco-k07650-d1e53049": [
+      {
+        "candidate_id": "Isam16_2",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e53743": [
+      {
+        "candidate_id": "hebr2_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr2_7",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr2_10",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k07650-d1e59507": [
+      {
+        "candidate_id": "dan9_2",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-k08394": {
+    "szstco-k08394-d1e2559": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k08394-d1e25084": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k08394-d1e26373": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k08394-d1e30535": [
+      {
+        "candidate_id": "ps11_6",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-k12772": {
+    "szstco-k12772-d1e8538": [
+      {
+        "candidate_id": "io14_20",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-k31635": {
+    "szstco-k31635-d1e1315": [
+      {
+        "candidate_id": "Ipetr4_1",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k31635-d1e1563": [
+      {
+        "candidate_id": "Icor15_47",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k31635-d1e3000": [
+      {
+        "candidate_id": "io6_57",
+        "intersectionCount": 11,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io6_55",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "io6_56 and io6_57 already encoded in this paragraph; io6_55 text not present"
+      },
+      {
+        "candidate_id": "io6_56",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-k45779": {
+    "szstco-k45779-d1e708": [
+      {
+        "candidate_id": "Ith5_23",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k45779-d1e1408": [
+      {
+        "candidate_id": "hebr10_5",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k45779-d1e1675": [
+      {
+        "candidate_id": "gal4_4",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-k53201": {
+    "szstco-k53201-d1e436": [
+      {
+        "candidate_id": "IIpetr1_17",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "no Accipiens a Deo Patre honorem phrase in this paragraph"
+      },
+      {
+        "candidate_id": "mt3_17",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "same phrase already encoded to mt17_5, no second quote to attribute"
+      },
+      {
+        "candidate_id": "mt17_5",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k53201-d1e2376": [
+      {
+        "candidate_id": "io15_10",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k53201-d1e2869": [
+      {
+        "candidate_id": "is11_1",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k53201-d1e3043": [
+      {
+        "candidate_id": "io3_35",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k53201-d1e7091": [
+      {
+        "candidate_id": "is11_2",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k53201-d1e8927": [
+      {
+        "candidate_id": "io2_25",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k53201-d1e9489": [
+      {
+        "candidate_id": "io1_33",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k53201-d1e10086": [
+      {
+        "candidate_id": "io3_34",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k53201-d1e12308": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k53201-d1e12352": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 10,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k53201-d1e13355": [
+      {
+        "candidate_id": "ps132_2",
+        "intersectionCount": 13,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-k56590": {
+    "szstco-k56590-d1e1249": [
+      {
+        "candidate_id": "eph4_15",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k56590-d1e1538": [
+      {
+        "candidate_id": "col2_10",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k56590-d1e1985": [
+      {
+        "candidate_id": "Icor12_27",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-k59273": {
+    "szstco-k59273-d1e700": [
+      {
+        "candidate_id": "io1_18",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k59273-d1e781": [
+      {
+        "candidate_id": "is11_2",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k59273-d1e1357": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k59273-d1e3031": [
+      {
+        "candidate_id": "io3_11",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io3_32",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k59273-d1e3188": [
+      {
+        "candidate_id": "Icor13_11",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "szstco-k59273-d1e3544": [
+      {
+        "candidate_id": "lc24_26",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01011": {
+    "szstco-l01011-d1e1375": [
+      {
+        "candidate_id": "io14_2",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01011-d1e1492": [
+      {
+        "candidate_id": "hebr1_4",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01011-d1e3426": [
+      {
+        "candidate_id": "rom11_34",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01011-d1e4989": [
+      {
+        "candidate_id": "iob11_8",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01011-d1e6818": [
+      {
+        "candidate_id": "mt11_21",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01032": {
+    "szstco-l01032-d1e227": [
+      {
+        "candidate_id": "io7_15",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "MS mislabels as \"Joan. 1\""
+      }
+    ]
+  },
+  "szstco-l01045": {
+    "szstco-l01045-d1e1818": [
+      {
+        "candidate_id": "io5_21",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01045-d1e2225": [
+      {
+        "candidate_id": "io1_17",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01045-d1e2835": [
+      {
+        "candidate_id": "io1_17",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01059": {
+    "szstco-l01059-d1e847": [
+      {
+        "candidate_id": "lc24_26",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01059-d1e2045": [
+      {
+        "candidate_id": "ps39_9",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps39_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quote spans ps39:7-9"
+      }
+    ],
+    "szstco-l01059-d1e2958": [
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01067": {
+    "szstco-l01067-d1e131": [
+      {
+        "candidate_id": "ps21_2",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps68_6",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01067-d1e584": [
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01067-d1e641": [
+      {
+        "candidate_id": "hebr4_15",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIcor5_21",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01067-d1e969": [
+      {
+        "candidate_id": "ps21_3",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01067-d1e1251": [
+      {
+        "candidate_id": "ps44_8",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01067-d1e5500": [
+      {
+        "candidate_id": "mt26_41",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01067-d1e6638": [
+      {
+        "candidate_id": "ier14_8",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01071": {
+    "szstco-l01071-d1e2173": [
+      {
+        "candidate_id": "bar3_38",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01071-d1e5202": [
+      {
+        "candidate_id": "ps50_12",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph4_24",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01071-d1e6006": [
+      {
+        "candidate_id": "hebr13_8",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01082": {
+    "szstco-l01082-d1e142": [
+      {
+        "candidate_id": "Itim2_5",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01093": {
+    "szstco-l01093-d1e550": [
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io4_34",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io5_30",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io6_38",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01093-d1e801": [
+      {
+        "candidate_id": "io10_18",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "quote spans io10:17-18"
+      },
+      {
+        "candidate_id": "io7_1",
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is7_15",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01093-d1e1085": [
+      {
+        "candidate_id": "io10_18",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "quote spans Joan 10:17-18; encoded io10_17@6-13 io10_18@1-28"
+      }
+    ],
+    "szstco-l01093-d1e1755": [
+      {
+        "candidate_id": "io12_49",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "quote continues into io12:50, cited jointly"
+      }
+    ],
+    "szstco-l01093-d1e2928": [
+      {
+        "candidate_id": "io14_31",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt26_54",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01093-d1e5945": [
+      {
+        "candidate_id": "io18_4",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc22_15",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01093-d1e6121": [
+      {
+        "candidate_id": "mc7_24",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01093-d1e7018": [
+      {
+        "candidate_id": "Ipetr2_24",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "cant3_11",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01093-d1e7619": [
+      {
+        "candidate_id": "hebr10_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "multi-source with ps39_8"
+      },
+      {
+        "candidate_id": "ps39_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "multi-source with hebr10_7; MS mislabels as Ps.36"
+      },
+      {
+        "candidate_id": "io4_34",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01111": {
+    "szstco-l01111-d1e742": [
+      {
+        "candidate_id": "phm1_14",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e1403": [
+      {
+        "candidate_id": "ps2_8",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is53_10",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e2157": [
+      {
+        "candidate_id": "io14_31",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e3806": [
+      {
+        "candidate_id": "io9_4",
+        "intersectionCount": 10,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e3973": [
+      {
+        "candidate_id": "hebr10_12",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io17_20",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil2_8",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps2_8",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc24_26",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "no explicit Luke 24:26 quote in this paragraph; only the Data est mihi... (Matt 28:18) citation found"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e5334": [
+      {
+        "candidate_id": "hebr1_9",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no Hebrews quotation present in this paragraph (Ps44/Isa53/Isa72/Joan10 testimonia)"
+      },
+      {
+        "candidate_id": "ps44_8",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e5393": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e7727": [
+      {
+        "candidate_id": "hebr2_9",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc24_26",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e7926": [
+      {
+        "candidate_id": "is53_10",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e8279": [
+      {
+        "candidate_id": "ap5_12",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io17_4",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io12_27",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e8385": [
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps2_8",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e8650": [
+      {
+        "candidate_id": "col2_13",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_16",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Iio2_2",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e8820": [
+      {
+        "candidate_id": "rom3_24",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph1_7",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e9016": [
+      {
+        "candidate_id": "rom5_1",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_17",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_17",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "tit3_7",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_2",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_21",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e9640": [
+      {
+        "candidate_id": "hebr13_21",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_29",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph1_11",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e9813": [
+      {
+        "candidate_id": "phil1_29",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e10516": [
+      {
+        "candidate_id": "io17_20",
+        "intersectionCount": 12,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io17_12",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "paragraph quotes io17_11, io17_20, io17_24 but not io17_12"
+      },
+      {
+        "candidate_id": "io17_24",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr5_9",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc22_32",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr5_7",
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io17_11",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e11283": [
+      {
+        "candidate_id": "io15_4",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph4_16",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph4_15",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph2_21",
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph2_20",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e11683": [
+      {
+        "candidate_id": "io10_10",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e12197": [
+      {
+        "candidate_id": "io14_23",
+        "intersectionCount": 10,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e13123": [
+      {
+        "candidate_id": "eph2_4",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "quote continues into eph2:5, cited jointly"
+      }
+    ],
+    "szstco-l01111-d1e13789": [
+      {
+        "candidate_id": "mc10_40",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "only Matthew 20:23 explicitly cited in this paragraph, not the Mark parallel"
+      },
+      {
+        "candidate_id": "eph1_11",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt20_23",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e14012": [
+      {
+        "candidate_id": "IItim1_9",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph1_4",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e15465": [
+      {
+        "candidate_id": "hebr2_11",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e15637": [
+      {
+        "candidate_id": "eph1_10",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col1_20",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e15849": [
+      {
+        "candidate_id": "eph2_8",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io17_3",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e16688": [
+      {
+        "candidate_id": "hebr2_11",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e16784": [
+      {
+        "candidate_id": "hebr2_9",
+        "intersectionCount": 13,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr2_10",
+        "intersectionCount": 14,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e17314": [
+      {
+        "candidate_id": "hebr2_9",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01111-d1e17363": [
+      {
+        "candidate_id": "IIcor5_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01212": {
+    "szstco-l01212-d1e203": [
+      {
+        "candidate_id": "Icor15_28",
+        "intersectionCount": 10,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01212-d1e538": [
+      {
+        "candidate_id": "io14_28",
+        "intersectionCount": 11,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01212-d1e1227": [
+      {
+        "candidate_id": "hebr10_7",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01212-d1e2289": [
+      {
+        "candidate_id": "io10_17",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr12_2",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io15_10",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io10_18",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "quote spans io10:17-18"
+      }
+    ],
+    "szstco-l01212-d1e2480": [
+      {
+        "candidate_id": "mt26_42",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps39_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "multi-source with ps39_9"
+      },
+      {
+        "candidate_id": "phil2_8",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_19",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps39_9",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "quote spans ps39:8-9"
+      }
+    ],
+    "szstco-l01212-d1e3381": [
+      {
+        "candidate_id": "hebr3_5",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01212-d1e3641": [
+      {
+        "candidate_id": "hebr3_3",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io3_35",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01212-d1e4020": [
+      {
+        "candidate_id": "is42_1",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01212-d1e5033": [
+      {
+        "candidate_id": "lc4_8",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt4_10",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01212-d1e5438": [
+      {
+        "candidate_id": "phil2_5",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01212-d1e6212": [
+      {
+        "candidate_id": "io15_15",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01212-d1e6280": [
+      {
+        "candidate_id": "io8_35",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01212-d1e9923": [
+      {
+        "candidate_id": "lc1_49",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01234": {
+    "szstco-l01234-d1e711": [
+      {
+        "candidate_id": "io4_22",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01234-d1e815": [
+      {
+        "candidate_id": "hebr5_7",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01234-d1e943": [
+      {
+        "candidate_id": "io11_42",
+        "intersectionCount": 12,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01234-d1e1061": [
+      {
+        "candidate_id": "ps2_8",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01234-d1e1274": [
+      {
+        "candidate_id": "hebr9_24",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01234-d1e1371": [
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01248": {
+    "szstco-l01248-d1e609": [
+      {
+        "candidate_id": "Ipetr2_9",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01248-d1e906": [
+      {
+        "candidate_id": "io10_18",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "quote spans io10:17-18"
+      }
+    ],
+    "szstco-l01248-d1e1302": [
+      {
+        "candidate_id": "eph5_2",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01248-d1e1584": [
+      {
+        "candidate_id": "hebr7_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01248-d1e2981": [
+      {
+        "candidate_id": "hebr5_6",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "paragraph quotes Ps 109:4, no Hebr 5 quotation present"
+      },
+      {
+        "candidate_id": "hebr7_17",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "paragraph quotes Ps 109:4, no Hebr 7 quotation present"
+      },
+      {
+        "candidate_id": "ps109_4",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01248-d1e3812": [
+      {
+        "candidate_id": "eph4_7",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io13_3",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt16_19",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIcor13_3",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor4_1",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "dan7_14",
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt16_18",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01248-d1e3975": [
+      {
+        "candidate_id": "ez34_24",
+        "intersectionCount": 12,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "dan2_35",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "paraphrase of narrative, no clean word range; cited resource only, joined with dan2_34"
+      },
+      {
+        "candidate_id": "ez34_23",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps2_6",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ez21_27",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is9_6",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is9_7",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01248-d1e4268": [
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01248-d1e4401": [
+      {
+        "candidate_id": "io14_21",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01248-d1e4561": [
+      {
+        "candidate_id": "deut18_18",
+        "intersectionCount": 12,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "deut18_15",
+        "intersectionCount": 14,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps2_8",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "deut18_19",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quote continues into v.19"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01248-d1e4951": [
+      {
+        "candidate_id": "ier22_30",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io19_21",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01248-d1e5189": [
+      {
+        "candidate_id": "lc12_13",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no match in this paragraph text"
+      },
+      {
+        "candidate_id": "lc12_14",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no match in this paragraph text"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01253": {
+    "szstco-l01253-d1e393": [
+      {
+        "candidate_id": "eph1_5",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_12",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e1012": [
+      {
+        "candidate_id": "deut32_6",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e1592": [
+      {
+        "candidate_id": "Iio3_9",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Iio3_10",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e1637": [
+      {
+        "candidate_id": "IItim2_21",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e1742": [
+      {
+        "candidate_id": "Iio5_20",
+        "intersectionCount": 11,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io20_17",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io10_29",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e1989": [
+      {
+        "candidate_id": "act13_33",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites only Psalm 2, not the NT loci that quote it"
+      },
+      {
+        "candidate_id": "hebr1_2",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr1_5",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites only Psalm 2, not the NT loci that quote it"
+      },
+      {
+        "candidate_id": "hebr5_5",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites only Psalm 2, not the NT loci that quote it"
+      },
+      {
+        "candidate_id": "ps2_7",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_32",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e2265": [
+      {
+        "candidate_id": "io10_35",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io10_36",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e2896": [
+      {
+        "candidate_id": "hebr1_4",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io20_17",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e5287": [
+      {
+        "candidate_id": "io14_31",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e7278": [
+      {
+        "candidate_id": "rom8_32",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e9503": [
+      {
+        "candidate_id": "gal1_8",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e10400": [
+      {
+        "candidate_id": "IIpetr1_17",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "no Accipiens a Deo Patre honorem phrase in this paragraph"
+      },
+      {
+        "candidate_id": "mt3_17",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt17_5",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e10478": [
+      {
+        "candidate_id": "mt17_5",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no explicit Matth. 3/17 chapter citation in this paragraph, only patristic quotations of the phrase"
+      },
+      {
+        "candidate_id": "mt3_17",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no explicit Matth. 3/17 chapter citation in this paragraph, only patristic quotations of the phrase"
+      },
+      {
+        "candidate_id": "IIpetr1_17",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01253-d1e11613": [
+      {
+        "candidate_id": "io11_27",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01262": {
+    "szstco-l01262-d1e385": [
+      {
+        "candidate_id": "Icor2_7",
+        "intersectionCount": 12,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01262-d1e858": [
+      {
+        "candidate_id": "rom1_2",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_4",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "quote spans rom1:1-4, cited jointly"
+      }
+    ],
+    "szstco-l01262-d1e1285": [
+      {
+        "candidate_id": "rom1_3",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01262-d1e1361": [
+      {
+        "candidate_id": "ap5_12",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01278": {
+    "szstco-l01278-d1e1634": [
+      {
+        "candidate_id": "is6_3",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e1760": [
+      {
+        "candidate_id": "ps96_7",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e2183": [
+      {
+        "candidate_id": "io4_24",
+        "intersectionCount": 11,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io4_23",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e4415": [
+      {
+        "candidate_id": "mc12_17",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "allusion within Augustine sermon quotation, no explicit scriptural citation in MS"
+      },
+      {
+        "candidate_id": "mt22_21",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "allusion within Augustine sermon quotation, no explicit scriptural citation in MS"
+      }
+    ],
+    "szstco-l01278-d1e5758": [
+      {
+        "candidate_id": "iudic13_16",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e8227": [
+      {
+        "candidate_id": "hebr1_6",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e12561": [
+      {
+        "candidate_id": "ps98_5",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e13737": [
+      {
+        "candidate_id": "lc4_8",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt4_10",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e15663": [
+      {
+        "candidate_id": "ex20_4",
+        "intersectionCount": 14,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "deut5_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "same phrase cited jointly with Exod 20:4; both sources given"
+      }
+    ],
+    "szstco-l01278-d1e15819": [
+      {
+        "candidate_id": "lev26_1",
+        "intersectionCount": 14,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e16250": [
+      {
+        "candidate_id": "ps98_5",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e16393": [
+      {
+        "candidate_id": "ps131_7",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e16820": [
+      {
+        "candidate_id": "act7_33",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "MS explicitly cites Exod 3; shared vocabulary from parallel biblical episode"
+      },
+      {
+        "candidate_id": "ios5_16",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "MS explicitly cites Exod 3; shared vocabulary from parallel biblical episode"
+      },
+      {
+        "candidate_id": "ex3_5",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e17015": [
+      {
+        "candidate_id": "ps98_5",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e17869": [
+      {
+        "candidate_id": "ps98_5",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e28504": [
+      {
+        "candidate_id": "mt23_30",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01278-d1e29492": [
+      {
+        "candidate_id": "ps131_7",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "szstco-l01281": {
+    "szstco-l01281-d1e163": [
+      {
+        "candidate_id": "Itim2_5",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "szstco-l01281-d1e721": [
+      {
+        "candidate_id": "Itim2_5",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  }
+}
