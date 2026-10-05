@@ -228,7 +228,7 @@ immu<lb break="no" ed="#P" n="67"/>tationem creaturarum, quam ex assertione
 </p>
                <p xml:id="szstco-l01045-d1e466">
                   <lb ed="#P" n="69"/>4. In solutione ad primum, tractat D. 
-Tho<lb break="no" ed="#P" n="70"/>mas locum illum Matthaei ult. : <quote source="http://scta.info/resource/mt28_18@8-17">Data est mihi
+Tho<lb break="no" ed="#P" n="70"/>mas locum illum Matthaei ult. : <quote xml:id="szstco-l01045-Qd1e475" source="http://scta.info/resource/mt28_18@8-17">Data est mihi
 <lb ed="#P" n="71"/>omnas potestas im collo et in terra</quote>. Et exponit
 <lb ed="#P" n="72"/>haec verba intelligenda esse de omnipotentia
 <lb ed="#P" n="73"/>simpliciter, quae communicata dicitur homini
@@ -285,7 +285,7 @@ sermo<lb break="no" ed="#P" n="6"/>nem de potestate faciendi miracula, de qua
 <lb ed="#P" n="12"/>qua infra. q. 22, dicturi sumus, ut egregie
 <lb ed="#P" n="13"/>exposuit Vigil., citato loco; ad hanc enim 
 po<lb break="no" ed="#P" n="14"/>testatem pertinet actus ille quem Christus 
-sta<lb break="no" ed="#P" n="15"/>tim exercuit, dicens : <quote source="http://scta.info/resource/mt28_19@1-5">Funtes ergo, docete 
+sta<lb break="no" ed="#P" n="15"/>tim exercuit, dicens : <quote xml:id="szstco-l01045-Qd1e602" source="http://scta.info/resource/mt28_19@1-5">Funtes ergo, docete 
 om<lb break="no" ed="#P" n="16"/>nes gentes</quote>. Dixit autem Christus, post 
 resur<lb break="no" ed="#P" n="17"/>rectionem datam sibi esse hanc potestatem,
 <lb ed="#P" n="18"/>vel quia tunc caepit innotescere hominibus
@@ -308,9 +308,9 @@ acce<lb break="no" ed="#P" n="32"/>pisse Christum potestatem faciendi miracula
 <lb ed="#P" n="33"/>ut ea uti posset, sed etiam ut eam posset aliis
 <lb ed="#P" n="34"/>communicare , juxta illud Matth. 10, et Luc.
 <lb ed="#P" n="35"/>10 : Fcce ego mitto vos ; etinfra : Curate 
-iuftr<lb break="no" ed="#P" n="36"/>aos ; etinfra : <quote source="http://scta.info/resource/lc10_17@10-13">Etiam demonia subjiciuntur
-<lb ed="#P" n="37"/>nobis</quote> ; et infra : <quote source="http://scta.info/resource/lc10_19@1-4">Ecce dedi vobis potestatem</quote>,
-<lb ed="#P" n="38"/>etc. ; et Matth. 16 : <quote source="http://scta.info/resource/mc16_17@1-7">Signa autem eos, qui 
+iuftr<lb break="no" ed="#P" n="36"/>aos ; etinfra : <quote xml:id="szstco-l01045-Qd1e653" source="http://scta.info/resource/lc10_17@10-13">Etiam demonia subjiciuntur
+<lb ed="#P" n="37"/>nobis</quote> ; et infra : <quote xml:id="szstco-l01045-Qd1e658" source="http://scta.info/resource/lc10_19@1-4">Ecce dedi vobis potestatem</quote>,
+<lb ed="#P" n="38"/>etc. ; et Matth. 16 : <quote xml:id="szstco-l01045-Qd1e663" source="http://scta.info/resource/mc16_17@1-7">Signa autem eos, qui 
 cre<lb break="no" ed="#P" n="39"/>diderint, luec seguentur</quote>, etc. Et huc pertinet,
 <lb ed="#P" n="40"/>quod Christus dedit aliis potestatem 
 conse<lb break="no" ed="#P" n="41"/>crandi, remittendi peccata, etc. Tota enim
@@ -601,14 +601,14 @@ ope<lb break="no" ed="#P" n="39"/>ratum, unde necessario fit illi humanitati
 <lb ed="#P" n="40"/>communicatam esse virtutem supernaturalem
 <lb ed="#P" n="41"/>ad miracula facienda. Conclusio est de fide,
 <lb ed="#P" n="42"/>ut ex universa evangelica historia constat, et
-<lb ed="#P" n="43"/>specialiter Matth. 9, inquit Christus : <quote source="http://scta.info/resource/mt9_6@1-16">Ut 
+<lb ed="#P" n="43"/>specialiter Matth. 9, inquit Christus : <quote xml:id="szstco-l01045-Qd1e1258" source="http://scta.info/resource/mt9_6@1-16">Ut 
 au<lb break="no" ed="#P" n="44"/>tem sciatis quia Filius hominis habet in terra
 <lb ed="#P" n="45"/>potestatem remittendi peccata, dicit paralytico -
 <lb ed="#P" n="46"/>Surge</quote>, etc., ubi ex uno effectu supernaturali
 <lb ed="#P" n="47"/>potestatem ad alium efficiendum confirmat ,
 <lb ed="#P" n="48"/>non quia effectus ille major esset, sed quia
 <lb ed="#P" n="49"/>evidentior, et ideo, ut Evangelista concludit,
-<lb ed="#P" n="50"/>homines <quote source="http://scta.info/resource/mt9_8@6-12">glorificabant Deum , qui dedit 
+<lb ed="#P" n="50"/>homines <quote xml:id="szstco-l01045-Qd1e1276" source="http://scta.info/resource/mt9_8@6-12">glorificabant Deum , qui dedit 
 potesta<lb break="no" ed="#P" n="51"/>tem talem hominibus</quote>. Plura testimonia 
 affere<lb break="no" ed="#P" n="52"/>mus in sequentibus. Ratio vera prima et 
 prae<lb break="no" ed="#P" n="53"/>cipua est divina voluntas, a qua omnis haee
@@ -620,15 +620,15 @@ prae<lb break="no" ed="#P" n="53"/>cipua est divina voluntas, a qua omnis haee
 <lb ed="#P" n="58"/>suam divinis signis confirmaret, et praesertim,
 <lb ed="#P" n="59"/>cum se Deum et Filium Dei esse diceret, 
 de<lb break="no" ed="#P" n="60"/>buit hoc operibus ostendere. Unde Joan. 5,
-<lb ed="#P" n="61"/>inquit Christus : <quote source="http://scta.info/resource/io5_36@7-24">Opera, quae dedit anihi Pater
+<lb ed="#P" n="61"/>inquit Christus : <quote xml:id="szstco-l01045-Qd1e1305" source="http://scta.info/resource/io5_36@7-24">Opera, quae dedit anihi Pater
 <lb ed="#P" n="62"/>ut faciam , ipsa sunt guae testimonium 
-perhi<lb break="no" ed="#P" n="63"/>bent de me</quote> ; et c. 10: <quote source="http://scta.info/resource/io10_38@5-11">Si mihi non vultis 
-crz<lb break="no" ed="#P" n="64"/>dere , operibus credite</quote>; et c. 15 : <quote source="http://scta.info/resource/io15_24@1-13">Si opera nou
+perhi<lb break="no" ed="#P" n="63"/>bent de me</quote> ; et c. 10: <quote xml:id="szstco-l01045-Qd1e1312" source="http://scta.info/resource/io10_38@5-11">Si mihi non vultis 
+crz<lb break="no" ed="#P" n="64"/>dere , operibus credite</quote>; et c. 15 : <quote xml:id="szstco-l01045-Qd1e1317" source="http://scta.info/resource/io15_24@1-13">Si opera nou
 <lb ed="#P" n="65"/>fecissem in eis que nemo aluus fecit, neccatum
 <lb ed="#P" n="66"/>non haberent</quote>; et ideo unum ex signis quod
 <lb ed="#P" n="67"/>dederat Deus ad cognoscendum Messiam,
 <lb ed="#P" n="68"/>fuit, quod mira opera esset facturus, ut 
-con<lb break="no" ed="#P" n="69"/>stat Is. 35, et Matt. 11: /<quote source="http://scta.info/resource/mt11_4@6-12 http://scta.info/resource/mt11_5@1-4">te, et renuntaate 
+con<lb break="no" ed="#P" n="69"/>stat Is. 35, et Matt. 11: /<quote xml:id="szstco-l01045-Qd1e1331" source="http://scta.info/resource/mt11_4@6-12 http://scta.info/resource/mt11_5@1-4">te, et renuntaate 
 Joan<lb break="no" ed="#P" n="70"/>ni qua audistis, et vidistis, ceci vident, claudi
 <lb ed="#P" n="71"/>ambulant</quote>, etc. Sed quaeret aliquis an haec 
 con<lb break="no" ed="#P" n="72"/>clusio non solum certa sit, sed etiam evidens,
@@ -765,10 +765,10 @@ potesta<lb break="no" ed="#P" n="87"/>tem permanentem, et per modum habitus,
 <lb ed="#P" n="88"/>quia, sicut habitibus utimur cum volumus, ita
 <lb ed="#P" n="89"/>ipse arbitrio suo, et ad nutum suae voluntats,
 <lb ed="#P" n="90"/>poterat miracula facere, juxta illud Matth.8:
-<lb ed="#P" n="91"/><quote source="http://scta.info/resource/mt8_2@8-13">Domine, si vis, potes me mundare</quote> ; nam, licet
+<lb ed="#P" n="91"/><quote xml:id="szstco-l01045-Qd1e1627" source="http://scta.info/resource/mt8_2@8-13">Domine, si vis, potes me mundare</quote> ; nam, licet
 <lb ed="#P" n="92"/>illud fuerit a leproso dictum, quod autem ex
 <lb ed="#P" n="93"/>vera fide fuerit profectum, ipse Dominus 
-os<lb break="no" ed="#P" n="94"/>tendit, dicens : <quote source="http://scta.info/resource/mt8_3@8-9">lolo, mundare</quote>. Unde Joan. 11,
+os<lb break="no" ed="#P" n="94"/>tendit, dicens : <quote xml:id="szstco-l01045-Qd1e1637" source="http://scta.info/resource/mt8_3@8-9">lolo, mundare</quote>. Unde Joan. 11,
 <lb ed="#P" n="95"/>cum ad suscitandum Lazarum Christus 
 ora<lb break="no" ed="#P" n="96"/>tionem praemisisset, propter eos, qui aderant,
 <lb ed="#P" n="97"/>dixit se id fecisse, non quod ipse indigeret.
@@ -1170,7 +1170,7 @@ Re<lb break="no" ed="#P" n="16"/>gin., et dial. 6 de Trinit. ; Greg. Nazianz.,
 <lb ed="#P" n="21"/>Arian., ante medium, saepe dicit Christum
 <lb ed="#P" n="22"/>per humanitatem effecisse miracula. Optime
 <lb ed="#P" n="23"/>Chrys., hom. 26 in Matth., ponderans verba
-<lb ed="#P" n="24"/>illa: <quote source="http://scta.info/resource/mt8_2@8-13">Domine, si vis, potes me mundare</quote> , 
+<lb ed="#P" n="24"/>illa: <quote xml:id="szstco-l01045-Qd1e2496" source="http://scta.info/resource/mt8_2@8-13">Domine, si vis, potes me mundare</quote> , 
 adver<lb break="no" ed="#P" n="25"/>tit non dixisse, Si oraveris, sed, si vis ; omnia,
 <lb ed="#P" n="26"/>inquit, egjus arbitrio, et potestatà comamattens,
 <lb ed="#P" n="27"/>quod Christus ipse, et assensione, et 
@@ -4949,7 +4949,7 @@ instru<lb break="no" ed="#P" n="3"/>mentorum Dei confirmari solet, ex quibus
 <lb ed="#P" n="5"/>sunt , et plura etiam afferam in 3 tom., 
 trac<lb break="no" ed="#P" n="6"/>tando de activitate sacramentorum; et videri
 <lb ed="#P" n="7"/>etiam possunt August., in Psal. 130, et in id
-<lb ed="#P" n="8"/>Psalm. 138 : <quote source="http://scta.info/resource/ps138_14@7-14">Miralilia opera tua, et anima
+<lb ed="#P" n="8"/>Psalm. 138 : <quote xml:id="szstco-l01045-Qd1e10535" source="http://scta.info/resource/ps138_14@7-14">Miralilia opera tua, et anima
 <lb ed="#P" n="9"/>mea cognoscet mimis</quote> ; Chrysost. , hom. 1 in
 <lb ed="#P" n="10"/>Acta; Ambros., serm. 91; et optime D.
 <lb ed="#P" n="11"/>Thom., quaest. 6, de Potentia, art. 4. Et 
@@ -7762,7 +7762,7 @@ il<lb break="no" ed="#P" n="83"/>Ium contactum esse conditionem de potentia
 opor<lb break="no" ed="#P" n="89"/>tuisse ut realiter perveniret usque ad 
 infer<lb break="no" ed="#P" n="90"/>num, seu sinum Abrohae, ut inde animam
 <lb ed="#P" n="91"/>Lazari revocaret? aut , cum dixit, Joan. 4:
-<lb ed="#P" n="92"/><quote source="http://scta.info/resource/io4_50@4-7">Vade , filius tuus vivit</quote> , fuisse necessarium ut
+<lb ed="#P" n="92"/><quote xml:id="szstco-l01045-Qd1e16527" source="http://scta.info/resource/io4_50@4-7">Vade , filius tuus vivit</quote> , fuisse necessarium ut
 <lb ed="#P" n="93"/>vox illa perveniret usque ad locum in quo
 <lb ed="#P" n="94"/>erat filius reguli, ut per illam, sanitatem ei
 <lb ed="#P" n="95"/>praestare posset? Unde Gregor. , hom. 98 in
@@ -8053,7 +8053,7 @@ effi<lb break="no" ed="#P" n="23"/>ciendi haec divina opera. Ergo communicavit
 <lb ed="#P" n="24"/>suis actionibus et passionibus hanc virtutem
 <lb ed="#P" n="25"/>propter eamdem unionem, quod significavit
 <lb ed="#P" n="26"/>Ambros. super Psal. 36, tractans illum Jocum
-<lb ed="#P" n="27"/>Joan. 1:<quote source="http://scta.info/resource/io1_3@12-14 http://scta.info/resource/io1_4@1-4">Quod factum est, in ipso vita erat</quote> ; ubi
+<lb ed="#P" n="27"/>Joan. 1:<quote xml:id="szstco-l01045-Qd1e17142" source="http://scta.info/resource/io1_3@12-14 http://scta.info/resource/io1_4@1-4">Quod factum est, in ipso vita erat</quote> ; ubi
 <lb ed="#P" n="28"/>sic inquit : Caro facta est, in ipso vita est;
 <lb ed="#P" n="29"/>quors facta est, in ipso vita est; resurrectio
 <lb ed="#P" n="30"/>facta est, in apso vita est. Et sic de aliis. Et
@@ -9064,7 +9064,7 @@ ins<lb break="no" ed="#P" n="68"/>trumentum creationis ; an vero communicata
 asse<lb break="no" ed="#P" n="75"/>ritur; et immerito gratis diceretur sine 
 fun<lb break="no" ed="#P" n="76"/>damento aut ratione sufficienti. 
 Chrysosto<lb break="no" ed="#P" n="77"/>mus quidem, homil. S6 in Joann., et 
-Euthy<lb break="no" ed="#P" n="78"/>mius, Joann. 21, circa illa verba : <quote source="http://scta.info/resource/io21_9@1-8">Utergo 
+Euthy<lb break="no" ed="#P" n="78"/>mius, Joann. 21, circa illa verba : <quote xml:id="szstco-l01045-Qd1e19289" source="http://scta.info/resource/io21_9@1-8">Utergo 
 des<lb break="no" ed="#P" n="79"/>cenderunt in terram, viderunt prunas posites</quote>,
 <lb ed="#P" n="80"/>dicunt, illa tria fuisse producta a Christo 
 mi<lb break="no" ed="#P" n="81"/>raculose ex his quae ncn erant; et 
